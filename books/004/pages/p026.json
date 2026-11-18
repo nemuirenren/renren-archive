@@ -337,7 +337,7 @@
   },
   {
    "type": "figure",
-   "text": "【図】(deskripsi belum tersedia — image543.png)"
+   "text": "【図】The slide illustrates 〜て+は with train-shaped sentence parts: 雨が (\"rain\", A) + 降って (\"falls-and\", B) plus a flag marked は labelled \"Topic (negative comment expected)\", and a blue Comment box showing わが こうえんに 行け ない (\"we can't go to the park\"), i.e. the topic-comment structure that links two clauses with a negative implication."
   },
   {
    "type": "text",
@@ -413,7 +413,7 @@
   },
   {
    "type": "figure",
-   "text": "【図】Image could not be read: the vision request timed out on repeated attempts, so no reliable description of this slide is available."
+   "text": "【図】This train-car slide explains 「（私が）いもうととけんかしては、ははにしかられた」 as two logical clauses joined into a negative-implication topic-comment structure: the shared が-marked subject, いもうとと (\"with sister\") + けんかして (\"quarrelled and\"), the は flag marking the topic with a negative result expected, and the comment ははに しから れた (\"was scolded by mother\")."
   },
   {
    "type": "text",
@@ -458,7 +458,7 @@
   },
   {
    "type": "figure",
-   "text": "【図】Image could not be analyzed — the vision model timed out on every attempt (including re-encoded copies). Pixel sampling shows a mostly white/gray slide with limited pink and blue areas, i.e. a text-and-illustration slide whose contents are unreadable here."
+   "text": "【図】The slide teaches 雨が 降って + も, \"Even though it is raining\", as a Topic expecting a contrastive Comment, visualised with an A-car が and B-engine う under a は-flag and も label. A red arrow points to Topic and a blue arrow/line points to Comment, a blue box containing a faded A-car Øが meaning we, a に-car こうえんに, and a B-engine 行(い)く. A caption states that 2 logical clauses are joined into 1 sentence by contrastive implication in a topic-comment structure."
   },
   {
    "type": "text",
@@ -470,7 +470,7 @@
   },
   {
    "type": "figure",
-   "text": "【図】Image could not be read: the vision service timed out on every attempt (original, re-encoded and resized copies), so no description of the slide content is available."
+   "text": "【図】The slide uses the train metaphor with an A-car 雨が glossed rain and a B-engine 降って glossed falls-and, followed by a は flag over red も over red Topic with grey \"(contrastive comment expected)\", and red/green/blue text stating that 2 logical clauses are joined into 1 sentence by contrastive implication in a topic-comment structure. A red arrow points down-left to Topic and a blue arrow points down to the blue Comment box, which contains a faded A-car Øが glossed we, a に-car こうえんに glossed park-to, and a B-engine 行(い)く glossed will-go. Lower-left text explains でも as the all-purpose ～ても \"instant contrast maker\", literally \"as much as (that) is (so)\"."
   },
   {
    "type": "text",
@@ -534,7 +534,7 @@
   },
   {
    "type": "figure",
-   "text": "【図】Image could not be read: the vision service timed out on every attempt (original, re-encoded and resized copies), so no description of the slide content is available."
+   "text": "【図】This slide visualises sentence structure as trains, with light A-cars holding が subjects, dark B-engines holding predicates ending in だ/う/い, and flags holding topic markers は/も, applied to アリスは … と思った. Sub-topic 1 のが 空っぽの びんで も is a concessive \"even though\" clause and sub-topic 2 下へ 落として は わるい is a topic-negative construction, with B1-engine 落として commented on by わるい and the whole box bundled as a quotation object of 思った by the と-car. Diagram labels include a red circle around the top A-car marked \"overall topic\" and \"が-marked subject (A-car)\", a red CORE arc to the overall B-engine, a purple box labelling the two sub-topics, a thick purple arrow from the box to the と-car, and a peach \"See lesson 12\" arrow pointing at B2."
   },
   {
    "type": "text",

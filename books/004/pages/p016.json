@@ -459,7 +459,7 @@
   },
   {
    "type": "figure",
-   "text": "【図】Image could not be analyzed — the vision model timed out on every attempt, including downscaled and grayscale copies. Pixel sampling shows a light-gray/white slide with dark text areas and almost no color, i.e. a text-heavy slide whose contents are unreadable here."
+   "text": "【図】This slide uses a train diagram with labels A, B1, B2 and B3 plus three arrows from A to show the structure of a sentence whose topic ウサギは is marked by a は flag, with the grey A-car が for Øが as the zero subject shared by the う-engines B1 みて, B2 いって and B3 はしり + だした. The を-car かいちゅうどけいを attaches only to B1, while the blue-boxed と-car おそいおそいと attaches only to B2 and is noted as the logical clause Ø-ga osoi bundled into one to-marked noun. Together it parses ウサギは かいちゅうどけいを みて おそいおそいと いって はしり だした as the rabbit looked at the pocket-watch, said \"late, late\" and broke into a run."
   },
   {
    "type": "text",

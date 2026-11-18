@@ -862,7 +862,7 @@
   },
   {
    "type": "figure",
-   "text": "【図】Description unavailable: the vision service timed out on this image repeatedly at several sizes, so its contents could not be verified. The image is a wide (1000x337) slide, likely from the same regret/condition lesson as the neighbouring slides, but no text could be confirmed."
+   "text": "【図】The slide splits a long sentence into two blue-boxed MODIFIERS — 私がさくらに話した日本語ができる留学生は (\"the exchange student who can speak the Japanese I talked to Sakura about\") and 五輪金メダルを獲得した女性と (\"with the woman who won the Olympic gold medal\") — plus the red predicate 結婚した (\"married\"); a red CORE label with an up arrow points to the elided subject ∅が."
   },
   {
    "type": "text",

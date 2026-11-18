@@ -142,7 +142,7 @@
   },
   {
    "type": "figure",
-   "text": "【図】Image could not be read: the vision request timed out on repeated attempts, so no reliable description of this slide is available."
+   "text": "【図】The slide uses A train-car icons marked が and B engine icons marked う to build the complete logical clause さくらが 来る, indicated by a red arrow pointing at the top B engine. That clause is bundled by か through a pink funnel and black down-arrow into a single noun-like proposition-question が-car serving as object for B 知っています, while the outer A subject ∅が glossed you is greyed out as elided. A か question flag on the final engine marks the outer clause as a question, with blue text noting the bundling is \"into a noun-like entity for use in another logical clause\"."
   },
   {
    "type": "text",
@@ -469,7 +469,7 @@
   },
   {
    "type": "figure",
-   "text": "【図】The vision model timed out repeatedly on this file (multiple re-encodes, sizes and prompts all failed), so its text could not be read. Pixel statistics show a predominantly white slide with its content concentrated in a middle band, consistent with a single central diagram or block of text; no transcription available."
+   "text": "【図】The slide uses train cars for particle phrases and steam engines for predicates to show an embedded clause (∅が ゆうれいを 見た, \"(she) saw a ghost\") being nominalised by か and turned into a の-marked descriptor inside the main frame ∅が まるで [〜] の ような かおを した — \"she made a face as if she had seen a ghost\". The chain か → の → ような is highlighted with arrows."
   },
   {
    "type": "text",
