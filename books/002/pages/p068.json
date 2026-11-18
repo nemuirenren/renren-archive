@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 68,
+  "page_label": "47",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 7"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| ちち | 父 | bapak, ayah |\n| はは | 母 | ibu |\n| おとうさん* | お父さん | bapak, ayah (ayah orang lain, dan digunakan untuk bapak kandung sendiri juga ketika memanggilnya) |\n| おかあさん | お母さん | ibu (ibu orang lain, dan digunakan untuk ibu kandung sendiri juga ketika memanggilnya) |\n| もう |  | sudah |\n| まだ |  | belum |\n| これから |  | mulai dari sekarang |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈練習 C〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| [〜、] すてきですね。 | [〜] bagus ya./[〜] indah ya. |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| いらっしゃい。 | Selamat datang. |\n| どうぞ お上がり ください。 | Silakan masuk. |\n| 失礼します。 | Permisi. |\n| [〜は] いかがですか。 | Bagaimana [〜]? (digunakan saat menawarkan sesuatu kepada orang) |\n| いただきます。 | Selamat makan! (diucapkan sebelum minum dan makan makanan) |\n| ごちそうさま[でした]*。 | Terima kasih atas hidangannya. (diucapkan setelah minum dan makan makanan) |"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Keterangan |\n|---|---|\n| スペイン | Spanyol |"
+    }
+  ]
+}

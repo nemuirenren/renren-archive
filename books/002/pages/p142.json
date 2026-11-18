@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 142,
+  "page_label": "121",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 19"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "伝統文化・娯楽　Kebudayaan Tradisional, Hiburan"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 茶道 (お茶) | Upacara Minum Teh |\n| 華道 (生け花) | Seni Merangkai Bunga |\n| 書道 | Seni Menulis Huruf Jepang |\n| 歌舞伎 | Kabuki (Drama Tradisional Jepang) |\n| 能 | Noh (Drama Topeng Tradisional Jepang) |\n| 文楽 | Bunraku (Wayang Golek Tradisional Jepang) |\n| 相撲 | Sumo (Gulat Tradisional Jepang) |\n| 柔道 | Judo (Olahraga Tradisional Jepang) |\n| 剣道 | Kendo (Olahraga Tradisional Jepang) |\n| 空手 | Karate (Olahraga Bela Diri Jepang) |\n| 漫才・落語 | Lelucon, Komedi |\n| 囲碁・将棋 | Catur Jepang |\n| パチンコ | Pacinko |\n| カラオケ | Karaoke |\n| 盆踊り | Tarian Bon |"
+    },
+    {
+      "type": "figure",
+      "text": "【図】Ilustrasi setiap istilah: 茶道、華道、書道、歌舞伎、能、文楽、相撲、柔道、剣道、空手、漫才・落語、囲碁・将棋、パチンコ、カラオケ、盆踊り"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 76,
+  "page_label": "55",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 8"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "色・味 Warna, Rasa"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "色 Warna"
+    },
+    {
+      "type": "table",
+      "text": "| kata benda | | kata sifat | kata benda | | kata sifat |\n|---|---|---|---|---|---|\n| 白 | putih | 白い | 黄色 | kuning | 黄色い |\n| 黒 | hitam | 黒い | 茶色 | coklat | 茶色い |\n| 赤 | merah | 赤い | ピンク | merah muda | ― |\n| 青 | biru | 青い | オレンジ | oranye | ― |\n| 緑 | hijau | ― | グレー | abu-abu | ― |\n| 紫 | ungu | ― | ベージュ | krem | ― |"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "味 Rasa"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 甘い | manis |\n| 辛い | pedas |\n| 苦い | pahit |\n| 塩辛い | asin |\n| 酸っぱい | asam |\n| 濃い | kental |\n| 薄い | tawar |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "春・夏・秋・冬 Musim Semi, Musim Panas, Musim Gugur, Musim Dingin"
+    },
+    {
+      "type": "text",
+      "text": "Di Jepang terdapat empat musim. Musim semi dari bulan Maret sampai bulan Mei, musim panas dari bulan Juni sampai bulan Agustus, musim gugur dari bulan September sampai bulan November, musim dingin dari bulan Desember sampai bulan Februari. Suhu udara rata-rata berbeda sesuai dengan tempat, tetapi pola perubahan suhu udaranya di manapun hampir sama (Lihat diagram). Musim yang paling panas adalah bulan Agustus, musim yang paling dingin adalah bulan Januari dan Februari. Karena suhu udara berubah setiap musim, orang Jepang merasa “musim semi terasa hangat”, “musim panas terasa panas”, “musim gugur terasa sejuk”, dan “musim dingin terasa dingin”."
+    },
+    {
+      "type": "figure",
+      "text": "【図】Diagram suhu udara bulanan (bulan 12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11; suhu -10 hingga 30°C):\n① NAHA (OKINAWA)\n② TOKYO\n③ ABASHIRI (HOKKAIDO)"
+    }
+  ]
+}

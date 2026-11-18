@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 19,
+  "page_label": "",
+  "kind": "toc",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Daftar Isi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Pelajaran 13 ..... 82"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan: Tolong Sendiri-sendiri! |\n| III. | Kata-Kata Referensi dan Informasi<br>Di Kota |\n| IV. | Keterangan Tata Bahasa<br>1. Kata Benda が 欲しいです<br>2. Kata Kerja (Bentuk masu) たいです<br>3. Kata Benda ⎧ Kata Kerja (Bentuk masu) ⎫ に (tempat) へ ⎩ Kata Benda ⎭ 行きます／来ます／帰ります<br>4. どこか／何か<br>5. ご～ |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 14 ..... 88"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan:<br>Tolong Sampai ke Midoricho! |\n| III. | Kata-Kata Referensi dan Informasi<br>Stasiun |\n| IV. | Keterangan Tata Bahasa<br>1. Kelompok Kata Kerja<br>2. Kata Kerja Bentuk て<br>3. Kata Kerja Bentuk て ください<br>4. Kata Kerja Bentuk て います<br>5. Kata Kerja (Bentuk masu) ましょうか<br>6. Kata Benda が Kata Kerja<br>7. すみませんが |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 15 ..... 94"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan: Keluarganya? |\n| III. | Kata-Kata Referensi dan Informasi<br>Pekerjaan |\n| IV. | Keterangan Tata Bahasa<br>1. Kata Kerja Bentuk ても いいですか<br>2. Kata Kerja Bentuk ては いけません<br>3. Kata Kerja Bentuk て います<br>4. Kata Benda に Kata Kerja<br>5. Kata Benda1 に Kata Benda2 を Kata Kerja |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 16 ..... 100"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan:<br>Tolong Ajarkan Cara Pemakaiannya! |\n| III. | Kata-Kata Referensi dan Informasi<br>Cara Menggunakan ATM |\n| IV. | Keterangan Tata Bahasa<br>1. Cara menyambung kalimat yang lebih dari dua<br>2. Kata Kerja1 Bentuk てから、Kata Kerja2<br>3. Kata Benda1 は Kata Benda2 が Kata Sifat<br>4. Kata Benda を Kata Kerja<br>5. どうやって<br>6. どれ／どの Kata Benda |"
+    }
+  ]
+}

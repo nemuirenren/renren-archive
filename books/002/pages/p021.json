@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 21,
+  "page_label": "",
+  "kind": "toc",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Daftar Isi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Pelajaran 21 ..... 130"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan:<br>Saya Kira Juga Begitu. |\n| III. | Kata-Kata Referensi dan Informasi<br>Nama-Nama Jabatan |\n| IV. | Keterangan Tata Bahasa<br>1. Bentuk Biasa と 思います<br>2. “Kalimat” / Bentuk Biasa と 言います<br>3. Kata Kerja / Kata Sifat い / Kata Sifat な / Kata Benda ～だ → Bentuk Biasa でしょう？<br>4. Kata Benda1 (tempat) で Kata Benda2 が あります<br>5. Kata Benda (adegan) で<br>6. Kata Benda でも Kata Kerja<br>7. Kata Kerja (Bentuk ない) ないと…… |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 22 ..... 136"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan:<br>Cari Kamar Yang Bagaimana? |\n| III. | Kata-Kata Referensi dan Informasi<br>Pakaian |\n| IV. | Keterangan Tata Bahasa<br>1. Anak Kalimat<br>2. Kata Kerja Bentuk Kamus 時間／約束／用事<br>3. Kata Kerja (Bentuk ます) ましょうか |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 23 ..... 142"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan:<br>Bagaimana Caranya Pergi? |\n| III. | Kata-Kata Referensi dan Informasi<br>Jalan, Lalu Lintas |\n| IV. | Keterangan Tata Bahasa<br>1. Kata Kerja Bentuk Kamus／Kata Kerja (Bentuk ない) ない／Kata Sifat Bentuk い (～い)／Kata Sifat Bentuk な [な]／Kata Benda の とき、～ (kalimat pokok)<br>2. Kata Kerja Bentuk Kamus／Kata Kerja Bentuk た とき、～ (kalimat pokok)<br>3. Kata Kerja Bentuk Kamus と、～ (kalimat pokok)<br>4. Kata Benda が Kata Sifat<br>5. Kata Benda を Kata Kerja yang menunjukkan gerakan berpindah |"
+    }
+  ]
+}

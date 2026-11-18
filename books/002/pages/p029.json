@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 29,
+  "page_label": "8",
+  "kind": "front_matter",
+  "outline": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "KATA-KATA UNTUK PETUNJUK"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 第1課 | Pelajaran 1 |\n| 文型 | Pola Kalimat |\n| 例文 | Contoh Kalimat |\n| 会話 | Percakapan |\n| 練習 | Latihan |\n| 問題 | Soal |\n| 答え | Jawaban |\n| 読み物 | Bacaan |\n| 復習 | Ulangan |\n| 目次 | Daftar Isi |\n| 索引 | Referensi |\n| 文法 | Tata Bahasa |\n| 文 | Kalimat |\n| 単語（語） | Kosa Kata (Kata) |\n| 句 | Klausa |\n| 節 | Anak Kalimat |\n| 発音 | Ucapan |\n| 母音 | Vokal |\n| 子音 | Konsonan |\n| 拍 | Mora |\n| アクセント | Aksen |\n| イントネーション | Intonasi |\n| [か]行 | Baris [か] |\n| [い]列 | Kolom [い] |\n| 丁寧体 | Bentuk Sopan |\n| 普通体 | Bentuk Biasa |\n| 活用 | Konjugasi |\n| フォーム | Bentuk |\n| 〜形 | Bentuk 〜 |\n| 修飾 | Modifikasi, Keterangan, Penjelasan |\n| 例外 | Pengecualian |\n| 名詞 | Kata Benda |\n| 動詞 | Kata Kerja |\n| 形容詞 | Kata Sifat |\n| い形容詞 | Kata Sifat い |\n| な形容詞 | Kata Sifat な |\n| 助詞 | Kata Bantu, Partikel |\n| 副詞 | Kata Keterangan |\n| 接続詞 | Kata Penghubung |\n| 数詞 | Kata Bilangan |\n| 助数詞 | Kata Bantu Bilangan |\n| 疑問詞 | Kata Tanya |\n| 名詞文 | Kalimat Nominal |\n| 動詞文 | Kalimat Verba |\n| 形容詞文 | Kalimat Adjektival |\n| 主語 | Subjek |\n| 述語 | Predikat |\n| 目的語 | Objek |\n| 主題 | Topik |\n| 肯定 | Positif |\n| 否定 | Negatif |\n| 完了 | Bentuk kata kerja yang menunjukkan pekerjaan sudah diselesaikan |\n| 未完了 | Bentuk kata kerja yang menunjukkan pekerjaan belum diselesaikan |\n| 過去 | Waktu lampau |\n| 非過去 | Waktu non lampau |"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 15,
+  "page_label": "",
+  "kind": "toc",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Daftar Isi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DAFTAR ISI"
+    },
+    {
+      "type": "text",
+      "text": "CIRI KHAS BAHASA JEPANG ..... 2\nAKSARA BAHASA JEPANG ..... 2"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "INTRODUKSI"
+    },
+    {
+      "type": "text",
+      "text": "I. Ucapan Bahasa Jepang ..... 3\nII. Ungkapan di Dalam Kelas ..... 7\nIII. Ucapan Salam Sehari-hari dan Ekspresi Percakapan ..... 7"
+    },
+    {
+      "type": "text",
+      "text": "KATA-KATA UNTUK PETUNJUK ..... 8\nPETUNJUK PEMAKAIAN ..... 9"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 1 ..... 10"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan: Salam Kenal! |\n| III. | Kata-Kata Referensi dan Informasi<br>Negara, Orang, Bahasa |\n| IV. | Keterangan Tata Bahasa<br>1. Kata Benda1 は Kata Benda2 です<br>2. Kata Benda1 は Kata Benda2 じゃ (では) ありません<br>3. Kata Benda1 は Kata Benda2 ですか<br>4. Kata Benda も<br>5. Kata Benda1 の Kata Benda2<br>6. ～さん |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 2 ..... 16"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan: Mohon Bantuan Anda. |\n| III. | Kata-Kata Referensi dan Informasi<br>Nama Keluarga |\n| IV. | Keterangan Tata Bahasa<br>1. これ／それ／あれ<br>2. この Kata Benda／その Kata Benda／あの Kata Benda<br>3. そう です<br>4. ～か、～か<br>5. Kata Benda1 の Kata Benda2<br>6. の yang berfungsi sebagai pengganti Kata Benda<br>7. お～<br>8. そう ですか |"
+    }
+  ]
+}

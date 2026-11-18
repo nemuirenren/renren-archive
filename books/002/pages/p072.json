@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 72,
+  "page_label": "51",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 7"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "[Perhatian] Untuk pola kalimat ini, partikel から juga dapat digunakan sebagai pengganti partikel に. Terutama jika lawannya bukan orang melainkan organisasi seperti perusahaan atau sekolah, dan sebagainya bukan に yang digunakan, melainkan から."
+    },
+    {
+      "type": "text",
+      "text": "⑪ [わたしは] 山田さんから 花を もらいました。\nSaya mendapatkan bunga dari Sdr. Yamada.\n⑫ 銀行から お金を 借りました。\nSaya meminjam uang dari bank."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. もう Kata Kerja ました"
+    },
+    {
+      "type": "text",
+      "text": "もう mempunyai arti sudah dan digunakan dengan kombinasi Kata Kerja ました. Dalam hal ini, Kata Kerja ました bermaksud bahwa perbuatan telah diselesaikan saat ini."
+    },
+    {
+      "type": "text",
+      "text": "Jawaban untuk pertanyaan mengenai apakah perbuatannya telah diselesaikan atau belum yaitu もう Kata Kerja ましたか adalah jika telah diselesaikan atau jawaban positif はい、もう Kata Kerja ました, sedangkan belum diselesaikan atau jawaban negatif いいえ、Kata Kerja ていません (Lihat Pel.31), atau いいえ、まだです。いいえ、Kata Kerja ませんでした tidak dapat digunakan sebab mempunyai arti yang tidak dilakukan pada waktu lampau."
+    },
+    {
+      "type": "text",
+      "text": "⑬ もう 荷物を 送りましたか。 Apakah barang sudah dikirim?\n……はい、[もう] 送りました。 ……Ya, sudah dikirim.\n……いいえ、まだ 送って いません。 ……Belum, belum dikirim. (Pel.31)\n……いいえ、まだです。 ……Belum."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Menghilangkan partikel"
+    },
+    {
+      "type": "text",
+      "text": "Dalam kalimat percakapan, jika sudah dapat memahami arti dari hubungan sebelum dan sesudahnya maka partikel sering dihilangkan."
+    },
+    {
+      "type": "text",
+      "text": "⑭ この スプーン[は]、すてきですね。 Sendok ini bagus ya.\n⑮ コーヒー[を]、もう 一杯 いかがですか。\nBagaimana kopi secangkir lagi? (Pel.8)"
+    }
+  ]
+}

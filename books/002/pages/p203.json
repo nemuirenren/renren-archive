@@ -1,0 +1,18 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 203,
+  "page_label": "",
+  "kind": "blank",
+  "outline": [],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "（白紙）"
+    }
+  ]
+}

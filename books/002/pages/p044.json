@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 44,
+  "page_label": "23",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 3"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| くつ | 靴 | sepatu |\n| ネクタイ |  | dasi |\n| ワイン |  | anggur |\n| うりば | 売り場 | tempat penjualan |\n| ちか | 地下 | bawah tanah, basement |\n| 〜かい（〜がい） | 〜階 | lantai 〜, tingkat 〜 |\n| なんかい | 何階 | lantai berapa, tingkat berapa |\n| 〜えん | 〜円 | 〜 yen |\n| いくら |  | berapa |\n| ひゃく | 百 | ratus |\n| せん | 千 | ribu |\n| まん | 万 | puluh ribu |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "（練習 C）"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| すみません。 |  | maaf/permisi |\n| どうも。 |  | terima kasih |\n| いらっしゃいませ。 |  | Selamat datang./Bisa saya bantu? (ungkapan kepada tamu yang masuk ke toko) |\n| ［〜を］見せてください。 |  | tolong lihatkan/tunjukkan 〜 |\n| じゃ |  | baiklah, kalau begitu |\n| ［〜を］ください。 |  | minta 〜/tolong berikan 〜 |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "（会話）"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| イタリア |  | Italia |\n| スイス |  | Swiss |\n| フランス |  | Perancis |\n| ジャカルタ |  | Jakarta |\n| バンコク |  | Bangkok |\n| ベルリン |  | Berlin |\n| 新大阪 |  | nama stasiun yang ada di Osaka |"
+    }
+  ]
+}

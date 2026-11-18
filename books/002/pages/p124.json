@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 124,
+  "page_label": "103",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 16"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ATM の 使い方 Cara Menggunakan ATM"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| お預け入れ | menambahkan saldo |\n| お振り込み | pembayaran |\n| お振替え | pengiriman |\n| お引き出し | penarikan uang |\n| 通帳記入 | pembaharuan buku tabungan |\n| 残高照会 | cek saldo |"
+    },
+    {
+      "type": "figure",
+      "text": "【図】ATM の 使い方（Cara Menggunakan ATM）\n① Tekan tombol お引き出し.\n② Masukkan kartu ATM.\n③ Masukkan nomor PIN.（暗証番号 PIN）\n④ Masukkan jumlah uang yang akan diambil lalu tekan tombol 円.（円 Yen (mata uang Jepang)）\n⑤ Jika sudah benar, tekan tombol 確認.（確認 cek）\n⑥ Ambil uang dan kartu ATM."
+    }
+  ]
+}

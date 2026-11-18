@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 9,
+  "page_label": "viii",
+  "kind": "front_matter",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Cara Penggunaan Buku Ini"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "④ Latihan\nLatihan terbagi dalam tiga tahap yaitu A, B, dan C."
+    },
+    {
+      "type": "text",
+      "text": "Latihan bagian A disusun secara visualisasi agar struktur tata bahasanya mudah dipahami. Sambil menguasai pola kalimat secara dasar, juga diperhatikan cara membuat perubahan bentuk serta cara menghubungkan kalimat agar mudah dipelajari."
+    },
+    {
+      "type": "text",
+      "text": "Pada latihan bagian B memperkuat penguasaan terhadap pola kalimat dasar dengan menggunakan berbagai soal latihan secara teratur. Nomor yang bertanda (→) menunjukkan latihan yang menggunakan ilustrasi."
+    },
+    {
+      "type": "text",
+      "text": "Latihan bagian C merupakan latihan untuk meningkatkan kemampuan komunikasi. Percakapan dilakukan dengan mengganti kosa kata yang sesuai dengan situasinya, namun sedapat mungkin menghindari untuk memberikan pilihan dengan huruf agar latihan tidak hanya mengganti kosa kata saja. Oleh karena itu, dengan sebuah gambar, latihan menjadi bebas sehingga asumsi contoh percakapan setiap pelajar berbeda."
+    },
+    {
+      "type": "text",
+      "text": "Contoh jawaban dari latihan bagian B dan C disusun di buku tersendiri."
+    },
+    {
+      "type": "text",
+      "text": "⑤ Soal\nDi dalam bagian soal terdapat soal mendengar, soal tata bahasa serta soal bacaan. Pada bagian mendengarkan terdapat soal untuk menjawab pertanyaan singkat dan soal pertanyaan untuk memahami inti setelah mendengarkan percakapan singkat. Bagian soal tata bahasa bermaksud untuk menegaskan tingkat pemahaman kosa kata dan tata bahasa yang telah dipelajari. Bagian soal bacaan, kosa kata dan kalimat dasar dengan menggunakan tata bahasa yang telah dipelajari, kemudian mengerjakan berbagai macam model pertanyaan yang berkaitan dengan isinya."
+    },
+    {
+      "type": "text",
+      "text": "⑥ Pengulangan pelajaran\nSetiap beberapa bab disediakan pengulangan pelajaran untuk memahami kembali inti dari pelajaran pada bab tersebut."
+    },
+    {
+      "type": "text",
+      "text": "⑦ Rangkuman kata keterangan, kata penghubung dan ekspresi percakapan\nDiberikan soal latihan untuk menegaskan kata keterangan, kata penghubung dan ekspresi percakapan yang telah disajikan di dalam buku pelajaran ini."
+    },
+    {
+      "type": "text",
+      "text": "4) Bentuk kata kerja\nDimuat rangkuman bentuk kata kerja serta bentuk tambahan di akhir verba disajikan di dalam buku ini."
+    },
+    {
+      "type": "text",
+      "text": "5) Daftar isi pelajaran\nIsi pelajaran yang disajikan di dalam buku ini diatur secara khusus yang dipusatkan dari latihan bagian A agar dapat memahami hubungan antara pola kalimat, contoh kalimat, serta Latihan B dan C."
+    }
+  ]
+}

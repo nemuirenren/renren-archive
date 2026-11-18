@@ -1,0 +1,100 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 65,
+  "page_label": "44",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 6"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Kata Benda を Kata Kerja (Kata Kerja Transitif)"
+    },
+    {
+      "type": "text",
+      "text": "Objek dari Kata Kerja Transitif ditunjukan oleh partikel を."
+    },
+    {
+      "type": "text",
+      "text": "① ジュースを 飲みます。 Minum jus."
+    },
+    {
+      "type": "text",
+      "text": "[Perhatian] を hanya dipakai untuk menulis partikel saja."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Kata Benda を します"
+    },
+    {
+      "type": "text",
+      "text": "します disertai Kata Benda secara luas sebagai objek. します mempunyai arti bahwa melakukan hal yang ditunjukan oleh objek tersebut. Beberapa contoh diberikan di bawah ini:"
+    },
+    {
+      "type": "text",
+      "text": "1) Olahraga, permainan dan lain-lain\nサッカーを します bermain sepak bola　　トランプを します bermain kartu"
+    },
+    {
+      "type": "text",
+      "text": "2) Pertemuan, acara dan lain-lain\nパーティーを します berpesta　　会議を します mengadakan rapat"
+    },
+    {
+      "type": "text",
+      "text": "3) Dan lain-lain\n宿題を します membuat PR　　仕事を します bekerja\n電話を します menelepon"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. 何を しますか"
+    },
+    {
+      "type": "text",
+      "text": "Ini adalah pertanyaan untuk menanyakan hal yang dilakukan."
+    },
+    {
+      "type": "text",
+      "text": "② 月曜日 何を しますか。 Hari Senin melakukan apa?\n…… 京都へ 行きます。 …… Pergi ke Kyoto."
+    },
+    {
+      "type": "text",
+      "text": "③ きのう 何を しましたか。 Kemarin melakukan apa?\n…… サッカーを しました。 …… Bermain sepak bola."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. なん dan なに"
+    },
+    {
+      "type": "text",
+      "text": "なん dan なに mempunyai arti yang sama.\nなん digunakan pada hal-hal berikut:\n1) Jika kata yang mengikutinya diawali dengan baris た, だ, dan な."
+    },
+    {
+      "type": "text",
+      "text": "④ それは 何ですか。 Itu apa?\n⑤ 何の 本ですか。 Buku apa?\n⑥ 寝る まえに、何と 言いますか。\nSebelum tidur, mengucapkan apa? (Pel.21)\n⑦ 何で 東京へ 行きますか。 Dengan apa pergi ke Tokyo?"
+    },
+    {
+      "type": "text",
+      "text": "[Perhatian] Selain bertanya tentang sarana, なんで digunakan untuk menanyakan alasan juga. Adakalanya dikatakan なにで jika ingin menunjukkan lebih jelas untuk menanyakan sarana."
+    }
+  ]
+}

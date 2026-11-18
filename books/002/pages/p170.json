@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 170,
+  "page_label": "149",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 24"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| ほかに |  | selain, yang lain |\n| 母の日 |  | hari Ibu |"
+    }
+  ]
+}

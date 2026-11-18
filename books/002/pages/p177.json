@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 177,
+  "page_label": "156",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 25"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Kalau turun hujan, saya tidak pergi.\n2. Walaupun turun hujan, saya pergi."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Kalau ada seratus juta yen, apa yang ingin Anda lakukan?\n…… Ingin membangun sekolah.\n2. Bagaimana seandainya kereta rel listrik atau bus tidak dioperasikan?\n…… Pulang dengan berjalan kaki.\n3. Di toko sepatu baru itu ada banyak sepatu yang bagus.\n…… O, begitu. Kalau murah, ingin membelinya.\n4. Apakah saya juga harus datang besok?\n…… Kalau tidak memungkinkan, silakan datang minggu depan.\n5. Apakah sudah memikirkan nama anak?\n…… Ya, kalau laki-laki \"Hikaru\". Kalau perempuan \"Aya\".\n6. Kalau tamat universitas, Anda langsung bekerja?\n…… Tidak, kira-kira satu tahun saya ingin berjalan-jalan di berbagai negara.\n7. Guru, saya tidak mengerti arti kata ini.\n…… Apakah sudah melihat di kamus?\n   Ya. Walaupun melihat di kamus, saya tidak mengerti.\n8. Ketika panas, menghidupkan AC?\n…… Tidak, walaupun panas, tidak menghidupkannya. Saya rasa tidak baik untuk badan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Telah Mendapatkan Banyak Bantuannya."
+    },
+    {
+      "type": "text",
+      "text": "Kimura：Selamat atas pemindahan posisi tugas!\nMiller：Terima kasih.\nKimura：Kalau Sdr. Miller pergi ke Tokyo, kita kesepian ya.\nSato：Ya, betul.\nKimura：Jangan lupa akan Osaka ya, walaupun Anda pergi ke Tokyo.\nMiller：Tentu. Semuanya, kalau ada waktu luang, silakan datang bermain ke Tokyo.\nSantos：Kalau Sdr. Miller datang ke Osaka, tolong menelepon kami juga, ya. Kita minum bersama-sama.\nMiller：Ya, pasti. Semuanya, saya telah mendapatkan banyak bantuan kalian.\nSato：Semangat! Jaga kesehatan baik-baik.\nMiller：Ya. Demikian juga untuk semuanya."
+    }
+  ]
+}

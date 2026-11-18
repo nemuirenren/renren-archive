@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 106,
+  "page_label": "85",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 13"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "町の中　Di Kota"
+    },
+    {
+      "type": "table",
+      "text": "|  |  |\n|---|---|\n| 博物館 | museum |\n| 美術館 | gedung kesenian |\n| 図書館 | perpustakaan |\n| 映画館 | gedung bioskop |\n| 動物園 | kebun binatang |\n| 植物園 | kebun raya |\n| 遊園地 | taman bermain |\n| お寺 | Kuil, Wihara (Budha) |\n| 神社 | Kuil (Shinto) |\n| 教会 | Gereja |\n| モスク | Masjid |\n| 体育館 | gedung olahraga |\n| プール | kolam renang |\n| 公園 | taman |\n| 大使館 | Kedutaan Besar |\n| 入国管理局 | Kantor Imigrasi |\n| 市役所 | kantor balai kota |\n| 警察署 | kantor polisi |\n| 交番 | pos polisi |\n| 消防署 | kantor pemadam kebakaran |\n| 駐車場 | tempat parkir |\n| 大学 | universitas |\n| 高校 | SMA |\n| 中学校 | SMP |\n| 小学校 | SD |\n| 幼稚園 | TK |\n| 肉屋 | toko daging |\n| パン屋 | toko roti |\n| 魚屋 | toko ikan |\n| 酒屋 | toko minuman keras |\n| 八百屋 | toko sayur |\n| 喫茶店 | coffee shop |\n| コンビニ | toko 24 jam |\n| スーパー | supermarket, pasar swalayan |\n| デパート | toko serba ada |"
+    },
+    {
+      "type": "figure",
+      "text": "【図】KOBAN"
+    }
+  ]
+}

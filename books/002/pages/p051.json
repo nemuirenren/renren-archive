@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 51,
+  "page_label": "30",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 4"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Sekarang pukul empat lewat lima menit.\n2. Saya bangun pukul enam setiap pagi.\n3. Saya belajar kemarin."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Sekarang pukul berapa?\n……Pukul dua lewat sepuluh menit.\nSekarang di New York pukul berapa?\n……Pukul dua belas malam lewat sepuluh menit.\n2. Liburnya hari apa?\n……Hari Sabtu dan hari Minggu.\n3. Bank Apple dari pukul berapa sampai dengan pukul berapa?\n……Pukul sembilan sampai dengan pukul tiga sore.\n4. Tidur pukul berapa setiap malam?\n……Tidur pukul sebelas.\n5. Setiap hari belajar dari pukul berapa sampai dengan pukul berapa?\n……Belajar dari pukul sembilan pagi sampai dengan pukul tiga sore.\n6. Hari Sabtu bekerja?\n……Tidak, tidak bekerja.\n7. Kemarin belajar?\n……Tidak, tidak belajar."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Di Situ Sampai Pukul Berapa?"
+    },
+    {
+      "type": "text",
+      "text": "Miller: Maaf, berapa nomor telepon “Asuka”?\nSato: “Asuka” ya? 5275-2725.\nMiller: Terima kasih banyak.\nPelayan: Halo, “Asuka” di sini.\nMiller: Maaf. Di situ sampai dengan pukul berapa?\nPelayan: Sampai dengan pukul sepuluh.\nMiller: Liburnya hari apa?\nPelayan: Hari Minggu.\nMiller: O, begitu. Terima kasih."
+    }
+  ]
+}

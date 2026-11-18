@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 86,
+  "page_label": "65",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 10"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| かな | 漢字 | Indonesia |\n|---|---|---|\n| うえ | 上 | atas |\n| した | 下 | bawah |\n| まえ | 前 | depan, muka |\n| うしろ | | belakang |\n| みぎ | 右 | kanan |\n| ひだり | 左 | kiri |\n| なか | 中 | dalam |\n| そと* | 外 | luar |\n| となり | 隣 | sebelah |\n| ちかく | 近く | dekat |\n| あいだ | 間 | antara |\n| ～や ～［など］ | | ～ dan ～ [dan lain-lain] |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| ［どうも］すみません。 | Terima kasih [banyak]. |\n| ナンプラー | kecap ikan |\n| コーナー | tempat/bagian penjualan |\n| いちばん 下 | paling bawah |"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 東京ディズニーランド | Tokyo Disneyland |\n| アジアストア | pasar swalayan fiksi |"
+    }
+  ]
+}

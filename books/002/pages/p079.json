@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 79,
+  "page_label": "58",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 9"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 9"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| かな | 漢字 | Indonesia |\n|---|---|---|\n| わかります | | mengerti |\n| あります | | ada, mempunyai |\n| すき［な］ | 好き［な］ | suka, gemar |\n| きらい［な］ | 嫌い［な］ | tidak suka |\n| じょうず［な］ | 上手［な］ | pandai, pintar |\n| へた［な］ | 下手［な］ | tidak pandai, tidak pintar |\n| のみもの | 飲み物 | minuman |\n| りょうり | 料理 | masakan（～を します：memasak） |\n| スポーツ | | olahraga（～を します：berolahraga） |\n| やきゅう | 野球 | baseball ～を します：bermain baseball） |\n| ダンス | | dansa（～を します：berdansa） |\n| りょこう | 旅行 | tamasya（～を します：melakukan perjalanan） |\n| おんがく | 音楽 | musik |\n| うた | 歌 | lagu |\n| クラシック | | klasik |\n| ジャズ | | jaz |\n| コンサート | | konser |\n| カラオケ | | karaoke |\n| かぶき | 歌舞伎 | Kabuki（salah satu drama tradisional Jepang） |\n| え | 絵 | gambar |\n| じ* | 字 | huruf |\n| かんじ | 漢字 | Kanji |\n| ひらがな | | Hiragana |\n| かたかな | | Katakana |\n| ローマじ* | ローマ字 | huruf latin |\n| こまかい おかね | 細かい お金 | uang kecil, receh |\n| チケット | | tiket |\n| じかん | 時間 | jam, waktu |\n| ようじ | 用事 | urusan |\n| やくそく | 約束 | janji（～［を］します：membuat janji） |"
+    }
+  ]
+}

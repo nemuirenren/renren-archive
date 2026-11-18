@@ -1,0 +1,50 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "中学理科",
+    "title": "改訂版 中学理科が面白いほどわかる本",
+    "lang": "ja"
+  },
+  "page": 277,
+  "page_label": "",
+  "kind": "appendix",
+  "outline": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "る"
+    },
+    {
+      "type": "table",
+      "text": "| 項目 | ページ |\n|---|---|\n| ルーペ | 8 |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "れ"
+    },
+    {
+      "type": "table",
+      "text": "| 項目 | ページ |\n|---|---|\n| れき | 88 |\n| れき岩 | 89 |\n| レボルバー | 10 |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ろ"
+    },
+    {
+      "type": "table",
+      "text": "| 項目 | ページ |\n|---|---|\n| ろ紙 | 58 / 146 |\n| 露点 | 104 / 108 |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "わ"
+    },
+    {
+      "type": "table",
+      "text": "| 項目 | ページ |\n|---|---|\n| 惑星 | 130 |"
+    }
+  ]
+}

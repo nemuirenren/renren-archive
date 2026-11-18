@@ -1,0 +1,66 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 137,
+  "page_label": "116",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 18"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Kata Kerja Bentuk Kamus"
+    },
+    {
+      "type": "text",
+      "text": "Ini adalah bentuk dasar Kata Kerja yang disajikan di kamus. Sesuai dengan kelompok Kata Kerja, cara membuat bentuk kamus dari bentuk ます adalah sebagai berikut: (Lihat Buku Induk Pel.18 Latihan A1.)"
+    },
+    {
+      "type": "text",
+      "text": "1) Kata Kerja Kelompok I\nBunyi terakhir bentuk ます adalah bunyi kolom 「い」, maka ini diganti dengan bunyi kolom う。\nかきます → かく　　いそぎます → いそぐ\nよみます → よむ　　あそびます → あそぶ\nとります → とる　　まちます → まつ\nすいます → すう　　はなします → はなす"
+    },
+    {
+      "type": "text",
+      "text": "2) Kata Kerja Kelompok II\nMembubuhkan る pada bentuk ます。\nたべます → たべる\nみます → みる"
+    },
+    {
+      "type": "text",
+      "text": "3) Kata Kerja Kelompok III\nBentuk kamus します adalah する, sedangkan bentuk kamus きます adalah くる。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Kata Benda／Kata Kerja Bentuk Kamus こと が できます　Dapat……"
+    },
+    {
+      "type": "text",
+      "text": "できます adalah Kata Kerja yang menunjukkan hal yang dapat dilakukan atas kemampuan yang dimiliki orang itu, atau aksi yang memungkinkan dengan kondisi itu. Objek untuk できます ditunjuk dengan が, dan isi kemampuan atau kemungkinan ditunjuk dengan Kata Benda atau Kata Kerja Bentuk Kamus こと。"
+    },
+    {
+      "type": "text",
+      "text": "1) Untuk Kata Benda\nDipakai Kata Benda yang bersifat aksi (うんてん, かいもの, スキー, ダンス). Kemudian digunakan juga Kata Benda seperti にほんご, atau ピアノ yang menunjukkan ketrampilan.\n① ミラーさんは 日本語が できます。\nSdr. Miller bisa berbahasa Jepang.\n② 雪が たくさん 降りましたから、ことしは スキーが できます。\nKarena salju turun banyak, tahun ini dapat bermain ski."
+    },
+    {
+      "type": "text",
+      "text": "2) Untuk Kata Kerja\nJika mengatakan dapat melakukan suatu perbuatan, maka bentuk frasa Kata Benda dengan membubuhkan こと pada Kata Kerja Bentuk Kamus, kemudian dilanjutkan dengan が できます di belakangnya.\n③ ミラーさんは 漢字を 読む ことが できます。\n（frase Kata Benda）\nSdr. Miller bisa membaca Kanji.\n④ カードで 払う ことが できます。\n（frase Kata Benda）\nDapat membayar dengan kartu."
+    }
+  ]
+}

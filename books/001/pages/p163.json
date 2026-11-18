@@ -1,0 +1,64 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "中学理科",
+    "title": "改訂版 中学理科が面白いほどわかる本",
+    "lang": "ja"
+  },
+  "page": 163,
+  "page_label": "161",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "第3章 化学分野"
+    },
+    {
+      "level": 2,
+      "title": "テーマ25 原子と分子，化学式，化学反応式"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "主な化学反応式"
+    },
+    {
+      "type": "text",
+      "text": "●炭酸水素ナトリウムの熱分解\n2NaHCO₃ → Na₂CO₃ + H₂O + CO₂"
+    },
+    {
+      "type": "text",
+      "text": "●酸化銀の熱分解\n2Ag₂O → 4Ag + O₂"
+    },
+    {
+      "type": "text",
+      "text": "●水の電気分解\n2H₂O → 2H₂ + O₂"
+    },
+    {
+      "type": "text",
+      "text": "●塩酸の電気分解\n2HCl → H₂ + Cl₂"
+    },
+    {
+      "type": "text",
+      "text": "●塩化銅水溶液の電気分解\nCuCl₂ → Cu + Cl₂"
+    },
+    {
+      "type": "text",
+      "text": "●鉄と硫黄の化合\nFe + S → FeS"
+    },
+    {
+      "type": "text",
+      "text": "●銅と硫黄の化合\nCu + S → CuS"
+    },
+    {
+      "type": "text",
+      "text": "●銅の酸化\n2Cu + O₂ → 2CuO"
+    },
+    {
+      "type": "text",
+      "text": "●炭素の燃焼\nC + O₂ → CO₂"
+    }
+  ]
+}

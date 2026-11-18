@@ -1,0 +1,65 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 27,
+  "page_label": "6",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Introduksi"
+    },
+    {
+      "level": 2,
+      "title": "I. Ucapan Bahasa Jepang"
+    },
+    {
+      "level": 3,
+      "title": "Pola Aksen"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Akses"
+    },
+    {
+      "type": "table",
+      "text": "| Pola | Penjelasan | Contoh |\n|---|---|---|\n| ① | Pola yang Datar (tidak ada ucapan yang merendah) | にわ (halaman)　はな (hidung)　なまえ (nama)　にほんご (Bahasa Jepang) |\n| ② | Pola yang awalnya ditekan (ucapan yang merendah terdapat setelah mora yang pertama) | ぶん (buku)　てんき (cuaca)　らいげつ (bulan depan) |\n| ③ | Pola yang tengahnya tinggi (ucapan yang merendah terdapat setelah mora yang kedua atau mora yang selanjutnya) | たまご (telur)　ひこうき (pesawat)　せんせい (guru) |\n| ④ | Pola yang akhir kosa katanya tinggi (ucapan yang merendah terdapat setelah mora yang akhir) | くつ (sepatu)　はな (bunga)　やすみ (libur)　おとうと (adik laki-laki) |"
+    },
+    {
+      "type": "text",
+      "text": "はな (hidung) ① dan はな (bunga) ④ mirip, tetapi jika membubuhkan Kata Bantu が di belakangnya, untuk ① diucapkan はなが, sedangkan untuk ④ diucapkan はなが, maka pola aksennya berbeda. Demikian halnya, masih ada beberapa contoh bahwa perbedaan aksen dapat mengakibatkan perbedaan arti kosa kata, yaitu sebagai berikut;"
+    },
+    {
+      "type": "text",
+      "text": "Contoh: はし (jembatan) : はし (sumpit)　いち (satu) : いち (posisi)"
+    },
+    {
+      "type": "text",
+      "text": "Kadang-kadang aksen berbeda di setiap daerah. Di bawah ini adalah contohnya."
+    },
+    {
+      "type": "table",
+      "text": "| Kata | Aksen Tokyo (aksen standar) | Aksen Osaka |\n|---|---|---|\n| はな (bunga) | はな | はな |\n| りんご (apel) | りんご | りんご |\n| おんがく (musik) | おんがく | おんがく |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Intonasi"
+    },
+    {
+      "type": "text",
+      "text": "Intonasi terdapat tiga macam pola, yaitu ① datar, ② naik, dan ③ turun. Untuk pertanyaan diucapkan dengan intonasi yang naik. Kalimat yang lain-lainnya biasanya diucapkan dengan intonasi yang datar, tetapi adakalanya berintonasi yang turun jika menunjukkan rasa persetujuan atau kekecewaan."
+    },
+    {
+      "type": "figure",
+      "text": "【図】Contoh percakapan:\n佐藤：あした 友達と お花見を します。【↘ datar】\n　　　ミラーさんも いっしょに 行きませんか。【↗ naik】\nミラー：いいですね。【↘ turun】\n\nSato: Besok saya akan melihat bunga Sakura dengan teman.\nSdr. Miller juga mau pergi bersama-sama?\nMiller: Baik."
+    }
+  ]
+}

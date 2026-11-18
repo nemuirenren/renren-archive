@@ -1,0 +1,27 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 14,
+  "page_label": "xiii",
+  "kind": "front_matter",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Peran"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "figure",
+      "text": "【図】Potret garis para tokoh dalam susunan beberapa baris: Matsumoto Tadashi (Orang Jepang, Kepala Bagian Perusahaan IMC); Matsumoto Yoshiko (Orang Jepang, Ibu Rumah Tangga); Kimura Izumi (Orang Jepang, Penyiar); Karl Schmidt (Orang Jerman, Teknisi Perusahaan Power Elektro); John Watt (Orang Inggris, Dosen Universitas Sakura); Lee Jin Ju (Orang Korea, Peneliti di AKC); Teresa Santos (Orang Brazil, Siswi Sekolah Dasar, umur 9 tahun anak perempuan Jose dan Maria Santos); Yamada Taro (Orang Jepang, Siswa Sekolah Dasar, umur 8 tahun anak laki-laki Ichiro dan Tomoko Yamada); Guputa (Orang India, Karyawan Perusahaan IMC); Thawaphon (Orang Thailan, Siswa Sekolah Bahasa Jepang)."
+    },
+    {
+      "type": "text",
+      "text": "※IMC (perusahaan perangkat lunak)\n※AKC (アジア研究センター：Institut Riset Asia)"
+    }
+  ]
+}

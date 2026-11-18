@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 196,
+  "page_label": "175",
+  "kind": "appendix",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Lampiran"
+    },
+    {
+      "level": 2,
+      "title": "V. Konjugasi Kata Kerja"
+    },
+    {
+      "level": 3,
+      "title": "Kelompok I"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| Bentuk ない |  | Bentuk た | Arti | Pelajaran |\n|---|---|---|---|---|\n| はか | ない | はいた | memakai (sepatu, celana) | 22 |\n| はたらか | ない | はたらいた | bekerja | 4 |\n| はなさ | ない | はなした | berbicara | 14 |\n| はらわ | ない | はらった | membayar | 17 |\n| ひか | ない | ひいた | bermain (bermaksud untuk bermain alat musik senar dan piano) | 18 |\n| ひか | ない | ひいた | tarik | 23 |\n| ふら | ない | ふった | turun [hujan] | 14 |\n| まがら | ない | まがった | belok [ke kanan] | 23 |\n| また | ない | まった | menunggu | 14 |\n| まわさ | ない | まわした | memutar | 23 |\n| もた | ない | もった | membawa | 14 |\n| もって いか | ない | もって いった | membawa pergi | 17 |\n| もらわ | ない | もらった | mendapatkan, menerima | 7 |\n| やくに たた | ない | やくに たった | berguna, bermanfaat | 21 |\n| やすま | ない | やすんだ | beristirahat, libur | 4 |\n| やすま | ない | やすんだ | tidak masuk [kerja] | 11 |\n| よば | ない | よんだ | memanggil | 14 |\n| よま | ない | よんだ | membaca | 6 |\n| わから | ない | わかった | mengerti | 9 |\n| わたら | ない | わたった | menyeberang [jembatan] | 23 |"
+    }
+  ]
+}

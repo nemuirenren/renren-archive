@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 77,
+  "page_label": "56",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 8"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Kata Sifat"
+    },
+    {
+      "type": "text",
+      "text": "Kata Sifat berfungsi sebagai predikat dan menunjukkan kondisi Kata Benda dalam kalimat Kata Benda は Kata Sifat です atau digunakan sebagai kata yang menerangkan Kata Benda. Dalam bahasa Jepang terdapat dua jenis Kata Sifat yaitu Kata Sifat い dan Kata Sifat な, lalu perubahan bentuknya berbeda."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Kata Benda は Kata Sifat な [な] です\nKata Benda は Kata Sifat い (～い) です"
+    },
+    {
+      "type": "text",
+      "text": "Kalimat adjektival positif waktu non lampau diakhiri です. です menunjukkan sikap yang hormat terhadap pendengar. Kata Sifat な disambung dengan です tanpa な, sedangkan Kata Sifat い disambung dengan です dalam bentuk yang sama.\n① ワット先生は 親切です。 Bapak Watt baik hati.\n② 富士山は 高いです。 Gunung Fuji tinggi."
+    },
+    {
+      "type": "text",
+      "text": "1) Kata Sifat な [な] じゃ (では) ありません\nNegatif waktu non lampau dari Kata Sifat な dibuat dengan dibubuhkan じゃ (では) ありません pada bentuk tanpa な dari Kata Sifat な.\n③ あそこは 静かじゃ (では) ありません。 Di sana tidak sunyi."
+    },
+    {
+      "type": "text",
+      "text": "2) Kata Sifat い (～い) です → ～くないです\nNegatif waktu non lampau dari Kata Sifat い dibuat dengan dibubuhkan くないです pada bentuk yang dihilangkan い di bagian akhir dari Kata Sifat い.\n④ この 本は おもしろくないです。 Buku ini tidak menarik.\n[Perhatian] Negatif untuk いいです adalah よくないです."
+    },
+    {
+      "type": "text",
+      "text": "3) Rangkuman Perubahan Bentuk"
+    },
+    {
+      "type": "table",
+      "text": "| | Kata Sifat な | Kata Sifat い |\n|---|---|---|\n| Positif waktu non lampau | しんせつです | たかいです |\n| Negaif waktu non lampau | しんせつじゃ (では) ありません | たかくないです |"
+    },
+    {
+      "type": "text",
+      "text": "4) Cara membuat kalimat tanya dari kalimat adjektival sama seperti kalimat nominal (Lihat Pel.1) dan kalimat verbal (Lihat Pel.4). Untuk jawabannya digunakan Kata Sifat, dan tidak dapat menjawab dengan menggunakan そうです atau ちがいます.\n⑤ ペキンは 寒いですか。 Apakah Beijing dingin?\n……はい、寒いです。 ……Ya, dingin.\n⑥ 奈良公園は にぎやかですか。 Apakah Taman Nara ramai?\n……いいえ、にぎやかじゃ ありません。 ……Tidak, tidak ramai."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Sifat な [な] Kata Benda\nKata Sifat い (～い) Kata Benda"
+    },
+    {
+      "type": "text",
+      "text": "Jika Kata Sifat menerangkan Kata Benda, Kata Sifat diletakan di depan Kata Benda. Kata Sifat な menerangkan Kata Benda dengan bentuk diikuti な."
+    }
+  ]
+}

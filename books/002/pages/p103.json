@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 103,
+  "page_label": "82",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 13"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "|  |  |  |\n|---|---|---|\n| あそびます | 遊びます | bermain |\n| およぎます | 泳ぎます | berenang |\n| むかえます | 迎えます | menjemput |\n| つかれます | 疲れます | lelah (jika menyatakan keadaan lelah, digunakan bentuk た seperti つかれました) |\n| けっこんします | 結婚します | menikah |\n| かいものします | 買い物します | berbelanja |\n| しょくじします | 食事します | makan |\n| さんぽします<br>[こうえんを～] | 散歩します [公園を～] | berjalan-jalan [di taman] |\n| たいへん[な] | 大変[な] | berat, susah |\n| ほしい | 欲しい | ingin, mau |\n| ひろい | 広い | luas |\n| せまい | 狭い | sempit |\n| プール |  | kolam renang |\n| かわ | 川 | sungai |\n| びじゅつ | 美術 | seni |\n| つり | 釣り | pancing (～を します : memancing) |\n| スキー |  | ski (～を します : bermain ski) |\n| しゅうまつ | 週末 | akhir pekan |\n| [お]しょうがつ | [お]正月 | tahun baru |\n| ～ごろ |  | sekitar ～, kira-kira |\n| なにか | 何か | sesuatu |\n| どこか |  | suatu tempat |"
+    }
+  ]
+}

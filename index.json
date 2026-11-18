@@ -1,0 +1,25 @@
+{
+  "schema_version": "2.0",
+  "books": [
+    {
+      "id": "001",
+      "slug": "chugaku-rika",
+      "title": "改訂版 中学理科が面白いほどわかる本",
+      "lang": "ja",
+      "pages": 285,
+      "source": "中学理科.pdf",
+      "path": "books/001/",
+      "index": "books/001/index.json"
+    },
+    {
+      "id": "002",
+      "slug": "minna-no-nihongo-1-indo",
+      "title": "Minna no Nihongo I (edisi Indonesia)",
+      "lang": "id",
+      "pages": 204,
+      "source": "Minna No Nihongo 1 (Indonesia).pdf",
+      "path": "books/002/",
+      "index": "books/002/index.json"
+    }
+  ]
+}

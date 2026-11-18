@@ -1,0 +1,112 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 119,
+  "page_label": "98",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 15"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Kata Kerja Bentuk ても いいですか"
+    },
+    {
+      "type": "text",
+      "text": "Boleh ......?"
+    },
+    {
+      "type": "text",
+      "text": "Ini adalah ungkapan untuk meminta izin."
+    },
+    {
+      "type": "text",
+      "text": "① 写真を 撮って も いいですか。\nBoleh mengambil foto?"
+    },
+    {
+      "type": "text",
+      "text": "Cara menjawab untuk permohonan izin dengan ekspresi di atas adalah contoh ② atau contoh ③ yang terdapat di bawah ini."
+    },
+    {
+      "type": "text",
+      "text": "Secara khusus ada caranya untuk jika tidak memberi izin, dengan cara menjawab secara tidak langsung (②) dan memakai ekspresi larangan (③ serta melihat 2 di bawahnya). Adakalanya memberikan alasan juga untuk kedua-duanya."
+    },
+    {
+      "type": "text",
+      "text": "② ここで たばこを 吸って も いいですか。\nBoleh merokok di sini?\n……ええ、［吸っても］いいですよ。\n……Ya, boleh [merokok].\n……すみません、ちょっと……。のどが 痛いですから。\n……Maaf, tidak boleh. Sebab kerongkongan sakit. (Pel.17)"
+    },
+    {
+      "type": "text",
+      "text": "③ ここで たばこを 吸って も いいですか。\nBoleh merokok di sini?\n……ええ、［吸っても］いいですよ。\n……Ya, boleh [merokok].\n……いいえ、［吸っては］いけません。禁煙ですから。\n……Tidak, tidak boleh [merokok]. Sebab dilarang merokok di sini."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Kata Kerja Bentuk ては いけません"
+    },
+    {
+      "type": "text",
+      "text": "Tidak boleh ......"
+    },
+    {
+      "type": "text",
+      "text": "Ekspresi ini menunjukkan arti larangan."
+    },
+    {
+      "type": "text",
+      "text": "④ ここで たばこを 吸って は いけません。禁煙ですから。\nTidak boleh merokok di sini. Sebab dilarang merokok."
+    },
+    {
+      "type": "text",
+      "text": "Ekspresi ini tidak dapat dipakai oleh bawahan terhadap atasan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Kerja Bentuk ています"
+    },
+    {
+      "type": "text",
+      "text": "Dalam pola kalimat ini, selain cara penggunaan yang menunjukkan aksi yang sedang berlangsung yang telah dipelajari pada Pelajaran 14 terdapat cara penggunaan seperti di bawah ini."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1) Menunjukkan keadaan (terutama dipakai Kata Kerja ～て います)"
+    },
+    {
+      "type": "text",
+      "text": "⑤ わたしは 結婚して います。\nSaya telah menikah."
+    },
+    {
+      "type": "text",
+      "text": "⑥ わたしは 田中さんを 知って います。\nSaya kenal Sdr. Tanaka."
+    },
+    {
+      "type": "text",
+      "text": "⑦ わたしは カメラを 持って います。\nSaya mempunyai kamera."
+    },
+    {
+      "type": "text",
+      "text": "⑧ わたしは 大阪に 住んで います。\nSaya tinggal di Osaka."
+    }
+  ]
+}

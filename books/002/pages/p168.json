@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 168,
+  "page_label": "147",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 23"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "⑧ menyatakan bahwa membeli tas sebelum tiba di Paris, yaitu suatu tempat dalam perjalanan ke Paris, sedangkan ⑨ menyatakan bahwa membeli tas setelah tiba di Paris, yaitu membelinya di Paris."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Kerja Bentuk Kamus と、〜(kalimat pokok)　Kalau......"
+    },
+    {
+      "type": "text",
+      "text": "と menyatakan jika suatu aksi atau kejadian di depan と yang terjadi, menyatakan secara pasti akibat terjadinya suatu keadaan, aksi, fenomena, dan kejadian yang diikuti oleh kalimat pokok yang menyusuli di belakangnya."
+    },
+    {
+      "type": "text",
+      "text": "⑩ この ボタンを 押すと、お釣りが 出ます。\nKalau tekan tombol ini, uang kembalianya keluar."
+    },
+    {
+      "type": "text",
+      "text": "⑪ これを 回すと、音が 大きくなります。\nKalau memutar ini, suaranya akan membesar."
+    },
+    {
+      "type": "text",
+      "text": "⑫ 右へ 曲がると、郵便局が あります。\nKalau belok ke kanan, ada kantor pos."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Benda が Kata Sifat"
+    },
+    {
+      "type": "text",
+      "text": "Pada Pelajaran 14, telah dipelajari hal yang menyatakan suatu fenomena yang dirasakan dengan panca indera (mata, telinga dan lain-lain) secara langsung sesuai dengan perasaan, atau menyampaikan peristiwa secara objektivitas dengan menggunakan partikel が. Hal ini tidak sebatas kalimat verbal, tetapi adakalanya juga dipakai untuk kalimat adjectival."
+    },
+    {
+      "type": "text",
+      "text": "⑬ 音が 小さいです。\nSuaranya kecil."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Kata Benda を Kata Kerja yang menunjukkan gerakan berpindah"
+    },
+    {
+      "type": "text",
+      "text": "を yang digunakan bersama dengan Kata Kerja yang menunjukkan gerakan berpindah seperti さんぽします, わたります, あるきます dan lain-lainnya menunjukkan tempat yang dilewati orang atau benda."
+    },
+    {
+      "type": "text",
+      "text": "⑭ 公園を 散歩します。\nBerjalan-jalan di taman. (Pel.13)"
+    },
+    {
+      "type": "text",
+      "text": "⑮ 道を 渡ります。\nMenyeberangi jalan."
+    },
+    {
+      "type": "text",
+      "text": "⑯ 交差点を 右へ 曲がります。\nDi perempatan belok ke kanan."
+    }
+  ]
+}

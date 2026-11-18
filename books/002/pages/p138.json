@@ -1,0 +1,71 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 138,
+  "page_label": "117",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 18"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. わたしの 趣味は｛Kata Benda／Kata Kerja Bentuk Kamus こと｝です　Hobi saya adalah......"
+    },
+    {
+      "type": "text",
+      "text": "⑤ わたしの 趣味は 音楽です。\nHobi saya adalah musik.\nJika memakai Kata Kerja Bentuk Kamus こと maka dapat menunjukkan isi hobi lebih konkret.\n⑥ わたしの 趣味は 音楽を 聞く ことです。\nHobi saya adalah mendengarkan musik."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Kerja₁ Bentuk Kamus／Kata Benda の／Kata Keterangan Bilangan (jangka waktu) まえに、Kata Kerja₂　Sebelum......, melakukan......"
+    },
+    {
+      "type": "text",
+      "text": "1) Untuk Kata Kerja\nMenyatakan bahwa sebelum Kata Kerja₁, terjadi Kata Kerja₂. Perlu hati-hati bahwa jika waktu kalimat (waktu Kata Kerja₂) menunjukkan waktu lampau atau juga menunjukkan waktu non lampau, maka Kata Kerja₁ selalu berbentuk Bentuk Kamus.\n⑦ 日本へ 来る まえに、日本語を 勉強しました。\nSebelum datang di Jepang, belajar bahasa Jepang.\n⑧ 寝る まえに、本を 読みます。\nSebelum tidur, membaca buku."
+    },
+    {
+      "type": "text",
+      "text": "2) Untuk Kata Benda\nDi belakang Kata Benda membubuhkan の. Menggunakan Kata Benda yang bersifat aksi.\n⑨ 食事の まえに、手を 洗います。\nSebelum makan mencuci tangan."
+    },
+    {
+      "type": "text",
+      "text": "3) Untuk Kata Keterangan Bilangan (jangka waktu)\nPerlu hati-hati bahwa di belakang Kata Keterangan Bilangan (jangka waktu) tidak membubuhkan の.\n⑩ 田中さんは 1時間まえに、出かけました。\nSdr. Tanaka telah keluar sejam yang lalu."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. なかなか"
+    },
+    {
+      "type": "text",
+      "text": "なかなか menyertai ekspresi negatif di belakangnya, dan menunjukkan arti yang tidak mudah untuk melakukan atau tidak dapat melakukan sebagaimana apa yang diharapkan.\n⑪ 日本では なかなか 馬を 見る ことが できません。\nDi Jepang tidak mudah untuk melihat kuda."
+    },
+    {
+      "type": "text",
+      "text": "［Perhatian］ Contoh kalimat ⑪ (Lihat Buku Induk Pel.18 Percakapan) adalah kalimat yang kata にほん dijadikan sebagai topik. Dengan demikian, Kata Benda yang dibubuhkan で dijadikan sebagai topik, maka Kata Benda berbentuk Kata Benda では (Lihat Kolom 1 mengenai contoh yang berpartikel selain が dan yang dijadikan sebagai topik)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. ぜひ"
+    },
+    {
+      "type": "text",
+      "text": "Dipakai bersama dengan ekspresi yang menunjukkan harapan si pembicara, dan berfungsi untuk menekankannya.\n⑫ ぜひ 北海道へ 行きたいです。\nIngin sekali pergi ke Hokkaido.\n⑬ ぜひ 遊びに 来て ください。\nSungguh diharapkan untuk datang bermain."
+    }
+  ]
+}

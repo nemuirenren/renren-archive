@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 13,
+  "page_label": "xii",
+  "kind": "front_matter",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Peran"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "PERAN"
+    },
+    {
+      "type": "figure",
+      "text": "【図】Delapan potret garis tokoh dalam susunan dua kolom: (1) Mike Miller — Orang Amerika, Karyawan Perusahaan IMC; (2) Sato Keiko — Orang Jepang, Karyawan Perusahaan IMC; (3) Jose Santos — Orang Brazil, Karyawan Perusahaan Brazil Air; (4) Maria Santos — Orang Brazil, Ibu Rumah Tangga; (5) Karina — Orang Indonesia, Mahasiswa Universitas Fuji; (6) Wang Xue — Orang Cina, Dokter di Rumah Sakit Kobe; (7) Yamada Ichiro — Orang Jepang, Karyawan Perusahaan IMC; (8) Yamada Tomoko — Orang Jepang, Pegawai Bank."
+    }
+  ]
+}

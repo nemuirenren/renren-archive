@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 94,
+  "page_label": "73",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 11"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "メニュー　Menu"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 定食 | makanan paket |\n| ランチ | paket makan siang |\n| 天丼 | semangkuk nasi dengan tempura dan sayuran di atasnya |\n| 親子丼 | semangkuk nasi dengan daging ayam dan telur di atasnya |\n| 牛丼 | semangkuk nasi dengan daging sapi di atasnya |\n| 焼き肉 | daging panggang |\n| 野菜いため | sayur goreng |\n| 漬物 | asinan |\n| みそ汁 | sup Miso |\n| おにぎり | nasi bola (nasi kepal) |\n| 天ぷら | tempura |\n| すし | nasi yang dicampur cuka dan diberi ikan mentah |\n| うどん | mie Jepang yang terbuat dari tepung terigu yang memiliki ukuran lebih besar dari mie biasa |\n| そば | mie Jepang yang berwarna agak kehitaman (abu-abu) |\n| ラーメン | mie Jepang yang terbuat dari tepung terigu dan telur dan ukurannya seperti mie biasa |\n| 焼きそば | mie goreng Jepang |\n| お好み焼き | makanan gorengan tepung dengan sayuran dan daging yang dimasak di atas loyang |\n| カレーライス | nasi kare |\n| ハンバーグ | hamburg |\n| コロッケ | kroket |\n| えびフライ | udang goreng tepung roti |\n| フライドチキン | ayam goreng |\n| サラダ | salad |\n| スープ | sup |\n| スパゲッティ | spaghetti |\n| ピザ | pizza |\n| ハンバーガー | burger |\n| サンドイッチ | sandwich |\n| トースト | roti panggang |\n| コーヒー | kopi |\n| 紅茶 | teh |\n| ココア | minuman coklat |\n| ジュース | jus |\n| コーラ | coca cola |"
+    }
+  ]
+}

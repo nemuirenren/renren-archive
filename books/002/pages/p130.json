@@ -1,0 +1,49 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 130,
+  "page_label": "109",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 17"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "体・病気　Badan, Penyakit"
+    },
+    {
+      "type": "text",
+      "text": "どうしましたか。\nKenapa? Ada masalah apa?"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 頭が 痛い | sakit kepala |\n| おなか が 痛い | sakit perut |\n| 歯が 痛い | sakit gigi |\n| 熱が あります | demam |\n| せき が 出ます | batuk |\n| 鼻水が 出ます | pilek |\n| 血が 出ます | berdarah |\n| 吐き気が します | mual, mau muntah |\n| 寒気が します | kedinginan |\n| めまい が します | pening, pusing |\n| 下痢を します | diare |\n| 便秘を します | sembelit |\n| けが を します | terluka |\n| やけど を します | terbakar |\n| 食欲が ありません | tidak nafsu makan |\n| 肩が こります | bahu pegal |\n| 体が だるい | badan lemas |\n| かゆい | gatal |"
+    },
+    {
+      "type": "figure",
+      "text": "【図】 Ilustrasi bagian tubuh manusia dengan label: かお、あたま、め、はな、かみ、くち、みみ、あご、のど、くび、むね、かた、うで、ひじ、せなか、て、ゆび、つめ、ひざ、おなか、こし、ほね、あし、しり"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| かぜ | masuk angin |\n| インフルエンザ | flu, influenza |\n| 盲腸 | usus buntu |\n| ぎっくり腰 | sakit pinggang |\n| ねんざ | keseleo |\n| 骨折 | patah tulang |\n| 二日酔い | efek sesudah minum |"
+    }
+  ]
+}

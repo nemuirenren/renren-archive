@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 200,
+  "page_label": "179",
+  "kind": "appendix",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Lampiran"
+    },
+    {
+      "level": 2,
+      "title": "V. Konjugasi Kata Kerja"
+    },
+    {
+      "level": 3,
+      "title": "Kelompok II"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| Bentuk ない |  | Bentuk た | Arti | Pelajaran |\n|---|---|---|---|---|\n| で | ない | でた | keluar [dari coffee shop] | 14 |\n| で | ない | でた | tamat [dari universitas] | 16 |\n| とめ | ない | とめた | menghentikan, memarkir | 14 |\n| ね | ない | ねた | tidur | 4 |\n| のりかえ | ない | のりかえた | ganti, pindah (kereta rel) | 16 |\n| はじめ | ない | はじめた | mulai | 16 |\n| まけ | ない | まけた | kalah | 21 |\n| みせ | ない | みせた | memperlihatkan | 14 |\n| み | ない | みた | melihat, menonton | 6 |\n| むかえ | ない | むかえた | menjemput | 13 |\n| やめ | ない | やめた | berhenti [kerja] | 21 |\n| わすれ | ない | わすれた | lupa | 17 |"
+    }
+  ]
+}

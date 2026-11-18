@@ -1,0 +1,65 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 183,
+  "page_label": "162",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 25"
+    },
+    {
+      "level": 2,
+      "title": "Kolom 1: Topik dan Subjek"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1) Jika melihat peristiwa atau menyatakan langsung sesuai dengan apa yang didengar"
+    },
+    {
+      "type": "text",
+      "text": "Jika menyatakan peristiwa yang dirasakan dengan panca indera langsung dapat digunakan kalimat yang tidak mempunyai topik."
+    },
+    {
+      "type": "text",
+      "text": "(15) あっ、雨が降っています。\nAh, hujan turun."
+    },
+    {
+      "type": "text",
+      "text": "(16) ラジオの音が小さいです。\nSuara radio kecil."
+    },
+    {
+      "type": "text",
+      "text": "(17) （窓の外を見て）月がきれいだなあ。\n(melihat di luar jendela) Betapa indahnya bulan!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2) Jika menyampaikan peristiwa secara objektif atau awal cerita"
+    },
+    {
+      "type": "text",
+      "text": "Untuk hal-hal ini juga digunakan kalimat yang tidak mempunyai topik."
+    },
+    {
+      "type": "text",
+      "text": "(18) きのう太郎が来ました。\nKemarin Taro datang."
+    },
+    {
+      "type": "text",
+      "text": "(19) 来週パーティーがあります。\nPada minggu depan akan diadakan pesta."
+    },
+    {
+      "type": "text",
+      "text": "(20) むかしむかしあるところにおじいさんとおばあさんがいました。\nDahulu kala adalah seorang kakek dan nenek di suatu tempat."
+    }
+  ]
+}

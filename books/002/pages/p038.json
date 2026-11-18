@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 38,
+  "page_label": "17",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 2"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| くるま | 車 | mobil |\n| つくえ | 机 | meja, meja tulis |\n| いす |  | kursi |\n| チョコレート |  | coklat |\n| コーヒー |  | kopi |\n| [お]みやげ | [お]土産 | oleh-oleh |\n| えいご | 英語 | bahasa Inggris |\n| にほんご | 日本語 | bahasa Jepang |\n| 〜ご | 〜語 | bahasa 〜 |\n| なん | 何 | apa |\n| そう |  | begitu |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "（練習 C）"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| あのう |  | Eee… (ungkapan yang digunakan kepada lawan bicara dalam perasaan ragu-ragu) |\n| えっ |  | Eh (dipakai ketika mendengar sesuatu yang di luar dugaan) |\n| どうぞ。 |  | Silakan. (digunakan ketika menawarkan sesuatu (barang)) |\n| [どうも] ありがとう [ございます]。 |  | Terima kasih (banyak). |\n| そうですか。 |  | O, begitu./O, ya. |\n| 違います。 |  | Bukan./Tidak./Salah. |\n| あ |  | O, Eh, (dipakai ketika sadar) |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "（会話）"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| これから お世話に なります。 |  | Mulai sekarang, saya akan meminta bantuannya. |\n| こちらこそ [どうぞ] よろしく [お願いします]。 |  | Ya, sama-sama. (jawaban terhadap [どうぞ] よろしく [おねがいします]。) |"
+    }
+  ]
+}

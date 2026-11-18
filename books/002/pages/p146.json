@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 146,
+  "page_label": "125",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 20"
+    },
+    {
+      "level": 2,
+      "title": "〈会話〉"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| みんなで | kita semua, kita sama-sama |\n| ～けど | ～ tetapi (ungkapan informal dari が) |\n| おなかが いっぱいです | sudah kenyang |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| よかったら | kalau mau, kalau suka |\n| いろいろ | macam-macam |"
+    }
+  ]
+}

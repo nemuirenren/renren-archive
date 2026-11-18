@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 158,
+  "page_label": "137",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 22"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈練習C〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| えーと | Itu... |\n| おめでとう［ございます］。 | Selamat. (digunakan untuk hari ulang tahun, upacara pernikahan, dan tahun baru) |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| お探しですか。 | Mencari apa? |\n| では | kalau begitu |\n| こちら | ini (ungkapan sopan dari これ) |\n| 家賃 | biaya sewa rumah |\n| ダイニングキッチン | ruang makan dengan dapur |\n| 和室 | kamar ala Jepang |\n| 押し入れ | lemari dinding ala Jepang |\n| 布団 | selimut dan kasur berisi kapas ala Jepang |"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| パリ | Paris |\n| 万里の長城 | Tembok Besar Cina |\n| みんなのアンケート | angket fiksi |"
+    }
+  ]
+}

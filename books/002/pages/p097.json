@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 97,
+  "page_label": "76",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 12"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| かんたん［な］ | 簡単［な］ | mudah, gampang |\n| ちかい | 近い | dekat |\n| とおい* | 遠い | jauh |\n| はやい | 速い、早い | cepat |\n| おそい* | 遅い | lambat |\n| おおい［ひとが～］ | 多い［人が～］ | banyak [orang] |\n| すくない*［ひとが～］ | 少ない［人が～］ | sedikit [orang] |\n| あたたかい | 暖かい、温かい | hangat |\n| すずしい | 涼しい | sejuk |\n| あまい | 甘い | manis |\n| からい | 辛い | pedas |\n| おもい | 重い | berat |\n| かるい* | 軽い | ringan |\n| いい［コーヒーが～］ |  | lebih baik [kopi] |\n| きせつ | 季節 | musim |\n| はる | 春 | musim semi |\n| なつ | 夏 | musim panas |\n| あき | 秋 | musim gugur |\n| ふゆ | 冬 | musim dingin |\n| てんき | 天気 | cuaca |\n| あめ | 雨 | hujan |\n| ゆき | 雪 | salju |\n| くもり | 曇り | mendung |\n| ホテル |  | hotel |\n| くうこう | 空港 | bandara |\n| うみ | 海 | laut |\n| せかい | 世界 | dunia |\n| パーティー |  | pesta (～を します：berpesta) |\n| [お]まつり | [お]祭り | perayaan |"
+    }
+  ]
+}

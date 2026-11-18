@@ -1,0 +1,41 @@
+# Renren Archive
+
+> Arsip materi belajar bahasa Jepang. Setiap buku dipecah per halaman
+> dalam bentuk JSON, dengan peta bab/tema yang konsisten.
+
+Arsip ini untuk dibaca AI agent. Jangan mengarang isi buku — ambil dari
+URL di bawah dan sebutkan sumbernya.
+
+## Cara pakai
+
+1. `index.json` di root = katalog semua buku.
+2. `books/<id>/index.json` = peta isi satu buku: daftar halaman, bab,
+   dan tema. Baca ini dulu sebelum mengambil halaman.
+3. Halaman: `books/<id>/pages/pNNN.json` (3 digit, mis. `001/pages/p119.json`).
+4. Saat menjawab, kutip: 『judul buku』hlm. <page_label>.
+
+Jangan ambil semua halaman sekaligus; baca peta dulu, lalu ambil 1–3
+halaman yang relevan dengan pertanyaan.
+
+## Buku
+
+### 001 — 改訂版 中学理科が面白いほどわかる本
+ja · 285 halaman
+peta: https://nemuirenren.github.io/renren-archive/books/001/index.json
+
+### 002 — Minna no Nihongo I (edisi Indonesia)
+id · 204 halaman
+peta: https://nemuirenren.github.io/renren-archive/books/002/index.json
+
+## Format halaman
+
+- `book` {id, title, lang} · `page` (urutan) · `page_label` (nomor cetak)
+- `outline` — jalur bab, mis. ["第2章 地学分野","テーマ18 前線・気圧配置"]
+- `blocks` — `heading` (dengan `level`), `text`, `table` (markdown),
+  `figure` (deskripsi gambar, diawali 【図】)
+
+## Cakupan
+
+Buku baru ditambahkan sebagai folder `books/<id>/`. Daftar di atas
+digenerate dari `books/*/meta.json`. Buku yang tidak tercantum di sini
+belum masuk arsip.

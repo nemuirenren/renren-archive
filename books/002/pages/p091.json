@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 91,
+  "page_label": "70",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 11"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| います［こどもが～］ | ［子どもが～］ | ada, mempunyai [anak] |\n| います［にほんに～］ | ［日本に～］ | ada [di Jepang] |\n| かかります |  | memakan, perlu (digunakan untuk waktu dan uang) |\n| やすみます［かいしゃを～］ | 休みます［会社を～］ | tidak masuk [kerja] |\n| ひとつ | 1つ | satu (kata bantu bilangan yang digunakan untuk menghitung barang) |\n| ふたつ | 2つ | dua |\n| みっつ | 3つ | tiga |\n| よっつ | 4つ | empat |\n| いつつ | 5つ | lima |\n| むっつ | 6つ | enam |\n| ななつ | 7つ | tujuh |\n| やっつ | 8つ | delapan |\n| ここのつ | 9つ | sembilan |\n| とお | 10 | sepuluh |\n| いくつ |  | berapa |\n| ひとり | 1人 | seorang |\n| ふたり | 2人 | dua orang |\n| ーにん | ー人 | ー orang |\n| ーだい | ー台 | buah (kata bantu bilangan yang digunakan untuk menghitung mesin dan mobil) |\n| ーまい | ー枚 | lembar, helai (kata bantu bilangan yang digunakan untuk menghitung kertas dan perangko) |\n| ーかい | ー回 | ー kali |\n| りんご |  | apel |\n| みかん |  | jeruk |\n| サンドイッチ |  | sandwich |\n| カレー［ライス］ |  | [nasi dan] kare |\n| アイスクリーム |  | es krim |\n| きって | 切手 | perangko |\n| はがき |  | kartu pos |\n| ふうとう | 封筒 | amplop |\n| りょうしん | 両親 | orang tua |\n| きょうだい | 兄弟 | saudara, saudari |\n| あに | 兄 | kakak laki-laki (untuk menyebutkan kakak sendiri) |"
+    }
+  ]
+}

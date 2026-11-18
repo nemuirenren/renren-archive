@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 136,
+  "page_label": "115",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 18"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "動き　Gerakan"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia | 日本語 | Indonesia |\n|---|---|---|---|\n| 飛ぶ | terbang | 跳ぶ | meloncat | 登る | memanjat | 走る | berlari |\n| 泳ぐ | berenang | もぐる | menyelam | 飛び込む | terjun | 逆立ちする | berjungkir balik |\n| はう | merayap | ける | menendang | 振る | melambaikan | 持ち上げる | mengangkat |\n| 投げる | melempar | たたく | memukul | 引く | menarik | 押す | mendorong |\n| 曲げる | membengkokkan | 伸ばす | meluruskan | 転ぶ | jatuh | 振り向く | menengok ke belakang |"
+    },
+    {
+      "type": "figure",
+      "text": "【図】 20 ilustrasi gerakan (gambar tongkat) untuk setiap kata kerja pada tabel."
+    }
+  ]
+}

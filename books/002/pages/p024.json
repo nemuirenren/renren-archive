@@ -1,0 +1,78 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 24,
+  "page_label": "3",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Introduksi"
+    },
+    {
+      "level": 2,
+      "title": "I. Ucapan Bahasa Jepang"
+    },
+    {
+      "level": 3,
+      "title": "1. Kana dan Mora"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "INTRODUKSI"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Ucapan Bahasa Jepang"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Kana dan Mora"
+    },
+    {
+      "type": "text",
+      "text": "Bunyi Bahasa Jepang dapat ditunjukkan oleh Kana seperti daftar di bawah ini. Mora adalah satuan bunyi Bahasa Jepang yang sama panjangnya dengan satu huruf Kana (dua huruf untuk Yoon)."
+    },
+    {
+      "type": "text",
+      "text": "Vokal dalam Bahasa Jepang terdapat lima macam, yaitu あ (a), い (i), う (u), え (e) dan お (o) dan vokal tersebut selain berdiri sendiri, juga membentuk sebuah bunyi dengan disertai konsonan di depannya, atau juga disertai konsonan bersama semi vokal (y) (Contoh: k + a = か、k + y + a = きゃ) (ん adalah pengecualian). Bunyi tersebut diucapkan dengan panjang yang hampir sama."
+    },
+    {
+      "type": "figure",
+      "text": "【図】Contoh cara membaca daftar:\nあ ア → Hiragana\n　　 → Katakana\n a  → Huruf Latin"
+    },
+    {
+      "type": "table",
+      "text": "| Baris | Kolom あ | Kolom い | Kolom う | Kolom え | Kolom お |\n|---|---|---|---|---|---|\n| あ | あ ア<br>a | い イ<br>i | う ウ<br>u | え エ<br>e | お オ<br>o |\n| か k | か カ<br>ka | き キ<br>ki | く ク<br>ku | け ケ<br>ke | こ コ<br>ko |\n| さ s | さ サ<br>sa | し シ<br>shi | す ス<br>su | せ セ<br>se | そ ソ<br>so |\n| た t | た タ<br>ta | ち チ<br>chi | つ ツ<br>tsu | て テ<br>te | と ト<br>to |\n| な n | な ナ<br>na | に ニ<br>ni | ぬ ヌ<br>nu | ね ネ<br>ne | の ノ<br>no |\n| は h | は ハ<br>ha | ひ ヒ<br>hi | ふ フ<br>fu | へ ヘ<br>he | ほ ホ<br>ho |\n| ま m | ま マ<br>ma | み ミ<br>mi | む ム<br>mu | め メ<br>me | も モ<br>mo |\n| や y | や ヤ<br>ya | (い イ)<br>(i) | ゆ ユ<br>yu | (え エ)<br>(e) | よ ヨ<br>yo |\n| ら r | ら ラ<br>ra | り リ<br>ri | る ル<br>ru | れ レ<br>re | ろ ロ<br>ro |\n| わ w | わ ワ<br>wa | (い イ)<br>(i) | (う ウ)<br>(u) | (え エ)<br>(e) | を ヲ<br>o |\n| ん | ん ン<br>n | | | | |"
+    },
+    {
+      "type": "table",
+      "text": "| Baris | Kolom あ | Kolom い | Kolom う | Kolom え | Kolom お |\n|---|---|---|---|---|---|\n| が g | が ガ<br>ga | ぎ ギ<br>gi | ぐ グ<br>gu | げ ゲ<br>ge | ご ゴ<br>go |\n| ざ z | ざ ザ<br>za | じ ジ<br>ji | ず ズ<br>zu | ぜ ゼ<br>ze | ぞ ゾ<br>zo |\n| だ d | だ ダ<br>da | ぢ ヂ<br>ji | づ ヅ<br>zu | で デ<br>de | ど ド<br>do |\n| ば b | ば バ<br>ba | び ビ<br>bi | ぶ ブ<br>bu | べ ベ<br>be | ぼ ボ<br>bo |\n| ぱ p | ぱ パ<br>pa | ぴ ピ<br>pi | ぷ プ<br>pu | ぺ ペ<br>pe | ぽ ポ<br>po |"
+    },
+    {
+      "type": "table",
+      "text": "| | ゃ | ゅ | ょ |\n|---|---|---|---|\n| き | きゃ キャ<br>kya | きゅ キュ<br>kyu | きょ キョ<br>kyo |\n| ぎ | ぎゃ ギャ<br>gya | ぎゅ ギュ<br>gyu | ぎょ ギョ<br>gyo |\n| し | しゃ シャ<br>sha | しゅ シュ<br>shu | しょ ショ<br>sho |\n| じゃ | じゃ ジャ<br>ja | じゅ ジュ<br>ju | じょ ジョ<br>jo |"
+    },
+    {
+      "type": "table",
+      "text": "| | ゃ | ゅ | ょ |\n|---|---|---|---|\n| ち | ちゃ チャ<br>cha | ちゅ チュ<br>chu | ちょ チョ<br>cho |\n| に | にゃ ニャ<br>nya | にゅ ニュ<br>nyu | にょ ニョ<br>nyo |\n| ひ | ひゃ ヒャ<br>hya | ひゅ ヒュ<br>hyu | ひょ ヒョ<br>hyo |\n| び | びゃ ビャ<br>bya | びゅ ビュ<br>byu | びょ ビョ<br>byo |\n| ぴ | ぴゃ ピャ<br>pya | ぴゅ ピュ<br>pyu | ぴょ ピョ<br>pyo |\n| み | みゃ ミャ<br>mya | みゅ ミュ<br>myu | みょ ミョ<br>myo |\n| り | りゃ リャ<br>rya | りゅ リュ<br>ryu | りょ リョ<br>ryo |"
+    },
+    {
+      "type": "text",
+      "text": "Katakana di sebelah kanan tidak disajikan di dalam daftar. Ini sebenarnya bunyi yang tidak ada di dalam Bahasa Jepang, tetapi digunakan untuk menulis kata-kata dari bahasa asing."
+    },
+    {
+      "type": "table",
+      "text": "| Katakana | Huruf Latin |\n|---|---|\n| ウィ | wi |\n| ウェ | we |\n| ウォ | wo |\n| シェ | she |\n| ツァ | tsa |\n| チェ | che |\n| ティ | ti |\n| トゥ | tu |\n| ファ | fa |\n| フィ | fi |\n| フェ | fe |\n| フォ | fo |\n| ディ | di |\n| ドゥ | du |\n| ジェ | je |\n| デュ | dyu |"
+    }
+  ]
+}

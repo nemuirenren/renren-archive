@@ -1,0 +1,65 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 23,
+  "page_label": "2",
+  "kind": "front_matter",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Ciri Khas Bahasa Jepang"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "CIRI KHAS BAHASA JEPANG"
+    },
+    {
+      "type": "text",
+      "text": "1. Jenis Kata\nDalam bahasa Jepang terdapat Kata Kerja, Kata Sifat, Kata Benda, Kata Keterangan, Kata Penghubung, Partikel dan lain-lain."
+    },
+    {
+      "type": "text",
+      "text": "2. Urutan Kata\nPartikel diletakkan pada akhir kalimat. Kata yang menerangkan diletakkan di depan kata yang diterangkan."
+    },
+    {
+      "type": "text",
+      "text": "3. Predikat\nYang menjadi predikat bahasa Jepang adalah Kata Kerja, Kata Sifat dan Kata Benda + です（だ）. Predikat berubah bentuk sesuai dengan positif atau negatif, atau waktu lampau atau waktu non lampau. Predikat tidak berubah bentuknya karena orang, jenis kelamin atau bilangan."
+    },
+    {
+      "type": "text",
+      "text": "4. Partikel\nPada belakang kata atau kalimat dipakai partikel. Partikel menunjukkan hubungan antara kata dan kata, atau berfungsi untuk membubuhkan berbagai arti."
+    },
+    {
+      "type": "text",
+      "text": "5. Penghilangan\nSubjek atau objek kadang-kadang dihilangkan jika konteks kalimat dapat dipahami."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "AKSARA BAHASA JEPANG"
+    },
+    {
+      "type": "text",
+      "text": "Aksara bahasa Jepang terdapat tiga jenis, yaitu Hiragana, Katakana, dan Kanji. Hiragana dan Katakana adalah aksara silabis sedangkan Kanji adalah ideogram yang menunjukkan bunyi sekaligus artinya."
+    },
+    {
+      "type": "text",
+      "text": "Bahasa Jepang biasanya ditulis bercampur dengan Hiragana, Katakana dan Kanji. Nama warga asing, nama daerah atau kata serapan dari bahasa asing ditulis dengan Katakana. Hiragana digunakan untuk penulisan partikel atau bagian konjugasi Kata Kerja dan Kata Sifat."
+    },
+    {
+      "type": "text",
+      "text": "Selain itu, adakalanya huruf Latin digunakan sebagai penulisan untuk nama warga asing. Penulisan dalam huruf Latin dapat dilihat pada penunjuk nama stasiun."
+    },
+    {
+      "type": "figure",
+      "text": "【図】Contoh kalimat dan jenis aksara:\n田中 さん は ミラー さん と デパート へ 行きます。\n○ □ □ △ □ □ △ □ ○ □\nSdr. Tanaka pergi ke toserba bersama dengan Sdr. Miller.\n\n大阪 Osaka\n○ ☆\n\n(○－kanji　□－hiragana　△－katakana　☆－huruf Latin)"
+    }
+  ]
+}

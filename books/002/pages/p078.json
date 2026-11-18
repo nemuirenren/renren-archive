@@ -1,0 +1,92 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 78,
+  "page_label": "57",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 8"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "⑦ ワット先生は 親切な 先生です。 Bapak Watt adalah guru yang baik hati.\n⑧ 富士山は 高い 山です。 Gunung Fuji adalah gunung yang tinggi."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. ～が、～"
+    },
+    {
+      "type": "text",
+      "text": "が menyambungkan kalimat yang menyatakan sebelum dan sesudah secara paradoksal. Dalam kalimat adjektival yang subjeknya sama, hal yang bernilai positif oleh si pembicara diletakkan di bagian depan, maka hal yang negatif di bagian belakangnya. Sebaliknya, jika hal yang bernilai negatif oleh si pembicara diletakkan di bagian depan, maka hal yang positif di bagian belakangnya."
+    },
+    {
+      "type": "text",
+      "text": "⑨ 日本の 食べ物は おいしいですが、高いです。\nMakanan Jepang enak, tetapi mahal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. とても／あまり"
+    },
+    {
+      "type": "text",
+      "text": "とても dan あまり adalah Kata keterangan yang menyatakan tingkat, dan jika menerangkan Kata Sifat kata tersebut diletakkan di depan Kata Sifat. とても mempunyai arti sangat dan digunakan pada kalimat positif. あまり digunakan bersamaan dengan kalimat negatif yang mempunyai arti tidak begitu."
+    },
+    {
+      "type": "text",
+      "text": "⑩ ペキンは とても 寒いです。 Beijing sangat dingin.\n⑪ これは とても 有名な 映画です。 Ini film yang sangat terkenal.\n⑫ シャンハイは あまり 寒くないです。 Shanghai tidak begitu dingin.\n⑬ さくら大学は あまり 有名な 大学じゃ ありません。\nUniversitas Sakura adalah universitas yang tidak begitu terkenal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Kata Benda は どうですか"
+    },
+    {
+      "type": "text",
+      "text": "Kata Benda は どうですか menanyakan citra, pendapat, dan kesan mengenai hal yang dialami tentang tempat yang telah dikunjungi atau orang yang pernah dijumpai dan lain-lainnya oleh lawan bicara."
+    },
+    {
+      "type": "text",
+      "text": "⑭ 日本の 生活は どうですか。 Bagaimana kehidupan di Jepang?\n……楽しいです。 ……Senang."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Kata Benda₁ は どんな Kata Benda₂ ですか"
+    },
+    {
+      "type": "text",
+      "text": "どんな adalah Kata Tanya untuk menanyakan keadaan atau sifat orang dan benda, kemudian digunakan untuk menerangkan Kata Benda."
+    },
+    {
+      "type": "text",
+      "text": "⑮ 奈良は どんな 町ですか。 Nara kota bagaimana?\n……古い 町です。 ……Kota yang lama."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. そうですね"
+    },
+    {
+      "type": "text",
+      "text": "Pada Pelajaran 5 telah dipelajari そうですね yang menyatakan persetujuan atau perasaan yang sama. Pada pelajaran ini terdapat そうですね menunjukkan sikap dari lawan bicaranya yang sedang berpikir seperti pada percakapan ⑯."
+    },
+    {
+      "type": "text",
+      "text": "⑯ お仕事は どうですか。 Bagaimana pekerjaannya?\n……そうですね。忙しいですが、おもしろいです。\n……Ya... Sibuk, tetapi menyenangkan."
+    }
+  ]
+}

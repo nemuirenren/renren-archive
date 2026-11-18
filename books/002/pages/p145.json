@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 145,
+  "page_label": "124",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 20"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 20"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| いりますⅠ<br>［ビザが～］ | 要ります | memerlukan [VISA] |\n| しらべますⅡ | 調べます | memeriksa, meneliti, mengecek |\n| しゅうりしますⅢ | 修理します | memperbaiki |\n| ぼく | 僕 | aku (dipakai oleh laki-laki, kata ganti informal dari わたし) |\n| きみ* | 君 | kamu (bentuk informal untuk あなた, digunakan terhadap orang yang setaraf atau di bawah si pembicara) |\n| ～くん | ～君 | Sdr. ～ (bentuk informal untuk さん, digunakan terhadap orang yang setaraf atau di bawah si pembicara, sering digunakan untuk nama anak laki-laki) |\n| うん |  | ya (bentuk informal dari はい) |\n| ううん |  | tidak, bukan (bentuk informal dari いいえ) |\n| ことば |  | kata, bahasa |\n| きもの | 着物 | kimono (pakaian tradisional Jepang) |\n| ビザ |  | VISA |\n| はじめ | 初め | awal, mula-mula |\n| おわり | 終わり | akhir |\n| こっち* |  | sini (ungkapan informal dari kata こちら) |\n| そっち |  | situ (ungkapan informal dari kata そちら) |\n| あっち* |  | sana (ungkapan informal dari kata あちら) |\n| どっち |  | mana (ungkapan informal untuk kata どちら) |"
+    }
+  ]
+}

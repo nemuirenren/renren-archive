@@ -1,0 +1,70 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 95,
+  "page_label": "74",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 11"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cara menghitung kuantitas"
+    },
+    {
+      "type": "text",
+      "text": "1) Cara menghitung 1 sampai dengan 10\nひとつ、ふたつ、……とお\nCara menghitung di atas ini adalah cara untuk menghitung benda. Untuk 11 ke atas digunakan angka itu sendiri."
+    },
+    {
+      "type": "text",
+      "text": "2) Berbagai Kata Bantu Bilangan\nWaktu menghitung orang, benda atau menunjukkan kuantitas digunakan Kata Bantu Bilangan yang berbeda-beda sesuai dengan benda yang dihitung. Kata Bantu Bilangan dibubuhkan di belakang angka."
+    },
+    {
+      "type": "table",
+      "text": "| Kata Bantu Bilangan | Arti |\n|---|---|\n| 一人 | jumlah orang (dengan catatan untuk seorang dibaca dengan ひとり (1人), dua orang dibaca dengan ふたり (2人), 4人 dibacanya よにん) |\n| 一台 | mesin, kendaraan |\n| 一枚 | benda yang tipis dan datar (kertas, baju kaos, piring, CD dll.) |\n| 一回 | kali |\n| 一分 | menit |\n| 一時間 | jam |\n| 一日 | hari |\n| 一週間 | minggu |\n| 一か月 | bulan |\n| 一年 | tahun |"
+    },
+    {
+      "type": "text",
+      "text": "（Sama dengan cara membaca tanggal, tetapi 1日 tidak dibaca ついたち melainkan いちにち.）"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Cara penggunaan Kata Keterangan Bilangan"
+    },
+    {
+      "type": "text",
+      "text": "1) Kata Keterangan Bilangan (angka yang dibubuhkan Kata Bantu Bilangan) pada dasarnya diletakkan langsung di belakang Kata Benda yang menentukan jenis Kata Keterangan Bilangan + partikel. Kecuali untuk Kata Keterangan Bilangan yang menunjukkan lama waktu tidak harus mengikuti aturan susunan kata ini."
+    },
+    {
+      "type": "text",
+      "text": "① りんごを ４つ 買いました。\nMembeli empat buah apel.\n② 外国人の 学生が ２人 います。\nAda dua orang mahasiswa asing.\n③ 国で ２か月 日本語を 勉強しました。\nBelajar bahasa Jepang di negara saya selama dua bulan."
+    },
+    {
+      "type": "text",
+      "text": "2) Cara menanyakan kuantitas\n(1) いくつ\nいくつ digunakan untuk menghitung kuantitas benda dengan menggunakan cara menghitung 1-1)."
+    },
+    {
+      "type": "text",
+      "text": "④ みかんを いくつ 買いましたか。\nMembeli berapa buah jeruk?\n……８つ 買いました。\n……Membeli delapan buah."
+    }
+  ]
+}

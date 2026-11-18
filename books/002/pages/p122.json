@@ -1,0 +1,49 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 122,
+  "page_label": "101",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 16"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| サービス | pelayanan |\n| ジョギング<br>（～を します） | joging, lari pelan-pelan |\n| シャワー | shower |\n| みどり<br>緑 | hijau, tumbuhan hijau |\n| ［お］てら<br>［お］寺 | wihara |\n| じんじゃ<br>神社 | kuil Shinto |\n| ～番 | nomor ～ |\n| どうやって | dengan cara bagaimana |\n| どの ～ | ～ yang mana (mengungkapkan lebih dari tiga barang) |\n| どれ | mana (mengungkapkan lebih dari tiga barang) |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈練習 C〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| すごいですね。 | Hebat, ya. |\n| ［いいえ、］まだまだです。 | ［Tidak,］ belum seberapa. |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| お引き出しですか。 | Mau menarik uang? |\n| まず | pertama-tama, terlebih dahulu |\n| 次に | kemudian |\n| キャッシュカード | kartu ATM |\n| 暗証番号 | PIN |\n| 金額 | jumlah uang |\n| 確認<br>（～します） | cek (mengecek, memastikan) |\n| ボタン | tombol |"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| JR | JR (nama perusahaan rel kereta listrik) |\n| 雪祭り | pesta salju |\n| バンドン | Bandung (di Indonesia) |\n| フランケン | Franken (di Jerman) |\n| ベラクルス | Veracruz (di Meksiko) |\n| 梅田 | Umeda (nama daerah di Osaka) |\n| 大学前 | halte fiksi |"
+    }
+  ]
+}

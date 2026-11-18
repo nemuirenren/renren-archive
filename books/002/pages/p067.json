@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 67,
+  "page_label": "46",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 7"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 7"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| きります | 切ります | memotong, menggunting |\n| おくります | 送ります | mengirim |\n| あげます |  | memberikan |\n| もらいます |  | mendapatkan, menerima |\n| かします | 貸します | meminjamkan, menyewakan |\n| かります | 借ります | meminjam, menyewa |\n| おしえます | 教えます | mengajar |\n| ならいます | 習います | belajar |\n| かけます [でんわを～] | [電話を～] | menelepon |\n| て | 手 | tangan |\n| はし |  | sumpit |\n| スプーン |  | sendok |\n| ナイフ |  | pisau |\n| フォーク |  | garpu |\n| はさみ |  | gunting |\n| パソコン |  | komputer, PC |\n| ケータイ |  | HP |\n| メール |  | e-mail |\n| ねんがじょう | 年賀状 | kartu tahun baru |\n| パンチ |  | pelubang kertas |\n| ホッチキス |  | staplar |\n| セロテープ |  | selotip |\n| けしゴム | 消しゴム | penghapus karet |\n| かみ | 紙 | kertas |\n| はな | 花 | bunga |\n| シャツ |  | kemeja |\n| プレゼント |  | kado, hadiah |\n| にもつ | 荷物 | barang |\n| おかね | お金 | uang |\n| きっぷ | 切符 | karcis |\n| クリスマス |  | Natal |"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 5,
+  "page_label": "iv",
+  "kind": "front_matter",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Kata Pengantar"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "bagi yang melakukan program persiapan dengan tujuan melanjutkan kuliah di perguruan tinggi, atau sebagai buku pelajaran intensif di sekolah kejuruan, dan juga universitas."
+    },
+    {
+      "type": "text",
+      "text": "3A Corporation secara aktif menciptakan bahan-bahan pelajaran baru agar sesuai dengan kebutuhan setiap orang dari berbagai macam latar belakang, kami mengharapkan para pembaca akan terus memberikan dukungan yang berharga."
+    },
+    {
+      "type": "text",
+      "text": "Kemudian kami juga secara aktif berusaha untuk menyusun bahan pelajaran yang baru demi menjawab keanekaragaman pelajar serta kebutuhan di lapangan yang berbeda-beda, maka kami sangat mengharapkan dukungan dari berbagai pihak sebagaimana yang telah kami dapatkan selama ini."
+    },
+    {
+      "type": "text",
+      "text": "Akhir kata, untuk penyusunan buku ini, kami telah mendapatkan kerja sama yang luar biasa berupa pendapat dari berbagai pihak, dan dijadikan bahan uji coba dalam pelajaran di kelas. Untuk itu kami mengucapkan terima kasih dari hati yang terdalam. Melalui kegiatan penerbitan buku pelajaran bahasa Jepang dan lain-lainnya, 3A Corporation berharap untuk terus memperluas jaringan hubungan dari manusia ke manusia di seluruh dunia. Kami mohon dukungan serta pendapat yang lebih banyak dari semua pihak."
+    },
+    {
+      "type": "text",
+      "text": "Maret 1998\nIwao Ogawa\nDirektur Utama 3A Corporation"
+    }
+  ]
+}

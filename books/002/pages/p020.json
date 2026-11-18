@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 20,
+  "page_label": "",
+  "kind": "toc",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Daftar Isi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Pelajaran 17 ..... 106"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan: Kenapa? |\n| III. | Kata-Kata Referensi dan Informasi<br>Badan, Penyakit |\n| IV. | Keterangan Tata Bahasa<br>1. Kata Kerja Bentuk ない<br>2. Kata Kerja (Bentuk ない) ないで ください<br>3. Kata Kerja (Bentuk ない) なければ なりません<br>4. Kata Kerja (Bentuk ない) なくても いいです<br>5. Pentopikan objek<br>6. Kata Benda (waktu) までに Kata Kerja |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 18 ..... 112"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan: Apa hobinya? |\n| III. | Kata-Kata Referensi dan Informasi<br>Gerakan |\n| IV. | Keterangan Tata Bahasa<br>1. Kata Kerja Bentuk Kamus<br>2. Kata Benda / Kata Kerja Bentuk Kamus こと が できます<br>3. わたしの 趣味は { Kata Benda / Kata Kerja Bentuk Kamus こと } です<br>4. Kata Kerja1 Bentuk Kamus / Kata Benda の / Kata Keterangan Bilangan (jangka waktu) まえに、Kata Kerja2<br>5. なかなか<br>6. ぜひ |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 19 ..... 118"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan:<br>Dietnya Mulai Besok. |\n| III. | Kata-Kata Referensi dan Informasi<br>Kebudayaan Tradisional, Hiburan |\n| IV. | Keterangan Tata Bahasa<br>1. Kata Kerja Bentuk た<br>2. Kata Kerja Bentuk た ことが あります<br>3. Kata Kerja1 Bentuk たり、Kata Kerja2 Bentuk たり します<br>4. Kata Sifat い (～い) → ～く / Kata Sifat な [な] → ～に / Kata Benda に なります |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 20 ..... 124"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan: Bagaimana Kalau Pergi Bersama-sama? |\n| III. | Kata-Kata Referensi dan Informasi<br>Cara Memanggil Orang |\n| IV. | Keterangan Tata Bahasa<br>1. Bentuk Sopan dan Bentuk Biasa<br>2. Pembagian cara pemakaian Bentuk Halus dan Bentuk Biasa<br>3. Percakapan dalam Bentuk Biasa |"
+    }
+  ]
+}

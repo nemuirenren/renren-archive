@@ -1,0 +1,49 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 74,
+  "page_label": "53",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 8"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| かな | 漢字 | Indonesia |\n|---|---|---|\n| ところ | 所 | tempat |\n| りょう | 寮 | asrama |\n| レストラン | | restoran |\n| せいかつ | 生活 | kehidupan |\n| [お]しごと | [お]仕事 | pekerjaan (～を します : bekerja) |\n| どう | | bagaimana |\n| どんな ～ | | yang bagaimana ～ |\n| とても | | sangat, ～ sekali |\n| あまり | | kurang begitu ～, tidak begitu ～ (diikuti dengan kalimat negatif) |\n| そして | | kemudian, dan (digunakan untuk menyambung kalimat) |\n| ～が、～ | | ～, tetapi ～ |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈練習 C〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| お元気ですか。 | Apa kabar? |\n| そうですね。 | Bagaimana ya? |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| [～、] もう 一杯 いかがですか。 | Mau tambah [～] secangkir lagi? |\n| [いいえ、] けっこうです。 | [Tidak,] terima kasih, saya sudah cukup. |\n| もう ～です[ね]。 | Sudah ～ [ya]. |\n| そろそろ 失礼します。 | Maaf, saya mau pamit dulu. |\n| いいえ。 | Sama-sama. |\n| また いらっしゃって ください。 | Silakan datang lagi. |"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| シャンハイ | Shanghai (上海) |\n| 金閣寺 | kuil Kinkakuji |\n| 奈良公園 | taman Nara |\n| 富士山 | gunung Fuji (gunung yang tertinggi di Jepang) |\n| 「七人の 侍」 | Tujuh orang Samurai (film lama oleh Akira Kurosawa) |"
+    }
+  ]
+}

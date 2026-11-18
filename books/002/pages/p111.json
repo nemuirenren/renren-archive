@@ -1,0 +1,71 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 111,
+  "page_label": "90",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 14"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Tunggu sebentar!\n2. Bagaimana kalau saya membawa barang?\n3. Sdr. Miller sedang menelepon."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Tolong tuliskan nama dengan bolpoin.\n……Baik.\n2. Permisi, tolong ajarkan cara membaca Kanji ini.\n……Itu “Jusho”.\n3. Panas, ya. Bagaimana kalau saya membuka jendela?\n……Maaf. Tolong!\n4. Bagaimana kalau saya pergi menjemput di stasiun?\n……Tidak, terima kasih, karena saya pergi dengan taksi.\n5. Di mana Sdr. Sato?\n……Sekarang sedang berbicara dengan Sdr. Matsumoto di ruang rapat.\nKalau begitu, sebentar lagi saya datang.\n6. Apakah turun hujan?\n……Tidak, tidak turun hujan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "text",
+      "text": "Tolong Sampai ke Midoricho!"
+    },
+    {
+      "type": "text",
+      "text": "Karina: Tolong sampai ke Midoricho!\nSopir: Baik."
+    },
+    {
+      "type": "text",
+      "text": "Karina: Maaf. Tolong belok ke kanan di lampu lalu lintas itu.\nSopir: Kanan, ya?\nKarina: Ya."
+    },
+    {
+      "type": "text",
+      "text": "Sopir: Lurus, ya?\nKarina: Ya, pergi lurus saja."
+    },
+    {
+      "type": "text",
+      "text": "Karina: Tolong berhenti di depan toko bunga itu.\nSopir: Baik.\n¥1.800.\nKarina: Ini, silakan.\nSopir: Kembaliannya ¥3.200. Terima kasih."
+    }
+  ]
+}

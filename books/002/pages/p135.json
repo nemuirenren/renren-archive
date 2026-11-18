@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 135,
+  "page_label": "114",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 18"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Apakah Sdr. Miller bisa membaca Kanji?\n2. Hobi saya adalah menonton film.\n3. Sebelum tidur, menulis catatan harian."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Apakah bisa menyetir mobil?\n…… Ya, bisa.\n2. Apakah Sdr. Maria bisa bersepeda?\n…… Tidak, tidak bisa.\n3. Sampai pukul berapa bisa melihat Benteng Osaka?\n…… Sampai pukul lima.\n4. Apakah bisa membayar dengan kartu?\n…… Maaf, tolong dengan uang tunai saja.\n5. Apa hobinya?\n…… Mengumpulkan jam yang lama.\n6. Apakah anak-anak Jepang harus menghafal Hiragana sebelum masuk sekolah?\n…… Tidak, tidak harus menghafalnya.\n7. Sebelum makan, silakan minum obat ini.\n…… Baik, saya mengerti.\n8. Kapan menikah?\n…… Tiga tahun yang lalu, saya menikah."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Apa hobinya?"
+    },
+    {
+      "type": "text",
+      "text": "Yamada: Apa hobi Sdr. Santos?\nSantos: Foto.\nYamada: Mengambil foto yang bagaimana?\nSantos: Foto hewan. Terutama saya suka kuda.\nYamada: O, menarik ya. Apakah sudah mengambil foto kuda setelah datang di Jepang?\nSantos: Belum. Di Jepang tidak mudah untuk melihat kuda.\nYamada: Di Hokkaido ada banyak kuda.\nSantos: Benar ya? Kalau begitu, saya ingin sekali pergi pada liburan musim panas."
+    }
+  ]
+}

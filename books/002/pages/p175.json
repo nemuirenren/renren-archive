@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 175,
+  "page_label": "154",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 25"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pelajaran 25"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| かんがえますⅡ | 考えます | berpikir, memikirkan |\n| つきますⅠ | 着きます | tiba, sampai |\n| とりますⅠ [としを～] | 取ります [年を～] | berumur, lanjut usia |\n| たりますⅡ | 足ります | cukup |\n| いなか | 田舎 | desa, kampung halaman |\n| チャンス |  | kesempatan |\n| おく | 億 | ratus juta |\n| もし [～たら] |  | kalau |\n| いみ | 意味 | arti, makna |"
+    }
+  ]
+}

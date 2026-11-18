@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 147,
+  "page_label": "126",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 20"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Sdr. Santos tidak datang ke pesta.\n2. Di Tokyo banyak orang.\n3. Laut Okinawa indah.\n4. Hari ini hari ulang tahunku."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Mau makan es krim?\n……Ya, mau makan.\n2. Di situ ada gunting?\n……Tidak, tidak ada.\n3. Kemarin bertemu dengan Sdr. Kimura?\n……Tidak, tidak bertemu.\n4. Kare itu enak?\n……Ya, pedas, tetapi enak.\n5. Bagaimana kalau besok kita pergi ke Kyoto bersama-sama?\n……Ya, bagus, ya.\n6. Mau makan apa?\n……Tidak mau makan apa-apa karena sekarang masih kenyang.\n7. Sekarang luang?\n……Ya, luang. Kenapa? Tolong sebentar!\n8. Punya kamus?\n……Tidak, tidak punya."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "text",
+      "text": "Bagaimana Kalau Pergi Bersama-sama?"
+    },
+    {
+      "type": "text",
+      "text": "Kobayashi: Pada liburan musim panas pulang kampung?\nThawaphon: Tidak. Sebenarnya ingin...\nKobayashi: O, begitu. Sdr. Thawaphon, pernah mendaki gunung Fuji?\nThawaphon: Belum, belum pernah.\nKobayashi: O, ya, kalau mau, bagaimana kalau kita pergi bersama-sama?\nThawaphon: Mau. Kira-kira kapan?\nKobayashi: Bagaimana kalau awal bulan Agustus?\nThawaphon: Boleh!\nKobayashi: Kalau begitu, saya mencari berbagai informasi, dan menelepon lagi.\nThawaphon: Terima kasih. Saya tunggu."
+    }
+  ]
+}

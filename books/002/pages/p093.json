@@ -1,0 +1,64 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 93,
+  "page_label": "72",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 11"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Di ruang rapat ada tujuh buah meja.\n2. Saya tinggal di Jepang selama satu tahun."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Anda membeli berapa buah apel?\n⋯⋯Saya membeli empat buah.\n2. Minta perangko seharga ¥80 lima lembar dan kartu pos dua lembar.\n⋯⋯Ya. Semuanya ¥500.\n3. Apakah di Universitas Fuji ada dosen orang asing?\n⋯⋯Ya, ada tiga orang. Semuanya orang Amerika Serikat.\n4. Berapa saudara Anda?\n⋯⋯Empat orang. Dua orang kakak perempuan, dan seorang kakak laki-laki.\n5. Seminggu berapa kali Anda bermain tenis?\n⋯⋯Kira-kira bermain dua kali.\n6. Kira-kira berapa lama Sdr. Tanaka belajar bahasa Spanyol?\n⋯⋯Belajar tiga bulan.\nHanya tiga bulan saja? Pintar ya.\n7. Memakan waktu berapa lama dari Osaka sampai di Tokyo dengan Shinkansen?\n⋯⋯Memakan waktu dua setengah jam."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Tolong Ini."
+    },
+    {
+      "type": "text",
+      "text": "Petugas sekuriti: Cuacanya baik, ya. Mau keluar?\nWang: Ya, mau ke kantor pos sebentar.\nPetugas sekuriti: O, begitu. Hati-hati!\nWang: Saya berangkat."
+    },
+    {
+      "type": "text",
+      "text": "Wang: Tolong ini ke Australia.\nPegawai kantor pos: Baik. Dengan pos laut atau pos udara?\nWang: Berapa ongkosnya kalau dengan pos udara?\nPegawai kantor pos: ¥7.600.\nWang: Kalau pos laut?\nPegawai kantor pos: ¥3.450.\nWang: Kira-kira memakan waktu berapa lama?\nPegawai kantor pos: Tujuh hari dengan pos udara, dan dua bulan dengan pos laut.\nWang: Kalau begitu, dengan pos laut."
+    }
+  ]
+}

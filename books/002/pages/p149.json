@@ -1,0 +1,81 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 149,
+  "page_label": "128",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 20"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Bentuk Sopan dan Bentuk Biasa"
+    },
+    {
+      "type": "text",
+      "text": "Dalam bentuk kalimat bahasa Jepang terdapat dua jenis bentuk kalimat, yaitu bentuk halus dan bentuk biasa."
+    },
+    {
+      "type": "table",
+      "text": "| Bentuk Sopan | Indonesia | Bentuk Biasa | Indonesia |\n|---|---|---|---|\n| あした 東京へ 行きます。 | Besok pergi ke Tokyo. | あした 東京へ 行く。 | Besok pergi ke Tokyo. |\n| 毎日 忙しいです。 | Setiap hari sibuk. | 毎日 忙しい。 | Setiap hari sibuk. |\n| 相撲が 好きです。 | Suka sumo. | 相撲が 好きだ。 | Suka sumo. |\n| 富士山に 登りたいです。 | Ingin mendaki gunung Fuji. | 富士山に 登りたい。 | Ingin mendaki gunung Fuji. |\n| ドイツへ 行った ことが ありません。 | Belum pernah pergi ke Jerman. | ドイツへ 行った ことが ない。 | Belum pernah pergi ke Jerman. |"
+    },
+    {
+      "type": "text",
+      "text": "Bentuk yang diikuti です, ます disebut bentuk sopan, dan bentuk yang dipakai pada kalimat biasa disebut bentuk biasa (Lihat Buku Induk Pel.20 Latihan A1)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Pembagian cara pemakaian Bentuk Sopan dan Bentuk Biasa"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1) Percakapan"
+    },
+    {
+      "type": "text",
+      "text": "Bentuk sopan dipakai untuk orang yang baru saja dikenal, atasan, atau orang yang tidak begitu akrab walaupun orang itu generasi yang sama. Sedangkan bentuk biasa dipakai untuk teman akrab, rekan, atau percakapan antara keluarga.\nJika memakai bentuk biasa kepada lawan bicara yang tidak tepat maka dianggap tidak sopan, karena itu perlu hati-hati kepada lawan bicara yang boleh atau tidak untuk memakai bentuk biasa."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2) Ketika menulis"
+    },
+    {
+      "type": "text",
+      "text": "Pada umumnya, surat tertulis dalam bentuk sopan. Untuk makalah, laporan, catatan harian dan lain-lainnya dipakai bentuk biasa."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Percakapan dalam Bentuk Biasa"
+    },
+    {
+      "type": "text",
+      "text": "1) Dalam kalimat tanya dengan bentuk biasa, pada umumnya partikel か tidak dibubuhkan pada akhir kalimat, tetapi diungkapkan dengan nada yang naik seperti のむ(↗) atau のんだ(↗)."
+    },
+    {
+      "type": "text",
+      "text": "① コーヒーを 飲む？ (↗)　Mau minum kopi?\n……うん、飲む。(↘)　……Ya, mau minum."
+    }
+  ]
+}

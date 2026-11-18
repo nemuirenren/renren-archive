@@ -1,0 +1,94 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 155,
+  "page_label": "134",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 21"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Bentuk Biasa と思います　Saya kira……"
+    },
+    {
+      "type": "text",
+      "text": "Isi pikiran dan keputusan ditunjukan dengan memakai partikel と. Untuk pola kalimat ini terdapat penggunaan sebagai berikut di bawah ini:"
+    },
+    {
+      "type": "text",
+      "text": "1) Menyatakan dugaan.\n① あした 雨が 降ると 思います。　Saya kira besok hujan turun.\n② テレーザちゃんは もう 寝たと 思います。　Saya kira Teresa sudah tidur."
+    },
+    {
+      "type": "text",
+      "text": "Jika isi dugaan bersifat negatif, bentuk negatif diletakan di depan と."
+    },
+    {
+      "type": "text",
+      "text": "③ ミラーさんは この ニュースを 知っていますか。\nApakah Sdr. Miller tahu berita ini?\n……いいえ、知らないと 思います。　……Tidak, saya kira dia tidak tahu."
+    },
+    {
+      "type": "text",
+      "text": "2) Menyatakan pendapat.\n④ 日本は 物価が 高いと 思います。　Saya pikir Jepang harga barangnya mahal."
+    },
+    {
+      "type": "text",
+      "text": "Jika menanyakan pendapat tentang sesuatu, memakai ekspresi ～について どう 思いますか、dan tidak membutuhkan と di belakang どう。"
+    },
+    {
+      "type": "text",
+      "text": "⑤ 新しい空港について どう 思いますか。\n……きれいですが、ちょっと 交通が 不便だと 思います。\nMengenai bandara baru, menurut Anda bagaimana?\n……Bersih, tetapi lalu lintasnya kurang praktis."
+    },
+    {
+      "type": "text",
+      "text": "Untuk menyatakan setuju atau tidak setuju terhadap pendapat orang lain sebagai berikut:"
+    },
+    {
+      "type": "text",
+      "text": "⑥ ケータイは 便利ですね。　HP itu praktis ya.\n……わたしも そう 思います。　……Saya rasa begitu juga."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. 「Kalimat」 Bentuk Biasa と言います　Mengatakan bahwa……"
+    },
+    {
+      "type": "figure",
+      "text": "【図】「Kalimat」／Bentuk Biasa → と言います（Mengatakan bahwa...）"
+    },
+    {
+      "type": "text",
+      "text": "Isi ucapan ditunjukkan dengan と. Caranya ada dua."
+    },
+    {
+      "type": "text",
+      "text": "1) Jika mengutip langsung, mengatakan kata yang dikutip seperti yang diucapkan tanpa diubah. Untuk menulis, kata tersebut dimasukkan ke dalam kurung 「　」 tanpa diubah.\n⑦ 寝る まえに、「お休みなさい」と 言います。\nSebelum tidur mengucapkan “Selamat tidur”.\n⑧ ミラーさんは「来週 東京 へ 出張 します」と 言いました。\nSdr. Miller berkata “Minggu depan dinas ke Tokyo”."
+    },
+    {
+      "type": "text",
+      "text": "2) Jika mengungkapkan isi rangkuman yang disingkat oleh pengutip, sebelum と dipakai bentuk biasa.\n⑨ ミラーさんは 東京 へ 出張 すると 言いました。\nSdr. Miller mengatakan bahwa dinas ke Tokyo."
+    },
+    {
+      "type": "text",
+      "text": "Bagian kutipan tidak dipengaruhi waktu kalimat."
+    }
+  ]
+}

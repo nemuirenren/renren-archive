@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 157,
+  "page_label": "136",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 22"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| きますⅡ | 着ます | memakai (kemeja) |\n| はきますⅠ |  | memakai (sepatu, celana) |\n| かぶりますⅠ |  | memakai (topi) |\n| かけますⅡ<br>[めがねを～] | [眼鏡を～] | memakai [kaca mata] |\n| しますⅢ<br>[ネクタイを～] |  | memakai [dasi] |\n| うまれますⅡ | 生まれます | lahir |\n| わたしたち |  | kami, kita |\n| コート |  | mantel |\n| セーター |  | sweater, baju hangat |\n| スーツ* |  | pakaian setelan |\n| ぼうし | 帽子 | topi |\n| めがね | 眼鏡 | kaca mata |\n| ケーキ |  | kue |\n| [お]べんとう | [お]弁当 | bekal |\n| ロボット |  | robot |\n| ユーモア |  | humor |\n| つごう | 都合 | kondisi |\n| よく |  | sering kali |"
+    }
+  ]
+}

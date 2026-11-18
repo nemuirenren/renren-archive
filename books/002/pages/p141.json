@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 141,
+  "page_label": "120",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 19"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Apakah pernah menonton Sumo?\n2. Pada hari libur, bermain tenis, dan berjalan-jalan.\n3. Secara perlahan-lahan menjadi panas."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Apakah pernah pergi ke Hokkaido?\n…… Ya, pernah satu kali. Dua tahun yang lalu, pergi dengan teman.\n2. Apakah pernah berkuda?\n…… Belum, belum pernah sama sekali. Ingin sekali berkuda.\n3. Pada liburan musim dingin melakukan apa?\n…… Melihat kuil dan wihara di Kyoto, dan berpesta dengan teman.\n4. Ingin melakukan apa di Jepang?\n…… Ingin berwisata dan belajar upacara minum teh.\n5. Bagaimana kondisi badannya?\n…… Berkat Anda, sudah sembuh.\n6. Sudah pandai berbahasa Jepang, ya.\n…… Terima kasih. Tetapi masih kurang.\n7. Teresa ingin menjadi apa?\n…… Ingin menjadi dokter."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "text",
+      "text": "Dietnya Mulai Besok."
+    },
+    {
+      "type": "text",
+      "text": "Semuanya: Toast!\n……\nYoshiko Matsumoto: Sdr. Maria kurang makan, ya?\nMaria: Ya. Sejak kemarin saya berdiet.\nYoshiko Matsumoto: O, begitu. Saya juga pernah berdiet.\nMaria: Cara diet bagaimana?\nYoshiko Matsumoto: Setiap hari hanya makan buah apel dan minum air yang banyak. Tetapi, diet yang paksa tidak baik untuk tubuh, ya.\nMaria: Ya, betul.\nYoshiko Matsumoto: Sdr. Maria, es krim ini enak.\nMaria: O, ya.\n…… Dietnya mulai besok lagi."
+    }
+  ]
+}

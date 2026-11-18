@@ -1,0 +1,57 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 162,
+  "page_label": "141",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 22"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "3) Subjek di dalam anak kalimat ditunjukan dengan partikel が。"
+    },
+    {
+      "type": "text",
+      "text": "⑧ これは ミラーさんが 作った ケーキです。\nIni adalah kue yang dibuat oleh Sdr. Miller.\n⑨ わたしは カリナさんが かいた 絵が 好きです。\nSaya suka lukisan yang dilukis oleh Sdr. Karina.\n⑩ [あなたは] 彼が 生まれた ところを 知っていますか。\nApakah [Anda] tahu tempat dia lahir?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Kata Kerja Bentuk Kamus 時間／約束／用事"
+    },
+    {
+      "type": "text",
+      "text": "Untuk menyatakan waktu melakukan sesuatu, janji untuk melakukan sesuatu, atau urusan untuk melakukan sesuatu, Kata Kerja diletakkan dalam bentuk kamus di depan Kata Benda seperti 時間, 約束, 用事 dan sebagainya."
+    },
+    {
+      "type": "text",
+      "text": "⑪ わたしは 朝ごはんを 食べる 時間が ありません。\nSaya tidak ada waktu untuk makan pagi.\n⑫ わたしは 友達と 映画を 見る 約束が あります。\nSaya ada janji dengan teman untuk menonton film.\n⑬ きょうは 市役所へ 行く 用事が あります。\nHari ini ada urusan pergi ke kantor wali kota."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Kerja (Bentuk ます) ましょうか　Bagaimana kalau.......?"
+    },
+    {
+      "type": "text",
+      "text": "Pada Pelajaran 14, pola kalimat ini telah dipelajari sebagai ungkapan yang menyatakan si pembicara menawarkan diri untuk melakukan sesuatu bagi lawan bicara. Di dalam percakapan pada pelajaran ini, pola kalimat ini dipakai untuk mengajak lawan bicara melakukan sesuatu bersama-sama."
+    },
+    {
+      "type": "text",
+      "text": "⑭ この部屋、きょう 見ることが できますか。\nApakah kamar ini dapat saya lihat hari ini?\n……ええ。今から 行きましょうか。\n……Ya. Bagaimana kalau pergi sekarang?"
+    }
+  ]
+}

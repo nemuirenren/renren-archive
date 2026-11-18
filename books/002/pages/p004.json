@@ -1,0 +1,44 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 4,
+  "page_label": "iii",
+  "kind": "front_matter",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Kata Pengantar"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "KATA PENGANTAR"
+    },
+    {
+      "type": "text",
+      "text": "Sesuai dengan judulnya yaitu “Minna no Nihongo”, buku ini dirancang serta disusun dalam waktu tiga tahun lebih, agar setiap pelajar pemula bahasa Jepang dapat belajar bahasa Jepang dengan senang hati dan untuk para pengajar dapat mengajarkannya dengan menarik pula. Buku ini dapat disebut sebagai pendamping dari buku pelajaran yang lengkap yakni “Shin Nihongo no Kiso”."
+    },
+    {
+      "type": "text",
+      "text": "Sebagaimana telah diketahui bahwa walaupun buku “Shin Nihongo no Kiso” dikembangkan sebagai buku pelajaran untuk trainee teknik, isinya cukup lengkap sebagai materi bahasa Jepang untuk tahap pemula, kemudian sangat efisien bagi pelajar yang ingin menguasai percakapan bahasa Jepang dalam waktu yang singkat, maka kini buku ini dipakai oleh berbagai kalangan secara luas, baik di dalam negeri maupun di luar negeri."
+    },
+    {
+      "type": "text",
+      "text": "Akhir-akhir ini keadaan pendidikan bahasa Jepang semakin beraneka ragam. Sesuai dengan perkembangan hubungan internasional, hubungan bilateral antara Jepang dan manca negara yang mendalam, warga asing dengan berbagai latar belakang serta tujuan yang berbeda untuk menetap di Jepang telah diterima di masyarakat Jepang. Perubahan lingkungan masyarakat dalam bidang pendidikan bahasa Jepang dengan meningkatnya jumlah warga asing seperti tersebut di atas, juga mempengaruhi lapangan pendidikan bahasa Jepang masing-masing, maka diharapkan penanganannya terhadap keanekaragaman kebutuhan pelajar secara individu."
+    },
+    {
+      "type": "text",
+      "text": "Di tengah keadaan yang demikian, 3A Corporation memutuskan untuk menerbitkan “Minna no Nihongo” sebagai jawaban atas pendapat dan harapan dari banyak pihak yang bertahun-tahun lamanya melibatkan diri untuk pengadaan pendidikan bahasa Jepang baik di dalam negeri maupun di luar negeri. Kini “Minna no Nihongo” ini, disamping memanfaatkan ciri khas, topik pelajaran serta cara belajar yang mudah diikuti dari “Shin Nihongo no Kiso”, adegan dan peran percakapan juga disesuaikan untuk menanggapi keanekaragaman kalangan pelajar agar isinya menjadi lebih lazim sehingga tidak terdapat hambatan yang disebabkan oleh latar belakang para pelajar serta kehasan dari masing-masing daerah, isi buku ini telah ditingkatkan dan diupayakan agar pelajaran bahasa Jepang dapat dilanjutkan dengan senang."
+    },
+    {
+      "type": "text",
+      "text": "Kalangan yang dimaksud dari “Minna no Nihongo” ini ialah warga asing yang segera memerlukan komunikasi dalam bahasa Jepang, antara lain di tempat kerja, rumah tangga, sekolah, masyarakat setempat dan sebagainya. Meskipun sebagai bahan dasar, pada adegan pergaulan antara peran warga asing dan orang Jepang diusahakan agar mencerminkan situasi Jepang, kehidupan masyarakat, serta kehidupan sehari-hari orang Jepang. Target utama buku ini adalah orang dewasa umum, tetapi dapat direkomendasikan"
+    }
+  ]
+}

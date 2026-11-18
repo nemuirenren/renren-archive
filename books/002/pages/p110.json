@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 110,
+  "page_label": "89",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 14"
+    },
+    {
+      "level": 2,
+      "title": "〈練習 C〉"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈練習 C〉"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "|  |  |  |\n|---|---|---|\n| もんだい | 問題 | masalah, soal |\n| こたえ | 答え | jawaban |\n| よみかた | 読み方 | cara membaca |\n| 〜かた | 〜方 | cara 〜 |\n| まっすぐ |  | lurus |\n| ゆっくり |  | pelan-pelan, istirahat dengan baik |\n| すぐ |  | segera, langsung |\n| また |  | lagi |\n| あとで |  | nanti |\n| もう すこし | もう 少し | sedikit lagi |\n| もう 〜 |  | 〜 lagi |\n| さあ |  | mari (digunakan ketika mengajak atau menyuruh sesuatu kepada lawan bicara) |\n| あれ？ |  | Ah? (digunakan ketika heran atau merasa aneh) |\n| 信号を右へ曲がって ください。 |  | Tolong belok ke kanan di lampu lalu lintas. |\n| これで お願いします。 |  | Minta dengan ini. |\n| お釣り |  | uang kembalian |\n| みどり町 |  | kota fiksi |"
+    }
+  ]
+}

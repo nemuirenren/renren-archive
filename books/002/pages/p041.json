@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 41,
+  "page_label": "20",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 2"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. これ／それ／あれ"
+    },
+    {
+      "type": "text",
+      "text": "これ、それ、あれ menunjukkan benda dan berfungsi sebagai Kata Benda.\nこれ menunjukkan benda yang ada di dekat pembicara.\nそれ menunjukkan benda yang ada di dekat lawan bicara.\nあれ menunjukkan benda yang ada jauh dari pembicara dan lawan bicara.\n① それは 辞書ですか。 Apakah itu kamus?\n② これは だれの 傘ですか。 Ini payung siapa?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. この Kata Benda／その Kata Benda／あの Kata Benda"
+    },
+    {
+      "type": "text",
+      "text": "Jika menerangkan Kata Benda, dipakai この, その dan あの.\n③ この 本は わたしのです。 Buku ini kepunyaan saya.\n④ あの 方は どなたですか。 Siapakah beliau?"
+    },
+    {
+      "type": "figure",
+      "text": "【図】これ／この かばん、それ／その かばん、あれ／あの かばん（tiga panel: di dekat pembicara, di dekat lawan bicara, jauh dari keduanya）"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. そうです"
+    },
+    {
+      "type": "text",
+      "text": "Dalam kalimat nominal yang menanyakan positif atau negatif, sering digunakan そう terhadap jawaban positif, dan dapat menjawab dengan kalimat はい、そうです.\n⑤ それは 辞書ですか。 Apakah itu kamus?\n……はい、そうです。 ……Ya, betul.\nUntuk bentuk negatif, tidak lazim menjawab dengan そう, tetapi sebagai gantinya digunakan ちがいます (bukan), atau menyatakan jawaban yang sebenarnya.\n⑥ それは ミラーさんのですか。 Apakah itu punya Sdr. Miller?\n……いいえ、違います。 ……Bukan.\n⑦ それは シャープペンシルですか。 Apakah itu pensil isi ulang?\n……いいえ、ボールペンです。 ……Bukan, bolpoin."
+    }
+  ]
+}

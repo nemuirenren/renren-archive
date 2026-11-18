@@ -1,0 +1,98 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 54,
+  "page_label": "33",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 4"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "⑨ ７月２日に 日本へ 来ました。\nDatang ke Jepang pada tanggal 2 Juli yang lalu. (Pel.5)"
+    },
+    {
+      "type": "text",
+      "text": "［Perhatian 1］ Kata Benda yang menunjukkan waktu seperti di bawah ini, tidak dibubuhkan に.\nきょう, あした, あさって, きのう, おととい, けさ, こんばん, いま, まいあさ, まいばん, まいにち, せんしゅう (Pel.5), こんしゅう (Pel.5), らいしゅう (Pel.5), いつ (Pel.5), せんげつ (Pel.5), こんげつ (Pel.5), らいげつ (Pel.5), ことし (Pel.5), らいねん (Pel.5), きょねん (Pel.5), dan lain-lain."
+    },
+    {
+      "type": "text",
+      "text": "⑩ きのう 勉強しました。\nKemarin belajar."
+    },
+    {
+      "type": "text",
+      "text": "［Perhatian 2］ Untuk Kata Benda berikut, に boleh dibubuhkan dan juga boleh tidak dibubuhkan. 〜ようび, あさ, ひる, ばん, よる"
+    },
+    {
+      "type": "text",
+      "text": "⑪ 日曜日[に] 奈良へ 行きます。\nPada hari Minggu, pergi ke Nara. (Pel.5)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Benda₁ から Kata Benda₂ まで"
+    },
+    {
+      "type": "text",
+      "text": "1) から menunjukkan titik permulaan waktu atau tempat, sedangkan まで menunjukkan titik akhir waktu atau tempat."
+    },
+    {
+      "type": "text",
+      "text": "⑫ ９時から ５時まで 勉強します。\nBelajar dari pukul sembilan sampai dengan pukul lima.\n⑬ 大阪から 東京まで ３時間かかります。\nMenghabiskan waktu tiga jam dari Osaka sampai di Tokyo. (Pel.11)"
+    },
+    {
+      "type": "text",
+      "text": "2) から dan まで tidak selalu dipakai secara bersamaan, tetapi juga dipakai sendiri."
+    },
+    {
+      "type": "text",
+      "text": "⑭ ９時から 働きます。\nBekerja dari pukul sembilan."
+    },
+    {
+      "type": "text",
+      "text": "3) Untuk menyatakan waktu atau tanggal mulai dan selesainya Kata Benda yang diangkat pada topik, dapat digunakan dengan です di belakang ～から、～まで、～から～まで。"
+    },
+    {
+      "type": "text",
+      "text": "⑮ 銀行は ９時から ３時までです。\nBank dibuka dari pukul sembilan sampai dengan pukul tiga.\n⑯ 昼休みは 12時からです。\nWaktu istirahat siang dari pukul dua belas."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Kata Benda₁ と Kata Benda₂"
+    },
+    {
+      "type": "text",
+      "text": "Jika menyambung Kata Benda secara setaraf, Kata Benda dan Kata Benda disambung dengan と."
+    },
+    {
+      "type": "text",
+      "text": "⑰ 銀行の 休みは 土曜日と 日曜日です。\nHari libur bank adalah hari Sabtu dan hari Minggu."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. 〜ね"
+    },
+    {
+      "type": "text",
+      "text": "Kata Bantu ね dibubuhkan di akhir kalimat, dan digunakan ketika mengharapkan persetujuan dari lawan bicara, menegaskan, atau menekankan."
+    },
+    {
+      "type": "text",
+      "text": "⑱ 毎日 10時まで 勉強します。\nSetiap hari belajar sampai pukul sepuluh.\n……大変ですね。\n……O, berat ya.\n⑲ 山田さんの 電話番号は 871の 6813です。\nNomor telepon Sdr. Yamada 871-6813.\n……871の 6813ですね。\n……871-6813, ya."
+    }
+  ]
+}

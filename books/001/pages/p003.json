@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "中学理科",
+    "title": "改訂版 中学理科が面白いほどわかる本",
+    "lang": "ja"
+  },
+  "page": 3,
+  "page_label": "",
+  "kind": "front_matter",
+  "outline": [],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "定期テスト対策　高校入試対策の基礎固めまで"
+    },
+    {
+      "type": "text",
+      "text": "改訂版"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "中学理科"
+    },
+    {
+      "type": "text",
+      "text": "が面白いほどわかる本"
+    },
+    {
+      "type": "text",
+      "text": "河合塾Wings講師　岩本将志"
+    }
+  ]
+}

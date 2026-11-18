@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 132,
+  "page_label": "111",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 17"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Kerja (Bentuk ない) なくても いいです　Tidak perlu......"
+    },
+    {
+      "type": "text",
+      "text": "Pola kalimat ini menunjukkan bahwa tidak perlu melakukan sesuatu hal.\n④ あした 来なくても いいです。\nBesok tidak perlu datang."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Penopikan Objek"
+    },
+    {
+      "type": "text",
+      "text": "Jika menyatakan dengan objek langsung sebagai topik, maka partikel を dihilangkan kemudian membubuhkan partikel は, lalu diletakkan paling di depan dalam kalimat.\nここに 荷物を 置かないで ください。\nJangan letakkan barang di sini.\n荷物~~を~~は ここに 置かないで ください。\n⑤ 荷物は ここに 置かないで ください。\nBarangnya jangan diletakkan di sini.\n会社の 食堂で 昼ごはんを 食べます。\nMakan siang di kantin perusahaan.\n昼ごはん~~を~~は 会社の 食堂で 食べます。\n⑥ 昼ごはんは 会社の 食堂で 食べます。\nMakan siangnya makan di kantin perusahaan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Kata Benda (waktu) までに Kata Kerja"
+    },
+    {
+      "type": "text",
+      "text": "Menunjukkan batas waktu aksi atau peristiwa.\n⑦ 会議は ５時までに 終わります。\nRapat selesai sebelum pukul lima.\n⑧ 土曜日までに 本を 返さなければ なりません。\nMengembalikan buku sampai dengan hari Sabtu."
+    },
+    {
+      "type": "text",
+      "text": "［Perhatian］ Partikel まで yang telah dipelajari pada Pelajaran 4 menunjukkan titik akhir aksi yang sedang berlangsung. Perlu hati-hati sebab bentuknya mirip.\n⑨ ５時まで 働きます。\nBekerja sampai pukul lima."
+    }
+  ]
+}

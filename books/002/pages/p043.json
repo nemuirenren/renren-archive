@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 43,
+  "page_label": "22",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 3"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 3"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ここ |  | sini |\n| そこ |  | situ |\n| あそこ |  | sana |\n| どこ |  | (di) mana |\n| こちら |  | sini (bentuk sopan dari ここ) |\n| そちら |  | situ (bentuk sopan dari そこ) |\n| あちら |  | sana (bentuk sopan dari あそこ) |\n| どちら |  | mana (bentuk sopan dari どこ) |\n| きょうしつ | 教室 | ruang kelas |\n| しょくどう | 食堂 | ruang makan, rumah makan, kantin |\n| じむしょ | 事務所 | kantor |\n| かいぎしつ | 会議室 | ruang rapat |\n| うけつけ | 受付 | meja informasi |\n| ロビー |  | ruang tunggu, lobi |\n| へや | 部屋 | kamar |\n| トイレ（おてあらい） | （お手洗い） | kamar kecil, toilet, W.C. |\n| かいだん | 階段 | tangga |\n| エレベーター |  | lift |\n| エスカレーター |  | tangga berjalan, eskalator |\n| じどうはんばいき | 自動販売機 | mesin jual otomatis |\n| でんわ | 電話 | telepon |\n| [お]くに | [お]国 | negara, negeri |\n| かいしゃ | 会社 | perusahaan |\n| うち |  | rumah |"
+    }
+  ]
+}

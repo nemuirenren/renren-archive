@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 116,
+  "page_label": "95",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 15"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈練習 C〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 皆さん | semuanya, bapak-bapak dan ibu-ibu sekalian |\n| 思い出しますⅠ | teringat |\n| いらっしゃいますⅠ | bentuk hormat dari います |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 日本橋 | nama daerah perbelanjaan di Osaka |\n| みんなのインタビュー | acara televisi fiksi |"
+    }
+  ]
+}

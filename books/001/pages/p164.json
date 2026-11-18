@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "中学理科",
+    "title": "改訂版 中学理科が面白いほどわかる本",
+    "lang": "ja"
+  },
+  "page": 164,
+  "page_label": "162",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "第3章 化学分野"
+    },
+    {
+      "level": 2,
+      "title": "テーマ25 原子と分子，化学式，化学反応式"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "●水素の燃焼\n2H₂ + O₂ → 2H₂O"
+    },
+    {
+      "type": "text",
+      "text": "●メタンの燃焼（有機物を燃焼させたときの例）\nCH₄ + 2O₂ → CO₂ + 2H₂O"
+    },
+    {
+      "type": "text",
+      "text": "●酸化銅の炭素による還元\n2CuO + C → 2Cu + CO₂"
+    },
+    {
+      "type": "text",
+      "text": "●酸化銅の水素による還元\nCuO + H₂ → Cu + H₂O"
+    },
+    {
+      "type": "text",
+      "text": "●塩酸と水酸化ナトリウムの中和\nHCl + NaOH → NaCl + H₂O"
+    },
+    {
+      "type": "text",
+      "text": "●硫酸と水酸化バリウムの中和\nH₂SO₄ + Ba(OH)₂ → BaSO₄ + 2H₂O"
+    },
+    {
+      "type": "text",
+      "text": "●塩酸とマグネシウムの反応\n2HCl + Mg → MgCl₂ + H₂"
+    },
+    {
+      "type": "text",
+      "text": "●水酸化カルシウム（石灰水）と二酸化炭素の反応\nCa(OH)₂ + CO₂ → CaCO₃ + H₂O"
+    }
+  ]
+}

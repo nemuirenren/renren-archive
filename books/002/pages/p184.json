@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 184,
+  "page_label": "163",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 25"
+    },
+    {
+      "level": 2,
+      "title": "Kolom 2: Klausa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kolom 2: Klausa"
+    },
+    {
+      "type": "text",
+      "text": "Klausa adalah bentuk kalimat yang menjadi satu bagian untuk kalimat lain."
+    },
+    {
+      "type": "text",
+      "text": "Misalnya, kalimat bagian garis bawah pada kalimat (1) adalah 田中さんがここへ来ました atau kalimat bagian garis bawah pada kalimat (2) adalah あした雨が降ります menjadi satu bagian kalimat besar untuk yang lain."
+    },
+    {
+      "type": "text",
+      "text": "(1) 田中さんがここへ来たとき、山田さんはいませんでした。\nKetika Sdr. Tanaka datang ke sini, Sdr. Yamada tidak ada."
+    },
+    {
+      "type": "text",
+      "text": "(2) あした雨が降ったら、わたしは出かけません。\nKalau besok hujan turun, saya tidak pergi."
+    },
+    {
+      "type": "text",
+      "text": "Demikian, klausa yang menjadi bagian dari kalimat lain disebut anak kalimat. Di samping itu, bagian selain anak kalimat dari kalimat keseluruhannya disebut kalimat pokok."
+    },
+    {
+      "type": "text",
+      "text": "Anak kalimat dari segi artinya berfungsi untuk menerangkan isi kalimat pokok agar lebih jelas. Misalnya, kalimat (2) membatasi isi kalimat pokok dengan mengangkat あした雨が降ったら sebagai syarat untuk saya tidak pergi."
+    },
+    {
+      "type": "text",
+      "text": "Menurut susunan kata-kata biasa dalam bahasa Jepang, anak kalimat mendahului kalimat pokok."
+    },
+    {
+      "type": "text",
+      "text": "Subjek dari anak kalimat biasanya ditunjukkan dengan が (bukan は). Kecuali frase untuk 〜が、〜けど ditunjuk dengan は."
+    }
+  ]
+}

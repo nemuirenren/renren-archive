@@ -1,0 +1,48 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 22,
+  "page_label": "",
+  "kind": "toc",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Daftar Isi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Pelajaran 24 ..... 148"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan:<br>Bagaimana Kalau Saya Pergi Untuk Membantu Anda? |\n| III. | Kata-Kata Referensi dan Informasi<br>Tukar-Menukar Hadiah |\n| IV. | Keterangan Tata Bahasa<br>1. くれます<br>2. Kata Kerja Bentuk て { あげます / もらいます / くれます<br>3. Kata Benda1 は Kata Benda2 が Kata Kerja |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 25 ..... 154"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan:<br>Telah Mendapatkan Banyak Bantuannya. |\n| III. | Kata-Kata Referensi dan Informasi<br>Seumur Hidup Manusia |\n| IV. | Keterangan Tata Bahasa<br>1. Bentuk Biasa Lampau ら、～ (kalimat pokok)<br>2. Kata Kerja Bentuk たら、～ (kalimat pokok)<br>3. Kata Kerja Bentuk て／Kata Kerja (Bentuk ない) なくて／Kata Sifat い (～い) → ～くて／Kata Sifat な [な] → ～で／Kata Benda で ～ (kalimat pokok)<br>4. もし<br>5. Subjek dalam anak kalimat |"
+    },
+    {
+      "type": "text",
+      "text": "Kolom 1 : Topik dan Subjek ..... 160\nKolom 2 : Klausa ..... 163"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "DAFTAR LAMPIRAN"
+    },
+    {
+      "type": "text",
+      "text": "I. Kata Bilangan ..... 164\nII. Ungkapan waktu ..... 165\nIII. Ungkapan waktu ..... 167\nIV. Kata Bantu Bilangan ..... 168\nV. Konjugasi Kata Kerja ..... 170"
+    }
+  ]
+}

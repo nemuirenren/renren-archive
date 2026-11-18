@@ -1,0 +1,18 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "中学理科",
+    "title": "改訂版 中学理科が面白いほどわかる本",
+    "lang": "ja"
+  },
+  "page": 285,
+  "page_label": "",
+  "kind": "blank",
+  "outline": [],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "（白紙）"
+    }
+  ]
+}

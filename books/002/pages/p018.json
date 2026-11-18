@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 18,
+  "page_label": "",
+  "kind": "toc",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Daftar Isi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Pelajaran 9 ..... 58"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan: Sayang... |\n| III. | Kata-Kata Referensi dan Informasi<br>Musik, Olahraga, Film |\n| IV. | Keterangan Tata Bahasa<br>1. Kata Benda が あります／わかります<br>Kata Benda が 好きです／嫌いです／上手です／下手です<br>2. どんな Kata Benda<br>3. よく／だいたい／たくさん／少し／あまり／全然<br>4. ～から、～<br>5. どうして |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 10 ..... 64"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan: Ada Kecap Ikan? |\n| III. | Kata-Kata Referensi dan Informasi<br>Di Dalam Rumah |\n| IV. | Keterangan Tata Bahasa<br>1. Kata Benda が あります／います<br>2. Tempat に Kata Benda が あります／います<br>3. Kata Benda は tempat に あります／います<br>4. Kata Benda1 (benda/orang/tempat) の Kata Benda2 (posisi)<br>5. Kata Benda1 や Kata Benda2<br>6. アジアストアですか |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 11 ..... 70"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan: Tolong Ini. |\n| III. | Kata-Kata Referensi dan Informasi<br>Menu |\n| IV. | Keterangan Tata Bahasa<br>1. Cara menghitung kuantitas<br>2. Cara penggunaan Kata Keterangan Bilangan<br>3. Kata Keterangan Bilangan (jangka waktu) に 一回 Kata Kerja<br>4. Kata Keterangan Bilangan だけ／Kata Benda だけ |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 12 ..... 76"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan:<br>Bagaimana Perayaan Gion? |\n| III. | Kata-Kata Referensi dan Informasi<br>Perayaan, Tempat Terkenal |\n| IV. | Keterangan Tata Bahasa<br>1. Waktu Positif/Negatif untuk Kalimat Nominal ・ Kalimat Adjektival な<br>2. Waktu Positif/Negatif untuk Kalimat Adjektival い<br>3. Kata Benda1 は Kata Benda2 より Kata Sifat です<br>4. Kata Benda1 と Kata Benda2 と どちらが Kata Sifat ですか<br>…… Kata Benda1/Kata Benda2 の ほうが Kata Sifat です<br>5. Kata Benda1 [の 中]で 何／どこ／だれ／いつが いちばん Kata Sifat ですか<br>…… Kata Benda2 が いちばん Kata Sifat です<br>6. Kata Sifat の (の yang berfungsi sebagai pengganti Kata Benda) |"
+    }
+  ]
+}

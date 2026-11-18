@@ -1,0 +1,27 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 7,
+  "page_label": "vi",
+  "kind": "front_matter",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Kata Pengantar Edisi Kedua"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Kemudian untuk penyusunan buku ini, kami telah mendapatkan kerja sama yang luar biasa berupa pendapat dari berbagai pihak, dan pemakaian buku ini dalam pelajaran di kelas. Untuk itu kami mengucapkan terima kasih dari hati yang terdalam. Selanjutnya, tidak hanya komunikasi yang diperlukan bagi pelajar bahasa Jepang, kami juga berharap agar kami berguna untuk semua pihak dengan mengembangkan bahan yang mampu berkontribusi pada kegiatan pertukaran internasional antara sesama manusia. Kami mohon dukungan serta pendapat yang lebih banyak lagi dari semua pihak."
+    },
+    {
+      "type": "text",
+      "text": "Juni 2012\nTakuji Kobayashi\nDirektur Utama 3A Corporation"
+    }
+  ]
+}

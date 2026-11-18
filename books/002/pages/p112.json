@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 112,
+  "page_label": "91",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 14"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "駅　Stasiun"
+    },
+    {
+      "type": "table",
+      "text": "|  |  |\n|---|---|\n| 切符売り場 | loket penjualan karcis |\n| 自動券売機 | mesin karcis otomatis |\n| 精算機 | alat penghitung otomatis |\n| 改札口 | pintu pemeriksaan karcis |\n| 出口 | pintu keluar |\n| 入口 | pintu masuk |\n| 東口 | pintu Timur |\n| 西口 | pintu Barat |\n| 南口 | pintu Selatan |\n| 北口 | pintu Utara |\n| 中央口 | pintu Tengah |\n| [プラット]ホーム | peron |\n| 売店 | kios, kedai |\n| コインロッカー | loker |\n| タクシー乗り場 | tempat naik taksi |\n| バスターミナル | terminal bis |\n| バス停 | halte bis |"
+    },
+    {
+      "type": "table",
+      "text": "|  |  |\n|---|---|\n| 特急 | kereta api super cepat |\n| 急行 | kereta api cepat |\n| 快速 | kereta api cepat yang melewati pinggiran kota |\n| 準急 | kereta semi cepat |\n| 普通 | kereta api biasa |\n| 時刻表 | jadwal keberangkatan kereta api, bis, dll |\n| ～発 | berangkat dari ~, berangkat pukul ~ |\n| ～着 | berangkat ke ~, tiba pukul ~ |\n| [東京]行き | berangkat ke, tujuan [Tokyo] |\n| 定期券 | kartu langganan berjangka |\n| 回数券 | karcis kupon |\n| 片道 | sekali jalan |\n| 往復 | pulang pergi |"
+    },
+    {
+      "type": "figure",
+      "text": "【図】駅の構内　えき・東口・タクシー"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 115,
+  "page_label": "94",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 15"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 15"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| おきますⅠ／置きます | meletakkan, menaruh |\n| つくりますⅠ／作ります、造ります | membuat, membangun, memproduksi |\n| うりますⅠ／売ります | menjual |\n| しりますⅠ／知ります | mengetahui, mengenal |\n| すみますⅠ／住みます | tinggal |\n| けんきゅうしますⅢ／研究します | meneliti |\n| しりょう／資料 | data, bahan |\n| カタログ | katalog |\n| じこくひょう／時刻表 | jadwal |\n| ふく／服 | baju |\n| せいひん／製品 | produk |\n| ソフト | perangkat lunak |\n| でんしじしょ／電子辞書 | kamus elektronik |\n| けいざい／経済 | ekonomi |\n| しやくしょ／市役所 | kantor wali kota |\n| こうこう／高校 | SMA |\n| はいしゃ／歯医者 | dokter gigi |\n| どくしん／独身 | bujangan, belum berkeluarga |\n| すみません | Maaf. |"
+    }
+  ]
+}

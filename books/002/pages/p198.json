@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 198,
+  "page_label": "177",
+  "kind": "appendix",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Lampiran"
+    },
+    {
+      "level": 2,
+      "title": "V. Konjugasi Kata Kerja"
+    },
+    {
+      "level": 3,
+      "title": "Kelompok II"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| Bentuk ない |  | Bentuk た | Arti | Pelajaran |\n|---|---|---|---|---|\n| あけ | ない | あけた | membuka | 14 |\n| あげ | ない | あげた | memberikan | 7 |\n| あつめ | ない | あつめた | mengumpulkan | 18 |\n| あび | ない | あびた | mandi | 16 |\n| い | ない | いた | ada (digunakan untuk makhluk hidup) | 10 |\n| い | ない | いた | ada, mempunyai [anak] | 11 |\n| い | ない | いた | ada [di Jepang] | 11 |\n| いれ | ない | いれた | memasukkan | 16 |\n| うまれ | ない | うまれた | lahir | 22 |\n| おき | ない | おきた | bangun | 4 |\n| おしえ | ない | おしえた | mengajar | 7 |\n| おしえ | ない | おしえた | memberitahukan [alamat] | 14 |\n| おぼえ | ない | おぼえた | mengingat, menghafal | 17 |\n| おり | ない | おりた | turun [kereta rel listrik] | 16 |\n| かえ | ない | かえた | mengganti, menukar | 18 |\n| かえ | ない | かえた | mengubah | 23 |\n| かけ | ない | かけた | menelepon | 7 |\n| かけ | ない | かけた | memakai [kaca mata] | 22 |\n| かり | ない | かりた | meminjam, menyewa | 7 |\n| かんがえ | ない | かんがえた | berpikir, memikirkan | 25 |\n| き | ない | きた | memakai (kemeja) | 22 |\n| きを つけ | ない | きを つけた | berwaspada, berhati-hati | 21 |\n| くれ | ない | くれた | diberikan | 24 |\n| しめ | ない | しめた | menutup | 14 |\n| しらべ | ない | しらべた | memeriksa, meneliti, mengecek | 20 |\n| すて | ない | すてた | membuang | 18 |\n| たべ | ない | たべた | makan | 6 |\n| たり | ない | たりた | cukup | 25 |\n| つかれ | ない | つかれた | lelah | 13 |\n| つけ | ない | つけた | menyalakan, memasang, menghidupkan | 14 |\n| でかけ | ない | でかけた | pergi, keluar, berangkat | 17 |\n| でき | ない | できた | dapat, bisa, mampu | 18 |\n| で | ない | でた | keluar [uang kembalian] | 23 |"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 133,
+  "page_label": "112",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 18"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 18"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| できますⅡ |  | dapat, bisa, mampu |\n| あらいますⅠ | 洗います | mencuci |\n| ひきますⅠ | 弾きます | bermain (bermaksud untuk bermain alat musik senar dan piano) |\n| うたいますⅠ | 歌います | bernyanyi, menyanyi |\n| あつめますⅡ | 集めます | mengumpulkan |\n| すてますⅡ | 捨てます | membuang |\n| かえますⅡ | 換えます | mengganti, menukar |\n| うんてんしますⅢ | 運転します | menyetir, mengendarai |\n| よやくしますⅢ | 予約します | memesan |\n| ピアノ |  | piano |\n| —メートル |  | — meter |\n| げんきん | 現金 | uang tunai |\n| しゅみ | 趣味 | hobi, kegemaran |\n| にっき | 日記 | catatan harian |\n| おいのり | お祈り | doa (～を します：berdoa) |\n| かちょう | 課長 | kepala seksi |\n| ぶちょう | 部長 | kepala bagian |\n| しゃちょう* | 社長 | direktur utama |\n| どうぶつ | 動物 | hewan, binatang |\n| うま | 馬 | kuda |\n| インターネット |  | internet |"
+    }
+  ]
+}

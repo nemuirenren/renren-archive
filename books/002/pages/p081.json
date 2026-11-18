@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 81,
+  "page_label": "60",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 9"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Saya suka masakan Italia.\n2. Saya dapat mengerti bahasa Jepang sedikit.\n3. Saya cepat pulang karena hari ini hari ulang tahun anak saya."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Suka minuman keras?\n……Tidak, tidak suka.\n2. Suka olahraga apa?\n……Suka sepak bola.\n3. Apakah Sdr. Karina pandai melukis?\n……Ya, [Sdr. Karina] sangat pandai.\n4. Apakah Sdr. Tanaka mengerti bahasa Indonesia?\n……Tidak, sama sekali tidak mengerti.\n5. Apakah punya uang receh?\n……Tidak, tidak punya.\n6. Apakah setiap pagi membaca surat kabar?\n……Tidak, tidak membaca karena tidak ada waktu.\n7. Mengapa kemarin Anda cepat pulang?\n……Karena ada urusan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Sayang..."
+    },
+    {
+      "type": "text",
+      "text": "Kimura: Ya?\nMiller: Sdr. Kimura? Miller di sini.\nKimura: O, Sdr. Miller, selamat malam. Apa kabar?\nMiller: Ya, baik-baik saja.\nSdr. Kimura, bagaimana kalau kita pergi ke konser musik klasik bersama-sama?\nKimura: Bagus, ya. Kapan?\nMiller: Hari Jumat malam minggu depan.\nKimura: Hari Jumat, ya?\nKalau hari Jumat malam, saya...\nMiller: Tidak bisa?\nKimura: Ya, sayang, tetapi karena ada janji dengan teman.\nMiller: O, ya?\nKimura: Ya. Lain kali saja, ya."
+    }
+  ]
+}

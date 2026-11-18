@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 50,
+  "page_label": "29",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 4"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| しけん | 試験 | ujian |\n| かいぎ | 会議 | rapat, (〜を します：mengadakan rapat) |\n| えいが | 映画 | film |\n| まいあさ | 毎朝 | setiap pagi |\n| まいばん | 毎晩 | setiap malam |\n| まいにち | 毎日 | setiap hari |\n| げつようび | 月曜日 | hari Senin |\n| かようび | 火曜日 | hari Selasa |\n| すいようび | 水曜日 | hari Rabu |\n| もくようび | 木曜日 | hari Kamis |\n| きんようび | 金曜日 | hari Jumat |\n| どようび | 土曜日 | hari Sabtu |\n| にちようび | 日曜日 | hari Minggu |\n| なんようび | 何曜日 | hari apa |\n| 〜から |  | dari 〜 |\n| 〜まで |  | sampai 〜 |\n| 〜と 〜 |  | 〜 dan 〜 (digunakan jika menyambung kata benda) |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈練習 C〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 大変ですね。 | O, berat ya. (ungkapan untuk menyatakan rasa simpati dari lawan bicara terhadap si pembicara yang mengalami suatu hal yang dianggap susah) |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 番号 | nomor |\n| 何番 | nomor berapa |\n| そちら | di situ |\n| ニューヨーク | New York |\n| ペキン | Beijing（北京） |\n| ロサンゼルス | Los Angeles |\n| ロンドン | London |\n| あすか | restoran masakan Jepang fiksi |\n| アップル銀行 | bank fiksi |\n| みどり図書館 | perpustakaan fiksi |\n| やまと美術館 | gedung kesenian fiksi |"
+    }
+  ]
+}

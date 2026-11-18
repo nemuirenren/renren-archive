@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 160,
+  "page_label": "139",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 22"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "衣服　Pakaian"
+    },
+    {
+      "type": "table",
+      "text": "| | | | |\n|---|---|---|---|\n| スーツ<br>pakaian setelan | ワンピース<br>terusan | 上着<br>jas | ズボン／パンツ<br>celana panjang<br>ジーンズ<br>celana jeans |\n| スカート<br>rok | ブラウス<br>blus | ワイシャツ<br>kemeja | セーター<br>sweater, baju hangat |\n| マフラー<br>shal, selendang<br>手袋<br>sarung tangan | 下着<br>pakaian dalam | くつした<br>kaos kaki<br>（パンティー）ストッキング<br>stoking | 着物<br>Kimono (pakaian tradisional Jepang)<br>帯<br>Obi (ikat pinggang tradisional Jepang, digunakan bersamaan dengan Kimono) |\n| （オーバー）コート<br>mantel<br>レインコート<br>jas hujan | ネクタイ<br>dasi<br>ベルト<br>ikat pinggang | ハイヒール<br>sepatu berhak tinggi<br>ブーツ<br>sepatu bot<br>運動靴<br>sepatu olah raga | ぞうり<br>Zori (sandal tradisional Jepang)<br>たび<br>Tabi (kaos kaki tradisional Jepang) |"
+    }
+  ]
+}

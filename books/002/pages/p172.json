@@ -1,0 +1,50 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 172,
+  "page_label": "151",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 24"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "贈答の習慣　Tukar-Menukar Hadiah"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| お年玉 | Hadiah kecil berupa uang yang diberikan orang tua dan keluarga kepada anak-anak pada Hari Tahun Baru. |\n| 入学祝い | Hadiah yang diberikan kepada anak yang masuk sekolah (uang, perlengkapan sekolah, buku, dll.). |\n| 卒業祝い | Hadiah yang diberikan kepada anak yang tamat sekolah (uang, perlengkapan sekolah, buku, dll.). |\n| 結婚祝い | Hadiah perkawinan (uang, perlengkapan rumah tangga, dll.). |\n| 出産祝い | Hadiah yang diberikan kepada orang yang melahirkan (pakaian bayi, mainan bayi, dll.). |\n| お中元 [Juli atau Agustus]<br>お歳暮 [Desember] | Hadiah yang diberikan kepada orang yang telah memberi bantuan, seperti dokter, guru, atasan, dll. (makanan, dll.). |\n| お香典 | Uang yang diberikan kepada keluarga yang berduka |\n| お見舞い | Hadiah yang diberikan kepada orang yang sedang sakit (bunga, buah-buahan, dll.). |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "熨斗袋　Amplop Khusus untuk Hadiah Uang"
+    },
+    {
+      "type": "text",
+      "text": "Memilih amplop yang digunakan sesuai dengan tujuan."
+    },
+    {
+      "type": "figure",
+      "text": "【図】Tiga macam amplop hadiah uang (熨斗袋): (1) amplop kiri berlabel 御祝・御結婚・山田, untuk upacara pernikahan (dengan pita merah dan putih atau emas dan perak); (2) amplop tengah berlabel 御祝・山田, untuk upacara selain upacara pernikahan (dengan pita merah dan putih atau emas dan perak); (3) amplop kanan berlabel 御霊前・山田, untuk upacara kematian (dengan pita hitam dan putih)."
+    }
+  ]
+}

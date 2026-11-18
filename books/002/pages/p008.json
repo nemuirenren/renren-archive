@@ -1,0 +1,71 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 8,
+  "page_label": "vii",
+  "kind": "front_matter",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Cara Penggunaan Buku Ini"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "CARA PENGGUNAAN BUKU INI"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Susunan"
+    },
+    {
+      "type": "text",
+      "text": "“Minna no Nihongo untuk Tingkat Dasar I Edisi Kedua” terdiri dari “Buku Pelajaran Utama (lengkap dengan CD)” serta “Buku Terjemahan dan Keterangan Tata Bahasa”. “Buku Terjemahan dan Keterangan Tata Bahasa” direncanakan terbit dalam dua belas bahasa terutama bahasa Inggris."
+    },
+    {
+      "type": "text",
+      "text": "Buku pelajaran ini disusun dengan tujuan menguasai empat kemampuan yaitu, berbicara, mendengar, membaca, dan menulis dalam bahasa Jepang. Tetapi, cara membaca serta menulis huruf Hiragana, Katakana dan Kanji tidak termasuk dalam “Buku Pelajaran Utama” serta “Buku Terjemahan dan Keterangan Tata Bahasa”."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Isi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Buku Pelajaran Utama"
+    },
+    {
+      "type": "text",
+      "text": "1) Ungkapan bahasa Jepang\nDisajikan contoh utama mengenai hal yang perlu diperhatikan dalam ungkapan."
+    },
+    {
+      "type": "text",
+      "text": "2) Ungkapan di dalam kelas, ucapan salam sehari-hari serta ekspresi percakapan, dan bilangan\nDiberikan percakapan yang digunakan di dalam kelas dan ucapan salam dasar sehari-hari."
+    },
+    {
+      "type": "text",
+      "text": "3) Pelajaran\nBagian ini terdiri dari pelajaran 1 sampai pelajaran 25, dan terbagi seperti di bawah ini:"
+    },
+    {
+      "type": "text",
+      "text": "① Pola kalimat\nDiberikan pola kalimat yang akan dipelajari dalam pelajaran tersebut."
+    },
+    {
+      "type": "text",
+      "text": "② Contoh kalimat\nBentuk pola kalimat dasar disajikan dalam bentuk percakapan tanya-jawab singkat yaitu bagaimana cara mempraktekkannya. Kemudian disajikan pula cara penggunaan kata keterangan, kata penghubung dan topik pelajaran di luar pola kalimat dasar."
+    },
+    {
+      "type": "text",
+      "text": "③ Percakapan\nDalam percakapan, muncul warga asing yang hidup di Jepang dengan memaparkan berbagai adegan. Selain setiap isi pelajaran, bagian ini juga disusun dengan tambahan ucapan salam sehari-hari yang sering menggunakan ungkapan idiom. Jika memiliki kemampuan yang lebih, Anda dapat mengembangkan isi percakapan dengan menggunakan referensi kata-kata yang terdapat di “Buku Terjemahan dan Keterangan Tata Bahasa”."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 126,
+  "page_label": "105",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 16"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "⑨ お金を 入れてから、ボタンを 押して ください。\nTekanlah tombol setelah memasukkan uang."
+    },
+    {
+      "type": "text",
+      "text": "Dengan catatan bahwa subjek untuk Kata Kerja Bentuk てから ditunjukkan dengan partikel が."
+    },
+    {
+      "type": "text",
+      "text": "⑩ もう 昼ごはんを 食べましたか。\nSudah makan siang?\n……この 仕事が 終わってから、食べます。\n……Setelah selesai pekerjaan ini, baru mau makan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Benda₁ は Kata Benda₂ が Kata Sifat"
+    },
+    {
+      "type": "text",
+      "text": "Pola kalimat ini menunjukkan bahwa topik (Kata Benda₁) mempunyai sifat 'Kata Benda₂ が Kata Sifat'."
+    },
+    {
+      "type": "text",
+      "text": "⑪ 大阪は 食べ物が おいしいです。\nOsaka makanannya enak."
+    },
+    {
+      "type": "text",
+      "text": "⑫ ドイツの フランケンは ワインが 有名です。\nFranken di Jerman anggurnya terkenal."
+    },
+    {
+      "type": "text",
+      "text": "⑬ マリアさんは 髪が 長いです。\nSdr. Maria rambutnya panjang."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Benda を Kata Kerja"
+    },
+    {
+      "type": "text",
+      "text": "Kata Kerja 出ます、降ります dan lain-lainnya digunakan bersama dengan partikel を。を ini menunjukkan titik awal atau titik keberangkatan."
+    },
+    {
+      "type": "text",
+      "text": "⑭ 7時に うちを 出ます。\nPada pukul tujuh keluar dari rumah."
+    },
+    {
+      "type": "text",
+      "text": "⑮ 梅田で 電車を 降りました。\nTurun kereta rel listrik di Umeda."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. どうやって"
+    },
+    {
+      "type": "text",
+      "text": "どうやって dipakai untuk menanyakan cara pergi ke suatu tempat atau cara untuk melakukan sesuatu."
+    },
+    {
+      "type": "text",
+      "text": "⑯ 大学まで どうやって 行きますか。\nBagaimana caranya pergi ke universitas?\n……京都駅から 16番の バスに 乗って、大学前で 降ります。\n……Dari stasiun Kyoto, naik bus nomor 16, dan turun di Daigakumae."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. どれ／どの Kata Benda"
+    },
+    {
+      "type": "text",
+      "text": "どれ adalah Kata Tanya untuk meminta untuk menentukan satu dari lebih dari tiga macam pilihan yang ditunjukkan secara konkret."
+    },
+    {
+      "type": "text",
+      "text": "⑰ ミラーさんの 傘は どれですか。\nYang mana payung Sdr. Miller?\n……あの 青い 傘です。\n……Payung yang biru itu."
+    },
+    {
+      "type": "text",
+      "text": "どれ tidak dapat digunakan dengan Kata Benda secara langsung. Ketika menerangkan Kata Benda digunakan どの。"
+    },
+    {
+      "type": "text",
+      "text": "⑱ サントスさんは どの 人ですか。\nSdr. Santos orangnya yang mana?\n……あの 背が 高くて、髪が 黒い 人です。\n……Orang yang badannya tinggi, dan rambutnya hitam."
+    }
+  ]
+}

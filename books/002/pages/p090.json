@@ -1,0 +1,74 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 90,
+  "page_label": "69",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 10"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "……千葉県に あります。\n……Terletak di prefektur Chiba.\n⑬ ミラーさんは どこに いますか。\nSdr. Miller ada di mana?\n……事務所に います。\n……Ada di kantor."
+    },
+    {
+      "type": "text",
+      "text": "［Perhatian］ Pola kalimat ini dapat diganti dengan Kata Benda は 場所 です (Pel. 3). Untuk ini, perlu hati-hati bahwa di belakang Kata Tanya yang menunjukkan tempat (どこ) dan Kata Benda tidak dibubuhkan に.\n⑭ 東京ディズニーランドは どこですか。\nDi mana Tokyo Disneyland?\n……千葉県です。\n……Di prefektur Chiba."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Benda₁（benda/orang/tempat）の Kata Benda₂（posisi）"
+    },
+    {
+      "type": "text",
+      "text": "うえ、した、まえ、うしろ、みぎ、ひだり、なか、そと、となり、ちかく、あいだ dan lain-lainnya menunjukkan hubungan posisi antara Kata Benda₁ dan Kata Benda₂."
+    },
+    {
+      "type": "text",
+      "text": "⑮ 机の 上に 写真が あります。\nDi atas meja ada foto.\n⑯ 郵便局は 銀行の 隣に あります。\nKantor pos ada di sebelah bank.\n⑰ 本屋は 花屋と スーパーの 間に あります。\nToko buku ada di antara toko bunga dan pasar swalayan."
+    },
+    {
+      "type": "text",
+      "text": "［Perhatian］ Yang disebut di atas, sama halnya seperti Kata Benda yang menunjukkan tempat, dapat menunjukkan tempat aksi dengan dibubuhkan partikel で.\n⑱ 駅の 近くで 友達に 会いました。\nDi dekat stasiun, bertemu dengan teman."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Kata Benda₁ や Kata Benda₂"
+    },
+    {
+      "type": "text",
+      "text": "Partikel と yang telah dipelajari di Pelajaran 4 digunakan untuk menyebutkan semua Kata Benda secara setara, sedangkan partikel や mengambil beberapa hal saja yang mewakili (lebih dari dua) untuk menyebutkannya secara setara. Adakalanya untuk menyatakan bahwa masih ada Kata Benda yang tidak disebutkan secara jelas, dengan membubuhkan など di belakang Kata Benda yang disebut terakhir."
+    },
+    {
+      "type": "text",
+      "text": "⑲ 箱の 中に 手紙や 写真が あります。\nDi dalam kotak ada surat dan foto.\n⑳ 箱の 中に 手紙や 写真などが あります。\nDi dalam kotak ada surat, foto dan lain-lainnya."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. アジアストアですか"
+    },
+    {
+      "type": "text",
+      "text": "Pada bagian awal percakapan di pelajaran ini terdapat percakapan sebagai berikut:\n㉑ すみません。アジアストアは どこですか。\n……アジアストアですか。（中略）あの ビルの 中です。\nMaaf. Di mana Asia Store?\n……Asia Store? (disingkat) Di dalam gedung itu."
+    },
+    {
+      "type": "text",
+      "text": "Dalam percakapan praktek sering kali lawan bicara tidak langsung menjawab terhadap pertanyaan, tetapi menjawab setelah menegaskan inti pertanyaan si pembicara."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 179,
+  "page_label": "158",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 25"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Bentuk Biasa Lampau ら、〜（kalimat pokok）　Kalau ..."
+    },
+    {
+      "type": "text",
+      "text": "Menyatakan persyaratan asumsi dengan membubuhkan ら pada Bentuk Biasa Lampau Kata Kerja, Kata Sifat dan Kata Benda yang menunjukkan isi suatu hal yang terjadi di bawah persyaratan asumsi yang disusul dengan kalimat pokok di belakangnya. Untuk kalimat pokok dapat digunakan ekspresi untuk menunjukkan keinginan, harapan, ajakan, permohonan dan lain-lain dari lawan bicara."
+    },
+    {
+      "type": "text",
+      "text": "① お金があったら、旅行します。\nKalau punya uang, berwisata."
+    },
+    {
+      "type": "text",
+      "text": "② 時間がなかったら、テレビを見ません。\nKalau tidak ada waktu, tidak menonton TV."
+    },
+    {
+      "type": "text",
+      "text": "③ 安かったら、パソコンを買いたいです。\nKalau murah, ingin membeli komputer."
+    },
+    {
+      "type": "text",
+      "text": "④ 暇だったら、手伝ってください。\nKalau sedang luang, tolong bantu saya."
+    },
+    {
+      "type": "text",
+      "text": "⑤ いい天気だったら、散歩しませんか。\nKalau cuaca baik, bagaimana kita jalan-jalan?"
+    },
+    {
+      "type": "text",
+      "text": "[Perhatian] Di belakang kalimat bentuk 〜と (kalimat pokok), ekspresi untuk keinginan, harapan, ajakan, permohonan dan lain-lainnya tidak dapat dipakai."
+    },
+    {
+      "type": "figure",
+      "text": "【図】× 時間があると、\n・コンサートに行きます。（keinginan）\n・コンサートに行きたいです。（harapan）\n・コンサートに行きませんか。（ajakan）\n・ちょっと手伝ってください。（permohonan）"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Kata Kerja Bentuk たら、〜（kalimat pokok）　Kalau sudah ..., 〜"
+    },
+    {
+      "type": "text",
+      "text": "Jika sebelumnya telah mengetahui bahwa maksud dari Kata Kerja Bentuk たら pasti terjadi, setelah terjadi hal itu menyatakan terjadinya hal-hal seperti aksi atau kejadian yang disusul kalimat pokok."
+    },
+    {
+      "type": "text",
+      "text": "⑥ 10時になったら、出かけましょう。\nKalau sudah sampai pukul sepuluh, kita berangkat."
+    },
+    {
+      "type": "text",
+      "text": "⑦ うちへ帰ったら、すぐシャワーを浴びます。\nKalau pulang ke rumah, saya langsung mandi."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 49,
+  "page_label": "28",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 4"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 4"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| おきます | 起きます | bangun |\n| ねます | 寝ます | tidur |\n| はたらきます | 働きます | bekerja |\n| やすみます | 休みます | beristirahat, libur |\n| べんきょうします | 勉強します | belajar |\n| おわります | 終わります | selesai |\n| デパート |  | toserba |\n| ぎんこう | 銀行 | bank |\n| ゆうびんきょく | 郵便局 | kantor pos |\n| としょかん | 図書館 | perpustakaan |\n| びじゅつかん | 美術館 | gedung kesenian |\n| いま | 今 | sekarang |\n| ーじ | ー時 | jam ー, pukul ー |\n| ーふん（ーぷん） | ー分 | ー menit |\n| はん | 半 | setengah |\n| なんじ | 何時 | jam berapa, pukul berapa |\n| なんぷん | 何分 | berapa menit |\n| ごぜん | 午前 | a.m. (waktu sebelum jam 12 siang) |\n| ごご | 午後 | p.m. (waktu setelah jam 12 siang) |\n| あさ | 朝 | pagi |\n| ひる | 昼 | siang |\n| ばん（よる） | 晩（夜） | malam |\n| おととい |  | dua hari yang lalu, kemarin lusa |\n| きのう |  | kemarin |\n| きょう |  | hari ini |\n| あした |  | besok |\n| あさって |  | lusa |\n| けさ |  | pagi ini, tadi pagi |\n| こんばん | 今晩 | malam ini, nanti malam |\n| やすみ | 休み | istirahat, cuti, libur |\n| ひるやすみ | 昼休み | istirahat siang |"
+    }
+  ]
+}

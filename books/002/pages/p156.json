@@ -1,0 +1,80 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 156,
+  "page_label": "135",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 21"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Lawan bicara yang mendengarkan ungkapan pembicara ditunjukan dengan partikel に。\n⑩ 父に 留学したいと 言いました。\nSaya berkata kepada ayah bahwa ingin belajar di luar negeri."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. でしょう？"
+    },
+    {
+      "type": "table",
+      "text": "| Jenis kata | Bentuk |\n|---|---|\n| Kata Kerja<br>Kata Sifat い | Bentuk Biasa ＋ でしょう？<br>......, bukan? |\n| Kata Sifat な<br>Kata Benda | Bentuk Biasa ～だ ＋ でしょう？<br>......, bukan? |"
+    },
+    {
+      "type": "text",
+      "text": "Ini digunakan pada waktu bertanya dengan tujuan mendapatkan persetujuan dari lawan bicara atau menegaskan. でしょう diungkapkan dengan nada yang naik.\nDi depan でしょう dipakai bentuk biasa, tetapi untuk Kata Sifat な dan Kata Benda dilanjutkan dengan bentuk ～だ。\n⑪ あした パーティーに 行くでしょう？　Besok pergi ke pesta, bukan?\n……ええ、行きます。　……Ya, pergi.\n⑫ 北海道は 寒かったでしょう？　Hokkaido dingin, bukan?\n……いいえ、そんなに 寒くなかったです。　……Tidak, tidak begitu dingin."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Benda₁ (tempat) で Kata Benda₂ が あります"
+    },
+    {
+      "type": "text",
+      "text": "Jika Kata Benda₂ menyatakan acara atau peristiwa seperti pesta, konser, perayaan, kejadian, bencana dan sebagainya, maka あります digunakan dalam maksud diadakan atau terjadi."
+    },
+    {
+      "type": "text",
+      "text": "⑬ 東京で 日本と ブラジルの サッカーの 試合が あります。\nDi Tokyo diadakan pertandingan sepak bola antara Jepang dan Brasil."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Kata Benda (adegan) で"
+    },
+    {
+      "type": "text",
+      "text": "Sesuatu adegan yang dilakukan ditunjukan dengan partikel で。\n⑭ 会議で 何か 意見を 言いましたか。\nDi dalam rapat, apakah mengutarakan suatu pendapat?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Kata Benda でも Kata Kerja"
+    },
+    {
+      "type": "text",
+      "text": "Jika menawarkan atau mengusulkan sesuatu, atau menyatakan keinginan dipakai partikel でも untuk menyebutkan satu dari beberapa contoh yang ada.\n⑮ ちょっと ビールでも 飲みませんか。　Bagaimana kalau minum bir, atau...?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Kata Kerja (Bentuk ない) ないと……"
+    },
+    {
+      "type": "text",
+      "text": "Ini adalah bentuk yang disingkat dari Kata Kerja (Bentuk ない) ないといけません (Pel.17). Kata Kerja (Bentuk ない) ないといけません mempunyai arti yang hampir sama dengan Kata Kerja (Bentuk ない) なければなりません yang telah dipelajari pada Pelajaran 17.\n⑯ もう 帰らないと……。　Harus pulang..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 98,
+  "page_label": "77",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 12"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| すきやき* | すき焼き | Sukiyaki (masakan yang dimasak daging sapi dan sayur dalam panci) |\n| さしみ* | 刺身 | Sashimi (ikan mentah yang dipotong tipis) |\n| [お]すし |  | Sushi (nasi dicampur cuka yang di atasnya diberi ikan mentah) |\n| てんぷら |  | Tempura (gorengan sari laut dan sayur yang dipakai tepung terigu) |\n| ぶたにく* | 豚肉 | daging babi |\n| とりにく | とり肉 | daging ayam |\n| ぎゅうにく | 牛肉 | daging sapi |\n| レモン |  | lemon |\n| いけばな | 生け花 | seni merangkai bunga (～を します：merangkai bunga) |\n| もみじ | 紅葉 | maple, daun yang berubah warna menjadi merah |\n| どちら |  | yang mana |\n| どちらも |  | dua-duanya, yang mana juga |\n| いちばん |  | paling |\n| ずっと |  | jauh lebih |\n| はじめて | 初めて | untuk pertama kali |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "《会話》"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| ただいま。 | Saya kembali./Saya pulang. |\n| お帰りなさい。 | Sudah pulang ya. |\n| わあ、すごい人ですね。 | Wah, banyak orang. |\n| 疲れました。 | Lelah. |\n| 祇園祭 | Perayaan Gion (perayaan yang paling terkenal di Kyoto) |\n| ホンコン | Hong Kong (香港) |\n| シンガポール | Singapura |\n| ABC ストア | pasar swalayan fiksi |\n| ジャパン | pasar swalayan fiksi |"
+    }
+  ]
+}

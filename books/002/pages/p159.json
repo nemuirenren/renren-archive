@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 159,
+  "page_label": "138",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 22"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Ini kue yang dibuat oleh Sdr. Miller.\n2. Orang yang ada di sana adalah Sdr. Miller.\n3. (Saya) lupa kosa kata yang telah pelajari kemarin.\n4. Tidak ada waktu untuk pergi belanja."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Ini foto yang saya ambil di Tembok besar Cina.\n......O begitu. Bagus, ya.\n2. Yang mana lukisan yang dilukis oleh Sdr. Karina?\n......Itu. Lukisan laut itu.\n3. Siapakah orang yang memakai kimono itu?\n......Sdr. Kimura.\n4. Sdr. Yamada, di mana tempat pertama kalinya bertemu dengan istri Anda?\n......Benteng Osaka.\n5. Bagaimana konser yang Anda tonton bersama dengan Sdr. Kimura?\n......Sangat bagus.\n6. Kenapa?\n......Saya kehilangan payung yang saya beli kemarin.\n7. Ingin punya rumah yang bagaimana?\n......Ingin punya rumah yang berhalaman luas.\n8. Bagaimana kalau hari Minggu yang akan datang pergi menonton sepak bola?\n......Maaf. Kalau hari Minggu ada janji bertemu dengan teman."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Cari Kamar Yang Bagaimana?"
+    },
+    {
+      "type": "text",
+      "text": "Pegawai realestet: Cari kamar yang bagaimana?\nWang: Ya... Biaya sewanya kira-kira delapan puluh ribu yen, dan daerah yang tidak jauh dari stasiun.\nPegawai realestet: Kalau begitu, bagaimana yang ini? Sepuluh menit dari stasiun, dan biaya sewanya delapan puluh tiga ribu yen.\nWang: Ruang makan dengan dapur dan kamar ala Jepang, ya. Maaf. Ini apa?\nPegawai realestet: Lemari ala Jepang. Tempat untuk menyimpan selimut dan kasur.\nWang: O, begitu. Apakah kamar ini bisa saya lihat hari ini?\nPegawai realestet: Ya. Bagaimana kalau pergi sekarang?\nWang: Ya, tolong."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 123,
+  "page_label": "102",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 16"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Pagi hari joging, mandi, kemudian pergi ke perusahaan.\n2. Setelah selesai konser, makan di restoran.\n3. Osaka makanannya enak.\n4. Kamar ini luas dan terang."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Kemarin melakukan apa?\n……Pergi ke perpustakaan untuk meminjam buku, kemudian bertemu dengan teman.\n2. Bagaimana caranya pergi ke universitas?\n……Dari stasiun Kyoto, naik bus nomor 16, dan turun di Daigakumae.\n3. Sekarang mau melihat Benteng Osaka?\n……Tidak. Melihatnya setelah makan siang.\n4. Sdr. Maria orangnya yang mana?\n……Orang yang rambutnya panjang itu.\n5. Yang mana sepeda Taro?\n……Sepeda yang biru, dan baru itu.\n6. Nara kota yang bagaimana?\n……Kota yang tenang dan indah.\n7. Siapa orang itu?\n……Sdr. Karina. Dia orang Indonesia, dan pelajar asing dari Universitas Fuji."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Tolong Ajarkan Cara Pemakaiannya!"
+    },
+    {
+      "type": "text",
+      "text": "Maria: Maaf, tolong ajarkan cara pemakaiannya.\nPegawai bank: Tarik uang?\nMaria: Ya, betul.\nPegawai bank: Kalau begitu, pertama-tama tekan di sini.\nMaria: Baik.\nPegawai bank: Kemudian, masukkan kartu ATM di sini, dan tekan nomor PIN-nya.\nMaria: Baik. Sudah saya tekan.\nPegawai bank: Kalau begitu, tekan jumlah uangnya.\nMaria: ¥50.000, lima....\nPegawai bank: Tekan “Man (10,000)” dan “En (Yen)” ini.\nKemudian, tekan tombol “Kakunin (cek)” ini.\nMaria: Baik. Terima kasih banyak."
+    }
+  ]
+}

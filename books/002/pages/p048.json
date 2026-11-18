@@ -1,0 +1,66 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 48,
+  "page_label": "27",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 3"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Jika menanyakan nama negara, perusahaan, sekolah dan lain-lain seperti tempat atau organisasi, tidak menggunakan Kata Tanya なん melainkan menggunakan どこ, どちら. Dalam hal ini, ungkapan どちら menjadi lebih sopan daripada menggunakan どこ."
+    },
+    {
+      "type": "text",
+      "text": "⑥ 学校は どこですか。\nSekolah di mana?\n⑦ 会社は どちらですか。\nPerusahaan mana?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Benda₁ の Kata Benda₂"
+    },
+    {
+      "type": "text",
+      "text": "Jika Kata Benda₁ adalah nama negara dan Kata Benda₂ adalah produknya, maka Kata Benda₁ の berarti buatan dari negara tersebut. Kalau Kata Benda₁ adalah nama perusahaan, dan Kata Benda₂ adalah produknya, Kata Benda₁ の berarti buatan perusahaan tersebut. Untuk kedua pertanyaan digunakan Kata Tanya どこ."
+    },
+    {
+      "type": "text",
+      "text": "⑧ これは どこの コンピューターですか。\nIni komputer buatan mana?\n……日本の コンピューターです。\n……Komputer buatan Jepang.\n……パワー電気の コンピューターです。\n……Komputer Power Elektronik."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Daftar こ／そ／あ／ど (Kata Penunjuk)"
+    },
+    {
+      "type": "table",
+      "text": "|  | kelompok こ | kelompok そ | kelompok あ | kelompok ど |\n|---|---|---|---|---|\n| Barang | これ | それ | あれ | どれ (Pel.16) |\n| Barang/Orang | この Kata Benda | その Kata Benda | あの Kata Benda | どの Kata Benda (Pel.16) |\n| Tempat | ここ | そこ | あそこ | どこ |\n| Arah/Tempat (halus) | こちら | そちら | あちら | どちら |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. お～"
+    },
+    {
+      "type": "text",
+      "text": "Prefiks お dibubuhkan pada hal-hal yang bersangkut dengan lawan bicara atau orang pihak ketiga untuk menyatakan rasa hormat dari si pembicara."
+    },
+    {
+      "type": "text",
+      "text": "⑨ ［お］国は どちらですか。\nBerasal dari mana?"
+    }
+  ]
+}

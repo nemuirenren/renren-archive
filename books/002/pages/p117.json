@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 117,
+  "page_label": "96",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 15"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Boleh mengambil foto?\n2. Sdr. Santos memiliki kamus elektronik."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Boleh minta katalog ini?\n……Ya, boleh. Silakan.\n2. Boleh meminjam kamus ini?\n……Maaf... Sekarang sedang saya pakai.\n3. Tidak boleh bermain di sini.\n……Ya.\n4. Apakah tahu nomor telepon kantor wali kota?\n……Tidak, tidak tahu.\n5. Sdr. Maria tinggal di mana?\n……Tinggal di Osaka.\n6. Apakah Sdr. Wang sudah berkeluarga?\n……Belum, masih bujang.\n7. Apa pekerjaannya?\n……Guru. Mengajar di SMA."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Keluarganya?"
+    },
+    {
+      "type": "text",
+      "text": "Kimura: Film yang bagus, ya.\nMiller: Ya. Saya teringat-ingat keluarga saya.\nKimura: O, begitu. Keluarga Sdr. Miller?\nMiller: Ada orang tua dan seorang kakak perempuan.\nKimura: Di mana?\nMiller: Orang tua saya tinggal di dekat New York.\nKakak perempuan saya bekerja di London.\nKalau keluarga Sdr. Kimura?\nKimura: Tiga orang. Ayah saya pegawai bank.\nIbu saya mengajar bahasa Inggris di SMA."
+    }
+  ]
+}

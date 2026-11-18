@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "中学理科",
+    "title": "改訂版 中学理科が面白いほどわかる本",
+    "lang": "ja"
+  },
+  "page": 161,
+  "page_label": "159",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "第3章 化学分野"
+    },
+    {
+      "level": 2,
+      "title": "テーマ25 原子と分子，化学式，化学反応式"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "●主な元素記号"
+    },
+    {
+      "type": "table",
+      "text": "| 元素名 | 元素記号 |\n|---|---|\n| 水素 | H |\n| 炭素 | C |\n| 酸素 | O |\n| 窒素 | N |\n| 硫黄 | S |\n| 塩素 | Cl |\n| カリウム | K |\n| アルミニウム | Al |\n| ナトリウム | Na |\n| マグネシウム | Mg |\n| カルシウム | Ca |\n| 鉄 | Fe |\n| 銅 | Cu |\n| 亜鉛 | Zn |\n| 銀 | Ag |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "●主な化学式"
+    },
+    {
+      "type": "table",
+      "text": "| 物質名 | 化学式 |\n|---|---|\n| 水素 | H₂ |\n| 炭素 | C |\n| 酸素 | O₂ |\n| 窒素 | N₂ |\n| 硫黄 | S |\n| 塩素 | Cl₂ |\n| 水 | H₂O |\n| 二酸化炭素 | CO₂ |\n| 塩化水素 | HCl |\n| アンモニア | NH₃ |\n| 酸化銀 | Ag₂O |\n| 酸化銅 | CuO |\n| 酸化マグネシウム | MgO |\n| 塩化銅 | CuCl₂ |\n| 硫化鉄 | FeS |\n| 硫化銅 | CuS |\n| 硫酸 | H₂SO₄ |\n| 炭酸ナトリウム | Na₂CO₃ |\n| 炭酸水素ナトリウム | NaHCO₃ |\n| 炭酸カルシウム | CaCO₃ |\n| 水酸化バリウム | Ba(OH)₂ |\n| 水酸化ナトリウム | NaOH |\n| 水酸化カルシウム | Ca(OH)₂ |"
+    }
+  ]
+}

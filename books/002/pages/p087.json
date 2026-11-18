@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 87,
+  "page_label": "66",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 10"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Di sana ada toko 24 jam.\n2. Di lobi ada Sdr. Sato.\n3. Tokyo Disneyland terletak di prefektur Chiba.\n4. Keluarga ada di New York."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Di gedung ini ada ATM?\n   ……Ya, ada di lantai dua.\n\n2. Di sana ada orang laki-laki, bukan? Beliau siapa?\n   ……Sdr. Matsumoto dari IMC.\n\n3. Di halaman ada siapa?\n   ……Tidak ada siapa-siapa. Ada kucing.\n\n4. Di dalam kotak ada apa?\n   ……Ada surat lama, foto (dan lain-lainnya).\n\n5. Kantor pos ada di mana?\n   ……Dekat stasiun. Ada di depan bank.\n\n6. Sdr. Miller ada di mana?\n   ……Di ruang rapat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Ada Kecap Ikan?"
+    },
+    {
+      "type": "text",
+      "text": "Miller: Maaf. Di mana Asia Store?\nWanita: Asia Store?\n        Di situ ada gedung yang putih, bukan?\n        Di dalam gedung itu.\nMiller: O, ya. Maaf, merepotkan.\nWanita: Tidak apa-apa.\n        ……………………………………………………\nMiller: A… ada kecap ikan?\nPramuniaga: Ya.\n            Di sana ada bagian masakan Thailan.\n            Kecap ikan paling di bawah.\nMiller: Baik. Terima kasih."
+    }
+  ]
+}

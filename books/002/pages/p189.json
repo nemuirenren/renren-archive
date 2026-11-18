@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 189,
+  "page_label": "168",
+  "kind": "appendix",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Lampiran"
+    },
+    {
+      "level": 2,
+      "title": "IV. Kata Bantu Bilangan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Kata Bantu Bilangan"
+    },
+    {
+      "type": "table",
+      "text": "|  | benda | manusia/orang 一人 | urutan 一番 | benda yang tipis dan datar 一枚 |\n|---|---|---|---|---|\n| 1 | ひとつ | ひとり | いちばん | いちまい |\n| 2 | ふたつ | ふたり | にばん | にまい |\n| 3 | みっつ | さんにん | さんばん | さんまい |\n| 4 | よっつ | よにん | よんばん | よんまい |\n| 5 | いつつ | ごにん | ごばん | ごまい |\n| 6 | むっつ | ろくにん | ろくばん | ろくまい |\n| 7 | ななつ | ななにん、しちにん | ななばん | ななまい |\n| 8 | やっつ | はちにん | はちばん | はちまい |\n| 9 | ここのつ | きゅうにん | きゅうばん | きゅうまい |\n| 10 | とお | じゅうにん | じゅうばん | じゅうまい |\n| ? | いくつ | なんにん | なんばん | なんまい |"
+    },
+    {
+      "type": "table",
+      "text": "|  | mesin dan kendaraan 一台 | umur 一歳 | buku dan buku catatan 一冊 | pakaian 一着 |\n|---|---|---|---|---|\n| 1 | いちだい | いっさい | いっさつ | いっちゃく |\n| 2 | にだい | にさい | にさつ | にちゃく |\n| 3 | さんだい | さんさい | さんさつ | さんちゃく |\n| 4 | よんだい | よんさい | よんさつ | よんちゃく |\n| 5 | ごだい | ごさい | ごさつ | ごちゃく |\n| 6 | ろくだい | ろくさい | ろくさつ | ろくちゃく |\n| 7 | ななだい | ななさい | ななさつ | ななちゃく |\n| 8 | はちだい | はっさい | はっさつ | はっちゃく |\n| 9 | きゅうだい | きゅうさい | きゅうさつ | きゅうちゃく |\n| 10 | じゅうだい | じゅっさい、じっさい | じゅっさつ、じっさつ | じゅっちゃく、じっちゃく |\n| ? | なんだい | なんさい | なんさつ | なんちゃく |"
+    },
+    {
+      "type": "figure",
+      "text": "【図】Ilustrasi contoh: もんだい 1. 2. 3. 4. にばん；NOTE BOOK"
+    }
+  ]
+}

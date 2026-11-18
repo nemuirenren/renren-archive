@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 61,
+  "page_label": "40",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 6"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 6"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| たべます | 食べます | makan |\n| のみます | 飲みます | minum |\n| すいます [たばこを～] | 吸います | mengisap [rokok], merokok |\n| みます | 見ます | melihat, menonton |\n| ききます | 聞きます | mendengar |\n| よみます | 読みます | membaca |\n| かきます | 書きます | menulis, menggambar (かきます juga bermaksud menggambar, tetapi dalam buku ini yang dimaksud menggambar itu tertulis dalam hiragana) |\n| かいます | 買います | membeli |\n| とります [しゃしんを～] | 撮ります [写真を～] | mengambil [foto] |\n| します |  | mengerjakan, melakukan, berbuat |\n| あいます [ともだちに～] | 会います [友達に～] | bertemu [dengan teman] |\n| ごはん |  | nasi |\n| あさごはん* | 朝ごはん | sarapan |\n| ひるごはん | 昼ごはん | makan siang |\n| ばんごはん* | 晩ごはん | makan malam |\n| パン |  | roti |\n| たまご | 卵 | telur |\n| にく | 肉 | daging |\n| さかな | 魚 | ikan |\n| やさい | 野菜 | sayur |\n| くだもの | 果物 | buah-buahan |\n| みず | 水 | air |\n| おちゃ | お茶 | teh, teh Jepang (teh hijau) |\n| こうちゃ | 紅茶 | teh |\n| ぎゅうにゅう（ミルク） | 牛乳 | susu |\n| ジュース |  | jus, sari buah |\n| ビール |  | bir |\n| [お]さけ | [お]酒 | minuman keras |\n| たばこ |  | rokok |"
+    }
+  ]
+}

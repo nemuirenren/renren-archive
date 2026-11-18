@@ -1,0 +1,86 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 180,
+  "page_label": "159",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 25"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Kerja Bentuk て／Kata Kerja (Bentuk ない) なくて／Kata Sifat い（～い）→ ～くて／Kata Sifat な（～な）→ ～で／Kata Benda で　も、～（kalimat pokok）　Walaupun ..."
+    },
+    {
+      "type": "table",
+      "text": "| Bentuk | も、～（kalimat pokok） |\n|---|---|\n| Kata Kerja Bentuk て | Walaupun ... |\n| Kata Kerja (Bentuk ない) なくて |  |\n| Kata Sifat い（～い）→ ～くて |  |\n| Kata Sifat な（～な）→ ～で |  |\n| Kata Benda で |  |"
+    },
+    {
+      "type": "text",
+      "text": "Ini menunjukkan persyaratan asumsi paradoks. Dengan kalimat yang disusul bentuk ても (kalimat pokok), ditunjukkan terjadi hal yang terbaik yang biasanya dapat diduga di bawah persyaratan asumsi, atau tidak terjadinya hal yang biasanya dapat diduga."
+    },
+    {
+      "type": "text",
+      "text": "⑧ 雨が降っても、洗濯します。\nWalaupun hujan, mencuci pakaian."
+    },
+    {
+      "type": "text",
+      "text": "⑨ 安くても、わたしはグループ旅行が嫌いです。\nWalaupun murah, saya tidak suka tur rombongan."
+    },
+    {
+      "type": "text",
+      "text": "⑩ 便利でも、パソコンを使いません。\nWalaupun praktis, tidak memakai komputer."
+    },
+    {
+      "type": "text",
+      "text": "⑪ 日曜日でも、働きます。\nWalaupun hari Minggu, bekerja."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. もし"
+    },
+    {
+      "type": "text",
+      "text": "もし dipakai bersama dengan ～たら, dan berfungsi untuk memberitahukan sebelumnya bahwa kalimat tersebut adalah kalimat persyaratan. もし menekankan perasaan asumsi si pembicara."
+    },
+    {
+      "type": "text",
+      "text": "⑫ もし1億円あったら、いろいろな国を旅行したいです。\nKalau punya seratus juta yen, ingin berwisata di berbagai negara."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Subjek dalam anak kalimat"
+    },
+    {
+      "type": "text",
+      "text": "Pada Pelajaran 16 bagian 2, telah dijelaskan bahwa subjek dalam kalimat ～てから ditunjuk dengan が. Sama halnya dengan ～てから、～とき atau ～まえに, untuk ～たら dan ～ても subjek dalam anak kalimat ditunjuk dengan が."
+    },
+    {
+      "type": "text",
+      "text": "⑬ 友達が来るまえに、部屋を掃除します。\nSebelum teman datang, membersihkan kamar. (Pel. 18)"
+    },
+    {
+      "type": "text",
+      "text": "⑭ 妻が病気のとき、会社を休みます。\nWaktu istri sakit, saya tidak masuk kerja. (Pel. 23)"
+    },
+    {
+      "type": "text",
+      "text": "⑮ 友達が約束の時間に来なかったら、どうしますか。\nKalau teman tidak datang pada waktu janji, bagaimana? (Pel. 25)"
+    }
+  ]
+}

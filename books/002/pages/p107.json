@@ -1,0 +1,86 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 107,
+  "page_label": "86",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 13"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Kata Benda が 欲しいです"
+    },
+    {
+      "type": "text",
+      "text": "ほしい adalah Kata Sifat い. Objek untuk ほしい ditunjuk dengan が."
+    },
+    {
+      "type": "text",
+      "text": "① わたしは 友達が 欲しいです。 Saya ingin punya teman."
+    },
+    {
+      "type": "text",
+      "text": "② 今 何が いちばん 欲しいですか。 Sekarang apa yang paling diinginkan?\n……車が 欲しいです。 ……Ingin punya mobil."
+    },
+    {
+      "type": "text",
+      "text": "③ 子どもが 欲しいですか。 Apakah ingin punya anak?\n……いいえ、欲しくないです。 ……Tidak, tidak ingin punya."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Kata Kerja (Bentuk ます) たいです"
+    },
+    {
+      "type": "text",
+      "text": "1) Kata Kerja Bentuk ます\nBentuk yang disambung pada ます (Contoh: かい dari かいます) disebut bentuk ます."
+    },
+    {
+      "type": "text",
+      "text": "2) Kata Kerja (Bentuk ます) たいです\nKata Kerja (Bentuk ます) たいです digunakan untuk menunjukkan keinginan untuk berbuat sesuatu. Objek dari ～たい dapat ditunjuk dengan partikel を dan が juga. Perubahan bentuk ～たい sama dengan Kata Sifat い."
+    },
+    {
+      "type": "text",
+      "text": "④ わたしは 沖縄へ 行きたいです。 Saya ingin pergi ke Okinawa."
+    },
+    {
+      "type": "text",
+      "text": "⑤ わたしは てんぷらを(が) 食べたいです。 Saya ingin makan Tempura."
+    },
+    {
+      "type": "text",
+      "text": "⑥ 神戸で 何を(が) 買いたいですか。 Di Kobe ingin membeli apa?\n……靴を(が) 買いたいです。 ……Ingin membeli sepatu."
+    },
+    {
+      "type": "text",
+      "text": "⑦ おなかが 痛いですから、何も 食べたくないです。\nKarena perut sakit, tidak mau makan apa-apa. (Pel.17)"
+    },
+    {
+      "type": "text",
+      "text": "【Perhatian 1】 Dengan ほしいです, たいです tidak dapat menyatakan keinginan dari pihak ketiga selain si pembicara dan lawan bicara."
+    },
+    {
+      "type": "text",
+      "text": "【Perhatian 2】 ほしいですか, Kata Kerja (Bentuk ます) たいです tidak dapat digunakan pada situasi untuk menawarkan sesuatu kepada lawan bicara. Misalnya pada situasi untuk menawarkan kopi, tidak tepat jika mengatakan コーヒーが ほしいですか, コーヒーが のみたいですか. Untuk situasi tersebut digunakan ekspresi コーヒーは いかがですか, コーヒーを のみませんか dan sebagainya."
+    }
+  ]
+}

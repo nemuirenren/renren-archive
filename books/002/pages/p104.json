@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 104,
+  "page_label": "83",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 13"
+    },
+    {
+      "level": 2,
+      "title": "〈練習 C〉"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈練習 C〉"
+    },
+    {
+      "type": "table",
+      "text": "|  |  |\n|---|---|\n| のどが かわきます | haus (jika menyatakan keadaan haus, digunakan bentuk た seperti のどが かわきました) |\n| おなかが すきます | lapar (jika menyatakan keadaan lapar, digunakan bentuk た seperti おなかが すきました) |\n| そう しましょう。 | Ya, mari. (digunakan ketika menyetujui aksi yang disarankan oleh lawan bicara) |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "|  |  |\n|---|---|\n| ご注文は？ | Mau pesan apa? |\n| 定食 | menu paket |\n| 牛どん | *Gyudon* |\n| [少々] お待ち ください。 | Tunggu [sebentar]. |\n| ～で ございます。 | (bentuk halus dari です) |\n| 別々に | sendiri-sendiri, masing-masing |"
+    },
+    {
+      "type": "table",
+      "text": "|  |  |\n|---|---|\n| アキックス | perusahaan fiksi |\n| おはようテレビ | acara televisi fiksi |"
+    }
+  ]
+}

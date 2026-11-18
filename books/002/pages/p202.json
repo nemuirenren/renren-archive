@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 202,
+  "page_label": "181",
+  "kind": "appendix",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Lampiran"
+    },
+    {
+      "level": 2,
+      "title": "V. Konjugasi Kata Kerja"
+    },
+    {
+      "level": 3,
+      "title": "Kelompok III"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| Bentuk ない |  | Bentuk た | Arti | Pelajaran |\n|---|---|---|---|---|\n| あんないし | ない | あんないした | mengantarkan | 24 |\n| うんてんし | ない | うんてんした | menyetir, mengendarai | 18 |\n| かいものし | ない | かいものした | berbelanja | 13 |\n| こ | ない | きた | datang | 5 |\n| けっこんし | ない | けっこんした | menikah | 13 |\n| けんがくし | ない | けんがくした | mengunjungi | 16 |\n| けんきゅうし | ない | けんきゅうした | meneliti | 15 |\n| コピーし | ない | コピーした | memfotokopi | 14 |\n| さんぽし | ない | さんぽした | berjalan-jalan [di taman] | 13 |\n| ざんぎょうし | ない | ざんぎょうした | melembur | 17 |\n| し | ない | した | mengerjakan, melakukan, berbuat | 6 |\n| し | ない | した | memakai [dasi] | 22 |\n| しゅうりし | ない | しゅうりした | memperbaiki | 20 |\n| しゅっちょうし | ない | しゅっちょうした | dinas | 17 |\n| しょうかいし | ない | しょうかいした | memperkenalkan | 24 |\n| しょくじし | ない | しょくじした | makan | 13 |\n| しんぱいし | ない | しんぱいした | mengkhawatirkan | 17 |\n| せつめいし | ない | せつめいした | menjelaskan, menerangkan | 24 |\n| せんたくし | ない | せんたくした | mencuci pakaian | 19 |\n| そうじし | ない | そうじした | membersihkan | 19 |\n| つれてこ | ない | つれてきた | membawa datang, mengajak datang | 24 |\n| でんわし | ない | でんわした | menelepon | 16 |\n| べんきょうし | ない | べんきょうした | belajar | 4 |\n| もってこ | ない | もってきた | membawa datang | 17 |\n| よやくし | ない | よやくした | memesan | 18 |\n| りゅうがくし | ない | りゅうがくした | studi di luar negeri | 21 |"
+    }
+  ]
+}

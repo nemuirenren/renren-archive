@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 35,
+  "page_label": "14",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 1"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Kata Benda₁ は Kata Benda₂ です"
+    },
+    {
+      "type": "text",
+      "text": "1) Partikel は\nPartikel は menunjukkan bahwa kata sebelumnya adalah topik kalimat (Lihat: Kolom1: Topik dan Subjek). Si pembicara memakai は untuk hal yang mau dibicarakannya, kemudian selanjutnya membuat kalimat dengan menambahkan berbagai deskripsi.\n① わたしは マイク・ミラーです。 Saya Mike Miller.\n[Perhatian] Partikel は dibaca わ."
+    },
+    {
+      "type": "text",
+      "text": "2) です\nKata Benda yang diikuti oleh です menjadi Predikat. です menyatakan maksud penilaian dan kepastian, juga menunjukkan sikap sopan terhadap lawan bicara. Jika です dalam kalimat negatif atau waktu lampau, bentuknya berubah.\n② わたしは 会社員です。 Saya pegawai perusahaan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Kata Benda₁ は Kata Benda₂ じゃ(では) ありません"
+    },
+    {
+      "type": "text",
+      "text": "じゃ(では) ありません adalah bentuk negatif untuk です. Dalam percakapan sehari-hari sering digunakan じゃ ありません. Dalam pidato yang resmi atau bahasa tertulis digunakan では ありません.\n③ サントスさんは 学生じゃ（では）ありません。 Sdr. Santos bukan mahasiswa.\n[Perhatian] は dari では diucapkan わ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Benda₁ は Kata Benda₂ ですか (kalimat tanya)"
+    },
+    {
+      "type": "text",
+      "text": "1) Partikel か\nPartikel か menyatakan perasaan ketidakpastian atau heran si pembicara. Dengan memakai か pada akhir kalimat maka dapat membuat kalimat tanya. Kalimat tanya biasanya menyertai intonasi naik pada akhir kalimat."
+    },
+    {
+      "type": "text",
+      "text": "2) Kalimat tanya untuk menanyakan “Ya” atau “Tidak” tentang isi kalimat.\nTanpa mengubah susunan kata-kata, membuat kalimat dengan membubuhi か pada akhir kalimat. Kalimat tanya ini menanyakan apakah benar atau tidak isi kalimat, dan jika benar menjawab dengan memakai はい, jika salah menjawab dengan いいえ.\n④ ミラーさんは アメリカ人ですか。 Apakah Sdr. Miller orang Amerika?\n……はい、アメリカ人です。 ……Ya, orang Amerika.\n⑤ ミラーさんは 先生ですか。 Apakah Sdr. Miller guru?\n……いいえ、先生じゃ ありません。 ……Bukan, dia bukan guru."
+    },
+    {
+      "type": "text",
+      "text": "3) Kalimat tanya dengan kata tanya\nBagian isi yang ingin ditanyakan diganti dengan kata tanya, dan dibubuhkan か pada akhir kalimat."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 2,
+  "page_label": "",
+  "kind": "front_matter",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Halaman Judul"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "みんなの日本語 初級 I 第2版"
+    },
+    {
+      "type": "text",
+      "text": "Minna no Nihongo"
+    },
+    {
+      "type": "text",
+      "text": "Tingkat Dasar I\nTerjemahan dan Keterangan Tata Bahasa\nVersi Bahasa Indonesia"
+    },
+    {
+      "type": "text",
+      "text": "翻訳・文法解説\nインドネシア語版"
+    },
+    {
+      "type": "text",
+      "text": "スリーエーネットワーク"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 166,
+  "page_label": "145",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 23"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "道路・交通　Jalan, Lalu Lintas"
+    },
+    {
+      "type": "table",
+      "text": "| No. | 日本語 | Indonesia |\n|---|---|---|\n| ① | 歩道 | trotoar (tempat pejalan kaki) |\n| ② | 車道 | jalan mobil |\n| ③ | 高速道路 | jalan tol |\n| ④ | 通り | jalan |\n| ⑤ | 交差点 | perempatan |\n| ⑥ | 横断歩道 | tempat menyeberang |\n| ⑦ | 歩道橋 | jembatan penyeberangan |\n| ⑧ | 角 | belokan, pengkolan, tikungan |\n| ⑨ | 信号 | lampu lalu lintas |\n| ⑩ | 坂 | lereng |\n| ⑪ | 踏切 | lintasan kereta api |\n| ⑫ | ガソリンスタンド | pompa bensin |"
+    },
+    {
+      "type": "figure",
+      "text": "【図】Ilustrasi pemandangan jalan dan persimpangan dengan label ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫; pada gambar terdapat tulisan \"gas\""
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 止まれ | berhenti |\n| 進入禁止 | dilarang masuk |\n| 一方通行 | satu arah |\n| 駐車禁止 | dilarang parkir |\n| 右折禁止 | dilarang belok kanan |"
+    }
+  ]
+}

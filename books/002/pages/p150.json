@@ -1,0 +1,63 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 150,
+  "page_label": "129",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 20"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "2) Dalam kalimat tanya dari Kata Benda atau Kata Sifat Bentuk な, bentuk biasa だ dari です dihilangkan. Untuk jawaban positif, kalau dijawab dengan bentuk だ memberi kesan yang kasar dan keras maka だ dihilangkan atau membubuhkan partikel penutup demi menghaluskan nada ungkapan."
+    },
+    {
+      "type": "text",
+      "text": "② 今晩 暇？　Nanti malam luang?\n……うん、暇／暇だ／暇だよ。　……Ya, luang. (digunakan oleh pria)\n……うん、暇／暇よ／暇だよ。　……Ya, luang. (digunakan oleh wanita)\n……ううん、暇じゃない。　……Tidak, tidak luang."
+    },
+    {
+      "type": "text",
+      "text": "3) Dalam kalimat bentuk biasa, jika sudah dapat mengerti hubungan dari konteks kalimat sebelum dan sesudahnya, maka adakalanya partikel dihilangkan."
+    },
+    {
+      "type": "text",
+      "text": "③ ごはん[を] 食べる？　Mau makan?\n④ あした 京都[へ] 行かない？　Bagaimana kalau besok ke Kyoto?\n⑤ この りんご[は] おいしいね。　Apel ini enak ya.\n⑥ そこに はさみ[が] ある？　Di situ ada gunting?"
+    },
+    {
+      "type": "text",
+      "text": "Akan tetapi, partikel で, に, から, まで, と, dan sebagainya tidak dihilangkan sebab konteksnya menjadi tidak jelas."
+    },
+    {
+      "type": "text",
+      "text": "4) Dalam kalimat bentuk biasa, い dari Kata Kerja Bentuk て いる juga sering dihilangkan."
+    },
+    {
+      "type": "text",
+      "text": "⑦ 辞書、持って[い]る？　Punya kamus?\n……うん、持って[い]る。　……Ya, punya.\n……ううん、持って[い]ない。　……Tidak, tidak punya."
+    },
+    {
+      "type": "text",
+      "text": "5) けど\nけど mempunyai fungsi yang sama dengan が, dan sering digunakan dalam percakapan."
+    },
+    {
+      "type": "text",
+      "text": "⑧ その カレー[は] おいしい？　Kare itu enak?\n……うん、辛いけど、おいしい。　Ya, pedas, tetapi enak."
+    },
+    {
+      "type": "text",
+      "text": "⑨ 相撲の チケット[が] あるけど、いっしょに 行かない？\nPunya tiket sumo, bagaimana kalau kita pergi sama-sama?\n……いいね。　……Bagus ya."
+    }
+  ]
+}

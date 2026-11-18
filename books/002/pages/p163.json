@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 163,
+  "page_label": "142",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 23"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| ききますⅠ<br>[せんせいに～] | 聞きます<br>[先生に～] | bertanya [kepada guru] |\n| まわしますⅠ | 回します | memutar |\n| ひきますⅠ | 引きます | tarik |\n| かえますⅡ | 変えます | mengubah |\n| さわりますⅠ<br>[ドアに～] | 触ります | menyentuh [pintu] |\n| でますⅡ<br>[おつりが～] | 出ます<br>[お釣りが～] | keluar [uang kembalian] |\n| あるきますⅠ | 歩きます | berjalan kaki |\n| わたりますⅠ<br>[はしを～] | 渡ります<br>[橋を～] | menyeberang [jembatan] |\n| まがりますⅠ<br>[みぎへ～] | 曲がります<br>[右へ～] | belok [ke kanan] |\n| さびしい | 寂しい | sepi |\n| [お]ゆ | [お]湯 | air panas |\n| おと | 音 | bunyi, suara |\n| サイズ |  | ukuran |\n| こしょう | 故障 | kerusakan (～します：rusak) |\n| みち | 道 | jalan |\n| こうさてん | 交差点 | perempatan |\n| しんごう | 信号 | lampu lalu lintas |\n| かど | 角 | sudut |\n| はし | 橋 | jembatan |\n| ちゅうしゃじょう | 駐車場 | tempat parkir |\n| たてもの | 建物 | gedung |\n| なんかいも | 何回も | berkali-kali |\n| ーめ | ー目 | yang ke — (mengungkapkan urutan) |"
+    }
+  ]
+}

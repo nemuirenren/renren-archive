@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 33,
+  "page_label": "12",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 1"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Saya Mike Miller.\n2. Sdr. Santos bukan mahasiswa.\n3. Apakah Sdr. Miller pegawai perusahaan?\n4. Sdr. Santos juga pegawai perusahaan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. [Apakah Anda] Sdr. Mike Miller?\n……Ya, [saya] Mike Miller.\n2. Apakah Sdr. Miller mahasiswa?\n……Bukan, [saya] bukan mahasiswa.\n3. Apakah Sdr. Wang pegawai bank?\n……Bukan, [Sdr. Wang] bukan pegawai bank.\nDokter.\n4. Beliau siapa?\n……Sdr. Wat. Dosen Universitas Sakura.\n5. Apakah Sdr. Gupta pegawai perusahaan?\n……Ya, pegawai perusahaan.\nApakah Sdr. Karina juga pegawai perusahaan?\n……Bukan. [Sdr. Karina] mahasiswi.\n6. Berapa usia Teresa?\n……Sembilan tahun."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Salam Kenal!"
+    },
+    {
+      "type": "text",
+      "text": "Sato: Selamat pagi.\nYamada: Selamat pagi.\nSdr. Sato, ini Sdr. Mike Miller.\nMiller: Salam kenal!\nSaya Mike Miller.\nSaya datang dari Amerika Serikat.\nSenang berkenalan dengan Anda.\nSato: Saya Keiko Sato.\nSenang berkenalan dengan Anda."
+    }
+  ]
+}

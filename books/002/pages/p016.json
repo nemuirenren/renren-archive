@@ -1,0 +1,43 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 16,
+  "page_label": "",
+  "kind": "toc",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Daftar Isi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Pelajaran 3 ..... 22"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan: Minta Ini! |\n| III. | Kata-Kata Referensi dan Informasi<br>Toserba |\n| IV. | Keterangan Tata Bahasa<br>1. ここ／そこ／あそこ／こちら／そちら／あちら<br>2. Kata Benda1 は 場所 です<br>3. どこ／どちら<br>4. Kata Benda1 の Kata Benda2<br>5. Daftar こ／そ／あ／ど (Kata Penunjuk)<br>6. お～ |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 4 ..... 28"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan:<br>Di Situ Sampai Pukul Berapa? |\n| III. | Kata-Kata Referensi dan Informasi<br>Telepon, Surat |\n| IV. | Keterangan Tata Bahasa<br>1. 今 一時 一分 です<br>2. Kata Kerja ます／ Kata Kerja ません／ Kata Kerja ました／ Kata Kerja ませんでした<br>3. Kata Benda (waktu) に Kata Kerja<br>4. Kata Benda1 から Kata Benda2 まで<br>5. Kata Benda1 と Kata Benda2<br>6. 〜ね |"
+    },
+    {
+      "type": "text",
+      "text": "Pelajaran 5 ..... 34"
+    },
+    {
+      "type": "table",
+      "text": "| Bagian | Isi |\n|---|---|\n| I. | Kosa Kata |\n| II. | Terjemahan<br>Pola Kalimat ・ Contoh Kalimat<br>Percakapan:<br>Apakah Kereta Rel Listrik Ini Menuju Koshien? |\n| III. | Kata-Kata Referensi dan Informasi<br>Hari Libur Nasional |\n| IV. | Keterangan Tata Bahasa<br>1. Kata Benda (tempat) へ 行きます／来ます／帰ります<br>2. どこ［へ］も 行きません／行きませんでした<br>3. Kata Benda (kendaraan) で 行きます／来ます／帰ります<br>4. Kata Benda (orang/hewan) と Kata Kerja<br>5. いつ<br>6. 〜よ<br>7. そうですね |"
+    }
+  ]
+}

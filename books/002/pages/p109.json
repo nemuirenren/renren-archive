@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 109,
+  "page_label": "88",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 14"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "|  |  |  |\n|---|---|---|\n| つけますⅡ |  | menyalakan, memasang, menghidupkan |\n| けしますⅠ | 消します | mematikan, memadamkan |\n| あけますⅡ | 開けます | membuka |\n| しめますⅡ | 閉めます | menutup |\n| いそぎますⅠ | 急ぎます | buru-buru |\n| まちますⅠ | 待ちます | menunggu |\n| もちますⅠ | 持ちます | membawa |\n| とりますⅠ | 取ります | mengambil |\n| てつだいますⅠ | 手伝います | membantu |\n| よびますⅠ | 呼びます | memanggil |\n| はなしますⅠ | 話します | berbicara |\n| つかいますⅠ | 使います | memakai |\n| とめますⅡ | 止めます | menghentikan, memarkir |\n| みせますⅡ | 見せます | memperlihatkan |\n| おしえますⅡ<br>[じゅうしょを〜] | 教えます [住所を〜] | memberitahukan [alamat] |\n| すわりますⅠ | 座ります | duduk |\n| たちますⅠ* | 立ちます | berdiri |\n| はいりますⅠ<br>[きっさてんに〜] | 入ります [喫茶店に〜] | masuk [ke coffee shop] |\n| でますⅡ*<br>[きっさてんを〜] | 出ます [喫茶店を〜] | keluar [dari coffee shop] |\n| ふりますⅠ<br>[あめが〜] | 降ります [雨が〜] | turun [hujan] |\n| コピーしますⅢ |  | memfotokopi |\n| でんき | 電気 | listrik, lampu |\n| エアコン |  | AC |\n| パスポート |  | paspor |\n| なまえ | 名前 | nama |\n| じゅうしょ | 住所 | alamat |\n| ちず | 地図 | peta |\n| しお | 塩 | garam |\n| さとう | 砂糖 | gula |"
+    }
+  ]
+}

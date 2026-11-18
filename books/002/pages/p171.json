@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 171,
+  "page_label": "150",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 24"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Sdr. Sato memberikan saya coklat.\n2. Saya menerima bantuan dari Sdr. Yamada untuk mengoreksikan laporan.\n3. Ibu mengirimi saya sweater.\n4. Saya meminjamkan buku kepada Sdr. Kimura."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Apakah Si Taro sayang kepada nenek?\n…… Ya, sayang. Nenek selalu memberikan saya kue.\n2. Anggur yang enak, ya.\n…… Ya, Sdr. Sato yang berikan. Anggur Prancis.\n3. Sdr. Miller, hidangan pesta kemarin itu Anda buat semua sendiri?\n…… Tidak, dibantu oleh Sdr. Wang.\n4. Pergi dengan kereta rel listrik?\n…… Tidak. Sdr. Yamada yang mengantarkan saya dengan mobilnya.\n5. Pada hari Ibu, Si Taro melakukan apa kepada ibu?\n…… Bermain piano untuknya."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Bagaimana Kalau Saya Pergi Untuk Membantu Anda?"
+    },
+    {
+      "type": "text",
+      "text": "Karina：Sdr. Wang, hari Minggu yang akan datang pindah rumah, ya. Bagaimana kalau saya pergi untuk membantu Anda?\nWang：Terima kasih. Kalau begitu, saya merepotkan Anda, tapi tolong datang sekitar pukul sembilan.\nKarina：Selain saya, siapa saja yang datang untuk membantu Anda?\nWang：Sdr. Yamada dan Sdr. Miller yang datang.\nKarina：Mobilnya?\nWang：Saya memimjam dari Sdr. Yamada.\nKarina：Untuk makan siangnya bagaimana?\nWang：Aaa...\nKarina：Bagaimana kalau saya yang membawakan makan siang?\nWang：Maaf. Tolong, ya.\nKarina：OK, sampai jumpa hari Minggu."
+    }
+  ]
+}

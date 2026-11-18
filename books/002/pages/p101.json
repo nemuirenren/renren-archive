@@ -1,0 +1,92 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 101,
+  "page_label": "80",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 12"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Waktu Positif/Negatif untuk Kalimat Nominal・Kalimat Adjektival な"
+    },
+    {
+      "type": "table",
+      "text": "| | Waktu non lampau (sekarang dan masa depan) | Waktu lampau |\n|---|---|---|\n| Positif | 雨です／静かです | 雨でした／静かでした |\n| Negatif | 雨じゃ ありません（では）／静かじゃ ありません（では） | 雨じゃ ありませんでした（では）／静かじゃ ありませんでした（では） |"
+    },
+    {
+      "type": "text",
+      "text": "① きのうは 雨でした。\nKemarin hujan."
+    },
+    {
+      "type": "text",
+      "text": "② きのうの 試験は 簡単じゃ ありませんでした。\nUjian kemarin tidak mudah."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Waktu Positif/Negatif untuk Kalimat Adjektival い"
+    },
+    {
+      "type": "table",
+      "text": "| | Waktu non lampau (sekarang dan masa depan) | Waktu lampau |\n|---|---|---|\n| Positif | あついです | あつかったです |\n| Negatif | あつくないです | あつくなかったです |"
+    },
+    {
+      "type": "text",
+      "text": "③ きのうは 暑かったです。\nKemarin panas."
+    },
+    {
+      "type": "text",
+      "text": "④ きのうの パーティーは あまり 楽しくなかったです。\nPesta kemarin tidak begitu menyenangkan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Benda₁ は Kata Benda₂ より Kata Sifat です"
+    },
+    {
+      "type": "text",
+      "text": "Menyatakan sifat atau kondisi Kata Benda₁ dengan Kata Benda₂ yang dianggap sebagai patokan."
+    },
+    {
+      "type": "text",
+      "text": "⑤ この 車は あの 車より 大きいです。\nMobil ini lebih besar daripada mobil itu."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Benda₁ と Kata Benda₂ と どちらが Kata Sifat ですか\n……Kata Benda₁／Kata Benda₂ の ほうが Kata Sifat です"
+    },
+    {
+      "type": "text",
+      "text": "Jika membandingkan dua benda, digunakan Kata Tanya どちら untuk seluruh benda yang dibandingkan."
+    },
+    {
+      "type": "text",
+      "text": "⑥ サッカーと 野球と どちらが おもしろいですか。\n……サッカーの ほうが おもしろいです。\nYang mana lebih menarik, sepak bola atau baseball?\n……Sepak bola yang lebih menarik."
+    },
+    {
+      "type": "text",
+      "text": "⑦ ミラーさんと サントスさんと どちらが テニスが 上手ですか。\nYang mana lebih pandai bermain tenis, Sdr. Miller atau Sdr. Santos?"
+    }
+  ]
+}

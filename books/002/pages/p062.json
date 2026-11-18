@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 62,
+  "page_label": "41",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 6"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| てがみ | 手紙 | surat |\n| レポート |  | laporan |\n| しゃしん | 写真 | foto |\n| ビデオ |  | kaset video, VHS |\n| みせ | 店 | toko |\n| にわ | 庭 | halaman |\n| しゅくだい | 宿題 | pekerjaan rumah, PR (〜を します：<br>mengerjakan PR) |\n| テニス |  | tenis (〜を します：bermain tenis) |\n| サッカー |  | sepak bola (〜を します：bermain<br>sepak bola) |\n| [お]はなみ | [お]花見 | (O) Hanami, menikmati bunga Sakura<br>(〜を します：melihat dan<br>menikmati bunga Sakura) |\n| なに | 何 | apa |\n| いっしょに |  | bersama-sama |\n| ちょっと |  | sebentar, sedikit |\n| いつも |  | selalu |\n| ときどき | 時々 | kadang-kadang |\n| それから |  | setelah itu, kemudian |\n| ええ |  | ya |\n| いいですね。 |  | Bagus ya./Baik ya. |\n| わかりました。 |  | Mengerti./Baik. |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| 何ですか。 |  | Apa? |\n| じゃ、また [あした]。 |  | Ok, sampai jumpa [besok]. |"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Keterangan |\n|---|---|\n| メキシコ | Meksiko |\n| 大阪デパート | toserba fiksi |\n| つるや | restoran fiksi |\n| フランス屋 | pasar swalayan fiksi |\n| 毎日屋 | pasar swalayan fiksi |"
+    }
+  ]
+}

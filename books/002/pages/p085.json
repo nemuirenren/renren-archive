@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 85,
+  "page_label": "64",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 10"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 10"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| かな | 漢字 | Indonesia |\n|---|---|---|\n| あります | | ada (digunakan untuk benda mati) |\n| います | | ada (digunakan untuk makhluk hidup) |\n| いろいろ［な］ | | berbagai |\n| おとこの ひと | 男の 人 | orang laki-laki |\n| おんなの ひと | 女の 人 | orang perempuan |\n| おとこの こ | 男の 子 | anak laki-laki |\n| おんなの こ | 女の 子 | anak perempuan |\n| いぬ | 犬 | anjing |\n| ねこ | 猫 | kucing |\n| パンダ | | panda |\n| ぞう | 象 | gajah |\n| き | 木 | pohon |\n| もの | 物 | barang |\n| でんち | 電池 | baterai |\n| はこ | 箱 | kotak |\n| スイッチ | | tombol, sakelar |\n| れいぞうこ | 冷蔵庫 | kulkas, lemari es |\n| テーブル | | meja makan |\n| ベッド | | tempat tidur |\n| たな | 棚 | lemari |\n| ドア | | pintu |\n| まど | 窓 | jendela |\n| ポスト | | kotak surat |\n| ビル | | gedung |\n| ATM | | ATM, Anjungan Tunai Mandiri |\n| コンビニ | | toko 24 jam |\n| こうえん | 公園 | taman |\n| きっさてん | 喫茶店 | coffee shop |\n| ～や | ～屋 | toko ～ |\n| のりば | 乗り場 | tempat naik |\n| けん | 県 | prefektur |"
+    }
+  ]
+}

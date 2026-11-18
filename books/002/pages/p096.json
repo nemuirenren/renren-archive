@@ -1,0 +1,73 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 96,
+  "page_label": "75",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 11"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "(2) なん＋Kata Bantu Bilangan\nなん＋Kata Bantu Bilangan digunakan untuk menghitung kuantitas benda yang dibubuhkan Kata Bantu Bilangan seperti 1-2)."
+    },
+    {
+      "type": "text",
+      "text": "⑤ この会社に 外国人が 何人 いますか。\n……5人 います。\nDi perusahaan ini ada berapa orang asing?\n……Ada lima orang.\n⑥ 毎晩 何時間 日本語を 勉強しますか。\n……2時間 勉強します。\nSetiap malam berapa jam belajar bahasa Jepang?\n……Belajar dua jam."
+    },
+    {
+      "type": "text",
+      "text": "(3) どのくらい\nどのくらい digunakan untuk menanyakan lama waktu."
+    },
+    {
+      "type": "text",
+      "text": "⑦ どのくらい 日本語を 勉強しましたか。\n……3年 勉強しました。\nBerapa lama belajar bahasa Jepang?\n……Belajar selama tiga tahun.\n⑧ 大阪から 東京まで どのくらい かかりますか。\n……新幹線で 2時間半 かかります。\nMemerlukan waktu berapa lama dari Osaka sampai dengan Tokyo?\n……Memerlukan waktu dua setengah jam dengan Shinkansen."
+    },
+    {
+      "type": "text",
+      "text": "3) ～ぐらい\nぐらい mengikuti Kata Keterangan Bilangan dan menunjukkan perkiraan jumlah."
+    },
+    {
+      "type": "text",
+      "text": "⑨ 学校に 先生が 30人ぐらい います。\nDi sekolah ada kira-kira tiga puluh orang guru.\n⑩ 15分ぐらい かかります。\nMemerlukan waktu kira-kira lima belas menit."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Keterangan Bilangan (jangka waktu) に 一回 Kata Kerja"
+    },
+    {
+      "type": "text",
+      "text": "Ekspresi untuk menunjukkan frekuensi."
+    },
+    {
+      "type": "text",
+      "text": "⑪ 1か月に 2回 映画を 見ます。\nSebulan dua kali menonton film."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Keterangan Bilangan だけ／Kata Benda だけ"
+    },
+    {
+      "type": "text",
+      "text": "だけ diletakkan di belakang Kata Keterangan Bilangan atau Kata Benda, yang mempunyai arti tidak ada yang lebih dari itu atau tidak ada selain itu."
+    },
+    {
+      "type": "text",
+      "text": "⑫ パワー電気に 外国人の 社員が 1人だけ います。\nDi Power Elektronik hanya ada seorang pegawai orang asing.\n⑬ 休みは 日曜日だけです。\nHari libur hanya hari Minggu saja."
+    }
+  ]
+}

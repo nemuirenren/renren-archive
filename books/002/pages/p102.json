@@ -1,0 +1,73 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 102,
+  "page_label": "81",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 12"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "⑧ 北海道と 大阪と どちらが 涼しいですか。\nYang mana lebih sejuk, Hokkaido atau Osaka?"
+    },
+    {
+      "type": "text",
+      "text": "⑨ 春と 秋と どちらが 好きですか。\nYang mana lebih suka, musim semi atau musim gugur?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Kata Benda₁[の 中]で 何／どこ／だれ／いつ が いちばん Kata Sifat ですか\n……Kata Benda₂ が いちばん Kata Sifat です"
+    },
+    {
+      "type": "text",
+      "text": "で menunjukan ruang lingkup. Jika menanyakan benda, tempat, orang atau waktu yang menunjukan kondisi dan sifat yang tingkatnya maksimal dari ruang lingkup Kata Benda₁, gunakan Kata Tanya sesuai dengan target."
+    },
+    {
+      "type": "text",
+      "text": "⑩ 日本料理[の 中]で 何が いちばん おいしいですか。\n……てんぷらが いちばん おいしいです。\nApa yang paling enak [di antara] masakan Jepang?\n……Tempura yang paling enak."
+    },
+    {
+      "type": "text",
+      "text": "⑪ ヨーロッパで どこが いちばん よかったですか。\n……スイスが いちばん よかったです。\nDaerah mana yang paling bagus di Eropa?\n……Swiss yang paling bagus."
+    },
+    {
+      "type": "text",
+      "text": "⑫ 家族で だれが いちばん 背が 高いですか。\n……弟が いちばん 背が 高いです。\nSiapa yang paling tinggi di antara keluarga?\n……Adik laki-laki yang paling tinggi. (Pel.16)"
+    },
+    {
+      "type": "text",
+      "text": "⑬ 1年で いつが いちばん 寒いですか。\n……2月が いちばん 寒いです。\nKapan yang paling dingin dalam satu tahun?\n……Bulan Februari yang paling dingin."
+    },
+    {
+      "type": "text",
+      "text": "【Perhatian】 Kalimat Tanya yang menggunakan Kata Tanya yang menanyakan subjek dari kalimat adjektival, partikel が digunakan di belakang Kata Tanya (Lihat Pel.10)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Kata Sifat の （の yang berfungsi sebagai pengganti Kata Benda）"
+    },
+    {
+      "type": "text",
+      "text": "Pada Pelajaran 2 telah dipelajari の dengan bentuk Kata Benda₁ の yang digunakan sebagai pengganti Kata Benda. Kata yang diberikan pada pelajaran ini, yaitu あついの adalah bentuk Kata Sifat の dan の yang menggantikan Kata Benda seperti sama halnya dengan Kata Benda₁."
+    },
+    {
+      "type": "text",
+      "text": "⑭ カリナさんの かばんは どれですか。  Yang mana tas Sdr. Karina?\n……あの 赤くて、大きいのです。 ……Yang merah dan besar itu."
+    }
+  ]
+}

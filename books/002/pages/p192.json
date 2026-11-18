@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 192,
+  "page_label": "171",
+  "kind": "appendix",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Lampiran"
+    },
+    {
+      "level": 2,
+      "title": "V. Konjugasi Kata Kerja"
+    },
+    {
+      "level": 3,
+      "title": "Kelompok I"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| Bentuk ない |  | Bentuk た | Arti | Pelajaran |\n|---|---|---|---|---|\n| あわ | ない | あった | bertemu [dengan teman] | 6 |\n| あそば | ない | あそんだ | bermain | 13 |\n| あらわ | ない | あらった | mencuci | 18 |\n| — | ない | あった | ada, mempunyai | 9 |\n| — | ない | あった | ada (digunakan untuk benda mati) | 10 |\n| — | ない | あった | ada, diadakan [pesta perayaan] | 21 |\n| あるか | ない | あるいた | berjalan kaki | 23 |\n| いわ | ない | いった | mengatakan, berkata | 21 |\n| いか | ない | いった | pergi | 5 |\n| いそが | ない | いそいだ | buru-buru | 14 |\n| いら | ない | いった | memerlukan [VISA] | 20 |\n| うごか | ない | うごいた | pindah, bergerak | 21 |\n| うたわ | ない | うたった | bernyanyi, menyanyi | 18 |\n| うら | ない | うった | menjual | 15 |\n| おか | ない | おいた | meletakkan, menaruh | 15 |\n| おくら | ない | おくった | mengirim | 7 |\n| おくら | ない | おくった | mengantar [orang] | 24 |\n| おさ | ない | おした | menekan | 16 |\n| おもいださ | ない | おもいだした | teringat | 15 |\n| おもわ | ない | おもった | mengira, berpikir | 21 |\n| およが | ない | およいだ | berenang | 13 |\n| おろさ | ない | おろした | mengeluarkan/mengambil [uang] | 16 |\n| おわら | ない | おわった | selesai | 4 |\n| かわ | ない | かった | membeli | 6 |\n| かえさ | ない | かえした | mengembalikan | 17 |\n| かえら | ない | かえった | pulang | 5 |\n| かから | ない | かかった | memakan, perlu | 11 |\n| かか | ない | かいた | menulis, menggambar | 6 |\n| かさ | ない | かした | meminjamkan, menyewakan | 7 |\n| かた | ない | かった | menang | 21 |\n| かぶら | ない | かぶった | memakai (topi) | 22 |\n| がんばら | ない | がんばった | berusaha, bekerja keras | 25 |"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 36,
+  "page_label": "15",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 1"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "⑥ あの 方は どなたですか。\nSiapakah orang itu?\n……［あの 方は］ミラーさんです。\n……［Beliau］Sdr. Miller."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Benda も"
+    },
+    {
+      "type": "text",
+      "text": "も digunakan apabila menyatakan predikatnya dianggap sama dengan predikat sebelumnya."
+    },
+    {
+      "type": "text",
+      "text": "⑦ ミラーさんは 会社員です。グプタさんも 会社員です。\nSdr. Miller pegawai perusahaan. Sdr. Gupta juga pegawai perusahaan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Kata Benda₁ の Kata Benda₂"
+    },
+    {
+      "type": "text",
+      "text": "Jika Kata Benda₁ di depan menerangkan Kata Benda₂ di belakangnya, maka kedua Kata Benda disambung dengan の. Pada Pelajaran 1 Kata Benda₁ menunjukkan satu kesatuan Kata Benda₂."
+    },
+    {
+      "type": "text",
+      "text": "⑧ ミラーさんは IMC の 社員です。\nSdr. Miller pegawai perusahaan IMC."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. ～さん"
+    },
+    {
+      "type": "text",
+      "text": "Dalam bahasa Jepang memakai さん di belakang marga atau nama lawan bicara atau orang pihak ketiga. Karena さん menunjukkan kesopanan, tidak dipakai untuk marga atau nama si pembicara sendiri. Sebagai gantinya, untuk anak kecil dengan rasa akrab dipakai ちゃん."
+    },
+    {
+      "type": "text",
+      "text": "⑨ あの 方は ミラーさんです。\nBeliau Sdr. Miller.\nKetika memanggil lawan bicara, jika telah mengenal namanya maka あなた tidak dipakai lagi, tetapi memanggil marga atau namanya yang dibubuhi dengan さん."
+    },
+    {
+      "type": "text",
+      "text": "⑩ 鈴木：ミラーさんは 学生ですか。\nSuzuki: Apakah Sdr. Miller mahasiswa?\nミラー：いいえ、会社員です。\nMiller: Bukan, saya pegawai perusahaan."
+    },
+    {
+      "type": "text",
+      "text": "［Perhatian］ あなた digunakan terhadap orang yang berhubungan sangat dekat (suami istri, pacar dll.). Perlu hati-hati bahwa jika menggunakannya kepada lawan bicara yang hubungan tidak dekat maka akan memberi kesan yang kurang sopan."
+    }
+  ]
+}

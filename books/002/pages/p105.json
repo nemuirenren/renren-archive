@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 105,
+  "page_label": "84",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 13"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Saya ingin punya mobil.\n2. Saya ingin makan *Sushi*.\n3. Saya pergi ke Perancis untuk belajar memasak."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Sekarang apa yang paling diinginkan?\n……Ingin punya HP baru.\n2. Ingin pergi ke mana pada liburan musim panas?\n……Ingin pergi ke Okinawa.\n3. Karena hari ini lelah, saya tidak mau melakukan apa-apa.\n……Ya, betul. Rapat hari cukup berat.\n4. Ingin melakukan apa pada akhir minggu?\n……Pergi ke Kobe untuk melihat kapal laut bersama dengan anak.\n5. Datang ke Jepang untuk belajar apa?\n……Datang untuk belajar seni.\n6. Pada liburan musim dingin pergi ke suatu tempat?\n……Ya. Pergi ke Hokkaido untuk bermain ski."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "text",
+      "text": "Tolong Sendiri-sendiri!"
+    },
+    {
+      "type": "text",
+      "text": "Yamada: Sudah pukul dua belas. Bagaimana kalau pergi makan siang?\nMiller: Ya.\nYamada: Pergi ke mana?\nMiller: Ke mana, ya? Hari ini ingin makan masakan Jepang.\nYamada: Kalau begitu, pergi ke “Tsuruyā” saja, ya."
+    },
+    {
+      "type": "text",
+      "text": "Pelayan: Mau pesan apa?\nMiller: Saya mau menu paket *Tempura*.\nYamada: Saya *Gyudon*.\nPelayan: Menu paket *Tempura* dan *Gyudon*, ya? Tunggu sebentar!"
+    },
+    {
+      "type": "text",
+      "text": "Pelayan: ¥1.680.\nMiller: Maaf. Tolong sendiri-sendiri!\nPelayan: Baik. Menu paket *Tempura* ¥980, dan *Gyudon* ¥700."
+    }
+  ]
+}

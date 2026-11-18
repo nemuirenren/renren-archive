@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 151,
+  "page_label": "130",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 21"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 21"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| おもいますⅠ | 思います | mengira, berpikir |\n| いいますⅠ | 言います | mengatakan, berkata |\n| かちますⅠ | 勝ちます | menang |\n| まけますⅡ* | 負けます | kalah |\n| ありますⅠ<br>［おまつりが～］ | ［お祭りが～］ | ada, diadakan [pesta perayaan] |\n| やくに たちますⅠ | 役に 立ちます | berguna, bermanfaat |\n| うごきますⅠ | 動きます | pindah, bergerak |\n| やめますⅡ<br>［かいしゃを～］ | ［会社を～］ | berhenti [kerja] |\n| きを つけますⅡ | 気を つけます | berwaspada, berhati-hati |\n| りゅうがくしますⅢ | 留学します | studi di luar negeri |\n| むだ[な] |  | sia-sia, tidak berguna |\n| ふべん[な] | 不便[な] | tidak praktis |\n| すごい |  | hebat, bukan main (digunakan ketika menyatakan kejutan atau kekaguman) |\n| ほんとう |  | betul, benar |\n| うそ* |  | bohong |\n| じどうしゃ | 自動車 | mobil |\n| こうつう | 交通 | lalu lintas |\n| ぶっか | 物価 | harga barang |\n| ほうそう | 放送 | siaran, pengumuman |\n| ニュース |  | warta berita |\n| アニメ |  | animasi |\n| マンガ |  | manga, komik |\n| デザイン |  | desain, model |\n| ゆめ | 夢 | mimpi |\n| てんさい | 天才 | genius |\n| しあい | 試合 | pertandingan (～を します：bertanding) |"
+    }
+  ]
+}

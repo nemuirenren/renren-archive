@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 194,
+  "page_label": "173",
+  "kind": "appendix",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Lampiran"
+    },
+    {
+      "level": 2,
+      "title": "V. Konjugasi Kata Kerja"
+    },
+    {
+      "level": 3,
+      "title": "Kelompok I"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| Bentuk ない |  | Bentuk た | Arti | Pelajaran |\n|---|---|---|---|---|\n| きか | ない | きいた | mendengar | 6 |\n| きか | ない | きいた | bertanya [kepada guru] | 23 |\n| きら | ない | きった | memotong, menggunting | 7 |\n| けさ | ない | けした | mematikan, memadamkan | 14 |\n| さわら | ない | さわった | menyentuh [pintu] | 23 |\n| しら | ない | しった | mengetahui, mengenal | 15 |\n| すわ | ない | すった | mengisap [rokok], merokok | 6 |\n| すま | ない | すんだ | tinggal | 15 |\n| すわら | ない | すわった | duduk | 14 |\n| ださ | ない | だした | mengeluarkan, menyerahkan, mengirim | 16 |\n| たた | ない | たった | berdiri | 14 |\n| つかわ | ない | つかった | memakai | 14 |\n| つか | ない | ついた | tiba, sampai | 25 |\n| つくら | ない | つくった | membuat, membangun, memproduksi | 15 |\n| つれて いか | ない | つれて いった | membawa, mengajak pergi | 24 |\n| てつだわ | ない | てつだった | membantu | 14 |\n| とまら | ない | とまった | menginap [di hotel] | 19 |\n| とら | ない | とった | mengambil | 14 |\n| とら | ない | とった | mengambil [foto] | 6 |\n| とら | ない | とった | berumur, lanjut usia | 25 |\n| なおさ | ない | なおした | mengoreksi | 24 |\n| なくさ | ない | なくした | kehilangan | 17 |\n| ならわ | ない | ならった | belajar | 7 |\n| なら | ない | なった | menjadi | 19 |\n| ぬが | ない | ぬいだ | buka (baju, sepatu dan lain-lain) | 17 |\n| のぼら | ない | のぼった | naik | 19 |\n| のま | ない | のんだ | minum | 6 |\n| のま | ない | のんだ | minum (minuman keras) | 16 |\n| のま | ない | のんだ | minum [obat] | 17 |\n| のら | ない | のった | naik [kereta rel listrik] | 16 |\n| はいら | ない | はいった | masuk [ke coffee shop] | 14 |\n| はいら | ない | はいった | masuk [universitas] | 16 |\n| はいら | ない | はいった | mandi, masuk [ofuro] | 17 |"
+    }
+  ]
+}

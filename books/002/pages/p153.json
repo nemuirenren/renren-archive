@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 153,
+  "page_label": "132",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 21"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Saya kira besok hujan turun.\n2. Saya berkata kepada ayah bahwa ingin belajar di luar negeri.\n3. Lelah, bukan?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Di mana Sdr. Miller?\n····· Saya kira mungkin dia sudah pulang.\n2. Apakah Sdr. Miller tahu berita ini?\n····· Saya kira dia tidak tahu.\n3. Yang mana lebih penting, tugas atau keluarga?\n····· Saya kira dua-duanya penting.\n4. Mengenai Jepang, menurut Anda bagaimana?\n····· Saya kira harga barangnya mahal.\n5. Apakah Anda berdoa sebelum makan?\n····· Tidak, tidak berdoa, tetapi mengucapkan “Itadakimasu”.\n6. Kaguyahime berkata “Harus pulang ke bulan”. Kemudian, pulang ke bulan. Tamat.\n····· Tamat? Ibu, saya juga ingin pergi ke bulan.\n7. Di dalam rapat, apakah mengutarakan suatu pendapat?\n····· Ya. Saya berkata bahwa terdapat banyak fotokopian yang sia-sia.\n8. Pada bulan Juli ada perayaan di Kyoto, bukan?\n····· Ya, ada."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Saya Kira Juga Begitu."
+    },
+    {
+      "type": "text",
+      "text": "Matsumoto: Ah, Sdr. Santos, sudah lama tidak bertemu.\nSantos: Oh, Sdr. Matsumoto, apa kabar?\nMatsumoto: Baik-baik saja. Bagaimana kalau minum bir, atau...?\nSantos: Bagus, ya.\n................................................................\nSantos: Nanti malam, pukul sepuluh diadakan pertandingan sepak bola antara Jepang dan Brasil.\nMatsumoto: O ya, benar. Menurut Sdr. Santos, yang mana yang menang?\nSantos: Itu pasti Brasil.\nMatsumoto: Betul, ya. Tetapi, akhir-akhir ini Jepang juga menjadi kuat.\nSantos: Saya kira juga begitu, tetapi...... O, harus pulang...\nMatsumoto: Ya, mari pulang."
+    }
+  ]
+}

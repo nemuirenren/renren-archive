@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 100,
+  "page_label": "79",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 12"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "祭りと名所　Perayaan, Tempat Terkenal"
+    },
+    {
+      "type": "figure",
+      "text": "【図】Peta Jepang beserta foto bangunan dan perayaan.\nKota pada peta: 東京, 日光, 京都, 姫路, 大阪, 奈良, 広島.\nTempat/perayaan: 鹿苑寺（金閣寺）金閣, 富士山, 東照宮, 姫路城, 祇園祭, 皇居, 原爆ドーム, 東大寺・大仏, 神田祭, 天神祭."
+    }
+  ]
+}

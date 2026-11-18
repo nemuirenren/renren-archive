@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 154,
+  "page_label": "133",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 21"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "役職名 Nama-Nama Jabatan"
+    },
+    {
+      "type": "table",
+      "text": "| 機関 | Arti | 役職 | Arti |\n|---|---|---|---|\n| 国 | negara | 首相（内閣総理大臣） | Perdana Menteri |\n| 都道府県 | prefektur | 知事 | Gubernur |\n| 市 | kota | 市長 | Wali Kota |\n| 町 | distrik, daerah | 町長 | Kepala Daerah |\n| 村 | desa | 村長 | Kepala Desa |\n| 大学 | universitas | 学長 | Rektor |\n| 高等学校 | SMA | 校長 | Kepala Sekolah |\n| 中学校 | SMP | 校長 | Kepala Sekolah |\n| 小学校 | SD | 校長 | Kepala Sekolah |\n| 幼稚園 | TK | 園長 | Kepala TK |\n| 会社 | perusahaan | 会長 | Ketua |\n| 会社 | perusahaan | 社長 | Direktur Utama |\n| 会社 | perusahaan | 重役 | Direktur |\n| 会社 | perusahaan | 部長 | Kepala Bagian |\n| 会社 | perusahaan | 課長 | Kepala Seksi |\n| 銀行 | bank | 頭取 | Direktur Bank |\n| 銀行 | bank | 支店長 | Kepala Kantor Cabang |\n| 病院 | rumah sakit | 院長 | Direktur Rumah Sakit |\n| 病院 | rumah sakit | 部長 | Kepala Bagian |\n| 病院 | rumah sakit | 看護師長 | Kepala Perawat |\n| 駅 | stasiun | 駅長 | Kepala Stasiun |\n| 警察 | kantor polisi | 署長 | Kepala Kantor Polisi |"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 34,
+  "page_label": "13",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 1"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "国・人・ことば　Negara, Orang, Bahasa"
+    },
+    {
+      "type": "table",
+      "text": "| 国 (Negara) | 人 (Orang) | ことば (Bahasa) |\n|---|---|---|\n| アメリカ (Amerika Serikat) | アメリカ人 | 英語 (bahasa Inggris) |\n| イギリス (Inggris) | イギリス人 | 英語 (bahasa Inggris) |\n| イタリア (Italia) | イタリア人 | イタリア語 (bahasa Italia) |\n| イラン (Iran) | イラン人 | ペルシア語 (bahasa Persia) |\n| インド (India) | インド人 | ヒンディー語 (bahasa India) |\n| インドネシア (Indonesia) | インドネシア人 | インドネシア語 (bahasa Indonesia) |\n| エジプト (Mesir) | エジプト人 | アラビア語 (bahasa Arab) |\n| オーストラリア (Australia) | オーストラリア人 | 英語 (bahasa Inggris) |\n| カナダ (Kanada) | カナダ人 | 英語 (bahasa Inggris)<br>フランス語 (bahasa Perancis) |\n| 韓国 (Korea Selatan) | 韓国人 | 韓国語 (bahasa Korea) |\n| サウジアラビア (Arab Saudi) | サウジアラビア人 | アラビア語 (bahasa Arab) |\n| シンガポール (Singapura) | シンガポール人 | 英語 (bahasa Inggris) |\n| スペイン (Spanyol) | スペイン人 | スペイン語 (bahasa Spanyol) |\n| タイ (Thailand) | タイ人 | タイ語 (bahasa Thailand) |\n| 中国 (Cina) | 中国人 | 中国語 (bahasa Cina) |\n| ドイツ (Jerman) | ドイツ人 | ドイツ語 (bahasa Jerman) |\n| 日本 (Jepang) | 日本人 | 日本語 (bahasa Jepang) |\n| フランス (Perancis) | フランス人 | フランス語 (bahasa Perancis) |\n| フィリピン (Filipina) | フィリピン人 | フィリピノ語 (bahasa Filipina) |\n| ブラジル (Brazil) | ブラジル人 | ポルトガル語 (bahasa Portugis) |\n| ベトナム (Vietnam) | ベトナム人 | ベトナム語 (bahasa Vietnam) |\n| マレーシア (Malaysia) | マレーシア人 | マレーシア語 (bahasa Malaysia) |\n| メキシコ (Meksiko) | メキシコ人 | スペイン語 (bahasa Spanyol) |\n| ロシア (Rusia) | ロシア人 | ロシア語 (bahasa Rusia) |"
+    }
+  ]
+}

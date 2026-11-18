@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 40,
+  "page_label": "19",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 2"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "名前 Nama Keluarga"
+    },
+    {
+      "type": "text",
+      "text": "Nama keluarga yang lazim untuk orang Jepang"
+    },
+    {
+      "type": "table",
+      "text": "| No | Nama |\n|---|---|\n| 1 | 佐藤 |\n| 2 | 鈴木 |\n| 3 | 高橋 |\n| 4 | 田中 |\n| 5 | 渡辺 |\n| 6 | 伊藤 |\n| 7 | 山本 |\n| 8 | 中村 |\n| 9 | 小林 |\n| 10 | 加藤 |\n| 11 | 吉田 |\n| 12 | 山田 |\n| 13 | 佐々木 |\n| 14 | 斎藤 |\n| 15 | 山口 |\n| 16 | 松本 |\n| 17 | 井上 |\n| 18 | 木村 |\n| 19 | 林 |\n| 20 | 清水 |"
+    },
+    {
+      "type": "text",
+      "text": "城岡啓二、村山忠重「日本の姓の全国順位データベース」より。2011年8月公開\nSumber: “Sumber data Urutan Marga Jepang Tingkat Nasional” oleh Keiji Shiraoka, Tadashige Murayama, Agustus 2011"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Salam"
+    },
+    {
+      "type": "figure",
+      "text": "【図】Salam — dua orang bertukar kartu nama; seorang pria membawa hadiah.\n初めまして。\nどうぞ よろしく お願いします。\nKetika seseorang bertemu pertama kali dalam perjalanan dinas, bertukar kartu nama.\nKetika pindah rumah, merupakan sopan santun untuk memperkenalkan diri kepada tetangga baru dan memberikan hadiah sederhana berupa handuk, sabun, atau manisan."
+    }
+  ]
+}

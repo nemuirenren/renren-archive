@@ -1,0 +1,49 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 56,
+  "page_label": "35",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 5"
+    },
+    {
+      "level": 2,
+      "title": "〈練習 C〉 / 〈会話〉"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| ついたち（1日） | tanggal satu |\n| ふつか（2日） | tanggal dua, dua hari |\n| みっか（3日） | tanggal tiga, tiga hari |\n| よっか（4日） | tanggal empat, empat hari |\n| いつか（5日） | tanggal lima, lima hari |\n| むいか（6日） | tanggal enam, enam hari |\n| なのか（7日） | tanggal tujuh, tujuh hari |\n| ようか（8日） | tanggal delapan, delapan hari |\n| ここのか（9日） | tanggal sembilan, sembilan hari |\n| とおか（10日） | tanggal sepuluh, sepuluh hari |\n| じゅうよっか（14日） | tanggal empat belas, empat belas hari |\n| はつか（20日） | tanggal dua puluh, dua puluh hari |\n| にじゅうよっか（24日） | tanggal dua puluh empat, dua puluh empat hari |\n| ーにち（ー日） | tanggal ー, ー hari |\n| なんにち（何日） | tanggal berapa, berapa hari |\n| いつ | kapan |\n| たんじょうび（誕生日） | hari ulang tahun |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈練習 C〉［れんしゅうC］"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| そうですね。 | Ya, betul. / Ya, begitulah. |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈会話〉［かいわ］"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| ［どうも］ありがとう ございました。 | Terima kasih [banyak]. |\n| どう いたしまして。 | Sama-sama. |\n| ー番線（ばんせん） | peron nomor ー |\n| 次の（つぎの） | yang berikutnya |\n| 普通（ふつう） | biasa |\n| 急行（きゅうこう） | ekspres |\n| 特急（とっきゅう） | super ekspres |"
+    },
+    {
+      "type": "table",
+      "text": "| 固有名詞 | Indonesia |\n|---|---|\n| 甲子園（こうしえん） | nama kota yang terletak di dekat Osaka |\n| 大阪城（おおさかじょう） | nama benteng kuno terkenal di Osaka |"
+    }
+  ]
+}

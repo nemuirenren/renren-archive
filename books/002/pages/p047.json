@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 47,
+  "page_label": "26",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 3"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. ここ／そこ／あそこ／こちら／そちら／あちら"
+    },
+    {
+      "type": "text",
+      "text": "ここ、そこ、あそこ menunjukkan tempat. ここ menunjukkan tempat di mana si pembicara berada, そこ menunjukkan tempat di mana lawan bicara berada, dan あそこ menunjukkan tempat yang jauh dari kedua-duanya."
+    },
+    {
+      "type": "text",
+      "text": "こちら、そちら、あちら menunjukkan arah, tetapi juga dapat dipakai untuk menunjukkan tempat yang dapat dilihat oleh mata yang digantikan dengan ここ、そこ、あそこ. Dalam hal ini こちら、そちら、あちら menyatakan perasaan yang lebih sopan."
+    },
+    {
+      "type": "text",
+      "text": "［Perhatian］ Jika si pembicara menganggap bahwa lawan bicara berada di daerah yang sama, maka tempat di mana kedua-duanya berada dikatakan ここ, tempat yang sedikit jauh dikatakan そこ, dan tempat yang jauh dikatakan あそこ."
+    },
+    {
+      "type": "figure",
+      "text": "【図】Ilustrasi tiga orang pada jarak berbeda dengan label ここ、そこ、あそこ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Kata Benda は tempat です"
+    },
+    {
+      "type": "text",
+      "text": "Dengan menggunakan pola kalimat ini, dapat menyatakan tempat di mana benda, tempat, atau orang berada."
+    },
+    {
+      "type": "text",
+      "text": "① お手洗いは あそこです。\nKamar kecil di sana.\n② 電話は ２階です。\nTelepon di lantai dua.\n③ 山田さんは 事務所です。\nSdr. Yamada di kantor."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. どこ／どちら"
+    },
+    {
+      "type": "text",
+      "text": "どこ adalah Kata Tanya untuk tempat, dan どちら adalah Kata Tanya untuk bertanya arah. Untuk bertanya tempat, adakalanya digunakan どちら. Dalam hal ini, ungkapan menjadi lebih sopan daripada menggunakan どこ."
+    },
+    {
+      "type": "text",
+      "text": "④ お手洗いは どこですか。\nDi mana kamar kecil?\n……あそこです。\n……Di sana.\n⑤ エレベーターは どちらですか。\nLift di sebelah mana?\n……あちらです。\n……Di sebelah sana."
+    }
+  ]
+}

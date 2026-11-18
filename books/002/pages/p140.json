@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 140,
+  "page_label": "119",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 19"
+    },
+    {
+      "level": 2,
+      "title": "〈会話〉"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 乾杯 | toast |\n| ダイエット | diet (〜を します : berdiet) |\n| 無理[な] | paksa, berlebihan |\n| 体に いい | baik untuk tubuh |\n| 東京スカイツリー | Tokyo Sky Tree (menara gelombang radio yang lengkap dengan pelataran puncak yang ada di Tokyo) |\n| 葛飾北斎 | nama pelukis Ukiyoe yang terkenal pada zaman Edo, pelukis (1760〜1849) |"
+    }
+  ]
+}

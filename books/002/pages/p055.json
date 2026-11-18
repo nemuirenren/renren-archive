@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 55,
+  "page_label": "34",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 5"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 5"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| いきます | 行きます | pergi |\n| きます | 来ます | datang |\n| かえります | 帰ります | pulang |\n| がっこう | 学校 | sekolah |\n| スーパー |  | pasar swalayan |\n| えき | 駅 | stasiun |\n| ひこうき | 飛行機 | pesawat terbang |\n| ふね | 船 | kapal laut |\n| でんしゃ | 電車 | kereta rel listrik |\n| ちかてつ | 地下鉄 | kereta bawah tanah |\n| しんかんせん | 新幹線 | Shinkansen |\n| バス |  | bus |\n| タクシー |  | taksi |\n| じてんしゃ | 自転車 | sepeda |\n| あるいて | 歩いて | dengan berjalan kaki |\n| ひと | 人 | orang |\n| ともだち | 友達 | teman |\n| かれ | 彼 | dia, ia (laki-laki) |\n| かのじょ | 彼女 | dia, ia (perempuan) |\n| かぞく | 家族 | keluarga |\n| ひとりで | 一人で | sendirian, dengan sendiri |\n| せんしゅう | 先週 | minggu lalu |\n| こんしゅう | 今週 | minggu ini |\n| らいしゅう | 来週 | minggu depan |\n| せんげつ | 先月 | bulan lalu |\n| こんげつ | 今月 | bulan ini |\n| らいげつ | 来月 | bulan depan |\n| きょねん | 去年 | tahun lalu |\n| ことし |  | tahun ini |\n| らいねん | 来年 | tahun depan |\n| ーねん | 一年 | tahun ー |\n| なんねん | 何年 | tahun berapa |\n| ーがつ | 一月 | bulan ー |\n| なんがつ | 何月 | bulan apa |"
+    }
+  ]
+}

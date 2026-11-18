@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 152,
+  "page_label": "131",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 21"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| いけん | 意見 | pendapat |\n| はなし | 話 | cerita (〜を します : bercerita, berbicara) |\n| ちきゅう | 地球 | bumi |\n| つき | 月 | bulan |\n| さいきん | 最近 | akhir-akhir ini |\n| たぶん |  | mungkin, barangkali |\n| きっと |  | pasti |\n| ほんとうに |  | betul-betul |\n| そんなに |  | tidak begitu (diikuti bentuk negatif) |\n| 〜について |  | tentang 〜, mengenai 〜 |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 久しぶりですね。 | Sudah lama tidak bertemu ya. |\n| 〜でも 飲みませんか。 | Bagaimana kalau kita minum 〜, atau apa saja? |\n| もちろん | tentu saja |\n| もう 帰らないと……。 | Saya harus pulang... |"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| アインシュタイン | Albert Einstein (1879-1955) |\n| ガガーリン | Gagarin (1934-1968) |\n| ガリレオ | Galileo Galilei (1564-1642) |\n| キング牧師 | Martin Luther King, Jr. (1929-1968) |\n| フランクリン | Benjamin Franklin (1706-1790) |\n| かぐや姫 | Putri Kaguya (protagonis dari cerita dongeng Jepang \"Taketori monogatari\") |\n| 天神祭 | Perayaan Tenjin (perayaan di Osaka) |\n| 吉野山 | Gunung Yoshino (gunung yang ada di Nara) |\n| カンガルー | kanguru |\n| キャプテン・クック | Captain James Cook (1728-1779) |\n| ヨーネン | perusahaan fiksi |"
+    }
+  ]
+}

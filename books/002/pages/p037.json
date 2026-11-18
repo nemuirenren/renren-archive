@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 37,
+  "page_label": "16",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 2"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 2"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| これ |  | ini (benda yang ada di dekat si pembicara) |\n| それ |  | itu (benda yang ada di dekat lawan bicara) |\n| あれ |  | itu (benda yang ada jauh dari si pembicara dan lawan bicara) |\n| この ～ |  | ～ ini (menerangkan benda atau orang yang ada di dekat si pembicara.) |\n| その ～* |  | ～ itu (menerangkan benda atau orang yang ada di dekat lawan bicara.) |\n| あの ～* |  | ～ itu (menerangkan benda atau orang yang ada jauh dari si pembicara dan lawan bicara.) |\n| ほん | 本 | buku |\n| じしょ | 辞書 | kamus |\n| ざっし | 雑誌 | majalah |\n| しんぶん | 新聞 | koran, surat kabar |\n| ノート |  | buku tulis, buku catatan |\n| てちょう | 手帳 | buku agenda |\n| めいし | 名刺 | kartu nama |\n| カード |  | kartu |\n| えんぴつ | 鉛筆 | pensil |\n| ボールペン |  | bolpoin |\n| シャープペンシル |  | pensil mekanik, pensil isi ulang |\n| かぎ |  | kunci |\n| とけい | 時計 | jam, arloji |\n| かさ | 傘 | payung |\n| かばん |  | tas |\n| CD |  | CD |\n| テレビ |  | televisi |\n| ラジオ |  | radio |\n| カメラ |  | kamera |\n| コンピューター |  | komputer, PC |"
+    }
+  ]
+}

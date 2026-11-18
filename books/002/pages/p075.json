@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 75,
+  "page_label": "54",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 8"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Sakura indah.\n2. Gunung Fuji tinggi.\n3. Sakura adalah bunga yang indah.\n4. Gunung Fuji adalah gunung yang tinggi."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Apakah Osaka ramai?\n……Ya, ramai.\n2. Apakah Universitas Sakura terkenal?\n……Tidak, tidak terkenal.\n3. Apakah sekarang Beijing dingin?\n……Ya, sangat dingin.\nApakah Shanghai juga dingin?\n……Tidak, tidak begitu dingin.\n4. Bagaimana asrama universitas?\n……Tua, tetapi praktis.\n5. Saya pergi ke rumah Sdr. Matsumoto kemarin.\n……Rumahnya bagaimana?\nRumah yang bagus. Dan rumah yang besar.\n6. Saya menonton film yang menarik kemarin.\n……Menonton apa?\n“Tujuh Orang Samurai”."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Saya Mau Pamit."
+    },
+    {
+      "type": "text",
+      "text": "Ichiro Yamada: Sdr. Maria, bagaimana kehidupan di Jepang?\nMaria Santos: Setiap hari, sangat senang.\nIchiro Yamada: O, begitu. Sdr. Santos, bagaimana pekerjaannya?\nJose Santos: Ya... Sibuk, tetapi menyenangkan.\n………………………………………\nTomoko Yamada: Mau tambah kopi secangkir lagi?\nMaria Santos: Tidak, terima kasih.\n………………………………………\nJose Santos: Wah, sudah pukul enam, ya. Saya mau pamit.\nIchiro Yamada: O, ya?\nMaria Santos: Saya mengucapkan terima kasih atas undangan hari ini.\nTomoko Yamada: Sama-sama. Silakan datang lagi."
+    }
+  ]
+}

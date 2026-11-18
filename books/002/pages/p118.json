@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 118,
+  "page_label": "97",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 15"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "職業 Pekerjaan"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 会社員 | pegawai perusahaan |\n| 公務員 | pegawai negeri |\n| 駅員 | pegawai stasiun |\n| 銀行員 | pegawai bank |\n| 郵便局員 | pegawai kantor pos |\n| 店員 | pegawai toko |\n| 調理師 | tukang masak |\n| 理容師／美容師 | tukang potong rambut／ahli kecantikan |\n| 教師 | guru |\n| 弁護士 | pengacara |\n| 研究者 | peneliti |\n| 医者／看護師 | dokter／perawat |\n| 運転手 | sopir |\n| 警察官 | polisi |\n| 外交官 | diplomat |\n| 政治家 | politisi |\n| 画家 | pelukis |\n| 作家 | pengarang |\n| 音楽家 | musisi |\n| 建築家 | arsitek |\n| エンジニア | insinyur |\n| デザイナー | perancang busana |\n| ジャーナリスト | wartawan |\n| 歌手／俳優 | penyanyi／aktor aktris |\n| スポーツ選手 | olahragawan |"
+    }
+  ]
+}

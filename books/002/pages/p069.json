@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 69,
+  "page_label": "48",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 7"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Saya menonton film dengan komputer.\n2. Saya memberikan bunga kepada Sdr. Kimura.\n3. Saya mendapatkan cokelat dari Sdr. Karina.\n4. Saya telah mengirim *e-mail*."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Apakah belajar bahasa Jepang dengan televisi?\n……Tidak, belajar dengan radio.\n2. Menulis laporan dalam bahasa Jepang?\n……Tidak, menulis dalam bahasa Inggris.\n3. Apa bahasa Jepangnya \"Goodbye\"?\n……\"Sayonara\".\n4. Menulis kartu tahun baru untuk siapa?\n……Menulis untuk guru dan teman.\n5. Apa itu?\n……Buku agenda. Saya mendapatkannya dari Sdr. Yamada.\n6. Karcis *Shinkansen* sudah Anda beli?\n……Ya, sudah saya beli.\n7. Sudah makan siang?\n……Belum. Mau makan sekarang."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Selamat Datang!"
+    },
+    {
+      "type": "text",
+      "text": "Ichiro Yamada: Ya!\nJose Santos: Santos.\n\nIchiro Yamada: Selamat datang. Silakan masuk!\nJose Santos: Permisi.\n\nTomoko Yamada: Bagaimana kalau minum kopi?\nMaria Santos: Terima kasih banyak.\n\nTomoko Yamada: Silakan.\nMaria Santos: Mari minum! Sendok ini bagus, ya.\nTomoko Yamada: Ya. Saya mendapatkannya dari teman sekantor. Oleh-oleh dari Meksiko."
+    }
+  ]
+}

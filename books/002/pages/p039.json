@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 39,
+  "page_label": "18",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 2"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Ini kamus.\n2. Itu payung saya.\n3. Buku ini punya saya."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Ini bolpoin?\n…… Ya, betul.\n2. Itu buku tulis?\n…… Bukan, [ini] buku agenda.\n3. Apa itu?\n…… Kartu nama.\n4. Ini “9” atau “7”?\n…… “9”.\n5. Itu majalah apa?\n…… Majalah komputer.\n6. Itu tas siapa?\n…… Tas Sdr. Sato.\n7. Ini punya Sdr. Miller?\n…… Bukan, bukan punya saya.\n8. Kunci ini punya siapa?\n…… Punya saya."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Mohon Bantuan Anda."
+    },
+    {
+      "type": "text",
+      "text": "Ichiro Yamada: Ya! Siapa?\nSantos: Saya Santos di kamar 408.\n…………………………………………\nSantos: Selamat siang. Saya Santos.\nMulai sekarang, saya akan meminta bantuannya.\nMohon bantuan Anda.\nIchiro Yamada: Sama-sama.\nSantos: Pak, ini kopi. Silakan.\nIchiro Yamada: Terima kasih banyak."
+    }
+  ]
+}

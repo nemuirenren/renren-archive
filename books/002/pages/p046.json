@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 46,
+  "page_label": "25",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 3"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "デパート　Toserba"
+    },
+    {
+      "type": "figure",
+      "text": "【図】Ilustrasi potongan gedung toserba bertingkat (tab samping bertanda «3»), dengan label tiap lantai:\n屋上　遊園地 — tempat hiburan\n8階　レストラン・催し物会場 — restoran, tempat pertunjukan\n7階　時計・眼鏡 — jam, kaca mata\n6階　スポーツ用品・旅行用品 — peralatan olahraga, peralatan bepergian\n5階　子ども服・おもちゃ・本・文房具 — pakaian anak, mainan, buku, alat tulis\n4階　家具・食器・電化製品 — perlengkapan rumah, alat makan, barang elektronik\n3階　紳士服 — pakaian pria\n2階　婦人服 — pakaian wanita\n1階　靴・かばん・アクセサリー・化粧品 — sepatu, tas, perhiasan, kosmetik\n地下1階　食品 — makanan\n地下2階　駐車場 — tempat parkir"
+    }
+  ]
+}

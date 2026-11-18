@@ -1,0 +1,87 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 143,
+  "page_label": "122",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 19"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Kata Kerja Bentuk た"
+    },
+    {
+      "type": "text",
+      "text": "Bentuk konjugasi Kata Kerja yang berakhiran dengan た atau だ disebut bentuk た. Cara membuat bentuk た adalah て atau で dari bentuk て diubah menjadi た atau だ (Lihat Buku Induk Pel.19 Latihan A1)."
+    },
+    {
+      "type": "table",
+      "text": "| Bentuk て | Bentuk た |\n|---|---|\n| かいて | かいた |\n| のんで | のんだ |\n| たべて | たべた |\n| きて | きた |\n| して | した |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Kata Kerja Bentuk た ことが あります"
+    },
+    {
+      "type": "text",
+      "text": "Pernah......\nUngkapan ini sesuatu yang dianggap telah dilakukan pada waktu lampau dinyatakan sebagai pengalaman pada saat menceritakannya."
+    },
+    {
+      "type": "text",
+      "text": "① 馬に 乗った ことが あります。\nPernah berkuda.\nPerlu hati-hati bahwa jika hanya menyatakan kenyataan pada waktu lampau sebagaimana pernah dilakukan suatu aksi pada suatu titik waktu lampau, memakai bentuk waktu lampau."
+    },
+    {
+      "type": "text",
+      "text": "② 去年 北海道で 馬に 乗りました。\nTahun lalu berkuda di Hokkaido."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Kerja₁ Bentuk たり、Kata Kerja₂ Bentuk たり します"
+    },
+    {
+      "type": "text",
+      "text": "Melakukan......, melakukan......\nJika mengangkat beberapa Kata Benda (lebih dari dua) yang mewakilinya secara paralel pada umumnya memakai partikel や, tetapi menyatakan dengan mengangkat beberapa aksi yang mewakilinya maka digunakan pola kalimat ini. Waktu ditunjukan pada akhir kalimat."
+    },
+    {
+      "type": "text",
+      "text": "③ 日曜日は テニスを したり、映画を 見たり します。\nPada hari Minggu bermain tenis, dan menonton film."
+    },
+    {
+      "type": "text",
+      "text": "④ 日曜日は テニスを したり、映画を 見たり しました。\nPada hari Minggu yang lalu bermain tenis, dan menonton film."
+    },
+    {
+      "type": "text",
+      "text": "［Perhatian］ Perlu hati-hati bahwa cara penggunaannya berbeda dengan Kata Kerja₁ Bentuk て、Kata Kerja₂ Bentuk て、Kata Kerja₃ yang telah dipelajari di Pelajaran 16. Kata Kerja₁ Bentuk て、Kata Kerja₂ Bentuk て、Kata Kerja₃ menyatakan aksi yang lebih dari dua yang terjadi secara berturut-turut sesuai dengan urutannya."
+    },
+    {
+      "type": "text",
+      "text": "⑤ 日曜日は テニスを して、映画を 見ました。\nPada hari Minggu yang lalu, bermain tenis, kemudian menonton film."
+    },
+    {
+      "type": "text",
+      "text": "Akan tetapi, tidak ada hubungan tentang waktu di antara aksi yang diangkat dengan Kata Kerja₁ Bentuk たり、Kata Kerja₂ Bentuk たり します. Dengan pola kalimat ini mengangkat aksi yang mewakilinya, maka tidak wajar untuk mengatakan hal-hal yang dilakukan setiap hari (bangun pagi, makan, tidur malam, dan lain-lain)."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 120,
+  "page_label": "99",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 15"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "［Perhatian 1］ Bentuk negatif dari しっています adalah しりません. Perlu hati-hati bahwa tidak dikatakan しっていません."
+    },
+    {
+      "type": "text",
+      "text": "⑨ 市役所の 電話番号を 知って いますか。\nApakah tahu nomor telepon kantor wali kota?\n……はい、知って います。\n……Ya, tahu.\n……いいえ、知りません。\n……Tidak, tidak tahu."
+    },
+    {
+      "type": "text",
+      "text": "［Perhatian 2］ もっています mempunyai dua arti yaitu, sekarang memegang di tangan dan memiliki."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2) Menunjukkan perbuatan dari kebiasaan (aksi yang sama sedang berlangsung secara berulang-ulang dalam jangka waktu yang lama), atau pekerjaan dan status."
+    },
+    {
+      "type": "text",
+      "text": "⑩ IMC は コンピューターソフトを 作って います。\nIMC memproduksi perangkat lunak komputer."
+    },
+    {
+      "type": "text",
+      "text": "⑪ スーパーで ナンプラーを 売って います。\nDi pasar swalayan dijual kecap ikan."
+    },
+    {
+      "type": "text",
+      "text": "⑫ ミラーさんは IMC で 働いて います。\nSdr. Miller bekerja di IMC."
+    },
+    {
+      "type": "text",
+      "text": "⑬ 妹は 大学で 勉強して います。\nAdik perempuan saya kuliah di universitas."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Benda₁ に Kata Kerja"
+    },
+    {
+      "type": "text",
+      "text": "Partikel に digunakan bersama dengan Kata Kerja seperti はいります, すわります, のります (naik Pel.16), のぼります (naik Pel.19), つきます (tiba Pel.25), kemudian menunjukkan hasil melakukan aksi dan tempat subjek berada."
+    },
+    {
+      "type": "text",
+      "text": "⑭ ここに 入っては いけません。\nTidak boleh masuk ke sini."
+    },
+    {
+      "type": "text",
+      "text": "⑮ ここに 座っても いいですか。\nBoleh duduk di sini?"
+    },
+    {
+      "type": "text",
+      "text": "⑯ 京都駅から 16番の バスに 乗って ください。\nSilakan naik bus nomor 16 dari stasiun Kyoto. (Pel.16)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Kata Benda₁ に Kata Benda₂ を Kata Kerja"
+    },
+    {
+      "type": "text",
+      "text": "Partikel に menunjukkan tempat Kata Benda₂ berada (Kata Benda₁) akibat dari melakukan aksi."
+    },
+    {
+      "type": "text",
+      "text": "⑰ ここに 車を 止めて ください。\nHentikan mobil di sini."
+    },
+    {
+      "type": "text",
+      "text": "に dari ⑱ juga memiliki fungsi yang sama."
+    },
+    {
+      "type": "text",
+      "text": "⑱ ここに 住所を 書いて ください。\nTuliskan alamat di sini."
+    }
+  ]
+}

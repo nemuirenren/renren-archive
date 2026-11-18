@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 45,
+  "page_label": "24",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 3"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Di sini kantin.\n2. Lift di sana."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Di sini Shin Osaka?\n……Ya, betul.\n2. Di mana toilet?\n……Di sana.\n3. Di mana Sdr. Yamada?\n……Di ruang rapat.\n4. Di mana kantor?\n……Di sana.\n5. Berasal dari mana?\n……Amerika Serikat.\n6. Itu sepatu buatan mana?\n……Sepatu (buatan) Italia.\n7. Berapa jam tangan ini?\n……¥18.600."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Minta ini!"
+    },
+    {
+      "type": "text",
+      "text": "Pramuniaga A: Selamat datang.\nMaria: Maaf. Di mana tempat jual anggur?\nPramuniaga A: Di lantai besemen 1.\nMaria: Terima kasih.\n\nMaria: Maaf. Tolong perlihatkan anggur itu!\nPramuniaga B: Ya, silakan.\nMaria: Ini anggur dari mana?\nPramuniaga B: Jepang.\nMaria: Berapa?\nPramuniaga B: ¥2.500.\nMaria: Kalau begitu, minta ini."
+    }
+  ]
+}

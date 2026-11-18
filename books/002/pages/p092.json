@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 92,
+  "page_label": "71",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 11"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| おにいさん* | お兄さん | kakak laki-laki (untuk menyebutkan kakak laki-laki orang lain) |\n| あね | 姉 | kakak perempuan (untuk menyebutkan kakak sendiri) |\n| おねえさん* | お姉さん | kakak perempuan (untuk menyebutkan kakak perempuan orang lain) |\n| おとうと | 弟 | adik laki-laki (untuk menyebutkan adik sendiri) |\n| おとうとさん* | 弟さん | adik laki-laki (untuk menyebutkan adik laki-laki orang lain) |\n| いもうと | 妹 | adik perempuan (untuk menyebutkan adik sendiri) |\n| いもうとさん* | 妹さん | adik perempuan (untuk menyebutkan adik perempuan orang lain) |\n| がいこく | 外国 | luar negeri |\n| りゅうがくせい | 留学生 | pelajar asing |\n| クラス |  | kelas |\n| ーじかん | ー時間 | ー jam |\n| ーしゅうかん | ー週間 | ー minggu |\n| ーかげつ | ーか月 | ー bulan |\n| ーねん | ー年 | ー tahun |\n| ～ぐらい |  | kira-kira ～ |\n| どのくらい |  | berapa lama |\n| ぜんぶで | 全部で | semuanya |\n| みんな |  | semua |\n| ～だけ |  | hanya ～, ～ saja |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈練習 C〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| かしこまりました。 | Baik. |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| いい［お］天気ですね。 | Cuacanya bagus ya. |\n| お出かけですか。 | Mau keluar? |\n| ちょっと ～まで。 | Ke ～ sebentar. |\n| 行ってらっしゃい。 | Hati-hati. |\n| 行って きます。 | Saya berangkat. |\n| 船便 | pos laut |\n| 航空便（エアメール） | pos udara |\n| お願いします。 | Tolong. |\n| オーストラリア | Australia |"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 25,
+  "page_label": "4",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Introduksi"
+    },
+    {
+      "level": 2,
+      "title": "I. Ucapan Bahasa Jepang"
+    },
+    {
+      "level": 3,
+      "title": "2. Vokal Panjang"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Vokal Panjang"
+    },
+    {
+      "type": "text",
+      "text": "Vokal Bahasa Jepang ada lima macam, yaitu あ, い, う, え, dan お, di samping itu vokal yang diucapkan bunyi yang panjang disebut vokal panjang. Vokal diucapkan satu mora sedangkan vokal panjang diucapkan dua mora. Berdasarkan panjang atau pendeknya vokal akan menimbulkan perbedaan arti kata."
+    },
+    {
+      "type": "table",
+      "text": "| Contoh | Arti | Contoh | Arti |\n|---|---|---|---|\n| おばさん | tante | おばあさん | nenek |\n| おじさん | om | おじいさん | kakek |\n| ゆき | salju | ゆうき | keberanian |\n| え | gambar | ええ | ya |\n| とる | mengambil | とおる | melewati |\n| ここ | sini | こうこう | SMA |\n| へや | kamar | へいや | padang |"
+    },
+    {
+      "type": "text",
+      "text": "カード (kartu)　タクシー (taksi)　スーパー (pasar swalayan)　エスカレーター (eskalator)　ノート (buku catatan)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "[Perhatian]"
+    },
+    {
+      "type": "text",
+      "text": "1) Cara Menulis Hiragana\nBunyi panjang dari Kolom あ, Kolom い, Kolom う masing-masing dibubuhi あ, い, う.\nBunyi panjang dari Kolom え dibubuhi い.\n(Pengecualian: ええ (ya), ねえ (he), おねえさん (kakak perempuan) dan sebagainya)\nBunyi panjang dari Kolom お dibubuhi う.\n(Pengecualian: おおきい (besar), おおい (banyak), とおい (jauh) dan sebagainya)"
+    },
+    {
+      "type": "text",
+      "text": "2) Cara Menulis Katakana\nMenggunakan tanda ー sebagai tanda bunyi panjang."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Bunyi yang ditulis dengan ん"
+    },
+    {
+      "type": "text",
+      "text": "ん tidak terdapat di awal kata dan merupakan bunyi yang memiliki satu mora."
+    },
+    {
+      "type": "text",
+      "text": "ん berubah menjadi bunyi yang mudah diucapkan seperti /n/ /m/ /ŋ/, karena terpengaruh oleh bunyi yang terletak di belakangnya."
+    },
+    {
+      "type": "text",
+      "text": "① Diucapkan sebagai /n/ di depan bunyi Baris た, Baris だ, Baris ら, dan Baris な.\nContoh: はんだい (perlawanan)　うんどう (gerakan)　せんろ (rel)　みんな (semua)"
+    },
+    {
+      "type": "text",
+      "text": "② Diucapkan sebagai /m/ di depan bunyi Baris ば, Baris ぱ, dan Baris ま.\nContoh: しんぶん (surat kabar)　えんぴつ (pensil)　うんめい (nasib)"
+    },
+    {
+      "type": "text",
+      "text": "③ Diucapkan sebagai /ŋ/ di depan bunyi Baris か dan Baris が.\nContoh: てんき (cuaca)　けんがく (peninjauan)"
+    }
+  ]
+}

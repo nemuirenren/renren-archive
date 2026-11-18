@@ -1,0 +1,48 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 6,
+  "page_label": "v",
+  "kind": "front_matter",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Kata Pengantar Edisi Kedua"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "KATA PENGANTAR EDISI KEDUA"
+    },
+    {
+      "type": "text",
+      "text": "—Penerbitan “Minna no Nihongo untuk Tingkat Dasar Edisi Kedua”—"
+    },
+    {
+      "type": "text",
+      "text": "Akhirnya diterbitkan pula “Minna no Nihongo untuk Tingkat Dasar Edisi Kedua”. Sebagaimana tertulis pada kata pengantar dari “Minna no Nihongo untuk Tingkat Dasar” edisi pertama, buku ini dapat disebut sebagai pendamping dari buku pelajaran “Shin Nihongo no Kiso” yang dikembangkan untuk trainee teknik."
+    },
+    {
+      "type": "text",
+      "text": "Penerbitan edisi pertama buku ini pada bulan Maret tahun 1988. Pada masa itu, sesuai dengan perkembangan hubungan internasional, lingkungan sosial terhadap pendidikan bahasa Jepang pun berubah, kemudian jumlah pelajarnya bertambah dengan pesat dan sangat mencolok, sehingga penanganan keanekaragaman tujuan serta kebutuhan belajar bahasa Jepang disesuaikan terhadap keadaan di atas secara individu. 3A Corporation menerbitkan “Minna no Nihongo untuk Tingkat Dasar” untuk menjawab atas pendapat dan harapan yang telah diberikan oleh lapangan pengadaan pendidikan bahasa Jepang baik dari Jepang maupun dari luar negeri."
+    },
+    {
+      "type": "text",
+      "text": "“Minna no Nihongo untuk Tingkat Dasar” telah digunakan lebih dari sepuluh tahun lamanya dengan didapatkannya nilai yang baik karena topik pelajaran serta cara belajar yang mudah dipahami, sensitifitas tinggi yang memperhatikan keanekaragaman pelajar, dan isinya cukup lengkap sebagai materi, dan juga efek pelajaran yang amat tinggi bagi pelajar yang ingin menguasai percakapan bahasa Jepang dalam waktu yang singkat. Namun, “Bahasa” itu hidup bersama dengan zaman. Selama ini, baik dunia mau pun Jepang berada dalam keadaan perubahan yang sangat dahsyat. Secara khusus, beberapa tahun terakhir ini keadaan yang mencakup bahasa Jepang serta pelajarnya sangat berubah."
+    },
+    {
+      "type": "text",
+      "text": "Mengingat keadaan demikian, agar dapat berkontribusi lagi untuk pelajaran bahasa Jepang terhadap warga asing, untuk kali ini kami meninjau kembali “Minna no Nihongo untuk Tingkat Dasar I·II” dengan maksud membalas pengalaman penerbitan serta proyek trainee, dan kami telah mengadakan pengoreksian terhadap akumulasi pendapat atau pertanyaan dari pelajar dan lapangan pendidikan."
+    },
+    {
+      "type": "text",
+      "text": "Pokok dari pengoreksian adalah peningkatan kemampuan operasional dan pengubahan kosa kata atau adegan yang tidak sesuai dengan arus perkembangan zaman. Kami memperluas isi latihan dan soal dengan menghormati pendapat dari pelajar dan lapangan pendidikan, dan tetap mempertahankan struktur sebagai buku pelajaran yang “mudah dipelajari serta mengajar dengan mudah”. Kami berusaha agar pelajar tidak hanya berlatih secara pasif dengan mengikuti sesuai petunjuk saja, melainkan memahami situasi dengan sendiri sehingga memperkuat kemampuan untuk menghasilkan ekspresi dengan berpikir sendiri. Untuk itu, kami menggunakan banyak ilustrasi."
+    }
+  ]
+}

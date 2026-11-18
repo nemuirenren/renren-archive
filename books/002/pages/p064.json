@@ -1,0 +1,73 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 64,
+  "page_label": "43",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 6"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "食べ物 Makanan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "野菜 Sayuran"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| きゅうり | ketimun |\n| トマト | tomat |\n| なす | terong |\n| まめ | kacang-kacangan |\n| キャベツ | kol |\n| ねぎ | daun bawang |\n| はくさい | sawi |\n| ほうれんそう | bayam |\n| レタス | letas |\n| じゃがいも | kentang |\n| だいこん | lobak |\n| たまねぎ | bawang |\n| にんじん | wortel |"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "果物 Buah-buahan"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia | 日本語 | Indonesia |\n|---|---|---|---|\n| いちご | stroberi | なし | pir |\n| もも | buah *peach* | かき | buah kesemek |\n| すいか | semangka | みかん | jeruk |\n| ぶどう | anggur | りんご | apel |\n|  |  | バナナ | pisang |"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "肉 Daging"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| ぎゅうにく | daging sapi |\n| とりにく | daging ayam |\n| ぶたにく | daging babi |\n| ソーセージ | sosis |\n| ハム | ham |\n| こめ | beras |\n| たまご | telur |"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "魚 Ikan"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia | 日本語 | Indonesia | 日本語 | Indonesia |\n|---|---|---|---|---|---|\n| あじ | ikan *horse mackerel*<br>ikan *aji* | さけ | ikan salmon | えび | udang |\n| いわし | ikan sarden | まぐろ | ikan tuna | かに | kepiting |\n| さば | ikan kembung<br>ikan *saba* | たい | ikan kakap | いか | cumi-cumi |\n| さんま | ikan sauri pasifik<br>ikan *samma* | たら | ikan gabus | たこ | gurita |\n| かい | kerang |  |  |  |  |"
+    },
+    {
+      "type": "text",
+      "text": "Jepang tergantung pada impor dari daerah lain lebih dari setengah makanan yang dikonsumsi oleh warganya. Presentase swasembada pangan adalah sebagai berikut: gandum 59%, sayuran 81%, buah-buahan 38%, daging 56%, dan hasil laut 60% (Hasil penelitian Departemen Kementerian Pertanian, Kehutanan, dan Perikanan, 2010). Swasembada pangan adalah beras yaitu, 100%."
+    }
+  ]
+}

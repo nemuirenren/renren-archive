@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 70,
+  "page_label": "49",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 7"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "家族 Keluarga"
+    },
+    {
+      "type": "figure",
+      "text": "【図】わたしの家族 Keluarga Saya\n祖父母：祖母 nenek、祖父 kakek（祖父母 kakek nenek）\n両親：母 ibu、父 ayah（両親 orang tua）\n兄弟：妹 adik perempuan、弟 adik laki-laki、姉 kakak perempuan、兄 kakak laki-laki（兄弟 saudara）\n夫婦：妻 istri（夫 suami）、わたし saya（夫婦 pasangan suami istri）\n子ども：娘 anak perempuan、息子 anak laki-laki（子ども anak）"
+    },
+    {
+      "type": "figure",
+      "text": "【図】田中さんの家族 Keluarga Saudara Tanaka\n祖父母：おばあさん nenek、おじいさん kakek\n両親：お母さん ibu、お父さん ayah（ご両親 orang tua）\n兄弟：妹さん adik perempuan、弟さん adik laki-laki、お姉さん kakak perempuan、お兄さん kakak laki-laki（ご兄弟 saudara）\n夫婦：奥さん istri（ご主人 suami）、田中さん Saudara Tanaka（ご夫婦 pasangan suami istri）\n子ども：娘さん anak perempuan、息子さん anak laki-laki（お子さん anak）"
+    }
+  ]
+}

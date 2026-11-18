@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 31,
+  "page_label": "10",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 1"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 1"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| わたし |  | saya |\n| あなた |  | Anda |\n| あの ひと（あの かた） | あの 人（あの 方） | orang itu, beliau（あの かた adalah bentuk sopan dari あの ひと） |\n| ～さん |  | Sdr. ～, Bapak ～, Ibu ～（akhiran untuk mengekspresikan kesopanan yang diletakkan di belakang nama orang） |\n| ～ちゃん |  | （akhiran yang dipakai untuk anak laki-laki dan anak perempuan sebagai pengganti ～さん yang diletakkan di belakang nama anak） |\n| ～じん | ～人 | orang ～（akhiran yang menyatakan warga negara. Contoh: アメリカじん（orang Amerika Serikat）） |\n| せんせい | 先生 | guru, dosen（tidak dipakai jika menyebutkan pekerjaan sendiri） |\n| きょうし | 教師 | guru, dosen |\n| がくせい | 学生 | mahasiswa |\n| かいしゃいん | 会社員 | karyawan perusahaan |\n| しゃいん | 社員 | karyawan perusahaan（dipakai bersama dengan nama perusahaan. Contoh: IMC の しゃいん（karyawan perusahaan IMC）） |\n| ぎんこういん | 銀行員 | pegawai bank |\n| いしゃ | 医者 | dokter |\n| けんきゅうしゃ | 研究者 | peneliti |\n| だいがく | 大学 | universitas |\n| びょういん | 病院 | rumah sakit |\n| だれ（どなた） |  | siapa（どなた adalah bentuk sopan dari だれ） |\n| －さい | －歳 | － tahun |\n| なんさい（おいくつ） | 何歳 | umur berapa（おいくつ adalah bentuk sopan dari なんさい） |"
+    }
+  ]
+}

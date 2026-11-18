@@ -1,0 +1,124 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 114,
+  "page_label": "93",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 14"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Kerja Bentuk てください"
+    },
+    {
+      "type": "text",
+      "text": "Tolong ......."
+    },
+    {
+      "type": "text",
+      "text": "Pola kalimat ini dipakai untuk memerintah, meminta, dan menawarkan sesuatu kepada lawan bicara. Dengan catatan bahwa, pada umumnya dipakai bersama dengan すみませんが seperti contoh ① di bawah ini, sebab sebagai maksud permintaan dianggap kurang halus."
+    },
+    {
+      "type": "text",
+      "text": "① すみませんが、この 漢字の 読み方を 教えて ください。\nPermisi, tolong ajarkan cara membaca Kanji ini. (permintaan)"
+    },
+    {
+      "type": "text",
+      "text": "② ボールペンで 名前を 書いて ください。\nTolong tuliskan nama dengan bolpoin. (perintah)"
+    },
+    {
+      "type": "text",
+      "text": "③ どうぞ たくさん 食べて ください。\nSilakan makan banyak. (ajakan)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Kata Kerja Bentuk ています"
+    },
+    {
+      "type": "text",
+      "text": "Pola kalimat ini menunjukkan suatu aksi yang sedang berlangsung."
+    },
+    {
+      "type": "text",
+      "text": "④ ミラーさんは 今 電話を かけています。\nSdr. Miller sedang menelepon."
+    },
+    {
+      "type": "text",
+      "text": "⑤ 今 雨が 降って いますか。\nSekarang hujan turun?\n……はい、降って います。\n……Ya, hujan turun.\n……いいえ、降って いません。\n……Tidak, tidak turun hujan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Kata Kerja (Bentuk ます) ましょうか"
+    },
+    {
+      "type": "text",
+      "text": "Bagaimana kalau ......?"
+    },
+    {
+      "type": "text",
+      "text": "Ini adalah ekspresi dari si pembicara menawarkan untuk melakukan sesuatu untuk lawan bicara."
+    },
+    {
+      "type": "text",
+      "text": "⑥ あしたも 来ましょうか。\nBagaimana kalau saya besok juga datang?\n……ええ、10時に 来て ください。\n……Ya, tolong datang pada pukul sepuluh."
+    },
+    {
+      "type": "text",
+      "text": "⑦ 傘を 貸しましょうか。\nBagaimana kalau saya pinjamkan payung?\n……すみません。お願いします。\n……Terima kasih. Tolong pinjamkan."
+    },
+    {
+      "type": "text",
+      "text": "⑧ 荷物を 持ちましょうか。\nBagaimana kalau saya membawa barang?\n……いいえ、けっこうです。\n……Tidak, terima kasih."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Kata Benda が Kata Kerja"
+    },
+    {
+      "type": "text",
+      "text": "Jika menyatakan suatu kejadian alam yang dirasakan dengan panca indera (mata, telinga dan lain-lain), atau menyampaikan peristiwa secara objektivitas, partikel が dipakai untuk subjek."
+    },
+    {
+      "type": "text",
+      "text": "⑨ 雨が 降って います。\nHujan turun."
+    },
+    {
+      "type": "text",
+      "text": "⑩ ミラーさんが いませんね。\nSdr. Miller tidak ada ya."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. すみませんが"
+    },
+    {
+      "type": "text",
+      "text": "⑪ すみませんが、塩を 取って ください。\nMaaf, tolong ambilkan garam."
+    },
+    {
+      "type": "text",
+      "text": "⑫ 失礼ですが、お名前は？\nMaaf, siapa namanya?"
+    },
+    {
+      "type": "text",
+      "text": "Jika が yang dipakai sebagai ekspresi awal pembicaraan seperti すみませんが atau 失礼ですが、が tidak berarti paradoks melainkan dipakai sebagai pendahuluan."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 127,
+  "page_label": "106",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 17"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 17"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| おぼえますⅡ | 覚えます | mengingat, menghafal |\n| わすれますⅡ | 忘れます | lupa |\n| なくしますⅠ |  | kehilangan |\n| はらいますⅠ | 払います | membayar |\n| かえしますⅠ | 返します | mengembalikan |\n| でかけますⅡ | 出かけます | pergi, keluar, berangkat |\n| ぬぎますⅠ | 脱ぎます | buka (baju, sepatu dan lain-lain) |\n| もっていきますⅠ | 持って行きます | membawa pergi |\n| もってきますⅢ | 持って来ます | membawa datang |\n| しんぱいしますⅢ | 心配します | mengkhawatirkan |\n| ざんぎょうしますⅢ | 残業します | melembur |\n| しゅっちょうしますⅢ | 出張します | dinas |\n| のみますⅠ | 飲みます | minum [obat] |\n| [くすりを～] | [薬を～] |  |\n| はいりますⅠ | 入ります | mandi, masuk [ofuro] |\n| [おふろに～] |  |  |\n| たいせつ[な] | 大切[な] | penting, bernilai, berharga |\n| だいじょうぶ[な] | 大丈夫[な] | tidak apa-apa, tidak masalah |\n| あぶない | 危ない | berbahaya |\n| きんえん | 禁煙 | dilarang merokok |\n| [けんこう]ほけんしょう | [健康]保険証 | kartu asuransi [kesehatan] |\n| ねつ | 熱 | demam |\n| びょうぎ | 病気 | sakit |\n| くすり | 薬 | obat |\n| [お]ふろ |  | mandi, kamar mandi |\n| うわぎ | 上着 | baju, jaket |\n| したぎ | 下着 | pakaian dalam |"
+    }
+  ]
+}

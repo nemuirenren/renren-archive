@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 169,
+  "page_label": "148",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 24"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| くれますⅡ |  | diberikan |\n| なおしますⅠ | 直します | mengoreksi |\n| つれて いきますⅠ | 連れて 行きます | membawa, mengajak pergi |\n| つれて きますⅢ | 連れて 来ます | membawa datang, mengajak datang |\n| おくりますⅠ [ひとを～] | 送ります [人を～] | mengantar [orang] |\n| しょうかいしますⅢ | 紹介します | memperkenalkan |\n| あんないしますⅢ | 案内します | mengantarkan |\n| せつめいしますⅢ | 説明します | menjelaskan, menerangkan |\n| おじいさん／おじいちゃん |  | kakek |\n| おばあさん／おばあちゃん |  | nenek |\n| じゅんび | 準備 | persiapan (～[を] します : mempersiapkan, menyiapkan) |\n| ひっこし | 引っ越し | pindah rumah (～[を] します : pindah, memindahkan) |\n| [お]かし | [お]菓子 | kue |\n| ホームステイ |  | homestay |\n| ぜんぶ | 全部 | semua |\n| じぶんで | 自分で | dengan sendiri |"
+    }
+  ]
+}

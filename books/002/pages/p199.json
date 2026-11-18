@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 199,
+  "page_label": "178",
+  "kind": "appendix",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Lampiran"
+    },
+    {
+      "level": 2,
+      "title": "V. Konjugasi Kata Kerja"
+    },
+    {
+      "level": 3,
+      "title": "Kelompok II"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "|  | Bentuk ます | Bentuk て | Bentuk Kamus |\n|---|---|---|---|\n| 出ます [きっさてんを～] | でます | でて | でる |\n| 出ます [だいがくを～] | でます | でて | でる |\n| 止めます | とめます | とめて | とめる |\n| 寝ます | ねます | ねて | ねる |\n| 乗り換えます | のりかえます | のりかえて | のりかえる |\n| 始めます | はじめます | はじめて | はじめる |\n| 負けます | まけます | まけて | まける |\n| 見せます | みせます | みせて | みせる |\n| 見ます | みます | みて | みる |\n| 迎えます | むかえます | むかえて | むかえる |\n| やめます [かいしゃを～] | やめます | やめて | やめる |\n| 忘れます | わすれます | わすれて | わすれる |"
+    }
+  ]
+}

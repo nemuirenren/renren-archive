@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 174,
+  "page_label": "153",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 24"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "text": "Ini menunjukkan bahwa si penerima bantuan dijadikan subjek dan dengan perbuatan itu si pemberi dianggap sebagai subjek yang menerima kebaikan atau keuntungan. Jika subjeknya watashi, biasanya subjek itu dihilangkan."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3) Kata Kerja Bentuk て くれます"
+    },
+    {
+      "type": "text",
+      "text": "⑧ 母は [わたしに] セーターを 送って くれました。\nIbu saya mengirimkan saya sweater."
+    },
+    {
+      "type": "text",
+      "text": "Ini merupakan bahwa pelaku dijadikan subjek dan dengan perbuatan itu si pemberi dianggap sebagai pemberi kebaikan atau keuntungan. Jika penerima perbuatan (ditunjuk dengan partikel に) adalah watashi, biasanya watashi itu dihilangkan."
+    },
+    {
+      "type": "text",
+      "text": "[Perhatian] Partikel yang menunjuk penerima kebaikan dalam kalimat ～て あげます atau ～て くれます menjadi sama dengan kalimat yang tidak digunakan ～て あげます atau ～て くれます."
+    },
+    {
+      "type": "text",
+      "text": "わたしに 旅行の 写真を 見せます。\n↓\nわたしに 旅行の 写真を 見せて くれます。\nMemperlihatkan saya foto waktu berwisata."
+    },
+    {
+      "type": "text",
+      "text": "わたしを 大阪城へ 連れて 行きます。\n↓\nわたしを 大阪城へ 連れて 行って くれます。\nMengantarkan saya ke Benteng Osaka."
+    },
+    {
+      "type": "text",
+      "text": "わたしの 引っ越しを 手伝います。\n↓\nわたしの 引っ越しを 手伝って くれます。\nMembantu saya pindah rumah."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Kata Benda は Kata Benda₂ が Kata Kerja"
+    },
+    {
+      "type": "text",
+      "text": "⑨ おいしい ワインですね。\n……ええ、[この ワインは] 佐藤さんが くれました。\nAnggur yang enak ya.\n……Ya, [anggur ini] Sdr. Sato yang berikan."
+    },
+    {
+      "type": "text",
+      "text": "Kalimat jawaban adalah objek dari kalimat yang さとうさんが この ワインを くれました yaitu この ワイン dijadikan topik (Lihat Pel.17-5). この ワイン dapat dihilangkan sebab hal yang telah saling dipahami oleh si pembicara dan lawan bicara. Dengan catatan bahwa dalam kalimat ini さとうさん menjadi subjek maka dipakai が."
+    }
+  ]
+}

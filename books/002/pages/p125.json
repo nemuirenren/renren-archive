@@ -1,0 +1,114 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 125,
+  "page_label": "104",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 16"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cara menyambung kalimat yang lebih dari dua"
+    },
+    {
+      "type": "text",
+      "text": "Dengan memakai ～て（～で） dapat menyambung kalimat yang lebih dari dua menjadi satu kalimat."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1) Kata Kerja Bentuk て₁、［Kata Kerja Bentuk て₂、］Kata Kerja₃"
+    },
+    {
+      "type": "text",
+      "text": "Apabila menyatakan lebih dari dua aksi yang berturut-turut, menyebutkan aksi tersebut sesuai dengan urutannya dengan menggunakan bentuk て. Waktu ditentukan dengan Kata Kerja yang terakhir."
+    },
+    {
+      "type": "text",
+      "text": "① 朝 ジョギングをして、シャワーを 浴びて、会社へ 行きます。\nPagi hari joging, mandi, kemudian pergi ke perusahaan."
+    },
+    {
+      "type": "text",
+      "text": "② 神戸へ 行って、映画を 見て、お茶を 飲みました。\nPergi ke Kobe, menonton film, kemudian minum teh."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2) Kata Sifat い（～い） → ～くて"
+    },
+    {
+      "type": "table",
+      "text": "| Kata sifat い | Bentuk ～て | Arti |\n|---|---|---|\n| おおきい | おおきくて | besar |\n| ちいさい | ちいさくて | kecil |\n| いい | よくて（pengecualian） | baik, bagus |"
+    },
+    {
+      "type": "text",
+      "text": "③ ミラーさんは 若くて、元気です。\nSdr. Miller muda dan sehat."
+    },
+    {
+      "type": "text",
+      "text": "④ きのうは 天気が よくて、暑かったです。\nKemarin cuaca baik dan panas."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3) Kata Sifat な ［な］ → ～で"
+    },
+    {
+      "type": "text",
+      "text": "⑤ ミラーさんは ハンサムで、親切です。\nSdr. Miller ganteng dan baik hati."
+    },
+    {
+      "type": "text",
+      "text": "⑥ 奈良は 静かで、きれいな 町です。\nNara adalah kota yang tenang dan indah."
+    },
+    {
+      "type": "text",
+      "text": "［Perhatian］ Jika memakai ～て（～で） untuk menyambung Kata sifat yang bersubjek sama, tidak dapat menyambungkan kalimat yang nilai pembicaraannya berbeda. Dalam hal itu, menggunakan が（Lihat Pel.8-4）."
+    },
+    {
+      "type": "text",
+      "text": "× この 部屋は 狭くて、きれいです。\n○ この 部屋は 狭いですが、きれいです。\nKamar ini sempit, tetapi bersih."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "4) Kata Benda で"
+    },
+    {
+      "type": "text",
+      "text": "⑦ カリナさんは インドネシア人で、富士大学の 留学生です。\nSdr. Karina adalah orang Indonesia dan pelajar asing dari Universitas Fuji."
+    },
+    {
+      "type": "text",
+      "text": "⑧ カリナさんは 学生で、マリアさんは 主婦です。\nSdr. Karina adalah mahasiswa, sedangkan Sdr. Maria adalah ibu rumah tangga."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Kata Kerja₁ Bentuk てから、Kata Kerja₂"
+    },
+    {
+      "type": "text",
+      "text": "Pola kalimat ini menunjukkan bahwa Kata Kerja₂ dilakukan setelah Kata Kerja₁. Oleh karena itu, pada umumnya dengan Kata Kerja₁ dikatakan prasyarat sebagai persiapan untuk melakukan Kata Kerja₂. Waktu ditentukan oleh waktu Kata Kerja terakhir."
+    }
+  ]
+}

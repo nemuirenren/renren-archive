@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 57,
+  "page_label": "36",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 5"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Saya pergi ke Kyoto.\n2. Saya pulang ke rumah dengan taksi.\n3. Saya datang ke Jepang bersama dengan keluarga."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Besok pergi ke mana?\n…… Pergi ke Nara.\n2. Hari Minggu pergi ke mana?\n…… Tidak pergi ke mana-mana.\n3. Dengan apa pergi ke Tokyo?\n…… Pergi dengan Shinkansen.\n4. Dengan siapa pergi ke Tokyo?\n…… Pergi dengan Sdr. Yamada.\n5. Kapan datang di Jepang?\n…… Datang pada tanggal 25 Maret.\n6. Kapan hari ulang tahun?\n…… Tanggal 13 Juni."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Percakapan：Apakah Kereta Rel Listrik Ini Menuju Koshien?"
+    },
+    {
+      "type": "text",
+      "text": "Santos：Maaf. Sampai dengan Koshien berapa?\nWanita：¥350.\nSantos：¥350, ya? Terima kasih.\nWanita：Sama-sama.\n\nSantos：Maaf. Jurusan Koshien di peron berapa?\nPetugas stasiun：Peron nomor lima.\nSantos：Terima kasih.\n\nSantos：Permisi, kereta rel listrik ini menuju Koshien?\nPria：Tidak. Yang “Biasa” berikutnya.\nSantos：O, begitu. Terima kasih."
+    }
+  ]
+}

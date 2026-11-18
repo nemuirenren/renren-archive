@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 176,
+  "page_label": "155",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 25"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈練習 C〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| もしもし | halo (digunakan ketika menelepon) |"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "〈会話〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| てんきん | 転勤 | pindah ke kantor cabang lain atau jabatan lain (～します : pindah kantor) |\n| こと |  | hal (～の こと : hal ～) |\n| ひま | 暇 | waktu luang |\n| [いろいろ] おせわに なりました | [色々] お世話に なりました | Terima kasih banyak bantuan Anda yang telah diberikan. |\n| がんばります | 頑張ります | berusaha, bekerja keras |\n| どうぞ おげんきで。 | どうぞ お元気で。 | Semoga sehat-sehat selalu. (digunakan ketika perpisahan dalam jangka waktu lama) |\n| ベトナム |  | Vietnam |"
+    }
+  ]
+}

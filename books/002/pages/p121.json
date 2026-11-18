@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 121,
+  "page_label": "100",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 16"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 16"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| のりますⅠ<br>乗ります<br>［電車に～］ | naik [kereta rel listrik] |\n| おりますⅡ<br>降ります<br>［電車を～］ | turun [kereta rel listrik] |\n| のりかえますⅡ<br>乗り換えます | ganti, pindah |\n| あびますⅡ<br>浴びます<br>［シャワーを～］ | mandi |\n| いれますⅡ<br>入れます | memasukkan |\n| だしますⅠ<br>出します | mengeluarkan, menyerahkan, mengirim |\n| おろしますⅠ<br>下ろします<br>［お金を～］ | mengeluarkan/mengambil [uang] |\n| はいりますⅠ<br>入ります<br>［大学に～］ | masuk [universitas] |\n| でますⅡ<br>出ます<br>［大学を～］ | tamat [dari universitas] |\n| おしますⅠ<br>押します | menekan |\n| のみますⅠ<br>飲みます | minum (minuman keras) |\n| はじめますⅡ<br>始めます | mulai |\n| けんがくしますⅢ<br>見学します | mengunjungi |\n| でんわしますⅢ<br>電話します | menelepon |\n| わかい<br>若い | muda |\n| ながい<br>長い | panjang |\n| みじかい<br>短い | pendek |\n| あかるい<br>明るい | terang |\n| くらい<br>暗い | gelap |\n| からだ*<br>体 | badan |\n| あたま<br>頭 | kepala |\n| かみ<br>髪 | rambut |\n| かお*<br>顔 | muka |\n| め<br>目 | mata |\n| みみ*<br>耳 | telinga |\n| はな*<br>鼻 | hidung |\n| くち*<br>口 | mulut |\n| は*<br>歯 | gigi |\n| おなか* | perut |\n| あし*<br>足 | kaki |\n| せ<br>背 | punggung |"
+    }
+  ]
+}

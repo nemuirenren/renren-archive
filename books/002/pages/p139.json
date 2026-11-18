@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 139,
+  "page_label": "118",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 19"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 19"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| のぼりますⅠ | 登ります／上ります | naik |\n| とまりますⅠ | 泊まります | menginap [di hotel] |\n| [ホテルに～] |  |  |\n| そうじしますⅢ | 掃除します | membersihkan |\n| せんたくしますⅢ | 洗濯します | mencuci pakaian |\n| なりますⅠ |  | menjadi |\n| ねむい | 眠い | mengantuk |\n| つよい | 強い | kuat |\n| よわい* | 弱い | lemah |\n| れんしゅう | 練習 | latihan (～[を] します：berlatih) |\n| ゴルフ |  | golf (～[を] します：bermain golf) |\n| すもう | 相撲 | sumo (～[を] します：bermain sumo) |\n| おちゃ | お茶 | upacara minum teh |\n| ひ | 日 | hari |\n| ちょうし | 調子 | kondisi |\n| いちど | 一度 | sekali |\n| いちども | 一度も | sekali-kali, satu kali pun (diikuti bentuk negatif) |\n| だんだん |  | berangsur-angsur, lama-kelamaan |\n| もうすぐ |  | tidak lama lagi |\n| おかげさまで |  | atas berkat (ucapan yang digunakan ketika menyatakan rasa terima kasih atas bantuan atau kebaikan hati dari orang) |\n| でも |  | tetapi |"
+    }
+  ]
+}

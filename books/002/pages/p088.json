@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 88,
+  "page_label": "67",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 10"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "うちの 中　Di Dalam Rumah"
+    },
+    {
+      "type": "figure",
+      "text": "【図】Denah potongan rumah dengan sepuluh bagian yang diberi nomor.\n① 玄関 — pintu masuk\n② トイレ — toilet\n③ ふろ場 — kamar mandi\n④ 洗面所 — tempat cuci tangan\n⑤ 台所 — dapur\n⑥ 食堂 — ruang makan\n⑦ 居間 — ruang tamu\n⑧ 寝室 — kamar tidur\n⑨ 廊下 — koridor\n⑩ ベランダ — teras"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cara menggunakan kamar mandi Jepang"
+    },
+    {
+      "type": "text",
+      "text": "① Bersihkan badan terlebih dahulu sebelum masuk ke dalam bak mandi.\n② Jangan menggunakan sabun dan sampo di dalam bak mandi. Bak mandi digunakan untuk menghangatkan diri dan relaksasi.\n③ Sesudah selesai mandi, jangan buang air dan tutup bak mandi agar dapat digunakan oleh orang lain."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cara menggunakan toilet"
+    },
+    {
+      "type": "figure",
+      "text": "【図】Dua jenis toilet: \"Toilet ala Jepang\" (toilet jongkok) dan \"Toilet ala Barat\" (toilet duduk)."
+    }
+  ]
+}

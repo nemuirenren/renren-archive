@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 161,
+  "page_label": "140",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 22"
+    },
+    {
+      "level": 2,
+      "title": "IV. Keterangan Tata Bahasa"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "IV. Keterangan Tata Bahasa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Anak Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "Pada Pelajaran 2 dan Pelajaran 8 telah dipelajari cara untuk menerangkan Kata Benda."
+    },
+    {
+      "type": "text",
+      "text": "ミラーさんの うち　rumah Sdr. Miller (Pel.2)\n新しい うち　rumah yang baru (Pel.8)\nきれいな うち　rumah yang indah (Pel.8)"
+    },
+    {
+      "type": "text",
+      "text": "Kata atau frase yang menerangkan diletakkan di depan Kata Benda. Pada pelajaran ini, mempelajari frase yang menerangkan Kata Benda."
+    },
+    {
+      "type": "text",
+      "text": "1) Kata Kerja, Kata Sifat dan Kata Benda yang terdapat di dalam anak kalimat adalah Bentuk Biasa. Untuk Kata Sifat Bentuk な menjadi 〜な, sedangkan untuk Kata Benda menjadi 〜の。"
+    },
+    {
+      "type": "text",
+      "text": "① 京都へ 行く人　orang yang pergi ke Kyoto\n京都へ 行かない人　orang yang tidak pergi ke Kyoto\n京都へ 行った人　orang yang telah pergi ke Kyoto\n京都へ 行かなかった人　orang yang tidak pergi ke Kyoto (lampau)\n背が 高くて、髪が 黒い人　orang yang badannya tinggi dan rambutnya hitam\n親切で、きれいな人　orang yang baik hati dan cantik\n65歳の人　orang yang berumur enam puluh lima tahun"
+    },
+    {
+      "type": "text",
+      "text": "2) Anak kalimat dipakai dalam berbagai pola kalimat seperti di bawah ini."
+    },
+    {
+      "type": "text",
+      "text": "② これは ミラーさんが 住んで いた うちです。\nIni adalah rumah yang dihuni Sdr. Miller.\n③ ミラーさんが 住んで いた うちは 古いです。\nRumah yang dihuni Sdr. Miller sudah tua.\n④ ミラーさんが 住んで いた うちを 買いました。\nMembeli rumah yang dihuni Sdr. Miller.\n⑤ わたしは ミラーさんが 住んで いた うちが 好きです。\nSaya suka rumah yang dihuni Sdr. Miller.\n⑥ ミラーさんが 住んで いた うちに 猫が いました。\nDi rumah yang dihuni Sdr. Miller ada kucing.\n⑦ ミラーさんが 住んで いた うちへ 行った ことが あります。\nPernah pergi ke rumah yang dihuni Sdr. Miller."
+    }
+  ]
+}

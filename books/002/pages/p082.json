@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 82,
+  "page_label": "61",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 9"
+    },
+    {
+      "level": 2,
+      "title": "III. Kata-Kata Referensi dan Informasi"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Kata-Kata Referensi dan Informasi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "音楽・スポーツ・映画 Musik, Olahraga, Film"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "音楽 Musik"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| ポップス | pop |\n| ロック | rock |\n| ジャズ | jaz |\n| ラテン | musik Latin |\n| クラシック | musik klasik |\n| 民謡 | musik rakyat/nyanyian daerah |\n| 演歌 | lagu tradisional Jepang populer |\n| ミュージカル | drama musikal |\n| オペラ | opera |"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "映画 Film"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| SF | film fiksi ilmiah |\n| ホラー | film horor |\n| アニメ | film kartun, animasi |\n| ドキュメンタリー | film dokumentasi |\n| 恋愛 | film percintaan |\n| ミステリー | film misteri |\n| 文芸 | film kesusastraan |\n| 戦争 | film peperangan |\n| アクション | film action |\n| 喜劇 | film komedi |"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "スポーツ Olahraga"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| ソフトボール | softball |\n| サッカー | sepak bola |\n| ラグビー | rugby |\n| バレーボール | voli |\n| バスケットボール | basket |\n| テニス | tenis |\n| ボウリング | bowling |\n| スキー | ski |\n| スケート | skate |\n| 野球 | baseball |\n| 卓球／ピンポン | ping-pong |\n| 相撲 | Sumo (gulat tradisional Jepang) |\n| 柔道 | Judo (olahraga tradisional Jepang) |\n| 剣道 | Kendo (olahraga tradisional Jepang) |\n| 水泳 | renang |"
+    }
+  ]
+}

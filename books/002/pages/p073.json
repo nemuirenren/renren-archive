@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 73,
+  "page_label": "52",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 8"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Pelajaran 8"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Kosa Kata"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | 漢字 | Indonesia |\n|---|---|---|\n| ハンサム[な] |  | tampan, gagah, ganteng |\n| きれい[な] |  | cantik, bersih |\n| しずか[な] | 静か[な] | sunyi, tenang |\n| にぎやか[な] |  | ramai |\n| ゆうめい[な] | 有名[な] | terkenal |\n| しんせつ[な] | 親切[な] | baik hati (tidak digunakan untuk keluarga sendiri) |\n| げんき[な] | 元気[な] | sehat walafiat |\n| ひま[な] | 暇[な] | senggang |\n| べんり[な] | 便利[な] | praktis |\n| すてき[な] |  | bagus |\n| おおきい | 大きい | besar |\n| ちいさい* | 小さい | kecil |\n| あたらしい | 新しい | baru |\n| ふるい | 古い | lama, tua |\n| いい（よい） |  | baik, bagus |\n| わるい* | 悪い | buruk, jelek |\n| あつい | 暑い、熱い | panas |\n| さむい | 寒い | dingin (mengungkapkan tentang suhu udara) |\n| つめたい | 冷たい | dingin (mengungkapkan tentang rasa benda) |\n| むずかしい | 難しい | sulit, susah |\n| やさしい | 易しい | mudah, gampang |\n| たかい | 高い | mahal, tinggi |\n| やすい | 安い | murah |\n| ひくい* | 低い | rendah |\n| おもしろい |  | menarik |\n| おいしい |  | enak |\n| いそがしい | 忙しい | sibuk |\n| たのしい | 楽しい | senang |\n| しろい | 白い | putih |\n| くろい | 黒い | hitam |\n| あかい | 赤い | merah |\n| あおい | 青い | biru |\n| さくら | 桜 | *Sakura* |\n| やま | 山 | gunung |\n| まち | 町 | kota |\n| たべもの | 食べ物 | makanan |"
+    }
+  ]
+}

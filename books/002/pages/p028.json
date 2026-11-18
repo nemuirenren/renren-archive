@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 28,
+  "page_label": "7",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Introduksi"
+    },
+    {
+      "level": 2,
+      "title": "II. Ungkapan di Dalam Kelas"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Ungkapan di Dalam Kelas"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 1. 始めましょう。 | Mari kita mulai. |\n| 2. 終わりましょう。 | Mari akhiri. |\n| 3. 休みましょう。 | Mari istirahat. |\n| 4. わかりますか。 | Mengerti? |\n| ……はい、わかります。 | ……Ya, mengerti. |\n| いいえ、わかりません。 | Tidak, tidak mengerti. |\n| 5. もう 一度 [お願いします]。 | Tolong sekali lagi. |\n| 6. いいです。 | Benar. |\n| 7. 違います。 | Salah. |\n| 8. 名前 | Nama |\n| 9. 試験、宿題 | Ujian, PR |\n| 10. 質問、答え、例 | Pertanyaan, Jawaban, Contoh |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "III. Ucapan Salam Sehari-hari dan Ekspresi Percakapan"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 1. おはよう ございます。 | Selamat pagi. |\n| 2. こんにちは。 | Selamat siang./Selamat sore. |\n| 3. こんばんは。 | Selamat malam. |\n| 4. お休みなさい。 | Selamat tidur. |\n| 5. さようなら。 | Sampai jumpa lagi. |\n| 6. ありがとう ございます。 | Terima kasih. |\n| 7. すみません。 | Maaf. |\n| 8. お願いします。 | Tolong. |"
+    }
+  ]
+}

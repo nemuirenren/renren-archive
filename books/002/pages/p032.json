@@ -1,0 +1,44 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 32,
+  "page_label": "11",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 1"
+    },
+    {
+      "level": 2,
+      "title": "〈練習 C〉"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| はい | ya |\n| いいえ | tidak, bukan |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "〈練習 C〉"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 初めまして。 | Perkenalkan. (ucapan salam pada waktu pertama kali berkenalan) |\n| ～から 来ました。 | datang dari ～, berasal dari ～ |\n| [どうぞ] よろしく [お願いします]。 | Salam kenal. (ucapan terakhir untuk perkenalan diri) |\n| 失礼ですが | permisi, maaf (digunakan ketika bertanya tentang hal yang pribadi seperti nama, alamat dan sebagainya) |\n| お名前は？ | Siapa namanya? |\n| こちらは ～さんです。 | Ini Bapak ～./Ini Ibu, Sdr. ～. |"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| アメリカ | Amerika Serikat |\n| イギリス | Inggris |\n| インド | India |\n| インドネシア | Indonesia |\n| 韓国 | Korea Selatan |\n| タイ | Thailand |\n| 中国 | Cina |\n| ドイツ | Jerman |\n| 日本 | Jepang |\n| ブラジル | Brasil |"
+    },
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| IMC／パワー電気／ブラジルエアー | perusahaan fiksi |\n| AKC | organisasi fiksi |\n| 神戸病院 | rumah sakit fiksi |\n| さくら大学／富士大学 | universitas fiksi |"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 164,
+  "page_label": "143",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 23"
+    },
+    {
+      "level": 2,
+      "title": "I. Kosa Kata"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | Indonesia |\n|---|---|\n| 聖徳太子 | Pangeran Shotoku (574-622) |\n| 法隆寺 | nama wihara yang dibangun oleh Pangeran Shotoku pada awal abad ke tujuh di Nara |\n| 元気茶 | teh fiksi |\n| 本田駅 | stasiun fiksi |\n| 図書館前 | halte bus fiksi |"
+    }
+  ]
+}

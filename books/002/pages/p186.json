@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 186,
+  "page_label": "165",
+  "kind": "appendix",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Lampiran"
+    },
+    {
+      "level": 2,
+      "title": "II. Ungkapan waktu"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Ungkapan waktu"
+    },
+    {
+      "type": "table",
+      "text": "| hari | pagi | malam |\n|---|---|---|\n| おととい<br>kemarin lusa | おとといのあさ<br>kemarin lusa pagi | おとといのばん（よる）<br>kemarin lusa malam |\n| きのう<br>kemarin | きのうのあさ<br>kemarin pagi | きのうのばん（よる）<br>kemarin malam |\n| きょう<br>hari ini | けさ<br>tadi pagi | こんばん（きょうのよる）<br>malam ini |\n| あした<br>besok | あしたのあさ<br>besok pagi | あしたのばん（よる）<br>besok malam |\n| あさって<br>lusa | あさってのあさ<br>lusa pagi | あさってのばん（よる）<br>lusa malam |\n| まいにち<br>setiap hari | まいあさ<br>setiap pagi | まいばん<br>setiap malam |"
+    },
+    {
+      "type": "table",
+      "text": "| minggu | bulan | tahun |\n|---|---|---|\n| せんせんしゅう<br>（にしゅうかんまえ）<br>dua minggu yang lalu | せんせんげつ<br>（にかげつまえ）<br>dua bulan yang lalu | おととし<br>dua tahun yang lalu |\n| せんしゅう<br>minggu lalu | せんげつ<br>bulan lalu | きょねん<br>tahun lalu |\n| こんしゅう<br>minggu ini | こんげつ<br>bulan ini | ことし<br>tahun ini |\n| らいしゅう<br>minggu depan | らいげつ<br>bulan depan | らいねん<br>tahun depan |\n| さらいしゅう<br>dua minggu lagi | さらいげつ<br>dua bulan lagi | さらいねん<br>dua tahun lagi |\n| まいしゅう<br>setiap minggu | まいつき<br>setiap bulan | まいとし、まいねん<br>setiap tahun |"
+    }
+  ]
+}

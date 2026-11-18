@@ -1,0 +1,70 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 60,
+  "page_label": "39",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 5"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. いつ"
+    },
+    {
+      "type": "text",
+      "text": "Untuk menanyakan waktu, selain digunakan Kata Tanya なん digunakan Kata Tanya いつ sebagaimana halnya seperti なんじ, なんようび, なんがつ, なんにち. Kata いつ tidak dapat dibubuhkan partikel に."
+    },
+    {
+      "type": "text",
+      "text": "⑫ いつ 日本へ 来ましたか。\n…… 3月25日に 来ました。\nKapan datang ke Jepang?\n…… Datang pada tanggal 25 Maret."
+    },
+    {
+      "type": "text",
+      "text": "⑬ いつ 広島へ 行きますか。\n…… 来週 行きます。\nKapan pergi ke Hiroshima?\n……Pergi minggu depan."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. ～よ"
+    },
+    {
+      "type": "text",
+      "text": "Partikel よ dibubuhkan pada akhir kalimat dan digunakan untuk memberitahukan suatu hal yang belum diketahui oleh lawan bicara, atau menyampaikan tanggapan dan pendapat si pembicara kepada lawan bicaranya."
+    },
+    {
+      "type": "text",
+      "text": "⑭ この 電車は 甲子園へ 行きますか。\n……いいえ、行きません。次の「普通」ですよ。\nApakah kereta rel listrik ini menuju Koshien?\n……Tidak, tidak pergi. Yang “Biasa” berikutnya."
+    },
+    {
+      "type": "text",
+      "text": "⑮ 北海道に 馬が たくさん いますよ。\nDi Hokkaido ada banyak kuda. (Pel.18)"
+    },
+    {
+      "type": "text",
+      "text": "⑯ マリアさん、この アイスクリーム、おいしいですよ。\nIbu Maria, es krim ini enak. (Pel.19)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. そうですね"
+    },
+    {
+      "type": "text",
+      "text": "そうですね digunakan jika menyetujui atau sependapat dengan hal yang dikatakan oleh lawan bicara. Adapun ungkapan mirip (Lihat Pel.2-8) yaitu そうですか, tetapi そうですか adalah ekspresi ketika mendapat informasi baru yang belum diketahui si pembicara kemudian memahaminya sedangkan そうですね digunakan untuk menunjukkan bahwa si pembicara berpikir hal yang sama, menyetujui hal yang telah dikenal, atau sependapat."
+    },
+    {
+      "type": "text",
+      "text": "⑰ あしたは 日曜日ですね。\n……あ、そうですね。\nBesok hari Minggu, ya.\n……O, ya betul."
+    }
+  ]
+}

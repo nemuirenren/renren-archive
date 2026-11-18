@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 99,
+  "page_label": "78",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 12"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Kemarin hujan.\n2. Kemarin dingin.\n3. Hokkaido lebih luas daripada Kyushu.\n4. Dalam satu tahun saya paling suka musim panas."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Apakah Kyoto tenang?\n⋯⋯Tidak, tidak tenang.\n2. Apakah wisatanya menyenangkan?\n⋯⋯Ya, menyenangkan.\nCuacanya baik?\n⋯⋯Tidak, tidak begitu baik.\n3. Bagaimana pesta kemarin?\n⋯⋯Sangat ramai. Saya bertemu dengan banyak orang.\n4. Apakah New York lebih dingin daripada Osaka?\n⋯⋯Ya, jauh lebih dingin.\n5. Kalau pergi ke bandara, yang mana lebih cepat, dengan bus atau kereta rel listrik?\n⋯⋯Lebih cepat dengan kereta rel listrik.\n6. Suka yang mana, laut atau gunung?\n⋯⋯Suka dua-duanya.\n7. Anda paling suka apa di antara masakan Jepang?\n⋯⋯Tempura yang paling suka."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Bagaimana Perayaan Gion?"
+    },
+    {
+      "type": "text",
+      "text": "Miller: Saya pulang.\nPetugas sekuriti: Sudah pulang ya.\nMiller: Ini oleh-oleh dari Kyoto.\nPetugas sekuriti: Wah, merepotkan Anda. Bagaimana perayaan Gion?\nMiller: Menyenangkan. Sangat ramai.\nPetugas sekuriti: Memang, karena perayaan Gion paling terkenal di antara perayaan di Kyoto.\nMiller: O, begitu. Saya mengambil banyak foto. Ini fotonya.\nPetugas sekuriti: Wah, banyak orang, ya.\nMiller: Ya. Saya sedikit lelah."
+    }
+  ]
+}

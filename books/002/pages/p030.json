@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 30,
+  "page_label": "9",
+  "kind": "front_matter",
+  "outline": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "PETUNJUK PEMAKAIAN"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Aksara dan lain-lainnya yang digunakan pada [1. Kosa Kata]"
+    },
+    {
+      "type": "text",
+      "text": "①~ dimasukkan kata atau frase\nContoh ~から 来ました。 datang dari ~\n②— dimasukkan bilangan\nContoh —歳 — tahun\n③ Kata-kata yang dapat dihilangkan dikurung dengan [ ].\nContoh どうぞ よろしく [お願いします]。 Salam kenal, mohon bantuannya.\n④ Jika terdapat ekspresi yang lain, dikurung dengan ( ).\nContoh だれ(どなた) siapa\n⑤ Kata yang diberi tanda * tidak dipakai pada pelajaran tersebut, tetapi disajikannya sebagai kata yang berhubungan degan pelajaran.\n⑥ （練習 C）<Latihan C> menyajikan ekspresi dan lain-lainnya yang terdapat pada Latihan C.\n⑦ （会話）<Percakapan> menyajikan kosa kata, ekspresi dan lain-lainnya yang terdapat pada percakapan."
+    }
+  ]
+}

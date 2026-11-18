@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-1-indo",
+    "title": "Minna no Nihongo I (Indonesia)",
+    "lang": "id"
+  },
+  "page": 129,
+  "page_label": "108",
+  "kind": "content",
+  "outline": [
+    {
+      "level": 1,
+      "title": "Pelajaran 17"
+    },
+    {
+      "level": 2,
+      "title": "II. Terjemahan"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "II. Terjemahan"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pola Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Jangan mengambil foto!\n2. Harus memperlihatkan paspor.\n3. Pada hari Minggu tidak perlu bangun pagi-pagi."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Contoh Kalimat"
+    },
+    {
+      "type": "text",
+      "text": "1. Jangan parkir mobil di situ!\n……Maaf.\n2. Sudah pukul dua belas. Tidak apa-apa kalau sendirian?\n……Ya, jangan khawatir. Saya pulang dengan taksi.\n3. Bagaimana kalau nanti malam pergi minum minuman keras?\n……Maaf. Saya harus dinas ke Hong Kong besok. Karena itu, saya cepat pulang.\n4. Apakah anak juga harus bayar?\n……Tidak, tidak usah bayar.\n5. Sampai dengan kapan laporan harus diserahkan?\n……Tolong diserahkan sampai dengan hari Jumat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Percakapan"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Kenapa?"
+    },
+    {
+      "type": "text",
+      "text": "Dokter: Kenapa?\nMatsumoto: Sejak kemarin sakit kerongkongan dan sedikit demam juga.\nDokter: O, begitu. Coba buka mulut.\nDokter: Masuk angin ya. Beristirahat yang cukup selama dua, tiga hari.\nMatsumoto: Begini, Dok, mulai besok saya harus dinas ke Tokyo.\nDokter: Kalau begitu, hari ini minum obat, dan cepat istirahat.\nMatsumoto: Ya.\nDokter: Dan juga nanti malam jangan mandi, ya.\nMatsumoto: Baik, saya mengerti.\nDokter: Semoga lekas sembuh.\nMatsumoto: Terima kasih banyak."
+    }
+  ]
+}
