@@ -1,0 +1,745 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 58,
+ "page_label": "54. IRREGULARITIES & how they work | \n見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "54. IRREGULARITIES & how they work | \n見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "54. IRREGULARITIES & how they work | \n見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる"
+  },
+  {
+   "type": "text",
+   "text": "IRREGULARITIES in Japanese and how they work | 見る、見られる、見れる、見える、聞く、聞ける、聞こえる | Lesson 54"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about some exceptions in Japanese,"
+  },
+  {
+   "type": "text",
+   "text": "how they work, and why they're there."
+  },
+  {
+   "type": "text",
+   "text": "And in doing that, I think we're going to gain some insight into"
+  },
+  {
+   "type": "text",
+   "text": "how Japanese holds together and how we can understand it."
+  },
+  {
+   "type": "text",
+   "text": "So what we're going to talk about today is"
+  },
+  {
+   "type": "text",
+   "text": "見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる."
+  },
+  {
+   "type": "text",
+   "text": "Now, that seems like quite a confusing lot of things, doesn't it?"
+  },
+  {
+   "type": "text",
+   "text": "But in fact all we have there is the basic dictionary forms"
+  },
+  {
+   "type": "text",
+   "text": "of \"見る\" and \"聞く\" -- \"see\" and \"hear\" -- and the potential form of each"
+  },
+  {
+   "type": "text",
+   "text": "and one alternative or exceptional potential form."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Color-coded forms: blue 見る and 聞く; green 見られる, 見れる, 聞ける; red 見える and 聞こえる. A cartoon animal holds a pointer toward the legend at right: blue \"dict. forms\", green \"regular potential\", red \"irregular\", red \"potential variant\"; color coding does the linking, no arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, it looks like two in the case of \"見る\", but it's actually one,"
+  },
+  {
+   "type": "text",
+   "text": "and we'll come to that in just a moment."
+  },
+  {
+   "type": "text",
+   "text": "I always say that Japanese is a very, very regular and logical language,"
+  },
+  {
+   "type": "text",
+   "text": "and the conventional wisdom is that it only has two irregular verbs, \"来る\" and \"する\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, as I've mentioned before, it does in fact have a few other minor irregularities,"
+  },
+  {
+   "type": "text",
+   "text": "and by minor irregularities what I mean is verbs that aren't really irregular verbs but"
+  },
+  {
+   "type": "text",
+   "text": "they do become irregular in one particular area, in one single place only."
+  },
+  {
+   "type": "text",
+   "text": "And there aren't many of these, but there are a few and these are two of them."
+  },
+  {
+   "type": "text",
+   "text": "And we want to look at what they are and, more importantly,"
+  },
+  {
+   "type": "text",
+   "text": "why they are what they are and what they mean,"
+  },
+  {
+   "type": "text",
+   "text": "how we can understand them."
+  },
+  {
+   "type": "text",
+   "text": "So to start with, we understand how the regular potential form,"
+  },
+  {
+   "type": "text",
+   "text": "the \"able to do\" form, of verbs work, don't we?"
+  },
+  {
+   "type": "text",
+   "text": "We form it simply by turning the verb into its え-stem and"
+  },
+  {
+   "type": "text",
+   "text": "adding the very simple potential helper verb \"る\", which is just one character: る."
+  },
+  {
+   "type": "text",
+   "text": "That's the godan form."
+  },
+  {
+   "type": "text",
+   "text": "And the ichidan form: in the ichidan we do what we always do,"
+  },
+  {
+   "type": "text",
+   "text": "we simply remove the -る and put on whatever it is we're going to put on."
+  },
+  {
+   "type": "text",
+   "text": "In this case, the ichidan potential helper is \"\"られる\"\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Hiragana chart highlighting the u-column うくすつぬふむる in red and the e-column えけせてねへめれ in green, with green arrows from red to green showing potential stems: かう→かえ, きく→きけ, はなす→はなせ, もつ→もて, しぬ→しね, とぶ→とべ, のむ→のめ, とる→とれ, たべる→たべ. Bottom-left notes Ichidan (\"ru-verb\"): always just delete the る; top-right blue text notes regular attachment of the る/られる potential helper, braced together."
+  },
+  {
+   "type": "text",
+   "text": "So, as we can see, \"見られる\" is the regular potential form of \"見る\","
+  },
+  {
+   "type": "text",
+   "text": "which is an ichidan verb, and"
+  },
+  {
+   "type": "text",
+   "text": "\"聞ける\" is the regular potential form of \"聞く\", which is of course a godan verb."
+  },
+  {
+   "type": "text",
+   "text": "So why am I saying that there's only one variant of \"見る\" and not two?"
+  },
+  {
+   "type": "text",
+   "text": "Well, that's because the variant is \"見える\", and we'll come back to that in a moment."
+  },
+  {
+   "type": "text",
+   "text": "\"見れる\" is in fact the ichidan form being affected by a phenomenon which we call \"ら抜き\". \"ら抜き\" means literally \"taking out the ら\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Red らぬき (“nuking the 5”) at top left, with a green arrow pointing left from the teal note “note that i-stem of verb 抜く makes a noun.” Orange text reads “removal of 5 from ichidan potential helper られる” above a mushroom cloud labelled 5; a rabbit at right says “Currently it ain't official grammar.”"
+  },
+  {
+   "type": "text",
+   "text": "And this is something that happens quite widely in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "You're going to encounter it pretty often once you're actually using Japanese,"
+  },
+  {
+   "type": "text",
+   "text": "so that may be right now."
+  },
+  {
+   "type": "text",
+   "text": "It simply consists of taking out the \"ら\", dropping the \"ら\","
+  },
+  {
+   "type": "text",
+   "text": "in the ichidan potential form of verbs."
+  },
+  {
+   "type": "text",
+   "text": "This is considered to be incorrect grammar, not only by the English Japanese textbooks"
+  },
+  {
+   "type": "text",
+   "text": "but also by native Japanese grammar textbooks."
+  },
+  {
+   "type": "text",
+   "text": "It's considered to be incorrect grammar, but it's very, very widespread,"
+  },
+  {
+   "type": "text",
+   "text": "much more widespread than most of the popular bits of incorrect grammar"
+  },
+  {
+   "type": "text",
+   "text": "that you'll hear from time to time."
+  },
+  {
+   "type": "text",
+   "text": "And I would suggest that this is probably going to be an evolution of the language."
+  },
+  {
+   "type": "text",
+   "text": "Now, Western people often tend to say, \"Well, if a number of people"
+  },
+  {
+   "type": "text",
+   "text": "are using an incorrect usage then how can you say it's incorrect?"
+  },
+  {
+   "type": "text",
+   "text": "Surely it's a new correct usage, because 'correct' is just what people use.\""
+  },
+  {
+   "type": "text",
+   "text": "And I think this is a mistake and a rather dangerous and irresponsible mistake,"
+  },
+  {
+   "type": "text",
+   "text": "because while it's true that language evolves, the evolution of language is pretty much the same as the theorized evolution of species."
+  },
+  {
+   "type": "text",
+   "text": "That's to say, species evolve from mutations."
+  },
+  {
+   "type": "text",
+   "text": "Mutations happen relatively often and most of them die out."
+  },
+  {
+   "type": "text",
+   "text": "Only a few of them, and usually in cases where they have some special advantage,"
+  },
+  {
+   "type": "text",
+   "text": "actually persist and become part of the evolution of the species."
+  },
+  {
+   "type": "text",
+   "text": "And the same is true of languages."
+  },
+  {
+   "type": "text",
+   "text": "Most incorrect usages that get taken up by largish numbers of people die out."
+  },
+  {
+   "type": "text",
+   "text": "Only a very few of them ever become parts of the real evolution of the language."
+  },
+  {
+   "type": "text",
+   "text": "So if you do what is currently being done in the West, which is put in misuses of language into dictionaries, what you're doing is actually short-circuiting the self-correcting function of language."
+  },
+  {
+   "type": "text",
+   "text": "Language over a generation or so, over maybe a couple of decades,"
+  },
+  {
+   "type": "text",
+   "text": "will reject most uses that go against its basic logic."
+  },
+  {
+   "type": "text",
+   "text": "A very few of them will end up making minor changes in the basic logic."
+  },
+  {
+   "type": "text",
+   "text": "And that's why it's a mistake to put into dictionaries at an early stage"
+  },
+  {
+   "type": "text",
+   "text": "misuses of language, because we have no way of knowing at that early stage"
+  },
+  {
+   "type": "text",
+   "text": "whether they're really going to be genuine evolutions of language"
+  },
+  {
+   "type": "text",
+   "text": "or whether they're going to die out within a generation."
+  },
+  {
+   "type": "text",
+   "text": "What we do know is that in most cases, in the vast majority of cases,"
+  },
+  {
+   "type": "text",
+   "text": "they would die out within a generation, and by putting them into a dictionary we're interfering with that self-correcting process of language."
+  },
+  {
+   "type": "text",
+   "text": "And this, I would say, is important, because it's this way of thinking"
+  },
+  {
+   "type": "text",
+   "text": "that makes Japanese teaching so very poor in the West."
+  },
+  {
+   "type": "text",
+   "text": "It's the way of thinking that assumes that language is a completely irrational thing"
+  },
+  {
+   "type": "text",
+   "text": "that just happens to evolve in any way it chooses to evolve."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Blue 12-sided die showing 12, 11, 7, 4, 3, 8 above centered blue text: The underlying belief that language is made up of random \"bits\" rather than logical structures. No Japanese text, no arrows."
+  },
+  {
+   "type": "text",
+   "text": "And it's not. Language is governed by logic."
+  },
+  {
+   "type": "text",
+   "text": "And Japanese is governed by logic more than most languages."
+  },
+  {
+   "type": "text",
+   "text": "But if you reject that notion, if you think that language is simply irrational"
+  },
+  {
+   "type": "text",
+   "text": "and chance and accidental and anything anybody happens to use is as correct as anything else,"
+  },
+  {
+   "type": "text",
+   "text": "then you end up teaching language as if it were just a hodgepodge of things"
+  },
+  {
+   "type": "text",
+   "text": "that you have to learn because they just happen to be there"
+  },
+  {
+   "type": "text",
+   "text": "and don't have any underlying logic."
+  },
+  {
+   "type": "text",
+   "text": "And that really is the fallacy that underlies modern Western Japanese teaching."
+  },
+  {
+   "type": "text",
+   "text": "So, that's a digression."
+  },
+  {
+   "type": "text",
+   "text": "Let's get back to \"見られる\"."
+  },
+  {
+   "type": "text",
+   "text": "\"見られる\" is what they'll use, because that is currently the correct usage."
+  },
+  {
+   "type": "text",
+   "text": "So we have \"見る\", we have \"見られる\"\", and \"見える\"."
+  },
+  {
+   "type": "text",
+   "text": "We have \"聞く\", we have \"聞ける\" and we have \"聞こえる\"."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Regular and irregular potential form"
+  },
+  {
+   "type": "text",
+   "text": "So what is the difference between the two potential forms,"
+  },
+  {
+   "type": "text",
+   "text": "the regular and the irregular potential form?"
+  },
+  {
+   "type": "text",
+   "text": "Now, in each case here, the irregular potential form is what I'm going to call a forced self-move form."
+  },
+  {
+   "type": "text",
+   "text": "Now, as we know from our lesson on the potential (Lesson 10), potential is usually self-move -- and if you don't know what \"self-move\" is,"
+  },
+  {
+   "type": "text",
+   "text": "you should look at the lesson on self-move and other-move verbs too (Lesson 15)."
+  },
+  {
+   "type": "text",
+   "text": "They sometimes get called, not exactly accurately, transitive and intransitive."
+  },
+  {
+   "type": "text",
+   "text": "So, for example, if we want to say \"I can read the book\","
+  },
+  {
+   "type": "text",
+   "text": "in Japanese we actually say \"the book does readable to me\"."
+  },
+  {
+   "type": "text",
+   "text": "So we say \"(私は)本が読める\". This is self-move."
+  },
+  {
+   "type": "text",
+   "text": "The book is the actor and it's acting upon itself."
+  },
+  {
+   "type": "text",
+   "text": "It's making itself readable, it's \"doing readable\" literally."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Builds 私は本が読める as a train: a は flag beside 私は marked OPTIONAL, a car labeled が over 本が (\"book\"), and an engine labeled う over 読める (\"readable-does\"). No arrows; chunking shown by alignment."
+  },
+  {
+   "type": "text",
+   "text": "Note: The furigana of 私 should be わたし."
+  },
+  {
+   "type": "text",
+   "text": "There's no exact English translation for this,"
+  },
+  {
+   "type": "text",
+   "text": "because we're not saying the book IS readable;"
+  },
+  {
+   "type": "text",
+   "text": "it's not an adjectival phrase."
+  },
+  {
+   "type": "text",
+   "text": "We're saying the book DOES readable."
+  },
+  {
+   "type": "text",
+   "text": "So we just have to get used to the fact that Japanese is much more happy than English"
+  },
+  {
+   "type": "text",
+   "text": "to treat states of being as verbal actions."
+  },
+  {
+   "type": "text",
+   "text": "So if we want to say \"I can read the book/As for me, the book does readable\", \nwe say \"(私は)本が読める\","
+  },
+  {
+   "type": "text",
+   "text": "but if we just want to say \"I can read/I do readable\", \nwe might say \"読める\" or \"(私は)私が読める\","
+  },
+  {
+   "type": "text",
+   "text": "and again we have a self-move verb."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Image could not be read: the vision request timed out on repeated attempts, so no reliable description of this slide is available."
+  },
+  {
+   "type": "text",
+   "text": "In one case we're saying \"I do readable (I am able to read)\","
+  },
+  {
+   "type": "text",
+   "text": "in the other we say \"the book does readable (the book does being able to be read)\""
+  },
+  {
+   "type": "text",
+   "text": "and that's how it works."
+  },
+  {
+   "type": "text",
+   "text": "However, it is also possible to use the potential in other-move contexts."
+  },
+  {
+   "type": "text",
+   "text": "Usually this happens in modifying clauses."
+  },
+  {
+   "type": "text",
+   "text": "These are sometimes called by Western textbooks \"subordinate clauses\","
+  },
+  {
+   "type": "text",
+   "text": "which they are, but I think it's better and clearer to call them \"modifying clauses\","
+  },
+  {
+   "type": "text",
+   "text": "and I've done quite a lot of work on modifying clauses,"
+  },
+  {
+   "type": "text",
+   "text": "so I'd recommend this video if you want to know exactly what I mean."
+  },
+  {
+   "type": "text",
+   "text": "So, in modifying clauses particularly"
+  },
+  {
+   "type": "text",
+   "text": "we can use the potential as an other-move verb."
+  },
+  {
+   "type": "text",
+   "text": "For example, we might say \"さくらを見られる日を楽しみにしている\""
+  },
+  {
+   "type": "text",
+   "text": "This means \"I'm looking forward to the day when I can see Sakura.\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Blonde blue-eyed anime girl in a white-and-purple outfit, white gloves and brown boots poses under large red marquee letters “SAKURA.” On the right, a blue label “modifying clause for 日” has an arrow pointing to さくらを見られる; the magenta lines below read 日を, 楽しみに, している. In さくらを見られる日を楽しみにしている, the clause modifies 日."
+  },
+  {
+   "type": "text",
+   "text": "And as you see, here we're saying \"さくらを見られる\", using \"見られる\", the potential,"
+  },
+  {
+   "type": "text",
+   "text": "\"being able to see Sakura\", as an other-move verb with an object, which is Sakura."
+  },
+  {
+   "type": "text",
+   "text": "Now, we can do that with \"見られる\", we can do that with \"聞ける\","
+  },
+  {
+   "type": "text",
+   "text": "but we can't do it with \"見える\" or \"聞こえる\"."
+  },
+  {
+   "type": "text",
+   "text": "They are forced to be used as self-move verbs only."
+  },
+  {
+   "type": "text",
+   "text": "And on the whole, because potential verbs mostly are self-move in Japanese,"
+  },
+  {
+   "type": "text",
+   "text": "whether we're talking about something else or whether we're talking about ourselves,"
+  },
+  {
+   "type": "text",
+   "text": "we use them in a self-move manner, those two are the most commonly used."
+  },
+  {
+   "type": "text",
+   "text": "Actually we can use the other forms, the regular forms,"
+  },
+  {
+   "type": "text",
+   "text": "\"見られる\" and \"聞ける\", as self-move verbs too,"
+  },
+  {
+   "type": "text",
+   "text": "but they can also be used as other-move verbs."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "With \"見える\" and \"見られる\", there is a difference in nuance, which is that"
+  },
+  {
+   "type": "text",
+   "text": "\"見える\" usually means being able, actually physically able, to see something,"
+  },
+  {
+   "type": "text",
+   "text": "and \"見られる\" more implies having the opportunity to see something."
+  },
+  {
+   "type": "text",
+   "text": "So if we were to say \"芝居/しばいが見られる\","
+  },
+  {
+   "type": "text",
+   "text": "we're saying I have the opportunity to see the play."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"芝居が見える\", we might mean"
+  },
+  {
+   "type": "text",
+   "text": "the lady in front of me has taken off her big hat so I'm able to see the play."
+  },
+  {
+   "type": "text",
+   "text": "However, this alone wouldn't be, I think, sufficient reason"
+  },
+  {
+   "type": "text",
+   "text": "for these two variants of the words surviving into modern Japanese."
+  },
+  {
+   "type": "text",
+   "text": "The important reason, which is based in the very nature of seeing and hearing"
+  },
+  {
+   "type": "text",
+   "text": "and expressions we use in connection with seeing and hearing, is this:"
+  },
+  {
+   "type": "text",
+   "text": "they are both used in places where in English we would say"
+  },
+  {
+   "type": "text",
+   "text": "that something \"looks like\" something or something \"sounds like\" something."
+  },
+  {
+   "type": "text",
+   "text": "You can't use the standard versions \"聞ける\" and \"見られる\"\" for this."
+  },
+  {
+   "type": "text",
+   "text": "You have to use these variants."
+  },
+  {
+   "type": "text",
+   "text": "So if you say \"さくらはカエルに見える\", you're saying \"Sakura looks like a frog\"."
+  },
+  {
+   "type": "text",
+   "text": "So when we say \"looks like\", we use the targeting particle に with a noun,"
+  },
+  {
+   "type": "text",
+   "text": "or with an adjective we use the く-stem of the adjective."
+  },
+  {
+   "type": "text",
+   "text": "So we say \"カエルに見える\" -- \"looks like a frog\" --"
+  },
+  {
+   "type": "text",
+   "text": "or we can say of someone \"若く見える\" -- \"she looks young\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "And we can also use it not just for literally how something sounds to our ears"
+  },
+  {
+   "type": "text",
+   "text": "or for how something looks to our eyes, but what its appearance is."
+  },
+  {
+   "type": "text",
+   "text": "So we can say \"奇妙/きみょうに聞こえる\" -- \"it sounds strange / sounds peculiar\"."
+  },
+  {
+   "type": "text",
+   "text": "So, we're not talking here necessarily about the actual sound."
+  },
+  {
+   "type": "text",
+   "text": "It might not be a noise that sounds strange."
+  },
+  {
+   "type": "text",
+   "text": "It may be something somebody said that sounds strange."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So we're using either the adverbial form of an adjective or the adjective-making targeting particle に to describe how something appears to us, how something sounds to us, literally or figuratively."
+  },
+  {
+   "type": "text",
+   "text": "And this is the real reason for the survival of these alternative forms of the potential."
+  },
+  {
+   "type": "text",
+   "text": "They have this specific meaning, which the other form, the regular form, can't have."
+  },
+  {
+   "type": "text",
+   "text": "And it's not a coincidence that it's this forced, must-be self-move version"
+  },
+  {
+   "type": "text",
+   "text": "that takes on that meaning, because the way something else looks,"
+  },
+  {
+   "type": "text",
+   "text": "the way something else sounds, always has to be self-move."
+  },
+  {
+   "type": "text",
+   "text": "We're not talking about anything we do to the look or anything we do to the sound,"
+  },
+  {
+   "type": "text",
+   "text": "but about how it looks and sounds in itself."
+  },
+  {
+   "type": "text",
+   "text": "So this extremely self-move version (見える/聞こえる), which can't be used in other-move contexts, is what is used in the case of both seeing and hearing to describe"
+  },
+  {
+   "type": "text",
+   "text": "how something sounds to us and how something looks to us."
+  },
+  {
+   "type": "text",
+   "text": "Note: in the comments, Dolly-先生 mentions some important point that did not make it into the video, given on her Patreon. Unfortunately, her Patreon is no longer available, possibly due to her passing, except for some comments she had left elsewhere. I guess we may never know."
+  }
+ ]
+}

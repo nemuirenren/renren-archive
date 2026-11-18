@@ -1,0 +1,650 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 94,
+ "page_label": "90. Japanese Punctuation: How it works.",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "90. Japanese Punctuation: How it works."
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "90. Japanese Punctuation: How it works."
+  },
+  {
+   "type": "text",
+   "text": "Japanese Punctuation: How it REALLY works. Lesson 90"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about Japanese punctuation."
+  },
+  {
+   "type": "text",
+   "text": "Now, the first thing we need to know about about Japanese punctuation"
+  },
+  {
+   "type": "text",
+   "text": "is that most of it is a relatively late arrival in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "Most of it came in during the Meiji era, about a hundred and fifty years ago."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Three-panel ukiyo-e-style Meiji street scene under cherry blossoms, with men, women and a boy in Western/military dress, above the English text “The Meiji Era / New Government, New Clothes, / New Commas.” The only Japanese text is the red cartouche at upper right: 開化之圖. No diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "This was when Japan was modernizing, and a lot of the reason it came in"
+  },
+  {
+   "type": "text",
+   "text": "was to help in translating Western literature."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, what this means is that in most cases Japanese punctuation doesn't have"
+  },
+  {
+   "type": "text",
+   "text": "such fixed and structural meanings as the equivalent punctuation does in English"
+  },
+  {
+   "type": "text",
+   "text": "and other European languages."
+  },
+  {
+   "type": "text",
+   "text": "So, we need to know what the punctuation is doing and also what it isn't doing."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The full stop / 。"
+  },
+  {
+   "type": "text",
+   "text": "So, the first mark we're going to look at is the Japanese full stop or \"まる / 。\","
+  },
+  {
+   "type": "text",
+   "text": "which looks like a little circle at the foot of a “letter”."
+  },
+  {
+   "type": "figure",
+   "text": "【図】An owl in a graduation cap points with a pointer at the full stop inside a red oval containing だ。; black speech bubble: \"The Japanese full-stop is extremely useful in understanding structure.\" Above is さくらは日本人だ。 with a red arrow pointing from the oval to that sentence's final 。"
+  },
+  {
+   "type": "text",
+   "text": "And this is really the exception to the rule, because it really is structurally clear."
+  },
+  {
+   "type": "text",
+   "text": "What it does is end a sentence."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled \"Japanese sentence can only be\": a train with car A labeled が／わたしが (I), middle car を／けーきを (cake), engine B labeled る／たべる (eat). A double-headed arrow labeled CORE arcs from A to B over the middle car; text lists a logical clause as A-Car + B-Engine + modifiers, and clauses joined by clause-connectors."
+  },
+  {
+   "type": "text",
+   "text": "And this is very important for us in understanding how complex Japanese sentences are structured."
+  },
+  {
+   "type": "text",
+   "text": "Why is that? Well, Japanese is a very modification-heavy language."
+  },
+  {
+   "type": "text",
+   "text": "That's to say, a lot of what other languages do by other strategies, Japanese does by modification, that's to say, using clauses to modify nouns or other elements of a sentence."
+  },
+  {
+   "type": "text",
+   "text": "Most of the heavy lifting in Japanese structure that's not done by logical particles"
+  },
+  {
+   "type": "text",
+   "text": "is done by this modification structure."
+  },
+  {
+   "type": "text",
+   "text": "So whole logical clauses can be used not as logical clauses"
+  },
+  {
+   "type": "text",
+   "text": "but in order to modify a noun or some other element."
+  },
+  {
+   "type": "text",
+   "text": "So, let's take a look at how this works."
+  },
+  {
+   "type": "text",
+   "text": "\"市場で買って川に落としちゃったお菓子。\""
+  },
+  {
+   "type": "text",
+   "text": "And this means \"The candy that I bought at the market and done dropped in the river\"."
+  },
+  {
+   "type": "text",
+   "text": "Note: I guess, done in the translation is used to point out the more literal translation of ちゃった."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Red Japanese text with small furigana: 市場で買って / 川に落としちゃった / お菓子. Below is a winking cartoon girl in a pink polka-dot headscarf and dress holding a brown Chocolate bar, with a heart at left."
+  },
+  {
+   "type": "text",
+   "text": "Now, the problem with this when we're reading a complex sentence is that we can get confused"
+  },
+  {
+   "type": "text",
+   "text": "about whether something is a logical clause or not."
+  },
+  {
+   "type": "text",
+   "text": "So, are we saying here that I bought something at the market? No, we're not saying that."
+  },
+  {
+   "type": "text",
+   "text": "Are we saying that I dropped something in the river?\nNo, that's not what we're saying in this sentence."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Both of those things are just modifying \"お菓子\"."
+  },
+  {
+   "type": "text",
+   "text": "They're telling us what kind of an \"お菓子\" it was:"
+  },
+  {
+   "type": "text",
+   "text": "the one I bought at the market and done dropped in the river."
+  },
+  {
+   "type": "text",
+   "text": "So all we have here is a single noun, \"お菓子\", that's been heavily modified by logical clauses"
+  },
+  {
+   "type": "text",
+   "text": "that aren't working as complete logical clauses."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "We can then add a logical particle to that \"お菓子\" and make it into a whole logical clause."
+  },
+  {
+   "type": "text",
+   "text": "So, we might say, \"市場で買って川に落としちゃったお菓子が魚さんに食べられた。\""
+  },
+  {
+   "type": "text",
+   "text": "The candy(=subject) (I) bought at the market and done dropped in the river got eaten by a fish."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Red sentence 「市場で買って川に落としちゃったお菓子が魚さんに食べられた。」 with the particle が in blue and small furigana over some kanji. A cartoon fish blows bubbles below. No diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "Note: If I understand correctly, because we marked お菓子 with が subject, we can now build another clause out of it, hence we get another logical clause of “お菓子が魚さんに食べられた”."
+  },
+  {
+   "type": "text",
+   "text": "While お菓子 is also modified by modifier clauses before it, specifically ”市場で買って川に落としちゃった”, they serve here as simply a modifier that describes お菓子 rather than being complete (standalone?) logical clauses. Although just my guess from how I understand it."
+  },
+  {
+   "type": "text",
+   "text": "But how do we ensure when we're reading a sentence like this whether we're looking at"
+  },
+  {
+   "type": "text",
+   "text": "a logical clause or whether we're looking at a modifier?"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "How to know if it is a logical clause or a modifier?"
+  },
+  {
+   "type": "text",
+   "text": "Now, the important thing to understand here is that in any kind of Japanese writing \n(except perhaps on Twitter or something) \na logical clause has to end in one of two ways,"
+  },
+  {
+   "type": "text",
+   "text": "either with a \"まる / 。\", which tells us that it's the end of the complete sentence --"
+  },
+  {
+   "type": "text",
+   "text": "(it may have a couple of sentence ender particles after it, but it's a very strict rule of Japanese"
+  },
+  {
+   "type": "text",
+   "text": "that what ends any logical clause is the B-engine, aside from any sentence-ender particles) --"
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "or it has to end in a clause connector that completes the clause and leads into the next clause."
+  },
+  {
+   "type": "text",
+   "text": "This may be the て-form, it may be a word like \"から\" or \"けれど\","
+  },
+  {
+   "type": "text",
+   "text": "but armed with that information we can then see what's going on."
+  },
+  {
+   "type": "text",
+   "text": "So, let's look at \"市場で買って川に落としちゃった\"."
+  },
+  {
+   "type": "text",
+   "text": "That's a complete pair of logical clauses."
+  },
+  {
+   "type": "text",
+   "text": "Note: My guess here is that it is theoretically composed of two logical clauses if, like Dolly says below, we presume there is some hidden subject and a hidden direct object if we took both verbs as marking their individual logical clauses - 市場で(私がお菓子を)買った and (私がお菓子を)川に落としちゃった that are then connected using the て-form. Here, お菓子 should be a direct object hence why を, since 落とす and 買う are other-move verbs & require a Subject acting on a Direct Object. Obviously, topic marker can be there too, as 私は in the beginning."
+  },
+  {
+   "type": "text",
+   "text": "But instead, these clauses are combined and since they are followed by a noun serve instead as a modifier for that noun, so therefore they are not logical clauses anymore and do not contain the hidden elements, where instead they are one single big modifier for a noun that is following them, in this case お菓子. It is a shame I cannot ask Dolly about this, as I feel it would help a ton\nHowever, I am aware my guess might very likely be wrong, so please take it with a lot of salt."
+  },
+  {
+   "type": "text",
+   "text": "It's not telling us what it was that we bought in the market and dropped in the river,"
+  },
+  {
+   "type": "text",
+   "text": "but it could perhaps be presuming that."
+  },
+  {
+   "type": "text",
+   "text": "But we know that it's not in fact a logical clause"
+  },
+  {
+   "type": "text",
+   "text": "because it doesn't end in a clause connector and it doesn't end with a \"まる / 。\"."
+  },
+  {
+   "type": "text",
+   "text": "It goes straight into a noun."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "And this is how we can tell the difference between a modifier and a logical clause."
+  },
+  {
+   "type": "text",
+   "text": "And we know when the entire sequence, the entire sentence,"
+  },
+  {
+   "type": "text",
+   "text": "is over because it's going to have that \"まる / 。\"."
+  },
+  {
+   "type": "text",
+   "text": "And I've done a video about this method of analyzing Japanese sentences"
+  },
+  {
+   "type": "text",
+   "text": "and I'll link that so that you can follow it up afterwards (Lesson 34)."
+  },
+  {
+   "type": "text",
+   "text": "But the \"まる / 。\" here is vital."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The comma / 、"
+  },
+  {
+   "type": "text",
+   "text": "Now, the next one we're going to look at is the Japanese comma,"
+  },
+  {
+   "type": "text",
+   "text": "which looks like a little diagonal line at the foot of a letter."
+  },
+  {
+   "type": "figure",
+   "text": "【図】An owl teacher in a graduation cap holds a pointer, speech bubble reading \"The Japanese comma is useful, but not a structural element\"; above is まだ若いけど、賢い, with a red oval around ど、賢い and a red arrow linking that comma to the comma after けど in the full sentence. It teaches the comma as a readability aid, not a structural element."
+  },
+  {
+   "type": "text",
+   "text": "And that's kind of the opposite of a \"まる / 。\","
+  },
+  {
+   "type": "text",
+   "text": "because it really is not a logical element in the sentence."
+  },
+  {
+   "type": "text",
+   "text": "It was adopted into Japanese, but unlike the English comma or other European commas,"
+  },
+  {
+   "type": "text",
+   "text": "it has no logical rules."
+  },
+  {
+   "type": "text",
+   "text": "Ideas like sectioning off a subordinate clause with commas at each end, that doesn't exist in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "You just put in a comma wherever you want to indicate a pause. And that's all it does."
+  },
+  {
+   "type": "text",
+   "text": "In Japanese schools, students are discouraged from using too many commas,"
+  },
+  {
+   "type": "text",
+   "text": "and the reason for this is not incorrect comma usage,"
+  },
+  {
+   "type": "text",
+   "text": "because there is no such thing as incorrect comma usage in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "The reason is that commas are not a structural part of Japanese, so students are discouraged"
+  },
+  {
+   "type": "text",
+   "text": "from using them as a crutch in conveying their meaning."
+  },
+  {
+   "type": "text",
+   "text": "If you can't convey your meaning without commas, then you're not writing good Japanese."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The question mark / ？(はてな)"
+  },
+  {
+   "type": "text",
+   "text": "Now, the next one we'll look at is the question mark or \"はてな\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon woman with a puzzled expression touching her cheek and holding a blue folder, a large pink question mark at upper left, 「はてな」 running diagonally, and the pink caption \"What's it for?\" No labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, in English the question mark is subject to a rule."
+  },
+  {
+   "type": "text",
+   "text": "If you have a question, you have to end it with a question mark."
+  },
+  {
+   "type": "text",
+   "text": "And also in English, questions are structurally different from statements."
+  },
+  {
+   "type": "text",
+   "text": "So if we say, \"The coffee is hot\", that's a statement,"
+  },
+  {
+   "type": "text",
+   "text": "but if we say, \"Is the coffee hot?\" that's a question."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "In Japanese we don't have this differentiation."
+  },
+  {
+   "type": "text",
+   "text": "Statements and questions are structured exactly the same."
+  },
+  {
+   "type": "text",
+   "text": "Now, in formal Japanese we have the question-marking particle \"か\","
+  },
+  {
+   "type": "text",
+   "text": "which tells us that it's a question."
+  },
+  {
+   "type": "text",
+   "text": "But in informal Japanese we can use \"か\" but mostly we don't."
+  },
+  {
+   "type": "text",
+   "text": "Sometimes we use the question-marker \"の\", but that's ambiguous because"
+  },
+  {
+   "type": "text",
+   "text": "\"の\" can also be a statement marker."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "The only way you can really tell a question from a statement in Japanese"
+  },
+  {
+   "type": "text",
+   "text": "is the rising intonation, which of course you can't hear in text."
+  },
+  {
+   "type": "text",
+   "text": "And so the question mark has become a very useful tool for indicating that rising intonation,"
+  },
+  {
+   "type": "text",
+   "text": "for telling us that this is a question, not a statement."
+  },
+  {
+   "type": "figure",
+   "text": "【図】YouTube comment screenshot, not a slide: @chicoti3 argues ？ can mark rising intonation rather than a question, citing ママに怒られるよ？, お前を殺すよ？ and その女風呂に沈めるぞ？; @organicjapanesewithcuredol49 replies it is \"fundamentally a rising-tone marker, used primarily to indicate questions but not exclusively.\" A blue expand triangle beside \"1 reply\" links comment to reply."
+  },
+  {
+   "type": "text",
+   "text": "In English, you have to use the question mark at the end of a question"
+  },
+  {
+   "type": "text",
+   "text": "if you're writing proper English. In Japanese, there's no such rule."
+  },
+  {
+   "type": "text",
+   "text": "If the \"か\" marker is there, you don't use the question mark,"
+  },
+  {
+   "type": "text",
+   "text": "but if you want to disambiguate the fact that something is a question"
+  },
+  {
+   "type": "text",
+   "text": "rather than a statement, you just pop in a question mark if you want to."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The quotation marks / 「　」"
+  },
+  {
+   "type": "text",
+   "text": "The next thing we'll look at is quotation marks."
+  },
+  {
+   "type": "text",
+   "text": "These look like little square brackets at the ends of a statement,"
+  },
+  {
+   "type": "text",
+   "text": "and they work exactly the same as English quotation marks."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide teaches Japanese quotation marks: 「こんにちは」 in red brackets with the label \"Japanese quotation marks\", and a large red 」 at top right. Note at bottom right: \"a closing quotation mark 」 can sometimes replace a full stop 。\"; owl mascot with a purple book at bottom left, no arrows."
+  },
+  {
+   "type": "text",
+   "text": "They just tell us that something is a quotation: it's what somebody's saying."
+  },
+  {
+   "type": "text",
+   "text": "We don't use them for what somebody's thinking, as we sometimes do in English."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, sometimes you'll see double quotation marks like this, 『　』"
+  },
+  {
+   "type": "text",
+   "text": "and what they do is mark a quotation that occurs inside another quotation."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The “side-marks”"
+  },
+  {
+   "type": "text",
+   "text": "Now, the last thing I want to talk about is something that really puzzles people quite a lot."
+  },
+  {
+   "type": "text",
+   "text": "In Japanese, particularly Japanese books, you'll sometimes see,"
+  },
+  {
+   "type": "text",
+   "text": "especially in vertical text, a set of little marks that look a bit like Japanese commas,"
+  },
+  {
+   "type": "text",
+   "text": "running along the left-hand side of a word or a phrase."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide on emphasis side-marks: red label \"Side-marks\", blue label \"can also be dots\", and a central owl mascot, with vertical Japanese text at right reading これはとくべつな言葉だ。 and small side-marks printed beside とくべつ. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "What on earth is this doing?"
+  },
+  {
+   "type": "text",
+   "text": "Nobody seems to tell you."
+  },
+  {
+   "type": "text",
+   "text": "What it is actually doing is either emphasizing that word or phrase"
+  },
+  {
+   "type": "text",
+   "text": "or telling us that it's being used in a special sense."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So what these little marks are really doing is something like"
+  },
+  {
+   "type": "text",
+   "text": "putting something into italics in English."
+  },
+  {
+   "type": "text",
+   "text": "And I suspect they came into Japanese"
+  },
+  {
+   "type": "text",
+   "text": "in the first place to render italicization when translating Western literature."
+  },
+  {
+   "type": "text",
+   "text": "There's no way of really writing Japanese characters in italics."
+  },
+  {
+   "type": "text",
+   "text": "There is no italic format for Japanese, so this is what's used instead."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "This emphasis and the indication that something's being used in a special sense"
+  },
+  {
+   "type": "text",
+   "text": "can also be indicated by katakana, but you will see this from time to time"
+  },
+  {
+   "type": "text",
+   "text": "in Japanese texts and that's what it means."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-theme YouTube comment thread, not a slide: @edge3220 (2 years ago) notes some manga never use a maru to end a sentence even with two complete thoughts, only exclamation marks, and @organicjapanesewithcuredol49 replies that some English comics do the same and asks if that matches. No Japanese text, labels or arrows."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-mode YouTube comment thread (charlesmanapat5418, chicoti3, organicjapanesewithcuredol49, Manuel-jr6op) debating whether 「」 needs と/って and plain vs polite quotation. Quoted Japanese: 「三郎」じゃなくて「三郎」だ; と; って; 「...だ」と...; ...ですよ...と...; です・ます. No diagrams."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-theme YouTube comment thread, not a slide, about punctuation: @Soulskinerr asks about 「」, 『』, 〜, and 、 replacing は; @organicjapanesewithcuredol49 replies that 、 can stand for は and 〜 is a dash distinct from ー. Only a blue \"2 replies\" disclosure triangle ties the reply to its parent."
+  },
+  {
+   "type": "text",
+   "text": "Dolly’s link is for Lesson 80."
+  }
+ ]
+}

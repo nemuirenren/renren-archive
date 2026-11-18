@@ -1,0 +1,798 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 62,
+ "page_label": "58. Japanese double particles. How they work",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "58. Japanese double particles. How they work"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "58. Japanese double particles. How they work"
+  },
+  {
+   "type": "text",
+   "text": "Japanese double particles. How they really work | lesson 58: Particle Combinations"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about \"combined particles\" or \"double particles\""
+  },
+  {
+   "type": "text",
+   "text": "or whatever silly names the textbooks and Japanese grammar sites call them by."
+  },
+  {
+   "type": "text",
+   "text": "And I'll explain in just a moment why I'm calling them \"silly\"."
+  },
+  {
+   "type": "text",
+   "text": "What I'm referring to is particles in combinations"
+  },
+  {
+   "type": "text",
+   "text": "like \"には\", \"にも\", \"-とは\", \"のが\" etc."
+  },
+  {
+   "type": "text",
+   "text": "And if you look at the sites you'll find lots of rules like"
+  },
+  {
+   "type": "text",
+   "text": "\"you can use に with は and も, but you can't use it with が or で\";"
+  },
+  {
+   "type": "text",
+   "text": "\"you can use -と with this, but not that\", and so on."
+  },
+  {
+   "type": "text",
+   "text": "And you don't need to learn any of these rules."
+  },
+  {
+   "type": "text",
+   "text": "If you understand what's going on and why it's happening,"
+  },
+  {
+   "type": "text",
+   "text": "it all makes complete logical sense."
+  },
+  {
+   "type": "text",
+   "text": "There are no random rules happening here, just straightforward logic."
+  },
+  {
+   "type": "text",
+   "text": "The reason it gets so confusing in English-language so-called Japanese grammar"
+  },
+  {
+   "type": "text",
+   "text": "is because they're not just giving the wrong answers."
+  },
+  {
+   "type": "text",
+   "text": "They're giving the wrong answers to the wrong questions."
+  },
+  {
+   "type": "text",
+   "text": "They're posing questions that should never have been posed in the first place."
+  },
+  {
+   "type": "text",
+   "text": "There's really no such thing as a \"double particle\" or a \"combined particle\"."
+  },
+  {
+   "type": "text",
+   "text": "What's happening all the time is that \nthe particles are just doing their job the way they always do."
+  },
+  {
+   "type": "text",
+   "text": "So what about all these random rules"
+  },
+  {
+   "type": "text",
+   "text": "about when they can do it and when they can't?"
+  },
+  {
+   "type": "text",
+   "text": "Well, all these are actually based on what the particles are and what they actually do."
+  },
+  {
+   "type": "text",
+   "text": "So, the first distinction to make, that the textbooks and websites never make,"
+  },
+  {
+   "type": "text",
+   "text": "is the distinction between logical and non-logical particles. This is absolutely crucial."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Logical & non-logical particles"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Three train-car icons labeled が, を, に above the caption \"Logical particles mark the structural functions of nouns in a sentence.\" Below, a large flag labeled は and a smaller flag labeled も with the caption \"Non-logical topic-markers flag topics. Tell nothing about structure.\" No connecting lines."
+  },
+  {
+   "type": "text",
+   "text": "So, let's start by looking at the five main logical particles."
+  },
+  {
+   "type": "text",
+   "text": "These are the particles that tell us what's going on in the sentence."
+  },
+  {
+   "type": "text",
+   "text": "They mark each noun with the role it plays in the sentence, whether it's the person doing something, the thing that's being done, the thing it's being done to, the place where it's being done, etc. etc."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled \"Case-solving Questions (the attached noun answers it)\": five identical penguin detectives each beside a particle and speech bubble — が \"Who (or what) did it?\", を \"Whom was it done to?\", に \"Where did he go?\"/\"Where's the weapon?\", へ \"Which direction?\", で \"Where was it done?\"/\"With what was it done?\". Top right shows a train diagram with labels A and B over cars marked with question marks; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, the first obvious thing to understand is that you can't combine"
+  },
+  {
+   "type": "text",
+   "text": "any of these five logical particles with any of the others."
+  },
+  {
+   "type": "text",
+   "text": "Why not?"
+  },
+  {
+   "type": "text",
+   "text": "Because of what they do."
+  },
+  {
+   "type": "text",
+   "text": "They mark each noun with its function in the sentence."
+  },
+  {
+   "type": "text",
+   "text": "A noun can't actually be more than one part of speech at the same time,"
+  },
+  {
+   "type": "text",
+   "text": "so it would just make no sense at all \nto combine any of these five together with each other."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "But what you can combine them with is non-logical particles,"
+  },
+  {
+   "type": "text",
+   "text": "notably the two non-logical topic markers, は and も."
+  },
+  {
+   "type": "text",
+   "text": "You can combine these because they don't clash logically."
+  },
+  {
+   "type": "text",
+   "text": "は and も don't tell us anything about what a noun is doing in the sentence."
+  },
+  {
+   "type": "text",
+   "text": "It's only ever marking that thing as a topic, either to make it the topic of the sentence"
+  },
+  {
+   "type": "text",
+   "text": "or to make it a sub-topic for strategic reasons, which we'll talk about in a moment."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Primary & secondary particles"
+  },
+  {
+   "type": "text",
+   "text": "Now, the next thing to know is that the two primary particles,"
+  },
+  {
+   "type": "text",
+   "text": "or the primary and secondary particle, that is,"
+  },
+  {
+   "type": "text",
+   "text": "が and を, don't combine with non-logical particles."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled \"The two primary logical particles\": two women in black suits hold wooden signs が (tall, left) and を (short, right). Captions: \"Needed in every sentence (visible or not)\" under が and \"Needed in every directly transitive sentence\" under を. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "Why don't they?"
+  },
+  {
+   "type": "text",
+   "text": "Well, が is the primary particle:"
+  },
+  {
+   "type": "text",
+   "text": "it has to be in every sentence of every kind;"
+  },
+  {
+   "type": "text",
+   "text": "を is the secondary particle: it marks the direct object."
+  },
+  {
+   "type": "text",
+   "text": "This means that in any sentence that is directly transitive,"
+  },
+  {
+   "type": "text",
+   "text": "を has to be present, whether we can see it or not."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, what do I mean by directly transitive?"
+  },
+  {
+   "type": "text",
+   "text": "All the textbooks and the dictionaries confuse transitivity"
+  },
+  {
+   "type": "text",
+   "text": "with Japanese self-move and other-move verbs."
+  },
+  {
+   "type": "text",
+   "text": "And in a way this is understandable,"
+  },
+  {
+   "type": "text",
+   "text": "because there's a large overlap between the two."
+  },
+  {
+   "type": "text",
+   "text": "But they aren't the same thing."
+  },
+  {
+   "type": "text",
+   "text": "So let's look here at what we mean by actual transitivity."
+  },
+  {
+   "type": "text",
+   "text": "If I say \"I walk\", \"I sing\", \"I eat\", those are all intransitive because I'm doing the verb"
+  },
+  {
+   "type": "text",
+   "text": "and I'm not doing it to anything else."
+  },
+  {
+   "type": "text",
+   "text": "It has no direct object."
+  },
+  {
+   "type": "text",
+   "text": "If I say \"I sing a song\" or \"I read a book\" or \"I eat bread\","
+  },
+  {
+   "type": "text",
+   "text": "then this is transitive because the verb has a direct object."
+  },
+  {
+   "type": "text",
+   "text": "Now, when I say \"directly transitive\",\nwhat I mean is verbs that are done directly to an object."
+  },
+  {
+   "type": "text",
+   "text": "So, for example, I can say \"I talk to Sakura\""
+  },
+  {
+   "type": "text",
+   "text": "but in English, as you see, we have to have a preposition there."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two smiling cartoon women in business suits face each other, orange speech lines joining their mouths; no arrows. Caption: “I talk to/with Sakura” (with “to/with” red) above “not “I talk Sakura””, teaching “talk to/with [person].” No Japanese text."
+  },
+  {
+   "type": "text",
+   "text": "We're not saying \"I talk Sakura\", so we're not directly transitive,"
+  },
+  {
+   "type": "text",
+   "text": "we're indirectly transitive through the medium of a preposition."
+  },
+  {
+   "type": "text",
+   "text": "Now, Japanese has the same distinction."
+  },
+  {
+   "type": "text",
+   "text": "We don't say \"さくらを話す\","
+  },
+  {
+   "type": "text",
+   "text": "which would be the equivalent in English of \"I talk Sakura\"."
+  },
+  {
+   "type": "text",
+   "text": "We say \"さくらと話す\" or \"さくらに話す\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two businesswomen face each other with orange/red speech lines radiating between their mouths; no arrowheads or labels. Text contrasts さくらと/に話す (red slash, either particle correct) against さくらを話す with を in red, showing を is wrong for talking to a person."
+  },
+  {
+   "type": "text",
+   "text": "Now, please don't run away from this with the idea that"
+  },
+  {
+   "type": "text",
+   "text": "particles like に and -と are the same as English prepositions."
+  },
+  {
+   "type": "text",
+   "text": "They're not."
+  },
+  {
+   "type": "text",
+   "text": "If you're going to compare them to anything in European languages,"
+  },
+  {
+   "type": "text",
+   "text": "you have to compare all the logical particles"
+  },
+  {
+   "type": "text",
+   "text": "to the German or Latin case structures."
+  },
+  {
+   "type": "text",
+   "text": "You may not know what those are and you don't need to,"
+  },
+  {
+   "type": "text",
+   "text": "because I model these in ways that don't require"
+  },
+  {
+   "type": "text",
+   "text": "knowledge of European grammar."
+  },
+  {
+   "type": "text",
+   "text": "But the point here is that they're not prepositions,"
+  },
+  {
+   "type": "text",
+   "text": "but for our purposes here we can say that they're used under the same circumstances"
+  },
+  {
+   "type": "text",
+   "text": "that prepositions get used in English."
+  },
+  {
+   "type": "text",
+   "text": "So if we say \"I eat bread\", that's directly transitive."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"I talk to Sakura\", that's indirectly transitive."
+  },
+  {
+   "type": "text",
+   "text": "In Japanese, if we use the を particle, it's directly transitive."
+  },
+  {
+   "type": "text",
+   "text": "If we use another particle, like -と or に, it's indirectly transitive."
+  },
+  {
+   "type": "text",
+   "text": "In some cases English and Japanese will disagree"
+  },
+  {
+   "type": "text",
+   "text": "about what is directly transitive and what's indirectly transitive,"
+  },
+  {
+   "type": "text",
+   "text": "but an awful lot of the time they're in fact in agreement"
+  },
+  {
+   "type": "text",
+   "text": "because these are fairly basic factors of human communication."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, the point here is that these two direct particles --"
+  },
+  {
+   "type": "text",
+   "text": "if we say \"I hit Sakura\" there are no prepositions anywhere. This is completely direct."
+  },
+  {
+   "type": "text",
+   "text": "I do the hitting and I'm hitting something, I'm hitting Sakura."
+  },
+  {
+   "type": "text",
+   "text": "I'm not hitting to Sakura or hitting at Sakura or hitting by Sakura."
+  },
+  {
+   "type": "text",
+   "text": "I'm directly hitting Sakura."
+  },
+  {
+   "type": "text",
+   "text": "Now, because of the directness of these two particles"
+  },
+  {
+   "type": "text",
+   "text": "they can't have a non-logical particle appended to them."
+  },
+  {
+   "type": "text",
+   "text": "So, if you want to use a non-logical particle here, you can do it."
+  },
+  {
+   "type": "text",
+   "text": "But the way you do it is always by simply attaching the non-logical particle"
+  },
+  {
+   "type": "text",
+   "text": "and leaving the logical particle out."
+  },
+  {
+   "type": "text",
+   "text": "And because these are so fundamental to every sentence,"
+  },
+  {
+   "type": "text",
+   "text": "they can be understood by the hearer in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "So, if we say \"さくらはなぐった\"-- \"I hit Sakura\" --"
+  },
+  {
+   "type": "text",
+   "text": "this means \"(zeroが)さくらはzeroをなぐった\","
+  },
+  {
+   "type": "figure",
+   "text": "【図】Top photo shows two women on a bed in a staged pillow fight: one with crossed arms, the other kneeling with a large white pillow raised. Below, blue さくらはなぐった / =の が さくら は の を なぐった / = As for Sakura (I) hit her; red の matches red (I), magenta の matches magenta her. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "but we don't say \"さくらはをなぐった\" or \"さくらをはなぐった\"."
+  },
+  {
+   "type": "text",
+   "text": "Because you can't put anything between these two direct fundamental logical particles"
+  },
+  {
+   "type": "text",
+   "text": "and the thing they directly connect to."
+  },
+  {
+   "type": "text",
+   "text": "So now we understand the basis for practically all"
+  },
+  {
+   "type": "text",
+   "text": "the strange rules that you're going to hear about."
+  },
+  {
+   "type": "text",
+   "text": "You just need to remember these two facts:"
+  },
+  {
+   "type": "text",
+   "text": "you can't pair one of these main five logical particles with any of the other four"
+  },
+  {
+   "type": "text",
+   "text": "and \nyou can't put a non-logical particle before or after the two primary particles が and を."
+  },
+  {
+   "type": "text",
+   "text": "Now, once we know that, what have we got left and how does it work?"
+  },
+  {
+   "type": "text",
+   "text": "We can pair non-logical particles with any of the remaining logical particles."
+  },
+  {
+   "type": "text",
+   "text": "And the reason we're doing this is not to make"
+  },
+  {
+   "type": "text",
+   "text": "some kind of weird, unusual pair-combination."
+  },
+  {
+   "type": "text",
+   "text": "We're simply using the functions of both at the same time."
+  },
+  {
+   "type": "text",
+   "text": "So the most straightforward thing we do here is simply make something into a topic."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"(zeroが)冬には雪だるまを作る\", we're saying \"In the winter we make a snowman.\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】A girl in pink and a boy in blue build a snowman with a carrot nose, red scarf, and buttons. Color-coded Japanese text reads 「のが冬には雪だるまを作る」, glossed “as for in-winter we make snowman,” with colors linking words and particles to the English; no diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, we could say \"(zeroが)冬に雪だるまを作る\"."
+  },
+  {
+   "type": "text",
+   "text": "We don't have to have the は there."
+  },
+  {
+   "type": "text",
+   "text": "So why would we choose sometimes to have a は there?"
+  },
+  {
+   "type": "text",
+   "text": "Well, in this case we're making it the topic of the sentence."
+  },
+  {
+   "type": "text",
+   "text": "We're saying \"here's winter/speaking of winter, this is what we do.\""
+  },
+  {
+   "type": "text",
+   "text": "And it also plays the other roles that は always plays\nas an extension of its topic-making nature."
+  },
+  {
+   "type": "text",
+   "text": "And I've done a video on these multiple uses of は,"
+  },
+  {
+   "type": "text",
+   "text": "so if you're not familiar with this, please take a look at it,"
+  },
+  {
+   "type": "text",
+   "text": "because it's rather important for understanding what's going on here."
+  },
+  {
+   "type": "text",
+   "text": "So, we're making a topic out of the winter and"
+  },
+  {
+   "type": "text",
+   "text": "we're also differentiating winter from other seasons."
+  },
+  {
+   "type": "text",
+   "text": "We're saying \"冬には\" --\n\"As for winter, as opposed to the other seasons, we make a snowman.\""
+  },
+  {
+   "type": "text",
+   "text": "Now, if the person you were talking to was someone"
+  },
+  {
+   "type": "text",
+   "text": "from a very, very cold place, they might say"
+  },
+  {
+   "type": "text",
+   "text": "\"(zeroが)春にも雪だるまを作る\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A cartoon penguin in a teal hat and pink scarf touches the twig arm of a snowman with a red snowflake scarf. Below, color-coded Japanese text reads のが春にも雪だるまを作る with the gloss “as for in-spring-also we make snowman”; no diagram arrows or labels beyond the characters’ contact."
+  },
+  {
+   "type": "text",
+   "text": "So what they're saying is \"We make a snowman in the spring as well.\""
+  },
+  {
+   "type": "text",
+   "text": "So we can use the exclusive particle は or the inclusive particle も."
+  },
+  {
+   "type": "text",
+   "text": "And both of them add that degree of meaning."
+  },
+  {
+   "type": "text",
+   "text": "Now why do we have the に here?"
+  },
+  {
+   "type": "text",
+   "text": "Because we actually need the に."
+  },
+  {
+   "type": "text",
+   "text": "We need the に to mark the fact that we're doing an activity at a particular time."
+  },
+  {
+   "type": "text",
+   "text": "This is the logical function of に."
+  },
+  {
+   "type": "text",
+   "text": "And having done that, we can also make a topic out of it."
+  },
+  {
+   "type": "text",
+   "text": "And that's simply what we're doing here."
+  },
+  {
+   "type": "text",
+   "text": "In other cases we might say \"明日学校に行く\""
+  },
+  {
+   "type": "text",
+   "text": "and that simply means I'm going to school."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"明日学校には行く\", the implication is that we're going to school but we're not going somewhere else that they thought we might be going."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"明日学校にも行く\", we're saying I'm going to school as well as somewhere else that you already know about."
+  },
+  {
+   "type": "text",
+   "text": "So you see, in each of these cases our non-logical particle"
+  },
+  {
+   "type": "text",
+   "text": "is simply adding meaning to the logical particle that's already there."
+  },
+  {
+   "type": "text",
+   "text": "They don't clash, because one is logical and the other is non-logical,"
+  },
+  {
+   "type": "text",
+   "text": "so they're not telling us conflicting information. \nThey're telling us complementary information."
+  },
+  {
+   "type": "text",
+   "text": "And that's why you can use them that way and why"
+  },
+  {
+   "type": "text",
+   "text": "you can't combine one logical particle with another logical particle"
+  },
+  {
+   "type": "text",
+   "text": "or one non-logical particle with another non-logical particle."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, there are other particles that can pair with other particles,"
+  },
+  {
+   "type": "text",
+   "text": "but again, this whole pairing concept is the wrong way of looking at it."
+  },
+  {
+   "type": "text",
+   "text": "As always the particles are simply doing what they do."
+  },
+  {
+   "type": "text",
+   "text": "For example, the の particle, if it's the nominalizing の,"
+  },
+  {
+   "type": "text",
+   "text": "the の that turns something into a noun,"
+  },
+  {
+   "type": "text",
+   "text": "so, for example, \"泳ぐの\" is \"swimming\","
+  },
+  {
+   "type": "text",
+   "text": "the noun \"swimming\", the activity called \"swimming\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon swimmer in a blue cap above the red verb 泳ぐ, with a curved red arrow from 泳ぐ into an open cardboard box whose front shows a red circled の. Caption: 'Pop the verb 泳ぐ into the の-box and presto you have a noun' — 泳ぐの as a nominalized 'swimming'."
+  },
+  {
+   "type": "text",
+   "text": "We can say \"泳ぐのが好きです\"."
+  },
+  {
+   "type": "text",
+   "text": "We can say \"泳ぐのをします\"."
+  },
+  {
+   "type": "text",
+   "text": "You can combine any logical particle with の because that kind of の turns the thing before it into what is effectively a noun, and a noun can take any of the logical particles."
+  },
+  {
+   "type": "text",
+   "text": "It could be a longer logical clause:"
+  },
+  {
+   "type": "text",
+   "text": "\"さくらと一緒に泳ぐのが好きだ\" --"
+  },
+  {
+   "type": "text",
+   "text": "\"I like swimming together with Sakura\". / Sakura together with swimming pleasing is. \nNote: gave a bit more literal translation just in case, 好き is an adjectival noun. Go by Dolly tho."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two cartoon children in swimwear above the labels さくらと, 一緒に泳ぐ, boxed の, が and 好きだ. A red arrow curves from 一緒に泳ぐ into the の-box, which links on to が and 好きだ; caption: \"Everything in the の-box becomes a noun and can take a logical particle.\""
+  },
+  {
+   "type": "text",
+   "text": "But the point is that once you've put that nominalizing の onto the end of it,"
+  },
+  {
+   "type": "text",
+   "text": "when it's the の that turns something into a noun, you then treat it as a noun."
+  },
+  {
+   "type": "text",
+   "text": "And what do you do with a noun?"
+  },
+  {
+   "type": "text",
+   "text": "You put a logical particle onto it, don't you?"
+  },
+  {
+   "type": "text",
+   "text": "So, this is simple logic."
+  },
+  {
+   "type": "text",
+   "text": "If you have any questions or comments, please put them in the Comments below"
+  },
+  {
+   "type": "text",
+   "text": "and I will answer as usual."
+  },
+  {
+   "type": "text",
+   "text": "I'd like to thank my Gold Kokeshi patrons,"
+  },
+  {
+   "type": "text",
+   "text": "and all my patrons and supporters on Patreon and everywhere."
+  }
+ ]
+}

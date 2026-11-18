@@ -1,0 +1,531 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 93,
+ "page_label": "89. De-mystifying Japanese. The Universal Subject",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "89. De-mystifying Japanese. The Universal Subject"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "89. De-mystifying Japanese. The Universal Subject"
+  },
+  {
+   "type": "text",
+   "text": "De-mystifying Japanese. Let the world's most logical language shine! The Universal Subject Lesson 89"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about something that is the very basis of Japanese"
+  },
+  {
+   "type": "text",
+   "text": "and that we've talked about right from the very first lesson."
+  },
+  {
+   "type": "text",
+   "text": "And that is, the grammatical subject, what we call, in train language, the \"A-car\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled \"CORE OF EVERY JAPANESE SENTENCE\": red-circled A-car marked が, labeled 主語 / Subject (A-car) and \"が-marked noun or pronoun (visible or not)\"; an arrow from A to B, where B stacks engines labeled 述語 / Predicate (B-Engine) marked う, い, だ with \"One of three possible engines: Verb / Adjective / Noun+copula.\" Note: \"Everything else is telling us more about A or more about B.\""
+  },
+  {
+   "type": "text",
+   "text": "And as we know, every Japanese sentence has to have \nan A-car, a subject, a \"主語\" in Japanese, and \na B-engine -- that's the predicate, or the \"述語\" in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "In other words, every sentence is saying something about something."
+  },
+  {
+   "type": "figure",
+   "text": "【図】English-only slide with the blue title “Language consists of,” red “ABOUT” over a cardboard box labelled A and red “SAYING” over a speech bubble labelled B, connected by a black arrow from A to B. Blue “SOMETHING” labels sit below both, suggesting saying something about something; a cartoon owl teacher in a graduation cap points below."
+  },
+  {
+   "type": "text",
+   "text": "Now, some people argue that there's no subject in Japanese;"
+  },
+  {
+   "type": "text",
+   "text": "some teachers do this, including Tae Kim-sensei, and"
+  },
+  {
+   "type": "text",
+   "text": "generally this is because they don't have a very good grip on how the language actually works."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Screenshot of 'Tae Kim's Blog' post 'Repeat after me, there is NO such thing as a subject!' arguing that calling 「が」 the subject particle is misleading. No diagram; Japanese text shown: 「が」."
+  },
+  {
+   "type": "text",
+   "text": "Some Japanese people, a minority of linguists, also propose a no-subject model for Japanese."
+  },
+  {
+   "type": "text",
+   "text": "Note: Again, this is simply due to the difference in models, just like how Dolly proposes there is no conjugation or passive. Usually, in terms of NATIVE-derived Japanese grammar linguistics, if something is called as x, it is linguistically viable to use it for description of the language, but some models have their own systems that either agree with them or not, for various reasons. \nJust like Dolly says below, these models are there to just describe the language in some coherent chunk while finding some common ground, but they may differ in some instances. \nIt is up to you which model you will use, eventually you should achieve fluency either way once you don’t need explanations and terminologies anymore and you have the language automatised, but it helps studying the general consensus in most (esp. native) linguistic models."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Screenshot of a YouTube comment by @organicjapanesewithcuredol49 (2 years ago) on a dark background: it argues grammar has no right/wrong, only better or worse descriptive models, and that the author's models aim to help foreign learners of Japanese. No Japanese text, no labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "As I've said before, grammar, structure, models, whatever you want to call them,"
+  },
+  {
+   "type": "text",
+   "text": "are not the source code of language. They are means of describing language after the event."
+  },
+  {
+   "type": "text",
+   "text": "So it may be possible to devise a model for Japanese that doesn't use the idea of the subject,"
+  },
+  {
+   "type": "text",
+   "text": "but really this is just going to be shuffling terminology around."
+  },
+  {
+   "type": "text",
+   "text": "I had a Japanese person rather angrily coming into my Comments and saying"
+  },
+  {
+   "type": "text",
+   "text": "that I'm Westernizing Japanese by bringing in the concept of the subject."
+  },
+  {
+   "type": "text",
+   "text": "Now, I think if you know my work, you know that I don't Westernize Japanese."
+  },
+  {
+   "type": "text",
+   "text": "I teach Japanese as Japanese."
+  },
+  {
+   "type": "text",
+   "text": "Whether non-subject models are really valid or not, I don't know. I haven't looked into them."
+  },
+  {
+   "type": "text",
+   "text": "But what we do need to show is that the subject model that we use and that most"
+  },
+  {
+   "type": "text",
+   "text": "Japanese linguists use works and works all the time, completely, reliably and predictably."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The “Null-Subject”"
+  },
+  {
+   "type": "text",
+   "text": "Some languages are termed \"null-subject languages\" in linguistics, which doesn't"
+  },
+  {
+   "type": "text",
+   "text": "really mean they haven't got subjects, it means that their subjects aren't always visible,"
+  },
+  {
+   "type": "text",
+   "text": "which is exactly what we have in Japanese.\nNote: This invisible Subject thing is much easier to grasp in Japanese if your native language has it too like that (obviously). Which is why English natives tend to (obviously) struggle with it due to how English mostly needs directly voiced/visible Subject & why there are those confusing explanations that try to force the English “Subject must be voiced/visible”-way onto Japanese."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon figure in a sombrero and orange suit with a red tie; the bubble tail points to him. Bubble reads \"Yo soy Mexicano\" with a red X over \"Yo,\" showing the subject pronoun can be dropped. No Japanese text."
+  },
+  {
+   "type": "text",
+   "text": "In Spanish, for example, we don't generally say, \"Yo soy Americana\", although"
+  },
+  {
+   "type": "text",
+   "text": "we're taught to do that by the textbooks. And the reason we don't is that \"yo\" is redundant."
+  },
+  {
+   "type": "text",
+   "text": "\"Soy\" implies \"I\", so if we just say \"Soy Americana\", that's all we need to say."
+  },
+  {
+   "type": "text",
+   "text": "Everything else is redundant. The same is true in English."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"I am American\", we actually don't need the \"I\", because \"am\" implies \"I\"."
+  },
+  {
+   "type": "text",
+   "text": "We don't use \"am\" with anything other than \"I\", so the \"I\" is redundant."
+  },
+  {
+   "type": "text",
+   "text": "It's just that English doesn't permit you to drop it. So it's just a matter of rules."
+  },
+  {
+   "type": "text",
+   "text": "Japanese doesn't work this way, because Japanese doesn't have conjugations like"
+  },
+  {
+   "type": "text",
+   "text": "\"am / is / are\". In fact, it doesn't have any conjugations at all, despite what the textbooks say."
+  },
+  {
+   "type": "text",
+   "text": "In Japanese the null subject is determined entirely from context."
+  },
+  {
+   "type": "text",
+   "text": "And when context doesn't make it clear, it generally defaults to \"I\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "This is almost exactly what English \"it\" does, except that \"it\" in English isn't zeroed."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Red text 'What is' above an oversized 'IT?' on white; at lower right a blue octopus-like mascot with an ice-cream cone over a gray shadow. No Japanese text, labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "So if I say \"It fell from the sky / It ate my breakfast / It's half the size of the other one\","
+  },
+  {
+   "type": "text",
+   "text": "you have no idea what \"it\" is unless context supplies the answer. \nThis is how the zero-pronoun works in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "The fact that we can see and hear \"it\" and we can't see or hear the zero-pronoun makes no difference to all of this."
+  },
+  {
+   "type": "text",
+   "text": "So if we take the kind of sentence that people try to call \"subjectless\","
+  },
+  {
+   "type": "text",
+   "text": "let's take a sentence like \"(zeroが)疲れた\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide shows an exhausted anime girl above two train diagrams: pale train A has が on its side with a crossed-out の above it; black steam locomotive B has う on its side with 疲れた！ above it. Labels A and B sit beneath the trains; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, literally this just means \"Tired\", so it could be called a subjectless sentence, \nbut it absolutely isn't -- unless you want to avoid the term \"subject\" for reasons of your own."
+  },
+  {
+   "type": "text",
+   "text": "When we say \"疲れた\", we're not saying that the rabbit in the moon is tired."
+  },
+  {
+   "type": "text",
+   "text": "We're not saying that Mickey Mouse is tired."
+  },
+  {
+   "type": "text",
+   "text": "We're not saying that tiredness settles like a purple haze over the known universe."
+  },
+  {
+   "type": "text",
+   "text": "We are saying \"I am tired\". If that wasn't the case, Japanese wouldn't be a language,"
+  },
+  {
+   "type": "text",
+   "text": "because we couldn't do the basic thing that a language needs to do,"
+  },
+  {
+   "type": "text",
+   "text": "which is to make Statement B about Thing A."
+  },
+  {
+   "type": "text",
+   "text": "If I look at a girl and say \"(zeroが)綺麗なのね?\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】A woman in a red floral kimono and decorated obi stands at left against pastel circles; at right a gray passenger car labeled が with の above it, the text きれいな, and a black steam locomotive labeled だ. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "again, I am not saying that the rabbit in the moon is pretty or that life in general is pretty."
+  },
+  {
+   "type": "text",
+   "text": "I have a very clear subject known to both myself and the hearer."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Indeterminate Subject"
+  },
+  {
+   "type": "text",
+   "text": "Now, there are cases where we have an indeterminate subject, and some people"
+  },
+  {
+   "type": "text",
+   "text": "might try to argue that these at least are our mystical subjectless Japanese sentences."
+  },
+  {
+   "type": "text",
+   "text": "But actually they're no different from their English equivalents."
+  },
+  {
+   "type": "text",
+   "text": "So we might say \"(zeroが)晴れそうだ\", which means \"(it) looks like being fine\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A cartoon white rabbit with one arm extended beside a cloud and sun, with blue English text \"An indeterminate subject is still structurally a subject.\" Below, a faded train car labelled が with Øが above it, and a black locomotive labelled だ with は above and 晴れそうだ nearby; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "And you can ask \"What looks like being fine? The weather, the day, this part of the world?\""
+  },
+  {
+   "type": "text",
+   "text": "There isn't an exact answer."
+  },
+  {
+   "type": "text",
+   "text": "And of course this is the same in English and Japanese. The subject is indeterminate."
+  },
+  {
+   "type": "text",
+   "text": "In English we know there's a subject because its place is held by \"it\"."
+  },
+  {
+   "type": "text",
+   "text": "What about Japanese?"
+  },
+  {
+   "type": "text",
+   "text": "Are we just shoehorning a subject in? No, we aren't. Notice \"だ\", the copula \"だ\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon rabbit, sun and cloud beside blue caption \"An indeterminate subject is still structurally a subject.\" Below, a gray car labeled の and が with が on it, and a black engine labeled は and 晴れそうだ with だ circled red; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "We all know what \"だ\" is (Lesson 79) (& if you don't, I'll link a video so that you can follow it up). \n---"
+  },
+  {
+   "type": "text",
+   "text": "The copula tells us that one thing is another thing."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A kimono-clad girl beside a Japanese flag is labelled A = さくらが and B = 日本人だ, with a red arrow pointing A→B. Below, a second red arrow points from B back into a red vertical bar beside A, blocking the reverse relation; purple caption: “Every language has a copula / It is the one-way equals-sign / needed for making / A is B statements.”"
+  },
+  {
+   "type": "text",
+   "text": "If we say \"Roses are flowers / Mary is an artist / Today is Saturday\""
+  },
+  {
+   "type": "text",
+   "text": "we're joining one thing (the subject) to another thing (the predicate), \nor the A-car to the B-engine."
+  },
+  {
+   "type": "text",
+   "text": "This is what \"だ\" does and it's all that it does."
+  },
+  {
+   "type": "text",
+   "text": "So we know that this sentence has a zero-subject even though it isn't place-marked by \"it\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A smiling rabbit with pink cheeks beside a grey cloud and yellow sun with rays; blue text: \"An indeterminate subject is still structurally a subject.\" Below, a faint grey trolley labelled のが and が on its body sits by a black locomotive with は and 晴れそうだ above it and だ on its body. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "We can't see it, we can't hear it, but we know for a fact that it's there,"
+  },
+  {
+   "type": "text",
+   "text": "because without it \"だ\" makes no sense at all."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Really Subjectless sentences in Japanese"
+  },
+  {
+   "type": "text",
+   "text": "Now, there is actually one kind of sentence in Japanese that really is subjectless."
+  },
+  {
+   "type": "text",
+   "text": "You can find it in English too, but it's a little more common in Japanese -- but not all that common."
+  },
+  {
+   "type": "text",
+   "text": "And it's a sentence like \"大阪にたどり着いた桜たち\" or \"恥ずかしくなったハナコ\"."
+  },
+  {
+   "type": "text",
+   "text": "Note: I put the name Hanako into Katakana in the second example sentence."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon slide: a bear, rabbit and cat hold onigiri while sitting on a picnic blanket before Osaka Castle, under a smiling sun and clouds, with bento boxes scattered around. The blue caption reads 大阪にたどり着いたさくらたち。"
+  },
+  {
+   "type": "text",
+   "text": "These are not in fact sentences, and they wouldn't be seen as sentences by most linguists"
+  },
+  {
+   "type": "text",
+   "text": "in Japanese. What they are is simple modified nouns. So we're saying"
+  },
+  {
+   "type": "text",
+   "text": "\"Arrived-at-Osaka Sakura and friends\". We're not saying \"Sakura and friends arrived at Osaka\"."
+  },
+  {
+   "type": "text",
+   "text": "We're simply saying \"Sakura and friends\" and modifying them"
+  },
+  {
+   "type": "text",
+   "text": "with the modifier \"arrived-at-Osaka\"."
+  },
+  {
+   "type": "text",
+   "text": "\"恥ずかしくなったハナコ\" -- We're not saying \"Hanako became embarrassed\","
+  },
+  {
+   "type": "text",
+   "text": "we're saying \"Embarrassed Hanako\". Note: Or I guess “Hanako, who became embarrassed…”"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-mode YouTube comment thread: @KiranasOfRizon (2 years ago) discusses the translation 'Arrived at Osaka Sakura and friends' and Japanese placing noun descriptors before nouns; Cure Dolly agrees, contrasts English/Japanese modifier order, mentions 'Embarrassed Hanako' and links a video. No Japanese text or diagram."
+  },
+  {
+   "type": "text",
+   "text": "Note: Sorry for the bad zoom, got “Youtubed” again. This kind of modifying can be basically translated into English as sort-of a relative clause. The link by Dolly references Lesson 46."
+  },
+  {
+   "type": "text",
+   "text": "When do we use \"sentences\" like this?"
+  },
+  {
+   "type": "text",
+   "text": "Well, not very often, but they can get used in narrative,"
+  },
+  {
+   "type": "text",
+   "text": "because what they're essentially doing is either summing up something that"
+  },
+  {
+   "type": "text",
+   "text": "went before -- you particularly often see this in, say, games where when you load up"
+  },
+  {
+   "type": "text",
+   "text": "they give you a quick resume of what's already happened -- or where you're describing the result of something that's happened: \"And the result was, an embarrassed Hanako\"."
+  },
+  {
+   "type": "text",
+   "text": "This really is, I think, the only example we can find of what might be called a subjectless"
+  },
+  {
+   "type": "text",
+   "text": "sentence, but it's not really a subjectless sentence because it's not a sentence."
+  },
+  {
+   "type": "text",
+   "text": "It's simply a noun with a bit of modification."
+  },
+  {
+   "type": "text",
+   "text": "So if you encounter these, and you will encounter these from time to time if you're doing immersion, you haven't found a subjectless sentence, \nyou have found a particular narrative technique"
+  },
+  {
+   "type": "text",
+   "text": "that occasionally gets used in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "It certainly doesn't add any strength to the arguments of people who say that there's no subject in Japanese, because these are a very small minority of so-called sentences and they certainly don't influence the fact that a real sentence that's telling us something about something always has an A-car and a B-engine, a subject and a predicate."
+  },
+  {
+   "type": "text",
+   "text": "If you have any questions or comments, please put them in the Comments below and I will answer as usual. I'd like to thank my Gold Kokeshi patrons, who make these videos possible,"
+  },
+  {
+   "type": "text",
+   "text": "and all my patrons and supporters on Patreon and everywhere."
+  },
+  {
+   "type": "text",
+   "text": "Thank you all for making this possible and for helping us to dispel the myths and confusion"
+  },
+  {
+   "type": "text",
+   "text": "and the general fog that surrounds Japanese."
+  },
+  {
+   "type": "text",
+   "text": "I think there's a feeling in the West that Japanese is somehow a foggy language that"
+  },
+  {
+   "type": "text",
+   "text": "doesn't work like other languages, and there are one or two Japanese people who, perhaps"
+  },
+  {
+   "type": "text",
+   "text": "for nationalistic reasons, for wanting to stress the uniqueness of Japanese, play up to this idea."
+  },
+  {
+   "type": "text",
+   "text": "Well, that doesn't really matter because their audience is fundamentally Japanese"
+  },
+  {
+   "type": "text",
+   "text": "people whose Japanese isn't going to be ruined by a strange model of the language."
+  },
+  {
+   "type": "text",
+   "text": "Yours, on the other hand, is best kept on the strait and narrow of"
+  },
+  {
+   "type": "text",
+   "text": "straightforward subject-predicate analysis. Thank you for watching this lesson…"
+  },
+  {
+   "type": "text",
+   "text": "Note: This is interesting, if hard to read, see it here. Recommend reading through all comments."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Screenshot of a dark-theme Reddit comment by @nleseul, \"2 years ago\": argues Japanese school grammar overweights the subject-predicate model, citing a ドラえもん exam manga on 倒置文 (「来た、郵便屋さん。」) and 「ぼくはねこ」, then explains 格助詞 as logical particles (飛ぶ requires が; 読める が/を; 上げる が/を/に; 結婚する が/と)."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Screenshot of a YouTube comment thread: @organicjapanesewithcuredol49 argues 格助詞 only add information to a core subject-predicate frame, showing a SAKURA→ATE arrow diagram and rejecting 私 as subject of 私はコーヒーが好きだ. @nitesul replies citing the restaurant ad 「野菜をおいしく食べる中華店」 and discusses the object-verb relation."
+  }
+ ]
+}

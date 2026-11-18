@@ -1,0 +1,649 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 19,
+ "page_label": "15. Transitive & intransitive verbs",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "15. Transitive & intransitive verbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "15. Transitive & intransitive verbs"
+  },
+  {
+   "type": "text",
+   "text": "Lesson 15: Transitivity- the 3 facts that make it easy. Transitive/intransitive verbs unlocked"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to look at self-move and other-move words."
+  },
+  {
+   "type": "text",
+   "text": "If you look in a standard Japanese textbook or dictionary,"
+  },
+  {
+   "type": "text",
+   "text": "you usually see these defined as \"transitive\" and \"intransitive\" verbs."
+  },
+  {
+   "type": "text",
+   "text": "Now, this isn't as far off as some of the things you find in these books, such as conjugation, which doesn't exist in Japanese; passive (there is no passive in Japanese)."
+  },
+  {
+   "type": "text",
+   "text": "Transitivity and intransitivity does exist in Japanese and most of the time there is a big overlap between that and self-move and other-move verbs."
+  },
+  {
+   "type": "text",
+   "text": "However, it doesn't work all the time and it isn't exactly what is meant by self-move and other-move in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "So, if you're familiar and comfortable with the Western terms \"transitive\" and \"intransitive\", it doesn't hurt a lot if you use them, at least not most of the time."
+  },
+  {
+   "type": "text",
+   "text": "But if you're not familiar with them, don't try to learn them just for the sake of Japanese, because they're not really accurate. \nNote: My guess is in regards to English, since a lot of verbs that are transitive in English are not in Japanese etc., basically it is better to regard the two as their own entities to avoid confusion."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So what are self-move and other-move words?"
+  },
+  {
+   "type": "text",
+   "text": "In Japanese, a move-word, \" 動詞 (doushi)\", is a verb,"
+  },
+  {
+   "type": "text",
+   "text": "a word that denotes an action or a movement."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So a self-move word is any verb that moves itself. So if I stand up, that's a self-move action. I'm not moving something else, I'm moving myself."
+  },
+  {
+   "type": "text",
+   "text": "If I throw a ball, that's an other-move action. I'm not throwing myself, I'm throwing the ball. And really it's as simple as that."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, Japanese has a lot of pairs of words – so we could say they're either two forms of the same word or two very closely related words – where we have a self-move and an other-move version."
+  },
+  {
+   "type": "text",
+   "text": "So, one very good example is \"出る(でる)\" and \"出す(だす)\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Yin-yang style split circle: 出る in the white half, 出す in the black half; on the right 出る is glossed \"leave, exit, come out\" and 出す \"take out, bring out\" with kana readings above. No arrows, the two halves visually pair the verbs."
+  },
+  {
+   "type": "text",
+   "text": "They both use the same kanji which means \"come out\"."
+  },
+  {
+   "type": "text",
+   "text": "The base form is “出る(でる)\" and that means simply \"come out\" or \"emerge\", and that's the self-move version."
+  },
+  {
+   "type": "text",
+   "text": "The other-move version is \"出す(だす)\" and that means \"take out\" or \"bring out\": cause something to come out. / Take something out etc…"
+  },
+  {
+   "type": "text",
+   "text": "Note: Not to confuse the translation “cause something to” as denoting causative (Lesson 19),\n出す has its own “causative” form - 出させる(ださせる) that denotes its causative form. \nHere, you are doing the action of moving something. You are not making someone else do it."
+  },
+  {
+   "type": "text",
+   "text": "So in the first case whatever it is is moving itself; it's coming out; it's emerging."
+  },
+  {
+   "type": "text",
+   "text": "In the second case, the actor of the sentence, the actor of the verb, is bringing something else out or taking something else out."
+  },
+  {
+   "type": "text",
+   "text": "Note: so, just like transitive, other-move SEEMS to imply something to the grammar object, whereas intransitive/self-move verb has no direct object, since it describes/”moves” just itself."
+  },
+  {
+   "type": "text",
+   "text": "Now, this is often very useful, because in many cases it gives us two distinct words that are easy to understand because they're closely related."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "For example, \"負ける (まける)\" means \"lose\" – it doesn't mean lose an object or lose money, but lose a contest, lose a war, lose a battle, lose a game – be defeated, in other words."
+  },
+  {
+   "type": "text",
+   "text": "Now, \"負かす(まかす)\", which is the other-move version of \"負ける (まける)\", means \"defeat\" – in other words, cause someone else to lose / defeat someone."
+  },
+  {
+   "type": "text",
+   "text": "So where we have two words in English, \"lose\" and \"defeat\", in Japanese we have fundamentally the same word in its self-move and its other-move versions."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So that's very useful – but not so useful if you don't understand how to form self-move"
+  },
+  {
+   "type": "text",
+   "text": "and other-move versions of a word. If you look in the standard textbooks, most of the time they're going to tell you that you just have to learn all the self-move and all the other-move words separately. Sometimes they give you lists of self-move and other-move pairs – transitivity pairs, as they call them. But this isn't true and it isn't necessary."
+  },
+  {
+   "type": "text",
+   "text": "Most of the time we can tell which is a self-move word and which is an other-move word."
+  },
+  {
+   "type": "text",
+   "text": "There are a few very simple rules that cover most of the move-word pairs."
+  },
+  {
+   "type": "text",
+   "text": "And those rules are even easier if you understand the logic that underlies them."
+  },
+  {
+   "type": "text",
+   "text": "And that's what we're going to learn right now."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "ある ＆ する"
+  },
+  {
+   "type": "text",
+   "text": "The first thing to know is that there is, as it were, an Adam and Eve of self-move and"
+  },
+  {
+   "type": "text",
+   "text": "other-move words, the mother and father of them all. And these are \"ある\" and \"する\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide contrasts ある and する: a blonde girl at left labelled ある, “Mother of self-move,” and BE; a dark-haired boy at right labelled する, “Father of other-move,” and DO. A central yin-yang has vertical ある in its white half and vertical する in its black half. No arrows; labels sit beneath each figure."
+  },
+  {
+   "type": "text",
+   "text": "\"ある\" is the mother of all self-move words. It simply means \"be\". So it's a completely inward-directed verb. You can't be or exist something else; you can only be and exist in yourself. It's fundamentally and absolutely inward-directed, self-directed."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "\"する\", on the other hand, means \"do\". So they mean \"be\" and \"do\". And \"する\" in itself, just doing, can never exist on its own, you have to be doing something. So this is the father of all other-move verbs."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "する Family Rule"
+  },
+  {
+   "type": "text",
+   "text": "Now why do we need to know that, why is it important to know that? Because when we know that, it unlocks most of the move-word pairs that we're going to encounter.How does it do that?"
+  },
+  {
+   "type": "text",
+   "text": "Well, there are what I call 3 laws of move-word pairs."
+  },
+  {
+   "type": "text",
+   "text": "And the first of those laws is that if one of a pair ends in -す, that is going to be the other-move word, always. Why? Because that -す is related to \"する\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled \"The 3 Move-word Pair Laws\" with four rules: する family law, ある family law, Flip-switch law and Honorary 4th Law. It states す(and せる)-ending verbs are other-move, あ-stem + る(aru) verbs self-move, え-stem + る(eru) flips either way, and む→める is always other-move; the only arrow is む→める. Chibi figures and a pink pencil decorate the rules."
+  },
+  {
+   "type": "text",
+   "text": "So, in the example we gave before, \"出る (でる) / 出す (だす)\","
+  },
+  {
+   "type": "text",
+   "text": "\"出る(でる)\" means \"come out\" and \"出す（だす)\", which ends in -す, is the other-move verb – that's the one that means \"take (something else) out\". - it requires a grammatical Object."
+  },
+  {
+   "type": "text",
+   "text": "In \"負ける(まける) / 負かす(まかす)\", we know that the other-move verb, the verb that means \"make (someone else) lose\" is \"負かす(まかす)\" because it ends in -す."
+  },
+  {
+   "type": "text",
+   "text": "And an awful lot of those -す pairs actually make that particular transformation, -える to"
+  },
+  {
+   "type": "text",
+   "text": "-す. But not always."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Left: the green formula “ē-stem+る→(あ-stem+) す” marked “(regular pattern),” illustrated by 負ける “lose (be defeated)” paired with 負かす “defeat (cause to lose).” Right: 落ちる “fall” paired with 落とす “drop (something),” with the green note “irregular pattern but doesn't matter because す always means other-move.” Only the formula contains an arrow."
+  },
+  {
+   "type": "text",
+   "text": "In some cases... we have, for example, \" 落ちる (おちる)\", which means \"fall\", and \"落とす (おとす)\", which means \"drop\". They have the same kanji; they are a pair, they don't have that regular -える to -す ending, but \"落とす (おとす)\" still has -す on the end,"
+  },
+  {
+   "type": "text",
+   "text": "so we still know that that is the other-move partner of the pair."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "ある Family Rule"
+  },
+  {
+   "type": "text",
+   "text": "Now, the second rule is that where one of a pair ends in any of the あ-stem + -る, so"
+  },
+  {
+   "type": "text",
+   "text": "it ends in the sound -ある, that is going to be the self-move partner of the pair. Why?"
+  },
+  {
+   "type": "text",
+   "text": "Because that -ある is related to \"ある\", the mother of all self-move verbs."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled \"The 3 Move-word Pair Laws\": red \"する family law: す(and せる) ending verbs are other-move\" and red \"ある family law: あ-stem + る ending verbs are self-move\". Lower right, green \"Commonest pattern\" over \"え-stem+る → あ-stem+る\", the arrow connecting the two stems."
+  },
+  {
+   "type": "text",
+   "text": "The usual pattern here is -える to -ある."
+  },
+  {
+   "type": "text",
+   "text": "We already looked at that in the last lesson, where we have \"上がる (あがる)\", which means \"rise up/get up\", and \"上げる (あげる)\", which means \"raise (something) up\"."
+  },
+  {
+   "type": "text",
+   "text": "It is very often used to mean to \"give (something) upward (to another person)\"."
+  },
+  {
+   "type": "text",
+   "text": "So we have \"上がる (あがる)\" and\"上げる(あげる)\", and we know that the self-move partner of the pair is \"上がる (あがる)\" because it ends in -ある."
+  },
+  {
+   "type": "text",
+   "text": "The usual form here is -える to -ある, but again it doesn't have to be."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide contrasts 包む, labeled “wrap,” beside a blue ribboned gift box and a small open-box icon, with 包まる, labeled “be wrapped*,” beside a yellow ribboned gift box; a blonde girl in a sailor uniform stands at left. The bottom note reads “*＝exist (aru) in wrapped state”; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "There are other cases, such as \"包む(くるむ)\", which means \"wrap\", and \"包まる(くるまる)\", which means \"be wrapped\", but again it doesn't matter because we know that"
+  },
+  {
+   "type": "text",
+   "text": "the one ending in -ある is always going to be the self-move partner of the pair."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Switch Rule"
+  },
+  {
+   "type": "text",
+   "text": "Now, the third law is that if we take any regular verb ending in -う sound (as they all"
+  },
+  {
+   "type": "text",
+   "text": "do) and change it to the え-row and add -る, which means that it ends in -える, that flips"
+  },
+  {
+   "type": "text",
+   "text": "a self-move word to an other-move word or an other-move word to a self-move word."
+  },
+  {
+   "type": "text",
+   "text": "The problem is that we don't in every case know from the structure which way the"
+  },
+  {
+   "type": "text",
+   "text": "word will be flipped."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled “The 3 Move-word Pair Laws”: する family law (す/せる endings are other-move), ある family law (あ-stem＋る are self-move), Flip-switch law (ē-stem＋る flips either way), Honorary 4th Law (む→める is always other-move); parenthetical self-move=intransitive, other-move=transitive. Decorative anime boy and girl, a pink sword, and the only arrow む→める."
+  },
+  {
+   "type": "text",
+   "text": "However, this is not as difficult as it seems, because first of all this is not a large number"
+  },
+  {
+   "type": "text",
+   "text": "of verbs – the majority are covered by the first two rules – and of this group of -う"
+  },
+  {
+   "type": "text",
+   "text": "to -える flips, the majority is -む to -める."
+  },
+  {
+   "type": "text",
+   "text": "And -める is – I would call this an honorary member of the す family."
+  },
+  {
+   "type": "text",
+   "text": "Or you could say that -む to -める is the honorary fourth law."
+  },
+  {
+   "type": "text",
+   "text": "Whichever way you put it, in -む to -める, -める is always the other-move partner of the pair."
+  },
+  {
+   "type": "text",
+   "text": "And indeed as you get more experienced in Japanese, you will get to feel that"
+  },
+  {
+   "type": "text",
+   "text": "める-ending verbs have a する-like other-move feeling to them."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "And this really is all you need to know if you're beginning with self-move/other-move"
+  },
+  {
+   "type": "text",
+   "text": "verbs, because this covers really the vast majority of all the pairs you're going to encounter."
+  },
+  {
+   "type": "text",
+   "text": "So don't feel that you have to learn the rest of this lesson. You can come back to it later whenever you want to."
+  },
+  {
+   "type": "text",
+   "text": "But I'm going to just complete it, partly so that you have all the information you might need for the future and partly because it's going to give us more insight into how self-move and other-move really works."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Honorary Rules"
+  },
+  {
+   "type": "text",
+   "text": "So the next thing to know is that as well as -む/-める, which is the big one, there"
+  },
+  {
+   "type": "text",
+   "text": "are also other honorary members of the す family and these are:"
+  },
+  {
+   "type": "text",
+   "text": "-ぶ to -べる – -べる is always the other-move version (and -ぶ and -む are very close in Japanese;"
+  },
+  {
+   "type": "text",
+   "text": "you may know \"さびしい/さみしい\" and other words like that, where you can just use ぶ or む in the same word, so -める and -べる naturally are both honorary members of the す family)."
+  },
+  {
+   "type": "text",
+   "text": "And also -つ/-てる – the -てる is always the other-move pair."
+  },
+  {
+   "type": "text",
+   "text": "So in the end we really have very few wild cards in this pack."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled 'The 3 Move-word Pair Laws': 'する family law: す(and せる) ending verbs are other-move', 'ある family law: あ-stem + る ending verbs are self-move', 'Flip-switch law: え-stem + る flips self-/other-move', 'Honorary 4th Law: む→める - める is always other-move'. A red box 'Honorary す family' has arrows む→める, ぶ→べる, つ→てる labelled 'Always other-move'."
+  },
+  {
+   "type": "text",
+   "text": "The only ones that we really can't tell which way they are going is"
+  },
+  {
+   "type": "text",
+   "text": "-く and -ぐ, to -ける and -げる,"
+  },
+  {
+   "type": "text",
+   "text": "-う to -える, and those る-ending verbs that don't fit either of the first two laws."
+  },
+  {
+   "type": "text",
+   "text": "So these are in fact the only exceptions where you really can't tell structurally which way they are going."
+  },
+  {
+   "type": "figure",
+   "text": "【図】White slide with red text “Only stragglers left are....” and pink labels “く / ぐ → ける/げる” and “う → える,” joined by rightward arrows. Gray text at lower right reads “And some る-ending verbs not covered by first 2 laws”; a white chicken sits at lower left and two yellow chicks at upper right, unconnected by arrows."
+  },
+  {
+   "type": "text",
+   "text": "So is there anything we can actually do about this last small minority of self-move/other-move flips? And the answer to that is yes."
+  },
+  {
+   "type": "text",
+   "text": "But it's a little bit subtler and it will become easier as you become more competent in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "So you don't need to worry about this if you're at an early stage."
+  },
+  {
+   "type": "text",
+   "text": "The rules I've given you cover most of the cases."
+  },
+  {
+   "type": "text",
+   "text": "But when we take a verb that structurally you can't tell which way it's flipping, a lot of the time we can tell semantically – that's to say, that when I say that the え-row plus -る flips transitivity, I mean exactly that."
+  },
+  {
+   "type": "text",
+   "text": "The -える version is the flipped version;"
+  },
+  {
+   "type": "text",
+   "text": "the -う version is the original, the one that's in the basic form of the verb."
+  },
+  {
+   "type": "text",
+   "text": "So to take an example, \"売る(うる)\" means \"sell\"; it's a very common word."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide contrasting 売る and 売れる: the left speech bubble points to an apron-wearing person with hot cakes and a loaf, English 'I sell hot cakes'; the right bubble points to a Famicom-style console labelled FAMFAM COMP with a controller, English 'I sell like hot cakes'. Only bubble tails connect, no arrows."
+  },
+  {
+   "type": "text",
+   "text": "There's a less common version of it which is \"売れる(うれる)\", and that's the flipped version. Now, \"selling\" is obviously an other-move verb – I sell something."
+  },
+  {
+   "type": "text",
+   "text": "You can't just sell in the abstract. I sell something-or-other and so I'm moving that other thing – quite literally."
+  },
+  {
+   "type": "text",
+   "text": "But \"売れる(うれる)\" means \"sell\" in the other sense, as in \"that game is selling like hot cakes\"."
+  },
+  {
+   "type": "text",
+   "text": "So in this case, they're talking about a book selling or a game selling, so the thing that"
+  },
+  {
+   "type": "text",
+   "text": "is doing the selling here is also the thing that is moving, so this is a self-move version, isn't it?"
+  },
+  {
+   "type": "text",
+   "text": "So it's clear that \"売る(うる)\" is basically an other-move verb but when it's flipped it has"
+  },
+  {
+   "type": "text",
+   "text": "a self-move version."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, if we take one that goes the other way,"
+  },
+  {
+   "type": "text",
+   "text": "\"従う(したがう)\" means \"obey\" or \"follow\","
+  },
+  {
+   "type": "text",
+   "text": "and it has a flipped version, \"従える(したがえる)\", which means to \"be followed by\" or \"be obeyed by\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Blue text したが / 従う / \"obey, follow\" over magenta text したが / 従える / \"subjugate, be accompanied by\". An orange tick sits at left and four brown ducks swim on blue waves below; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, it's clear here that the basic idea is obeying or following and that the extended"
+  },
+  {
+   "type": "text",
+   "text": "idea is being obeyed or being followed."
+  },
+  {
+   "type": "text",
+   "text": "So here it's clear that the other-move version is going to be the -える version, because that's the flipped version of the basic concept, to obey or follow."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "And we can also note here for those of you who've been asking yourselves,"
+  },
+  {
+   "type": "text",
+   "text": "\"Why does she say that transitive and intransitive aren't correct?\" – this is an example."
+  },
+  {
+   "type": "text",
+   "text": "The Japanese-English dictionaries tell us that \"従う(したがう)\" is the intransitive version, but if you think about it \"従う(したがう)\" means \"obey\" or \"follow\". This is not an intransitive word."
+  },
+  {
+   "type": "text",
+   "text": "You can't just obey or follow in the abstract. You obey someone or you follow someone. It's a transitive verb."
+  },
+  {
+   "type": "text",
+   "text": "Note: Dolly wrote this and this, there is also this Japanese article about some self-move/intransitive? verbs using を, which is normally…ungrammatical?, I am not entirely confident in explaining it since my Japanese is still quite limited, so if anything you can write me, \nI guess it would be beneficial not to view them purely in transitive = always other-move etc. \nSo I recommend you do your own research about this problem and decide how to go about it."
+  },
+  {
+   "type": "text",
+   "text": "So why do the dictionaries call it intransitive?"
+  },
+  {
+   "type": "text",
+   "text": "Because they have made the commitment to translating self-move as intransitive, but while it's a transitive verb – you obey someone, you follow someone – it is also a self-move verb."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "In obeying someone or following someone, you are not moving that other person."
+  },
+  {
+   "type": "text",
+   "text": "You are moving yourself."
+  },
+  {
+   "type": "text",
+   "text": "In being obeyed or being followed, you are not moving yourself, you're moving that other person."
+  },
+  {
+   "type": "text",
+   "text": "So this is one of the cases where self-move and other-move do not correspond to transitive and intransitive."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "There aren't too many of those cases, so it doesn't matter if you want to use transitive"
+  },
+  {
+   "type": "text",
+   "text": "and intransitive, just be aware that the meaning is not exactly the same in any case, and in some cases it doesn't fit at all."
+  },
+  {
+   "type": "text",
+   "text": "Now, as I say, if you just want to remember the three rules and nothing else, that is"
+  },
+  {
+   "type": "text",
+   "text": "going to break the back of self-move and other-move verbs for you."
+  },
+  {
+   "type": "text",
+   "text": "In most cases, you can understand them with nothing but that."
+  },
+  {
+   "type": "text",
+   "text": "So the rest of what I've told you is very useful as you become more proficient at Japanese, but"
+  },
+  {
+   "type": "text",
+   "text": "if you just remember the concept of self-move and other-move and the three basic rules:"
+  },
+  {
+   "type": "text",
+   "text": "the -ある version is always self-move,"
+  },
+  {
+   "type": "text",
+   "text": "the -す and -せる versions are always other-move"
+  },
+  {
+   "type": "text",
+   "text": "and if you also remember that the -める version is always other-move, that's worth throwing in because that covers a lot."
+  },
+  {
+   "type": "text",
+   "text": "And with those, you really have the problem of self-move and other-move verbs mostly under control."
+  }
+ ]
+}

@@ -1,0 +1,521 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 53,
+ "page_label": "49. Japanese Point-of-View Deconfused! \n-もらう・てもらう",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "49. Japanese Point-of-View Deconfused! \n-もらう・てもらう"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "49. Japanese Point-of-View Deconfused! \n-もらう・てもらう"
+  },
+  {
+   "type": "text",
+   "text": "Japanese Point-of-View Deconfused! -もらう・てもらう morau, te-morau | Lesson 49"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we are going to talk about"
+  },
+  {
+   "type": "text",
+   "text": "something that arises quite frequently and in a variety of different ways in Japanese"
+  },
+  {
+   "type": "text",
+   "text": "and causes quite a lot of confusion because of the rather strange way it's taught"
+  },
+  {
+   "type": "text",
+   "text": "in conventional えいほんご / English-language Japanese grammar."
+  },
+  {
+   "type": "text",
+   "text": "And this is the word \"もらう\", which is used in all kinds of different contexts"
+  },
+  {
+   "type": "text",
+   "text": "and can be very confusing and difficult for learners to grasp what's actually going on in these sentences."
+  },
+  {
+   "type": "text",
+   "text": "Now, part of the reason this is so confusing is that \"もらう\" is customarily grouped together with \"くれる\" and \"あげる\" as if the three belonged together and worked in the same kind of way."
+  },
+  {
+   "type": "text",
+   "text": "And up to a point this is true."
+  },
+  {
+   "type": "text",
+   "text": "But dealing with them in this way is actually more confusing than it is helpful."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Color-coded mnemonic slide: green あげる above green \"apples\", orange くれる above orange \"oranges\", blue もらう above blue \"elephants\", then blue \"(that sometimes eat fruit)\". At lower right an orange rabbit's speech bubble reads \"'course it gets less mysterious when ya hold the book the right way up.\""
+  },
+  {
+   "type": "text",
+   "text": "Quite a while ago I dealt with \"くれる\" and \"あげる\" (Lesson 11) and at the time I quite specifically didn't include \"もらう\" because I believe teaching them together in the way that is common causes a great deal of unnecessary confusion."
+  },
+  {
+   "type": "text",
+   "text": "I'm going to just run quickly over \"くれる\" and \"あげる\" now,"
+  },
+  {
+   "type": "text",
+   "text": "and we'll talk about the ways in which they are similar to \"もらう\","
+  },
+  {
+   "type": "text",
+   "text": "the much more important ways in which they aren't similar to \"もらう\","
+  },
+  {
+   "type": "text",
+   "text": "and what we should really be comparing \"もらう\" to,"
+  },
+  {
+   "type": "text",
+   "text": "which will make it much easier to understand a whole range of Japanese expressions and sentences."
+  },
+  {
+   "type": "text",
+   "text": "So, as we know, \"あげる\" and \"くれる\" mean respectively \"give up\" to someone else or"
+  },
+  {
+   "type": "text",
+   "text": "someone else \"giving down\" to oneself or to one's in-group or someone one identifies with."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Gift-box diagram: purple box with an orange up arrow to あげる, \"give-up (to other),\" and red box with an orange down arrow to くれる, \"give-down (to me/us)*\" plus green footnote \"*or person we identify with.\" A YouTube SUBSCRIBE button sits bottom-right."
+  },
+  {
+   "type": "text",
+   "text": "It can refer to giving an actual object, a present or something, or it can refer to giving an action, doing an action for the benefit of another person or another person doing an action for one's own benefit."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Engraving pair contrasting auxiliaries: pink text \"[action] te-kureru / give-down / (to me/us)\" with a downward orange arrow to ～てくれる, and \"[action] te-ageru / give-up / (to other)\" with an upward orange arrow to ～てあげる. A red SUBSCRIBE icon sits bottom right."
+  },
+  {
+   "type": "text",
+   "text": "And before we move on from there, I just want to make a little point that people sometimes misunderstand and that is that while giving up and giving down are originally honorific,"
+  },
+  {
+   "type": "text",
+   "text": "regarding the other person as higher than oneself, as it were,"
+  },
+  {
+   "type": "text",
+   "text": "this origin is so old that it's almost lost."
+  },
+  {
+   "type": "text",
+   "text": "So, in a way, despite its honorific origin, we could regard it in a more neutral way,"
+  },
+  {
+   "type": "text",
+   "text": "rather like uploading and downloading, downloading meaning towards oneself,"
+  },
+  {
+   "type": "text",
+   "text": "uploading being towards someone else."
+  },
+  {
+   "type": "text",
+   "text": "And the reason for that is that \"あげる\" is not in fact honorific"
+  },
+  {
+   "type": "text",
+   "text": "and it's generally considered rude if you use it to a superior when you're talking about an action, because \"してあげる\" means \"doing for the benefit of (someone else)\", doing someone a favor, essentially."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Title くれる・あげる with blue text “are not keigo (respectful/humble speech)” and “So あげる can have disrespectful implication.” A cartoon owl in a graduation cap holds a pointer, with a yellow sparkle and green motion marks; no diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "So if you talk to a superior in such a way as to imply that you're doing them a favor,"
+  },
+  {
+   "type": "text",
+   "text": "this is going to cause offence, so we should not regard \"あげる\" and \"くれる\""
+  },
+  {
+   "type": "text",
+   "text": "as being actually honorific or humble. They're not けいご/敬語."
+  },
+  {
+   "type": "text",
+   "text": "\"くれる\" can imply gratitude but it doesn't imply humility."
+  },
+  {
+   "type": "text",
+   "text": "And \"あげる\" doesn't imply honoring the person to whom it's applied."
+  },
+  {
+   "type": "text",
+   "text": "All right. So now let's move on to \"もらう\". Note: Kanji is “貰う”. Some texts use it."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "もらう・てもらう"
+  },
+  {
+   "type": "text",
+   "text": "Its similarity to the others is simply that it does represent \"downloading\"."
+  },
+  {
+   "type": "text",
+   "text": "And while \"くれる\" is, as it were, a \"push\" download -- someone else taking the initiative"
+  },
+  {
+   "type": "text",
+   "text": "to download to you, \"もらう\" is more like a \"pull\" download."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Green robot below a pink cloud, with a pink down arrow from cloud to robot and a green up arrow from robot to cloud. Labels: green あげる \"Upload (to other),\" pink くれる \"(Push) download,\" red もらう \"download\"; red text explains もらう as helper verb (Vbてもらう), usually pull-download and receiver-centered."
+  },
+  {
+   "type": "text",
+   "text": "And that really is about where the similarities end,"
+  },
+  {
+   "type": "text",
+   "text": "because \"もらう\" works in many ways very differently from \"くれる\" and \"あげる\""
+  },
+  {
+   "type": "text",
+   "text": "and much closer to something else, which we'll come to in a moment."
+  },
+  {
+   "type": "text",
+   "text": "When you use \"もらう' with a noun -- \"receiving something\" --"
+  },
+  {
+   "type": "text",
+   "text": "it doesn't necessarily imply a particular giver at all."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"(zeroが)一万円をもらった\", we're saying \"I got ten thousand yen\"."
+  },
+  {
+   "type": "text",
+   "text": "The implication is it came from somewhere, it was given perhaps by someone,"
+  },
+  {
+   "type": "text",
+   "text": "or at least it came very easily."
+  },
+  {
+   "type": "text",
+   "text": "But we're not saying anything about who gave it to us\nor where it came from or how it all came about,"
+  },
+  {
+   "type": "text",
+   "text": "unlike \"くれる\" and \"あげる\", which are bound to a particular giver and receiver."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, when we're using it with a verb, \"もらう\" contrasts strongly with \"くれる\""
+  },
+  {
+   "type": "text",
+   "text": "in that \"くれる\" implies that the giver took the initiative,"
+  },
+  {
+   "type": "text",
+   "text": "whereas \"もらう\", because the emphasis is on the receiver,"
+  },
+  {
+   "type": "text",
+   "text": "implies that the receiver took the initiative."
+  },
+  {
+   "type": "text",
+   "text": "It's sometimes translated as \"I got (someone) to do (something)\","
+  },
+  {
+   "type": "text",
+   "text": "and that isn't a bad translation in some cases."
+  },
+  {
+   "type": "text",
+   "text": "It can also refer to getting a service, which of course you take the initiative,"
+  },
+  {
+   "type": "text",
+   "text": "you pay for it, that kind of thing. And I'll come to that in just a moment."
+  },
+  {
+   "type": "text",
+   "text": "Let's notice that if no giver is mentioned, then no giver is necessarily implied."
+  },
+  {
+   "type": "text",
+   "text": "When a giver is mentioned, the giver is marked by に."
+  },
+  {
+   "type": "text",
+   "text": "Now, this is exactly the same as the receptive helper verb \"-れる/-られる\""
+  },
+  {
+   "type": "text",
+   "text": "because \"もらう\", like \"-れる/-られる\""
+  },
+  {
+   "type": "text",
+   "text": "(the receptive, the so-called passive form, which is not passive at all),"
+  },
+  {
+   "type": "text",
+   "text": "both of them are in fact about receiving, aren't they?"
+  },
+  {
+   "type": "text",
+   "text": "So they're what we might call pull-sentences rather than push-sentences."
+  },
+  {
+   "type": "text",
+   "text": "In a push-sentence, the に marks the indirect object, the ultimate receiver of the action."
+  },
+  {
+   "type": "text",
+   "text": "So, if we say \"メアリーにボールを投げた\", we're saying \"I threw the ball at Mary\"."
+  },
+  {
+   "type": "text",
+   "text": "The ball is the direct object (what I threw)."
+  },
+  {
+   "type": "text",
+   "text": "Mary is the indirect object (the ultimate receiver of the action)."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide contrasts 「のがメアリーにボールを投げた」 (push-sentence, に marks target, 'I threw the ball at Mary') with 「のがメアリーにボールを投げられた」 (pull-sentence, に marks source, 'I throw-received the ball from Mary'). Color coding: のが gray, メアリーに/ボールを blue, 投げた/投げられた red; a cartoon girl with a volleyball at lower left. No arrows; labels 'Push-sentence', 'Pull-sentence'."
+  },
+  {
+   "type": "text",
+   "text": "In a pull-sentence, where the receiver is the が-marked actor, then the に-marked person"
+  },
+  {
+   "type": "text",
+   "text": "is the ultimate giver, the ultimate source of the action."
+  },
+  {
+   "type": "text",
+   "text": "So it's actually much more useful to compare \"もらう\" to \"-れる/-られる\", the receptive helper, because it does almost exactly the same thing."
+  },
+  {
+   "type": "text",
+   "text": "It takes a verb, adds another, helper verb to it which tells us that the action is being received and the actor of the sentence is doing the action of receiving the action from somebody else."
+  },
+  {
+   "type": "text",
+   "text": "And this similarity, this likeness, between \"もらう\" and \"-れる/-\"られる\"\" is not pointed out"
+  },
+  {
+   "type": "text",
+   "text": "by conventional Japanese grammar, although it's really by far the best way of understanding it,"
+  },
+  {
+   "type": "text",
+   "text": "because of course they confuse the whole issue by calling the receptive \"-れる/-られる\" helper “passive”. It's not passive, it's receptive, just like \"もらう\". \nNote: Btw. you can’t use both of these receptives at once. Dolly explains in the comments."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-mode YouTube comment by @organicjapanesewithcuredol49 (4 years ago, edited) in English prose about 教えてもらった vs 教えられた, れる・られる, くれる, もらう and 会える. No diagram or arrows; Japanese tokens include 教えてもらった, 教えられた, られる, 会える, くれる, もらう."
+  },
+  {
+   "type": "text",
+   "text": "And they work very similarly."
+  },
+  {
+   "type": "text",
+   "text": "The difference between them is that \"-れる/-\"られる\"\" implies that the action just happened to us. We may or may not have wanted it, but it wasn't really our doing."
+  },
+  {
+   "type": "text",
+   "text": "\"もらう\" implies that we took the action, that we actively brought the action upon ourself"
+  },
+  {
+   "type": "text",
+   "text": "from somebody else; we got them to do it for us."
+  },
+  {
+   "type": "text",
+   "text": "So let's talk about receiving a service."
+  },
+  {
+   "type": "text",
+   "text": "A very, very common expression is \"(zeroが)お医者さんに見てもらう\" which is translated in dictionaries and English grammars as \"see a doctor\". \nAnd this is a terrible, terrible, terrible, irresponsible translation."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Smiling female doctor illustrates 「のがお医者さんに見てもらう」, with が blue and the て-form verb red. Green labels at right read \"Person an action is received from (doer of secondary/received action) marked by に\" and \"Person an object is received from usu. marked by から\"; \"Secondary action is in て-form\" has an arrow pointing to 見て, and the blue caption reads \"Doctor does seeing. が-marked actor does receiving.\""
+  },
+  {
+   "type": "text",
+   "text": "I don't know why they do this exactly."
+  },
+  {
+   "type": "text",
+   "text": "I think it's because they feel that the likeness to a common English expression makes it easier."
+  },
+  {
+   "type": "text",
+   "text": "It doesn't make it easier, it makes it much harder,"
+  },
+  {
+   "type": "text",
+   "text": "because it confuses your entire perception of what's going on here."
+  },
+  {
+   "type": "text",
+   "text": "\"お医者さんに見てもらう\" doesn't mean \"I will see a doctor\";"
+  },
+  {
+   "type": "text",
+   "text": "it means \"I will have a doctor see me / I will get examined by a doctor\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, we can see this much more clearly if we're talking about hairdressing or a haircut."
+  },
+  {
+   "type": "text",
+   "text": "\"さんぱつ/散髪\" means \"hairdressing\" or \"haircut\"."
+  },
+  {
+   "type": "text",
+   "text": "And if we say \"散髪をしてもらう\", we're saying \"have someone cut my hair\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Vocabulary slide with a smiling hairdresser holding scissors and comb behind a seated client; pink text labels 散髪 \"hair-cutting, hair-dressing\" and the example 散髪をしてもらう. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "\"お医者さんに見てもらう\" -- \"have a doctor look at me / examine me\"."
+  },
+  {
+   "type": "text",
+   "text": "So you see the two work in exactly the same way."
+  },
+  {
+   "type": "text",
+   "text": "And we can also see that while with \"お医者さん\" we're specifying a giver,"
+  },
+  {
+   "type": "text",
+   "text": "with \"散髪をしてもらう\" -- \"get one's hair cut\" -- we're not specifying a particular actor."
+  },
+  {
+   "type": "text",
+   "text": "Someone might say \"散髪をしてもらったほうがいい\" -- \"you should get your hair cut\" --"
+  },
+  {
+   "type": "text",
+   "text": "but it's not saying anything about by whom."
+  },
+  {
+   "type": "text",
+   "text": "It's not saying whether they want you to go to the hairdresser or"
+  },
+  {
+   "type": "text",
+   "text": "whether you get your big sister to do it, it doesn't matter."
+  },
+  {
+   "type": "text",
+   "text": "Just \"get someone to cut your hair\"."
+  },
+  {
+   "type": "text",
+   "text": "And this leads to another very important point, which is that the actor of \"もらう\","
+  },
+  {
+   "type": "text",
+   "text": "the person \"もらう\"-ing, does not have to be the speaker."
+  },
+  {
+   "type": "text",
+   "text": "And by comparing it to \"くれる\" a lot of people get very confused by this"
+  },
+  {
+   "type": "text",
+   "text": "and they get extremely muddled when they see someone"
+  },
+  {
+   "type": "text",
+   "text": "referring to someone else other than themselves \"もらう\"-ing."
+  },
+  {
+   "type": "text",
+   "text": "But there's no rule against this at all."
+  },
+  {
+   "type": "text",
+   "text": "You can't use \"くれる\" for someone who isn't either yourself or a member of your in-group or, for example in a novel, it could be a character"
+  },
+  {
+   "type": "text",
+   "text": "because the writer is allowed to be inside the head of the character."
+  },
+  {
+   "type": "text",
+   "text": "So \"くれる\" is tied to a person or an in-group, but \"もらう\" is not."
+  },
+  {
+   "type": "text",
+   "text": "We can freely talk about other people \"もらう\"-ing, receiving something."
+  },
+  {
+   "type": "text",
+   "text": "Now, another important area that confuses people terribly,"
+  },
+  {
+   "type": "text",
+   "text": "but we're ready to deal with this now, is \"させてもらう\","
+  },
+  {
+   "type": "text",
+   "text": "which is a combination of the causative helper verb with \"もらう\","
+  },
+  {
+   "type": "text",
+   "text": "and we now know enough about the logic of \"もらう\" to deal with this,"
+  },
+  {
+   "type": "text",
+   "text": "but we're going to need to learn a little bit more"
+  },
+  {
+   "type": "text",
+   "text": "about the logic of the causative helper verb \"-せる/-させる\"..."
+  }
+ ]
+}

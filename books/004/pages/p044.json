@@ -1,0 +1,556 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 44,
+ "page_label": "40. 3 pitfalls in Japanese and how to avoid them",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "40. 3 pitfalls in Japanese and how to avoid them"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "40. 3 pitfalls in Japanese and how to avoid them"
+  },
+  {
+   "type": "text",
+   "text": "3 PITFALLS in Japanese and how to avoid them 【Japanese Structure Lesson 40】"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to discuss some pitfalls in Japanese structure."
+  },
+  {
+   "type": "text",
+   "text": "These are very small elements, single kana elements of the language, but very vital ones"
+  },
+  {
+   "type": "text",
+   "text": "that can, if you don't know about them, be very confusing"
+  },
+  {
+   "type": "text",
+   "text": "because one element can be easily confused with another one that looks identical."
+  },
+  {
+   "type": "text",
+   "text": "And the textbooks, in many cases, don't tell you about this at all."
+  },
+  {
+   "type": "text",
+   "text": "They leave you completely floundering."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "で (connective/て-form of the copula)"
+  },
+  {
+   "type": "text",
+   "text": "The first one we're going to look at is \"で\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, \"で\", as you know, is a logical particle."
+  },
+  {
+   "type": "text",
+   "text": "It has a very clearly defined use which we introduced in Lesson 8b."
+  },
+  {
+   "type": "text",
+   "text": "Like all logical particles, it marks a noun, and it tells us that that noun is the place"
+  },
+  {
+   "type": "text",
+   "text": "where an action took place or the means by which an action was done."
+  },
+  {
+   "type": "text",
+   "text": "However, there is another \"で\", which is not a particle, which is also used very frequently in Japanese, and the textbooks make no attempt to distinguish these two completely different but identical-looking elements."
+  },
+  {
+   "type": "text",
+   "text": "The first time most of us will meet the second of these \"で\"s is in the use of adjectival nouns, which are very confusingly and misleadingly called \"な-adjectives\" by the textbooks."
+  },
+  {
+   "type": "text",
+   "text": "So if we say \"さくらがきれいで優しい\", what we're saying is that Sakura is pretty and kind."
+  },
+  {
+   "type": "text",
+   "text": "\"綺麗/きれいだ\" is an adjectival noun."
+  },
+  {
+   "type": "text",
+   "text": "If we want to say \"The flower is pretty\", we say \"花がきれいだ\"."
+  },
+  {
+   "type": "text",
+   "text": "And if we want to say \"the pretty flower\", we have to put \"きれいだ\" on the other side"
+  },
+  {
+   "type": "text",
+   "text": "of the flower, so we say \"きれいな花\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Colour-coded slide on the adjectival noun きれいだ glossed 'pretty-is', with examples 花がきれいだ ('Flower pretty-is'), きれいな花 ('Pretty-is flower') and 花がきれいで ('pretty-is-and, て-form'); a purple hibiscus at top right. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "And that \"な\", as we know, is the connective form of \"だ\". \nBut if we want to say \"Sakura is pretty and kind\", we can't use \"だ\" and we can't use \"な\","
+  },
+  {
+   "type": "text",
+   "text": "but we do have to use the copula."
+  },
+  {
+   "type": "text",
+   "text": "What we use now is the connective form of the copula, that is to say, its て-form."
+  },
+  {
+   "type": "text",
+   "text": "And the て-form of \"だ\" is \"で\"."
+  },
+  {
+   "type": "text",
+   "text": "Note: to avoid confusion of Dolly using the words ‘the connective form of the copula’ for both な and subsequently で."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A YouTube comment screenshot by “Organic Japanese with Cure Dolly” (3 years ago) with an anime avatar, explaining that な is the connective form of だ used before another noun (so-called “な-adjective”) while で is the て-form of だ connecting clauses into a compound sentence. No diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "So if you say \"Sakura is beautiful and kind\", this is a true adjective, an \"い-adjective\","
+  },
+  {
+   "type": "text",
+   "text": "and we use the て-form to connect it: we say \"さくらが美しくて優しい.\""
+  },
+  {
+   "type": "text",
+   "text": "If it's an adjectival noun, we still have to have the copula, so we say \"さくらがきれいで...\""
+  },
+  {
+   "type": "text",
+   "text": "That's the て-form of the copula."
+  },
+  {
+   "type": "text",
+   "text": "Now, I've already explained that in our lessons on adjectivals,"
+  },
+  {
+   "type": "text",
+   "text": "but we also find this \"で\", the て-form of \"だ\", in lots of other cases in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "So let's take a couple of cases and see if you can tell which of the two \"で\"s is being used."
+  },
+  {
+   "type": "text",
+   "text": "A very common thing to say to someone when you're leaving them, perhaps for a while, is \n\"お元気で\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, \"元気\", as you know, means \"well\" or \"healthy\" or \"lively\""
+  },
+  {
+   "type": "text",
+   "text": "and the \"お\" is just an honorific or prettifier."
+  },
+  {
+   "type": "text",
+   "text": "What is the \"で\" here? Is it the logical particle or is it the て-form of the copula?"
+  },
+  {
+   "type": "text",
+   "text": "This is the て-form of the copula, not the particle."
+  },
+  {
+   "type": "text",
+   "text": "The particle doesn't make any sense here, does it?"
+  },
+  {
+   "type": "text",
+   "text": "What's the て-form of the copula doing?"
+  },
+  {
+   "type": "text",
+   "text": "Well, we know, don't we, that the て-form is often used to make an imperative,"
+  },
+  {
+   "type": "text",
+   "text": "to tell someone or ask someone to do something."
+  },
+  {
+   "type": "text",
+   "text": "So, if we say \"待って\" -- \"wait\" -- this is kind of short for \"待ってください\" and we're"
+  },
+  {
+   "type": "text",
+   "text": "asking someone to wait (\"待って!\" -- \"Wait!\")."
+  },
+  {
+   "type": "text",
+   "text": "Now, it's exactly the same with \"で\", which is the て-form of the copula."
+  },
+  {
+   "type": "text",
+   "text": "So, \"元気だ\" means \"is 元気\", someone is genki, someone is healthy or lively."
+  },
+  {
+   "type": "text",
+   "text": "\"元気で\" is telling them to *be* genki or lively."
+  },
+  {
+   "type": "text",
+   "text": "\"お元気で\" -- \"be healthy / be lively / keep up the good spirits\"."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "無事/ぶじで"
+  },
+  {
+   "type": "text",
+   "text": "Right. So here's another one: \"無事でよかった\" is another very common expression and it means"
+  },
+  {
+   "type": "text",
+   "text": "\"I'm glad that you're all right / it's good that you weren't harmed / it's good that you're safe\""
+  },
+  {
+   "type": "text",
+   "text": "-- \"無事でよかった\". What do we have here?"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Construction worker with hard hat and pickaxe asks a fallen green turtle 「ケガはない？*」; the turtle answers 「ないよ」 and the worker replies 「無事でよかったね*」. Asterisked orange notes read \"*は is more usual than が here because it stresses the following ない\" and \"・ね here indicates the casual concern of a stranger rather than the heartfelt relief of a friend\"; speech-bubble tails, not arrows, identify speakers."
+  },
+  {
+   "type": "text",
+   "text": "Once again, we have the て-form of the copula."
+  },
+  {
+   "type": "text",
+   "text": "\"無事\", which means literally \"no incident\" and therefore it means \n\"nothing happened / nothing bad happened / you weren't harmed / you're safe.\""
+  },
+  {
+   "type": "text",
+   "text": "So, \"無事だ\" means \"you're safe / you weren't harmed / nothing happened\"."
+  },
+  {
+   "type": "text",
+   "text": "\"無事で\" is turning that \"だ\", that copula, into the connective form."
+  },
+  {
+   "type": "text",
+   "text": "We use the て-form to connect things, don't we?"
+  },
+  {
+   "type": "text",
+   "text": "So, just as we might say, \"遅くなってすみません\" -- \"That I came late, I'm sorry\"--"
+  },
+  {
+   "type": "text",
+   "text": "we also say \"無事でよかった\" -- \"That you weren't hurt, that was good.\""
+  },
+  {
+   "type": "text",
+   "text": "And this connective て-form is also used in longer compound sentences."
+  },
+  {
+   "type": "text",
+   "text": "So, for example, we might say \"さくらはいい子で毎日学校に行く\" --"
+  },
+  {
+   "type": "text",
+   "text": "\"Sakura is a good child and she goes to school every day.\""
+  },
+  {
+   "type": "text",
+   "text": "We have two complete clauses and, just as with the て-form of any verb, we can use it"
+  },
+  {
+   "type": "text",
+   "text": "to connect that verb-ending clause to a second clause, so we can do exactly the same thing with the copula."
+  },
+  {
+   "type": "text",
+   "text": "So, \"さくらがいい子だ\" -- \"Sakura's a good girl\" -- is a complete sentence in itself."
+  },
+  {
+   "type": "text",
+   "text": "If we want to connect it to a second clause to make it the first half of a compound sentence, we turn that \"だ\" into its て-form, \"で\"."
+  },
+  {
+   "type": "text",
+   "text": "So, \"Sakura is a good girl and she goes to school every day.\""
+  },
+  {
+   "type": "text",
+   "text": "And as is usual with the て-form connector, it tends to imply a positive relation between the two."
+  },
+  {
+   "type": "text",
+   "text": "It has this implication of \"Because Sakura's a good girl, she goes to school every day,\""
+  },
+  {
+   "type": "text",
+   "text": "but it's not stating it as strongly as if we'd used \"から\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, another confusion, which is not kept such a deep, dark secret by the textbooks,"
+  },
+  {
+   "type": "text",
+   "text": "but they don't always stress it clearly enough, and it's very important because it concerns"
+  },
+  {
+   "type": "text",
+   "text": "the very center of the Japanese language, and that is the が-particle."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "が clause connector"
+  },
+  {
+   "type": "text",
+   "text": "The が-particle, as we know, is the one particle that no sentence or clause in Japanese can ever be without, whether we can see it or whether we can't."
+  },
+  {
+   "type": "text",
+   "text": "\"が\" marks the A-car of every sentence, the do-er of an A-does-B clause and the be-er of an A-is-B clause."
+  },
+  {
+   "type": "text",
+   "text": "But there is also another \"が\"."
+  },
+  {
+   "type": "text",
+   "text": "It's not easy to confuse the two, provided you're clearly aware of them."
+  },
+  {
+   "type": "text",
+   "text": "The other \"が\" is also a clause connector."
+  },
+  {
+   "type": "text",
+   "text": "And usually it's a contrastive clause connector."
+  },
+  {
+   "type": "text",
+   "text": "So, if we say, \"お店に行ったがパンがなかった,\" we're saying \"I went to the shops, but there wasn't any bread.\""
+  },
+  {
+   "type": "text",
+   "text": "Note: The second が is the particle version of が for its logical clause, marking パン."
+  },
+  {
+   "type": "text",
+   "text": "So, this is a contrastive conjunction."
+  },
+  {
+   "type": "text",
+   "text": "We went to the shops hoping that there would be bread, but there wasn't any."
+  },
+  {
+   "type": "text",
+   "text": "It's not possible to confuse this with the other \"が\", the \"が\" that marks the subject"
+  },
+  {
+   "type": "text",
+   "text": "of the sentence, the A-car, because that \"が\", the particle \"が\", can only ever mark a noun."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two train diagrams: top couples 姫が＋美しかった and 王子が＋見なかった with a chain-like が coupler glossed \"but\"; bottom couples 私が＋食べた (modifying white car) to 果物が＋リンゴだった (completed black car). It contrasts particle が inside a logical clause with conjunctive が after a complete clause."
+  },
+  {
+   "type": "text",
+   "text": "And the clause-connector \"が\" can only ever mark a complete sentence."
+  },
+  {
+   "type": "text",
+   "text": "The particle \"が\" can't mark a complete sentence, because a complete sentence can't end with a noun."
+  },
+  {
+   "type": "text",
+   "text": "It has to end with a verb, an adjective, or a copula, as we learned in our very first lesson."
+  },
+  {
+   "type": "text",
+   "text": "So it's not possible to confuse these two so long as you're clearly aware of them."
+  },
+  {
+   "type": "text",
+   "text": "One more thing that we should note is that \"が\" doesn't have to be contrastive."
+  },
+  {
+   "type": "text",
+   "text": "Most of the time it is, but it can be used as a regular, non-contrastive conjunction."
+  },
+  {
+   "type": "text",
+   "text": "It's worth knowing that, because if you see it connecting two clauses and there doesn't"
+  },
+  {
+   "type": "text",
+   "text": "seem to be any contrast there, you don't have to rack your brains to find the contrast -- occasionally it is used in a non-contrastive manner. \nAnd the other thing you need to know is that"
+  },
+  {
+   "type": "text",
+   "text": "you will sometimes find this contrastive \"が\" at the end of a sentence."
+  },
+  {
+   "type": "text",
+   "text": "And I have talked before about sentences that end in a conjunction."
+  },
+  {
+   "type": "text",
+   "text": "Strictly, they're not complete, because what they're doing is implying a following clause."
+  },
+  {
+   "type": "text",
+   "text": "\"が\" at the end of a sentence is often a politeness, because \"が\" is in fact more polite than \"けど\" or \"でも\", the other ways of saying \"but\"."
+  },
+  {
+   "type": "text",
+   "text": "So if we said something like \"(私は) コーヒーがほしいが\" --"
+  },
+  {
+   "type": "text",
+   "text": "\"coffee is want-making (to me)\" and then we've added \"が\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Large text コーヒーがほしいが, where the final が 'hangs' after ほしい to soften a request. English note: 'A \"hanging\" が is used to soften a request.' No arrows."
+  },
+  {
+   "type": "text",
+   "text": "And what that \"が\" is doing is saying \"but...\" and it's implying a second clause but not stating it, so"
+  },
+  {
+   "type": "text",
+   "text": "\"コーヒーがほしいが\" means something like \"I would like coffee, but..."
+  },
+  {
+   "type": "text",
+   "text": "if it's any trouble please don't try to get me any coffee\" or something along those lines."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "に that works as “と”"
+  },
+  {
+   "type": "text",
+   "text": "The last one we're going to consider is less common, but if you're reading any amount of"
+  },
+  {
+   "type": "text",
+   "text": "Japanese you're going to come across it pretty soon, and that is \"に\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, we know \"に\". It's again a logical particle."
+  },
+  {
+   "type": "text",
+   "text": "It's the targeting particle, and I've done a whole video on this because it's an important and complex particle."
+  },
+  {
+   "type": "text",
+   "text": "But there is also another \"に\"."
+  },
+  {
+   "type": "text",
+   "text": "And this other \"に\", which is a slightly old usage -- it comes from older Japanese --"
+  },
+  {
+   "type": "text",
+   "text": "it means the same as \"と\". It can be used to and-together two nouns or a list of nouns."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A black chess knight with white に and a white outlined knight with black に face each other, headed \"EVEN に HAS A DARK TWIN\". Red text reads \"Works like と\" and blue text \"simple 'and' function only\". No arrows."
+  },
+  {
+   "type": "text",
+   "text": "So in the folk tale Beauty and the Beast, when the father asks one of the less good sisters"
+  },
+  {
+   "type": "text",
+   "text": "what she would like him to bring back for her, she says \"靴に指輪に帽子\"."
+  },
+  {
+   "type": "text",
+   "text": "She's saying she would like shoes and a ring and a hat."
+  },
+  {
+   "type": "text",
+   "text": "So this \"に\" can be used to and-together two things or a list of things,"
+  },
+  {
+   "type": "text",
+   "text": "and it's completely different from the particle \"に\"."
+  },
+  {
+   "type": "text",
+   "text": "It's a little bit literary, so you're more often going to see it in written Japanese."
+  },
+  {
+   "type": "text",
+   "text": "But if you don't know that it's there, you can spend a long time puzzling over"
+  },
+  {
+   "type": "text",
+   "text": "what \"に\" means in these contexts."
+  },
+  {
+   "type": "text",
+   "text": "It's also more commonly used in the expression \"それに\", which means \"furthermore\" or \"in addition to that\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two women dining; the left woman's speech bubble, tail pointing to her, says それに・・・. A red CAUTION note warns not to confuse it with expressions like それにしても, a form of Xにする using the に particle; bottom text says それに leverages the \"and\" quality of に to work as a clause-connector. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "Note: There is a typo in the picture’s orange note. それにとても should be それにしても."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-mode YouTube comment screenshot from Organic Japanese with Cure Dolly, \"3 years ago (edited)\", with a TYPO ALERT for 12:18: the orange note should read 「それにしても」 not 「それにどても」, since と sits next to に on a kana keyboard."
+  },
+  {
+   "type": "text",
+   "text": "And, as you can see, this is made up of \"それ\", which means \"that\", plus \"に\" --"
+  },
+  {
+   "type": "text",
+   "text": "not the particle \"に\" but the \"に\" that means \"and\"."
+  }
+ ]
+}

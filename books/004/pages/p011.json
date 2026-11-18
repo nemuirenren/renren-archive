@@ -1,0 +1,620 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 11,
+ "page_label": "8. The に and へ particles",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "8. The に and へ particles"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "8. The に and へ particles"
+  },
+  {
+   "type": "text",
+   "text": "Lesson 8: Location, purpose and transformation - keys to the ni particle and he particle"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The に Particle"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we are going to talk about the particle \"に\","
+  },
+  {
+   "type": "text",
+   "text": "and in doing so we are going to level up."
+  },
+  {
+   "type": "text",
+   "text": "What do I mean by that?"
+  },
+  {
+   "type": "text",
+   "text": "In the past seven lessons we've learned quite a lot of basic Japanese structure."
+  },
+  {
+   "type": "text",
+   "text": "We can say quite a lot of things now if we have the vocabulary."
+  },
+  {
+   "type": "text",
+   "text": "But everything we can say is very, very concrete."
+  },
+  {
+   "type": "text",
+   "text": "We can talk about doing things and being things, which of course is the core of every sentence."
+  },
+  {
+   "type": "text",
+   "text": "But we also need to have some more sophisticated concepts at our disposal."
+  },
+  {
+   "type": "text",
+   "text": "Things like purpose and intention and transformation."
+  },
+  {
+   "type": "text",
+   "text": "So today we're going to look at uses of the に-particle, some of which are very concrete still and some of which begin to take us into those more sophisticated areas."
+  },
+  {
+   "type": "figure",
+   "text": "【図】The slide explains に as a target marker: an arrow labeled \"mover\" points from \"a\" toward a small bullseye labeled \"b\" and \"target\". Below, a large bullseye sits above に with \"Ni marks the target\" printed under it, \"target\" in red."
+  },
+  {
+   "type": "text",
+   "text": "Now, we've already looked at the に-particle, haven't we?"
+  },
+  {
+   "type": "text",
+   "text": "And we know that in a logical sentence it marks the ultimate target of an action."
+  },
+  {
+   "type": "text",
+   "text": "So \"(zeroが)さくらにボールをなげた\" means \"I threw the ball at Sakura\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Chubby white-and-orange hamster-like cartoon above どうも落ち着かない (\"somehow I can't settle down\"); small furigana over 落 and 着. No diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "The ball is marked by を because it's the thing I actually threw."
+  },
+  {
+   "type": "text",
+   "text": "I am marked by が whether you can see me or not,"
+  },
+  {
+   "type": "text",
+   "text": "because I am the one who did the action of throwing."
+  },
+  {
+   "type": "text",
+   "text": "But Sakura is marked by に because she is the target of that action, \nin this case very literally."
+  },
+  {
+   "type": "text",
+   "text": "Now, the に-particle nearly always marks a target of one kind or another."
+  },
+  {
+   "type": "text",
+   "text": "So, if we are going somewhere or sending something somewhere or putting something somewhere, we use に for that \"somewhere\"."
+  },
+  {
+   "type": "text",
+   "text": "So if A is going to B, then B is marked by に."
+  },
+  {
+   "type": "text",
+   "text": "B is the destination, the target of that going."
+  },
+  {
+   "type": "text",
+   "text": "So if I'm going to the park, I say \"(zeroが)こうえんにいく\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Mover is a grey car marked が (red a, Øが beneath) above the target car marked に (red b, こうえんに beneath); B is the right locomotive marked う with いく beneath and a green note \"white-car tells more about engine\". Curved grey arrows link A and B to CORE, a grey arrow runs from mover car to target car, and a green arrow runs from こうえんに to いく."
+  },
+  {
+   "type": "text",
+   "text": "If I'm going to the shops, I say \"(zeroが)おみせにいく\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train diagram of a clause: A over a 'mover' car marked が with Øが / Ø-ga / I, blue arrow to a 'target' car marked に with おみせに / shops-to, green arrow to engine B marked う with いく / (will) go. Gray arcs link A—CORE—B; green note 'white-car tells more about engine'."
+  },
+  {
+   "type": "text",
+   "text": "So the literal, physical destination or target of movement is marked by に."
+  },
+  {
+   "type": "text",
+   "text": "However, we can also mark a subtler kind of target."
+  },
+  {
+   "type": "text",
+   "text": "So we can say \"(zeroが)おみせにたまごをかいにいく\"."
+  },
+  {
+   "type": "text",
+   "text": "This means \"I go to the shops to buy eggs\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-style slide for 「Øが おみせに たまごを かいに いく」: cars が, に, を, に and engine う, captions Øが/ø-ga, おみせに/omise-ni, たまごを/tamago-wo, かいに/kai-ni, いく/iku. First car labeled “mover” with a grey arrow to the first に-car; b1/b2 cars labeled “target” with red bull’s-eye icons; grey “CORE” arc and black arc across A–B; green arrows from the b1/b2 phrases to the engine and the note “white car & white-car-pair tell more about engine.”"
+  },
+  {
+   "type": "text",
+   "text": "\"おみせ\" is \"shop/s\" – \"shop\" is \"みせ\" and we put the honorific \"お\" on it because we"
+  },
+  {
+   "type": "text",
+   "text": "give honor to the people who help us to have all the\nlovely things that we are lucky enough to have."
+  },
+  {
+   "type": "text",
+   "text": "\"たまご\" are eggs – you might, if you're old enough, remember たまごっち/Tamagotchi,"
+  },
+  {
+   "type": "text",
+   "text": "the little egg-person that you raise."
+  },
+  {
+   "type": "text",
+   "text": "And \"かい\" is the い-stem of \"かう\" – to buy."
+  },
+  {
+   "type": "text",
+   "text": "The い-stem is a very special stem and it can do lots of things,"
+  },
+  {
+   "type": "text",
+   "text": "and it can also just be there on its own."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Hiragana chart with rows あいうえお/かきくけこ/さしすせそ/たちつてと/なにぬねの/ばびぶべぼ/まみむめも/らりるれろ; the red う-column うくすつぬぶむる and green い-column いきしちにびみり are boxed, with green arrows shifting from the う row to the い row to make the い-stem. Examples かう→かい, きく→きき, はなす→はなし, もつ→もち, しぬ→しに, とぶ→とび, のむ→のみ, とる→とり; a note labelled ichidan says to just delete る (たべる→たべ)."
+  },
+  {
+   "type": "text",
+   "text": "\"かいにいく\" means \"[go] in order to buy, for the purpose of buying\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, you may be saying, \"I thought that logical particles like に and が and を can only mark nouns\" – and that's absolutely correct."
+  },
+  {
+   "type": "text",
+   "text": "Because one of the things that the い-stem of a verb can do when it's on its own is turn"
+  },
+  {
+   "type": "text",
+   "text": "that verb into the equivalent noun. Note: Refer to Lesson 7.5, the い-stem, converting verbs"
+  },
+  {
+   "type": "text",
+   "text": "(It can do something else as well, but I can talk about that another day.)"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train metaphor for godan stem formation: a locomotive numbered 3 labelled “kau” and a railcar labelled “kai” with a red bullseye sit above かう → かい, the final う in red and い in green, with an arrow joining them. Green text reads “i-stem of verb / on its own is noun / and can become / ni-marked / target.”"
+  },
+  {
+   "type": "text",
+   "text": "So \"かい\", the act of buying, is a noun."
+  },
+  {
+   "type": "text",
+   "text": "Just as in English if we say \"I like swimming\","
+  },
+  {
+   "type": "text",
+   "text": "\"swimming\" is a noun, swimming is a thing I like,"
+  },
+  {
+   "type": "text",
+   "text": "and if we say \"I go to the shop for the purpose of buying eggs\","
+  },
+  {
+   "type": "text",
+   "text": "then that \"buying\" is also a noun, it's the thing we're going for."
+  },
+  {
+   "type": "text",
+   "text": "And \"かい\" is just like that."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So \"かい\" is the thing we're going to do and it's a noun and it's marked by に."
+  },
+  {
+   "type": "text",
+   "text": "So, you see that in this sentence we have two targets:"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train slide: cars が / に / を / に then locomotive いく (engine う), with A as mover and B as core verb; Japanese øが おみせに たまごを かいに いく. A grey CORE arc connects A to B, a black arc and white arrow connect A to the b1 target, and green arrows from the note \"white car & white-car-pair tell more about engine\" and from かいに point to いく."
+  },
+  {
+   "type": "text",
+   "text": "the shops – \"おみせ\" – is the actual physical target of our going, the place,"
+  },
+  {
+   "type": "text",
+   "text": "and buying eggs is the reason for our going, so that's the emotional target, the volitional target, a more subtle kind of target than the physical place we're going to, but still a target."
+  },
+  {
+   "type": "text",
+   "text": "And it's possible to have two targets in the same sentence, both marked by に."
+  },
+  {
+   "type": "text",
+   "text": "And that's exactly what we're doing here."
+  },
+  {
+   "type": "text",
+   "text": "So に gives us the target of an action in the most literal sense and also the volitional"
+  },
+  {
+   "type": "text",
+   "text": "target, the actual aim of our action."
+  },
+  {
+   "type": "text",
+   "text": "Now, to get back to more concrete things, \nに which marks the actual location target \nof where we're going, of where we're putting something,"
+  },
+  {
+   "type": "text",
+   "text": "can also mark the place where a person or a thing IS."
+  },
+  {
+   "type": "text",
+   "text": "So I can say, \"おみせにいく\" – \"I am going to the shops / I will go to the shops\" – and"
+  },
+  {
+   "type": "text",
+   "text": "we can say, \"おみせにいる\" – \"I am at the shops\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train metaphor: a gray mover car labeled が (おれが) linked by a pale blue arrow to a black target car labeled に (おみせに), with locomotive いく, modeling \"(I'll) go to the shops.\" Below, the same train is pulled by いる for おれが おみせに いる (\"I am at the shops\"); red a and b label the two cars."
+  },
+  {
+   "type": "text",
+   "text": "\"こうえんにいく\" – \"I'll go to the park\"; \"こうえんにいる\" -\"I'm at the park\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two-row train diagram contrasts “future target (going-to destination)” and “being at = past target (arrived-at destination)”: in each, a grey が car (glossed Øが (I)) points to a に target car labelled こうえんに, followed by the locomotive いく in the top row and いる in the bottom. Red labels a and b mark mover and target cars; the sentences read “(I'll) go to the park” and “(I am) at the park.”"
+  },
+  {
+   "type": "text",
+   "text": "Now you see, this is also a target, because in order for a thing to be anywhere,"
+  },
+  {
+   "type": "text",
+   "text": "it must have gotten there at some point."
+  },
+  {
+   "type": "text",
+   "text": "So \"に\" can mark not only a future target, a place where I will go to, it can also mark"
+  },
+  {
+   "type": "text",
+   "text": "a past target, a place where I went and where I still am."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "And we also use this for inanimate objects: \"ほんはテーブルのうえにある\" –"
+  },
+  {
+   "type": "text",
+   "text": "\"The book is on the table\"."
+  },
+  {
+   "type": "text",
+   "text": "\"うえ\" is a noun, and in this case it means the \"on\" of the table."
+  },
+  {
+   "type": "text",
+   "text": "\"うえ\" can mean \"up\" or \"over\", in this case it means \"on\", and it's always a noun, \nso in this case the \"on of the table\" is the place where the book is:"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-car diagram with a table: a は flag above ほんは; cars marked が (Øが), の (テーブルの), う (うえに), and ある (ある), with red a/b labels under the が and う cars. A CORE arc links the の, うえに, and ある cars; a gray arrow runs from the は flag to the が car, and an arrow from “The ON (うえ) of the table” points to うえ on the tabletop."
+  },
+  {
+   "type": "text",
+   "text": "the past target of the book, to which it went and at which it now remains."
+  },
+  {
+   "type": "text",
+   "text": "So に can also mark the place where a thing is, its past target."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "に marking the target of a transformation"
+  },
+  {
+   "type": "text",
+   "text": "And the last aspect of \"に\" that I want to look at is that"
+  },
+  {
+   "type": "text",
+   "text": "に can also mark the target of a transformation."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A red circle around \"a,\" an arrow to \"changer,\" and the arrow leading to a bullseye labeled \"b / target.\" Below, a large bullseye with a red center sits above に with \"Ni marks\" / \"the target\" (target in red)."
+  },
+  {
+   "type": "text",
+   "text": "Just as if A is going to B, に marks B, the place where it's going,"
+  },
+  {
+   "type": "text",
+   "text": "if A turns into B, becomes B, then に also marks B, \nthe thing it's becoming, the thing it turns into."
+  },
+  {
+   "type": "text",
+   "text": "So if I say, \"さくらはかえるになった\"..."
+  },
+  {
+   "type": "text",
+   "text": "\"かえる\" is \"frog\" and \"なる\" is a close cousin of \"ある\": \n\"ある\" means \"be\"; \"なる\" means \"become\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Left side shows ある (be) and なる (be-come); right side is a train-sentence diagram where the は flag/さくらは topic label points by a gray arrow into the が car labelled a (Øが, she), and two brown CORE arcs link that car to the bullseye on the に car labelled b (かえるに, frog-to) and that bullseye to the なった locomotive. A bottom gray arrow connects a seated girl holding a green ball to a frog with a bullseye, illustrating the “become” change."
+  },
+  {
+   "type": "text",
+   "text": "So, \"さくらはかえるになった\" – \"Sakura became a frog / Sakura turned into a frog\","
+  },
+  {
+   "type": "text",
+   "text": "and に marks the thing she became, the thing she turned into."
+  },
+  {
+   "type": "text",
+   "text": "Now, you may be thinking, \"Mmm, how often do people turn into frogs these days?\" –"
+  },
+  {
+   "type": "text",
+   "text": "and I'll grant that it isn't very often."
+  },
+  {
+   "type": "text",
+   "text": "However, this is a very important thing to learn because"
+  },
+  {
+   "type": "text",
+   "text": "there are various more everyday things that turn into other things and also we use this form of expression much more in Japanese than we do in English."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "For example, \"ことし(zeroが)十八さいになる\":"
+  },
+  {
+   "type": "text",
+   "text": "\"ことし” is \"this year\", \"十八さい/じゅうはっさい\" is \"18 years of age\"."
+  },
+  {
+   "type": "text",
+   "text": "So we're saying, \"This year (I) become 18\". Or as given: “This year (I) 18 years old-to become”."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-car model of a Japanese sentence with cars ことし, Ø が, 十八さいに and なる, red a under the が car and red b under the に car. A green arrow from “Relative-time car / Does not need particle / Places whole sentence in time (lesson 4)” points to ことし; a small gray arrow above the が car points right, and brown CORE arcs link the 十八さいに and なる cars. The girl's bubble reads “this year (I) become 18 years old”; a lower arrow leads to a large 18 with a bullseye."
+  },
+  {
+   "type": "text",
+   "text": "Now in English we'd say that a little differently:"
+  },
+  {
+   "type": "text",
+   "text": "we might say, \"I turn 18\" or \"I'll be 18\","
+  },
+  {
+   "type": "text",
+   "text": "but in Japanese we say \"I will become 18 years of age\"."
+  },
+  {
+   "type": "text",
+   "text": "And if the day's going to get cloudy, we might say \"あとで(zeroが)くもりになる\""
+  },
+  {
+   "type": "text",
+   "text": "(\"くもり\" is \"cloudy\"; \"くも\" is a cloud, \"くもり\" is the state of being cloudy, \nand both of them are nouns)."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled \"Later it will become cloudy\" notes \"it\" can mean today or the weather and must exist even when invisible; blue arrows from that note and from あとで point to a large \"It?\", and a grey arrow leads to a smiling cloud. The word-order train reads あとで, Øが, くもりに, なる, with が on the second car, に on the third, なる on the fourth, and CORE arcs linking the に car to the cloud."
+  },
+  {
+   "type": "text",
+   "text": "We say, \"くもりになる\" which means \"become cloudy\". Or as given: “Cloudy-to become”."
+  },
+  {
+   "type": "text",
+   "text": "In English we could say that."
+  },
+  {
+   "type": "text",
+   "text": "We might be more likely to say \"get cloudy\" or something, but in Japanese"
+  },
+  {
+   "type": "text",
+   "text": "we use this \"become\" – \"になる\" – form of speech a lot of the time."
+  },
+  {
+   "type": "text",
+   "text": "So it's an important thing to learn."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "に in the case of adjectives (aka using them as adverbs)"
+  },
+  {
+   "type": "text",
+   "text": "And I should just add here than in the case of an adjective it works slightly differently."
+  },
+  {
+   "type": "text",
+   "text": "So if we want to say \"Sakura is beautiful\", we say \"さくらがうつくしい\""
+  },
+  {
+   "type": "text",
+   "text": "(\"うつくしい\" means \"is-beautiful\"),"
+  },
+  {
+   "type": "text",
+   "text": "but if we want to say \"Sakura became beautiful\","
+  },
+  {
+   "type": "text",
+   "text": "we can't use に because \"うつくしい\" isn't a noun."
+  },
+  {
+   "type": "text",
+   "text": "It isn't a carriage, it's an engine, isn't it? Note: うつくしい is an adjectival/い-engine."
+  },
+  {
+   "type": "text",
+   "text": "So what do we do?"
+  },
+  {
+   "type": "text",
+   "text": "What we do is what we discussed last week: we turn that adjective into its stem."
+  },
+  {
+   "type": "text",
+   "text": "So we take off the い (-i) and add く(-ku). Note: The stem is うつくし, and then add く."
+  },
+  {
+   "type": "text",
+   "text": "Note: the く is turning うつくしい into an adverb/adverbial noun. More on that in Lesson 41."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-icon slide where さくらが and うつくしい are separate cars; a red note lists が に を へ with \"only nouns can take ni (and other logical particles),\" and lower left shows うつくしい→うつくしく (\"regular adjective-stem,\" lesson 6). On the right a white arrow points right above さくらが toward the うつくしく car, red a/b label さくらが and うつくしく, and a brown CORE arc connects さくらが to なった over うつくしく, explaining さくらが うつくしく なった."
+  },
+  {
+   "type": "figure",
+   "text": "【図】YouTube comment screenshot: 'Adding く does not make an adjective into a noun, it makes it into an adverb that can take に. Technically it can be classed as a noun, but it is an adverbial noun.' with a link to youtu.be/8AXyP5GeJFg. No diagram."
+  },
+  {
+   "type": "text",
+   "text": "And that's all we need to do."
+  },
+  {
+   "type": "text",
+   "text": "That's how we use it: \"さくらがうつくしくなった\" – \"Sakura became beautiful\"."
+  },
+  {
+   "type": "text",
+   "text": "\"なった\" is the past of \"なる\" because \"なる\" is a godan verb \n(it has to be a godan verb because it doesn't end in -いる or -える, it ends in -ある)."
+  },
+  {
+   "type": "text",
+   "text": "So now we know some ways of expressing subtler concepts like intention, purpose, transformation – and we have leveled up."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The へ Particle"
+  },
+  {
+   "type": "text",
+   "text": "Before we finish, I'm just going to give you one more carriage that we haven't seen before,"
+  },
+  {
+   "type": "text",
+   "text": "and that's the へ-car. And this is very, very simple."
+  },
+  {
+   "type": "text",
+   "text": "The particle \"へ\" – as you see, this is the kana へ (he),"
+  },
+  {
+   "type": "text",
+   "text": "but when we use it as a particle we just pronounce it え."
+  },
+  {
+   "type": "text",
+   "text": "And it's a very simple particle. It's a one-trick pony."
+  },
+  {
+   "type": "text",
+   "text": "And it duplicates one, and only one, of the uses of \"に\"."
+  },
+  {
+   "type": "text",
+   "text": "So when we say where we're going - \"A is going to B\" – we mark B with に."
+  },
+  {
+   "type": "text",
+   "text": "We can also mark it with へ."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Heading \"target - but only when a is going to b\" beside a bullseye icon with に in its red center, a black-and-white train drawing below, and the caption \"I go to the park\" etc. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "And that's the only thing へ does. As I say, it's a one-trick pony."
+  },
+  {
+   "type": "text",
+   "text": "It can't even mark the place where something has gone to and still is."
+  },
+  {
+   "type": "text",
+   "text": "It only ever marks the place a thing is going to. Note: a direction, more on that in 8b."
+  },
+  {
+   "type": "text",
+   "text": "\"へ\" is very simple and it's good to have another particle,"
+  },
+  {
+   "type": "text",
+   "text": "another carriage, added to your arsenal, isn't it?"
+  }
+ ]
+}

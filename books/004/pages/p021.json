@@ -1,0 +1,581 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 21,
+ "page_label": "17. Polite Japanese and the volitional",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "17. Polite Japanese and the volitional"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "17. Polite Japanese and the volitional"
+  },
+  {
+   "type": "text",
+   "text": "Lesson 17: How desu/masu RUINS your Japanese! + How to use it correctly. Plus the volitional"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about formal (polite) Japanese: です/ます."
+  },
+  {
+   "type": "text",
+   "text": "Note: Whenever Dolly uses the term “formal” for です or ます, it should be POLITE instead, there is a difference between the two terms in Japanese, not sure why she did not bring this one up, but it is quite important to distinguish, if you look into their definitions, dictionaries mark them as polite."
+  },
+  {
+   "type": "text",
+   "text": "They are part of the 丁寧語 (polite language). So it is more accurate to call them polite instead."
+  },
+  {
+   "type": "text",
+   "text": "Some people may be surprised that we've gone for sixteen lessons without using this at all, when most courses use it from the very first lesson."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon girl in a pink kimono and hair ornament beside ます labeled \"Formal helper verb\" and です labeled \"Formal Copula.\" No arrows; labels sit under each term."
+  },
+  {
+   "type": "text",
+   "text": "Now, there are good reasons why we haven't. One reason is that です/ます form is actually quite eccentric. It does various things that most of the rest of Japanese doesn't do."
+  },
+  {
+   "type": "text",
+   "text": "So if we learn this as the standard way to speak, we get all sorts of strange ideas about"
+  },
+  {
+   "type": "text",
+   "text": "the way Japanese works. We could have started learning it a little earlier, but frankly that there are more important priorities and that it's a good idea to get real, standard Japanese firmly"
+  },
+  {
+   "type": "text",
+   "text": "fixed in our minds before we enter the rather troubled area of です/ます."
+  },
+  {
+   "type": "text",
+   "text": "It isn't difficult once you have very firmly established standard Japanese structures in"
+  },
+  {
+   "type": "text",
+   "text": "your mind, and we've done that now."
+  },
+  {
+   "type": "text",
+   "text": "If you haven't done it yet, if you haven't followed this course, please go back to the first lesson right now. Off you go. Right."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "ます"
+  },
+  {
+   "type": "text",
+   "text": "Now for the rest of you, let's start with \"ます\"."
+  },
+  {
+   "type": "text",
+   "text": "\"ます\" is a verb. It's not part of a verb, it's a verb in itself."
+  },
+  {
+   "type": "text",
+   "text": "It's a helper verb like lots of other helper verbs that we've looked at up to this point."
+  },
+  {
+   "type": "text",
+   "text": "It attaches to our old friend the い-stem, and it doesn't change the meaning of the word it attaches to in any way."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Hiragana chart あ い う え お / か き く け こ / さ し す せ そ / た ち つ て と / な に ぬ ね の / は ひ ふ へ ほ / ま み む め も / ら り る れ ろ, with red outline on う く す つ ぬ ふ む る and green outline on い き し ち に ひ み り; short green arrows point left from the u-column to the i-column. At right dictionary forms become stems (かう→かい, あるく→あるき, はなす→はなし, もつ→もち, しぬ→しに, とぶ→とび, のむ→のみ, とる→とり) joined by a blue brace to \"-ます masu\", plus たべる→たべ + ます for ichidan verbs."
+  },
+  {
+   "type": "text",
+   "text": "It simply makes it formal."
+  },
+  {
+   "type": "text",
+   "text": "So \"歩く\" becomes \"歩きます\"; \"話す\" becomes \"話します\", and so forth."
+  },
+  {
+   "type": "text",
+   "text": "And they're simply the formal way of saying \"speak\", \"walk\", etc."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, another reason I didn't teach this earlier is because people say there are only two irregular verbs in Japanese – I've said this myself – but the truth is that there is another one,"
+  },
+  {
+   "type": "text",
+   "text": "and it's \"ます\"."
+  },
+  {
+   "type": "text",
+   "text": "And \"ます\" isn't irregular in the way that \"くる\" and \"する\" are irregular. It's much worse."
+  },
+  {
+   "type": "text",
+   "text": "It does something that is done nowhere else in modern Japanese."
+  },
+  {
+   "type": "text",
+   "text": "Now the good news is that the past tense is completely regular and normal."
+  },
+  {
+   "type": "text",
+   "text": "It works the same way as any other す-ending verb: it's \"ました\"."
+  },
+  {
+   "type": "text",
+   "text": "But the negative is not \"まさない\"; it's \"ません\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】An unlabelled 3D interlocking brown block graphic sits at upper left, with no arrows. Text asks about せん via “い-less adjective?”, “う-row-less verb?” and “ghost-helper from the deep past?”, while ます is listed with “Past form: ました” and “Negative: ません?”."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "ません"
+  },
+  {
+   "type": "text",
+   "text": "And what kind of a word is \"ません\"?"
+  },
+  {
+   "type": "text",
+   "text": "It's really nothing that exists in modern Japanese at all."
+  },
+  {
+   "type": "text",
+   "text": "The textbooks tell us that it's the negative form of the verb,"
+  },
+  {
+   "type": "text",
+   "text": "but then they tell us that the verb is whatever \"ます\" is attached to,"
+  },
+  {
+   "type": "text",
+   "text": "and they also tell us that \"ない\" is the negative form of a verb when it's nothing of the sort."
+  },
+  {
+   "type": "text",
+   "text": "It's a helper adjective. (check Lesson 7)"
+  },
+  {
+   "type": "text",
+   "text": "We don't need to go into what \"ません\" actually is, structurally, because it doesn't happen anywhere else in modern Japanese, so we just learn it as a fact."
+  },
+  {
+   "type": "text",
+   "text": "The negative of \"ます\" is \"ません\". Note: The non-past form."
+  },
+  {
+   "type": "text",
+   "text": "And that's another reason I didn't teach it earlier, because there isn't much of this in Japanese: things that you just have to learn \"as a fact\"."
+  },
+  {
+   "type": "text",
+   "text": "If you know the principles behind things, generally speaking you can understand how"
+  },
+  {
+   "type": "text",
+   "text": "everything works without a lot of memorization."
+  },
+  {
+   "type": "text",
+   "text": "So when you start off learning that you just have to learn that the negative of \"ます-verbs\", as they're called – in other words, the ます-helper verb – is \"ません\", you start off with the idea that Japanese just does various random things like a European language."
+  },
+  {
+   "type": "text",
+   "text": "Note: Which is a damaging mindset to get about Japanese, as we know, though some things are quite similar in a way, still it is best looking at Japanese as it is, not trying to force other language onto it outside of perhaps explaining some terminology (since we use English here) that is used if it is alright to do so."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "ませんでした"
+  },
+  {
+   "type": "text",
+   "text": "Now, the negative past gets even stranger."
+  },
+  {
+   "type": "text",
+   "text": "There isn't any past of -せん, the way -ない becomes -なかった, so what do we do?"
+  },
+  {
+   "type": "text",
+   "text": "We just throw the past tense of \"です\" on to the end of \"ません\" and say \"ませんでした\"."
+  },
+  {
+   "type": "text",
+   "text": "\"(zeroが)あるきませんでした\" – \"(I) didn't walk\"."
+  },
+  {
+   "type": "text",
+   "text": "A lot of Japanese people who study Japanese grammar really dislike this, and I can't blame them."
+  },
+  {
+   "type": "text",
+   "text": "But it has, for better or worse, become standard Japanese grammar, so we just have to remember it. It's really only a couple of irregularities and they're not really difficult to remember just so long as we don't learn them at the beginning,"
+  },
+  {
+   "type": "text",
+   "text": "where they confuse our whole understanding of Japanese."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "If we learn \"ます\" as a so-called \"conjugation\" and we believe that that is the base-form"
+  },
+  {
+   "type": "text",
+   "text": "of the verb, then to make other forms of verbs we find ourselves taking off the -ます and"
+  },
+  {
+   "type": "text",
+   "text": "then changing the い-stem for a different kind of stem in order to do something else."
+  },
+  {
+   "type": "text",
+   "text": "Which would be complicated enough if we knew about stems but the textbooks don't tell us"
+  },
+  {
+   "type": "text",
+   "text": "that either, so we've just got a lot of completely random European-style rules and regulations"
+  },
+  {
+   "type": "text",
+   "text": "that make no sense at all."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "です"
+  },
+  {
+   "type": "text",
+   "text": "So let's move on to \"です\"."
+  },
+  {
+   "type": "text",
+   "text": "\"です\", as you know, is the formal version of \"だ\"."
+  },
+  {
+   "type": "text",
+   "text": "It's the copula. It works exactly like \"だ\", so if you know \"だ\", you know \"です\" already."
+  },
+  {
+   "type": "figure",
+   "text": "【図】An anime-style woman in a red business suit gestures with her right hand toward a green chalkboard that reads 「です = だ in business clothes」. No arrows or other diagram labels."
+  },
+  {
+   "type": "text",
+   "text": "Except that this also has a strange quirk, which is that"
+  },
+  {
+   "type": "text",
+   "text": "if we take an adjective like \"赤い\" meaning \"is red\", we put \"です\" on to the end of it in formal speech."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A dark-haired teacher in a red blazer gestures toward a green-framed chalkboard showing 赤い labelled normal and 赤いです labelled formal. Orange text outside the board reads です serves no grammatical function; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "It doesn't do anything; it just decorates the sentence and makes it formal."
+  },
+  {
+   "type": "text",
+   "text": "Again, this is something you just have to learn and it's not very difficult to learn, but"
+  },
+  {
+   "type": "text",
+   "text": "if you learn it at the beginning you get the impression that you need the copula with an adjective like \"赤い\" just as you need the copula with an adjectival noun like \"綺麗/きれい\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Anime girl in a red blazer points at a chalkboard with はなが赤い / はながきれいだ / はなが赤いです / はながきれいです. です is circled in red on the board and again below beside the blue label 'grammatically non-functional formality marker'; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "And of course the fact that they call adjectival nouns \"な-adjectives\" (Lesson 6) just makes it even more confusing. You think that adjectives take the copula and they don't."
+  },
+  {
+   "type": "text",
+   "text": "Real adjectives, い-adjectives, do not take the copula except that in the rather strange"
+  },
+  {
+   "type": "text",
+   "text": "です/ます form, we pop \"です\" on the end just for decoration."
+  },
+  {
+   "type": "text",
+   "text": "Adjectival nouns, on the other hand, of course do take the copula because they're nouns – and all nouns take the copula."
+  },
+  {
+   "type": "text",
+   "text": "So we say \"あかい\" – \"is red\" / \"綺麗だ\" – \"is pretty\"; \"赤いです\" – \"is red\" with a decoration;"
+  },
+  {
+   "type": "text",
+   "text": "\"綺麗です\" – \"is pretty\" with the proper copula that it needs in the formal form."
+  },
+  {
+   "type": "text",
+   "text": "So as you see, formal Japanese is not really all that difficult."
+  },
+  {
+   "type": "text",
+   "text": "We have to learn a few rather strange facts, and it's not like most of the rest of Japanese which is terribly Lego-like and logical."
+  },
+  {
+   "type": "text",
+   "text": "It's got little quirky bits and pieces to it, but not many and so long as you've got real Japanese fixed firmly in your mind, adding on です/ます form is not particularly difficult."
+  },
+  {
+   "type": "text",
+   "text": "A couple of other things worth knowing: one of the things is that as well as saying \"ません\","
+  },
+  {
+   "type": "text",
+   "text": "we can also say \"ないです\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Winking anime-style teacher in a red blazer before a green chalkboard holding an eraser and chalk. Board reads 「さくらが話しません」 on top and 「さくらが話さない」 with 「です」 offset below/right, contrasting polite negative with plain negative + です. No labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "So we can say \"さくらが話しません\" – \"Sakura doesn't talk\","
+  },
+  {
+   "type": "text",
+   "text": "or we can say \"さくらが話さないです\"."
+  },
+  {
+   "type": "text",
+   "text": "And that of course is perfectly logical and sensible, if any of it is,"
+  },
+  {
+   "type": "text",
+   "text": "because since we put \"です\" on to the end of adjectives in formal speech,"
+  },
+  {
+   "type": "text",
+   "text": "we can also put it on to the end of the ない-helper adjective,"
+  },
+  {
+   "type": "text",
+   "text": "which is really just another adjective."
+  },
+  {
+   "type": "text",
+   "text": "We don't make many changes to \"ます\" because it really is a sentence-ender; we put it right at the end of whatever else we're doing in order to add formality to the sentence."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "However, we can use both \"です\" and \"ます\" with the volitional helper verb."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled \"Volitional / the willpower helper\": a magical-girl figure holds a staff labelled う at one end and よう at the other; her speech bubble says \"They behave when I'm around\" and a cloud bubble adds \"well, somewhat\". An orange arrow runs from the speech bubble to the stacked forms でしょう and ましょう at the right."
+  },
+  {
+   "type": "text",
+   "text": "And once again \"ます\" behaves eccentrically,"
+  },
+  {
+   "type": "text",
+   "text": "because its お-stem is not, as you would expect, \"まそ\" but \"ましょう\"."
+  },
+  {
+   "type": "text",
+   "text": "So the volitional form is \"\"ましょう\"."
+  },
+  {
+   "type": "text",
+   "text": "Fortunately, this is only slightly eccentric and not difficult to manage."
+  },
+  {
+   "type": "text",
+   "text": "And also fortunately, \"です\" forms a matching pair with \"ます\" in the volitional form and becomes \"でしょう\"."
+  },
+  {
+   "type": "text",
+   "text": "And since we're raising the subject of the volitional, let's cover that too."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The volitional"
+  },
+  {
+   "type": "text",
+   "text": "Its formation is very simple, and it's one of the few things that we do with the お-stem of verbs."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Volitional-form slide: a hiragana chart boxes the red う・く・す・つ・ぬ・ぶ・む・る row and the green お・こ・そ・と・の・ぼ・も・ろ row, with green arrows linking them. A blue brace groups かう→かお, あるく→あるこ, はなす→はなそ, もつ→もと, しぬ→しの, とぶ→とぼ, のむ→のも, とる→とろ under -う; below, たべる→たべ is labelled -よう with the note to just delete る."
+  },
+  {
+   "type": "text",
+   "text": "The godan volitional helper, like the potential helper – potential helper is just a single kana, る(-ru), and the volitional helper is just the single kana う(-u),"
+  },
+  {
+   "type": "text",
+   "text": "and we put it on to the end of the お-stem and it lengthens the お-sound."
+  },
+  {
+   "type": "text",
+   "text": "So, \"話す\" becomes \" 話そう\", \"歩く\" becomes \"歩こう\" and so forth."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "What does it mean? Well, the name really tells you what it means. \"Volition\" means \"will\", so the volitional expresses or invokes the will."
+  },
+  {
+   "type": "text",
+   "text": "The most usual use of it is setting the will of a group of people in a particular direction. So we say, \"行きましょう\" (as mentioned, ましょう is the volitional form of ます), \"Let's go\"."
+  },
+  {
+   "type": "text",
+   "text": "And some people call the たい-helper adjective volitional as well, which is confusing because they aren't the same thing."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "And the thing here to remember is that -たい expresses desire, want, wanting to do something."
+  },
+  {
+   "type": "text",
+   "text": "The volitional form expresses will. And will and desire aren't the same thing."
+  },
+  {
+   "type": "text",
+   "text": "For example, you may have a will to do your homework. It doesn't mean that you want to do your homework."
+  },
+  {
+   "type": "text",
+   "text": "What you actually want is to play \"Captain Toad\", but you set your will to doing your homework."
+  },
+  {
+   "type": "text",
+   "text": "And when we say things like \"行こう\", \"let's go\", for things that we might all want to do,"
+  },
+  {
+   "type": "text",
+   "text": "\"let's all have a picnic\", \"let's have a party\", but also \"let's tidy the room\", \"let's do our homework.\""
+  },
+  {
+   "type": "text",
+   "text": "It's expressing will, not want."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "You'll very often see on Japanese signs things like, \"ゴミを持ち帰りましょう\" – \"let's pick up our trash and take it home\" – which always seems to me like quite a nice kind of exhortation,"
+  },
+  {
+   "type": "text",
+   "text": "rather different from the Western signs that say, \"Pick up your rubbish or we'll confiscate"
+  },
+  {
+   "type": "text",
+   "text": "your car and dye your children purple\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, there are a number of uses of the volitional along with particles like -か and -と,"
+  },
+  {
+   "type": "text",
+   "text": "but we're not going to go into them here,"
+  },
+  {
+   "type": "text",
+   "text": "because I don't think that learning lists of usages is a good way to learn."
+  },
+  {
+   "type": "text",
+   "text": "We'll tackle these as we come to them, perhaps in the course of Alice's adventures."
+  },
+  {
+   "type": "text",
+   "text": "But one use of this form that is worth knowing because you'll see it pretty often is that"
+  },
+  {
+   "type": "text",
+   "text": "we use the volitional form of the copula, \"だ\" or \"です\" – \"だ\", which isn't really a verb in the usual sense, the volitional is \"だろう\" ­– and if we add that to any other sentence it gives the meaning of \"probably\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide headed 'Volitional' / 'the willpower helper' shows a magical-girl figure holding a purple staff labelled う at the upper end and よう at the lower end; no arrows. Right side: 'Volitional copula' だろう / でしょう, 'adds doubt/conjecture', and よう over 'to complete sentence'."
+  },
+  {
+   "type": "text",
+   "text": "Note: For です it is でしょう. Sometimes, you may see だろう called a volitional form of である instead of だ. From my research, it seems that である is just a more literary/older form of だ.\nAlso do note that doubt/conjecture implication which だろう / でしょう gives to a sentence."
+  },
+  {
+   "type": "text",
+   "text": "\"それは赤いでしょう / だろう\" – \"That's probably red / I think it's red\";"
+  },
+  {
+   "type": "text",
+   "text": "\"さくらがくるでしょう / だろう\" – \"I think Sakura's coming / Sakura's probably coming\"."
+  },
+  {
+   "type": "text",
+   "text": "Note: Even though だろう is a volitional form of the だ copula, it actually seems like it can be used with adjectives normally, whereas regular だ copula cannot. It might be because it expresses “probably/think/guess” and not “is” that is part of the -い; or that it came from である?"
+  },
+  {
+   "type": "text",
+   "text": "There also is だろ/でしょ, which are less formal versions. だろ seems to be only used by men."
+  },
+  {
+   "type": "text",
+   "text": "So now we know how to use the volitional and how to use formal Japanese."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Screenshot of a YouTube comment thread (no diagram). @darktron95487 asks Cure Dolly先生！ 質問あります — when to start immersion after 600 words, and how to handle ます and です・ます; @organicjapanesewithcuredolly49 answers with native material, graded readers, Snow White audio and Anki advice."
+  }
+ ]
+}

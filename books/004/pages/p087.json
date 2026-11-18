@@ -1,0 +1,696 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 87,
+ "page_label": "83. Three Levels of Command in Japanese: \nて-form commands, なさい, な-commands, imperative form.",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "83. Three Levels of Command in Japanese: \nて-form commands, なさい, な-commands, imperative form."
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "83. Three Levels of Command in Japanese: \nて-form commands, なさい, な-commands, imperative form."
+  },
+  {
+   "type": "text",
+   "text": "Three Levels of Command in Japanese: て-form commands, なさい, な-commands, imperative form. Lesson 83"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about"
+  },
+  {
+   "type": "text",
+   "text": "ways of making commands and requests in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "You'll probably know some of these already,"
+  },
+  {
+   "type": "text",
+   "text": "but I think we're going to go a little bit deeper"
+  },
+  {
+   "type": "text",
+   "text": "to some things you may not have realized."
+  },
+  {
+   "type": "text",
+   "text": "We're going to go from the least commanding and intense towards the most,"
+  },
+  {
+   "type": "text",
+   "text": "so we'll start off with one that we all know, which is the て-form."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The て-form"
+  },
+  {
+   "type": "text",
+   "text": "Some sources will tell you that the て-form on its own is a command or request form."
+  },
+  {
+   "type": "text",
+   "text": "That's only half true. It's the abbreviation of a command or request."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"ちょっと待って\" (wait a little), this is an abbreviation"
+  },
+  {
+   "type": "text",
+   "text": "of \"ちょっと待ってください\" (wait a little please)"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two girls in blue uniforms and red backpacks with pink petals falling; the girl in front wears a yellow hat with a pink flower, and the girl behind waves. A speech bubble with its tail pointing to her reads 「ちょっと待って」. No diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "and probably because of this\nit's the one that's least likely to be offensive, although it's still casual."
+  },
+  {
+   "type": "text",
+   "text": "Now, sometimes you'll hear people saying not \"ちょっと待って\""
+  },
+  {
+   "type": "text",
+   "text": "but \"ちょっと待ってて\". What's going on here?"
+  },
+  {
+   "type": "figure",
+   "text": "【図】A large adult penguin bends toward a small grey chick, with two speech bubbles: the adult's ちょっと待ってて and the chick's はーい, each tail pointing to its speaker. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "Essentially what they're saying is \"Wait a little bit and I'll be back\"."
+  },
+  {
+   "type": "text",
+   "text": "The implication is that the waiting period will end fairly shortly."
+  },
+  {
+   "type": "text",
+   "text": "And what this actually is is a contraction of \"ちょっと待っていて\"."
+  },
+  {
+   "type": "text",
+   "text": "As we know \"待っている\" means \"exist in a state of waiting\", \"be waiting\", in English."
+  },
+  {
+   "type": "text",
+   "text": "So \"ちょっと待ってて\" is actually taking this \"待っている\" and putting it into て-form,"
+  },
+  {
+   "type": "text",
+   "text": "so that what you're being asked or instructed to do is exist in a state of waiting."
+  },
+  {
+   "type": "text",
+   "text": "And the implication of this is, just exist for a little bit in a state of waiting."
+  },
+  {
+   "type": "text",
+   "text": "And of course this doesn't have to be waiting, it can be anything,"
+  },
+  {
+   "type": "text",
+   "text": "but the implication is, just do it for a bit, just exist in that state for a short time."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "If we don't say \"ちょっと\" (and we don't necessarily)"
+  },
+  {
+   "type": "text",
+   "text": "there's nothing to indicate a short time, but that is always the implication"
+  },
+  {
+   "type": "text",
+   "text": "of telling someone with the て-form to exist in a particular state."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "て-form with ない helper adjective"
+  },
+  {
+   "type": "text",
+   "text": "The other thing to know about the て-form which is used to tell or ask someone"
+  },
+  {
+   "type": "text",
+   "text": "to do something is that, as we know, the equivalent negative adjective of any verb"
+  },
+  {
+   "type": "text",
+   "text": "is made by simply attaching the helper adjective \"ない\" to the あ-stem."
+  },
+  {
+   "type": "text",
+   "text": "And the helper adjective \"ない\" actually is unusual in that it has two て-forms."
+  },
+  {
+   "type": "text",
+   "text": "It has the regular て-form, which is formed just like any other て-form,"
+  },
+  {
+   "type": "text",
+   "text": "by attaching -て to the く-stem, so that's \"なくて\","
+  },
+  {
+   "type": "text",
+   "text": "but it also has the irregular て-form \"ないで\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A large close-up panda on the left cries with blue teardrops on both sides and a frowning mouth, facing a smaller seated panda with shiny eyes and pink cheeks at right. A speech bubble at lower left reads 泣かないで (“Don’t cry”) and its tail points to the small panda; no diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "And when attached to a verb this is only used in two kinds of circumstance."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "ないで - irregular て-form of ない"
+  },
+  {
+   "type": "text",
+   "text": "One is when we say \"do B without doing A\","
+  },
+  {
+   "type": "text",
+   "text": "so \"話さないで歩く\" means \"walk without talking\"."
+  },
+  {
+   "type": "text",
+   "text": "The other is when we're making that て-formed command or request."
+  },
+  {
+   "type": "text",
+   "text": "And again it's short for \"ないでください\"."
+  },
+  {
+   "type": "text",
+   "text": "So if we say \"泣かないで\" (don't cry),"
+  },
+  {
+   "type": "text",
+   "text": "that's using this secondary, specialized て-form of \"ない\","
+  },
+  {
+   "type": "text",
+   "text": "which is specifically there for making negative commands or requests,"
+  },
+  {
+   "type": "text",
+   "text": "as well as for the one other usage that we discussed."
+  },
+  {
+   "type": "text",
+   "text": "And sometimes in anime you'll hear someone scream,"
+  },
+  {
+   "type": "text",
+   "text": "when a monster is approaching her, \"来ないで!\" (don't come)."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Panicked light-brown-haired cartoon woman in a blue jacket, white shirt and dotted tie, with sweat lines and raised hands, under a red jagged speech bubble reading 来ないで！. No diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "In English we'd probably say \"Keep away!\" In Japanese we say \"来ないで!\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-mode YouTube comment screenshot with like/dislike and Reply UI, not a diagram. The top comment asks whether なくて is the て-form of ない as an adjective while [verb] + ないで is the て-form of that negated verb; @organicjapanesewithcuredol49 replies “No,” arguing 食べない is not a “negated verb,” ない is always functionally an adjective, ないで is not invariably used when ない is a helper, and 食べなくてもいい uses the regular ないて-form. Japanese tokens as printed: なくて, ない, ないで, 食べない, 食べなくてもいい, ないて-form. No labels or arrows."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "なさい"
+  },
+  {
+   "type": "text",
+   "text": "Now, next up in our hierarchy of commands is \"なさい\"."
+  },
+  {
+   "type": "text",
+   "text": "\"なさい\" is attached to the い-stem of verbs, and"
+  },
+  {
+   "type": "text",
+   "text": "when you attach \"なさい\" to the い-stem of a verb, you make it into a command."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Hiragana chart: the い-column boxed green and the う-column boxed red, with green arrows pointing left from the u-column to the i-column. Green label +なさい sits at right, and the note reads \"Ichidan ('ru-verb'): always just delete the る\" — the rule for forming the なさい command."
+  },
+  {
+   "type": "text",
+   "text": "So, \"起きなさい\" is \"get up / wake up\";"
+  },
+  {
+   "type": "text",
+   "text": "\"落ち着きなさい\" (calm down, settle down),"
+  },
+  {
+   "type": "text",
+   "text": "we're attaching \"なさい\" to the い-stem of \"落ち着く\","
+  },
+  {
+   "type": "text",
+   "text": "which means \"calm down\" or \"settle down\" and turning it into a command."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "\"なさい\" is the sort of command given by parents to children,"
+  },
+  {
+   "type": "text",
+   "text": "teachers to a class, that sort of thing."
+  },
+  {
+   "type": "text",
+   "text": "It's not offensive if it's given by someone who's entitled to give it."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So, for example, in the anime \"借りぐらしのアリエッティ\","
+  },
+  {
+   "type": "text",
+   "text": "Arietty's father says \"寝なさい\"."
+  },
+  {
+   "type": "text",
+   "text": "That's the い-stem, which of course with ichidan verbs we make by simply"
+  },
+  {
+   "type": "text",
+   "text": "removing the -る, of \"寝る\" (sleep, or go to bed) plus \"なさい\"."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "な - the abbreviation of なさい"
+  },
+  {
+   "type": "text",
+   "text": "Something that can be confusing here is that there is an abbreviation of \"なさい\""
+  },
+  {
+   "type": "text",
+   "text": "which can be confused with a different abbreviation meaning the opposite."
+  },
+  {
+   "type": "text",
+   "text": "And that abbreviation is \"な\"."
+  },
+  {
+   "type": "text",
+   "text": "When we attach \"な\" to the い-stem of a verb, then we're actually abbreviating \"なさい\"."
+  },
+  {
+   "type": "text",
+   "text": "So if we say \"準備しな\", we're saying \"準備しなさい\" (get ready, get prepared):"
+  },
+  {
+   "type": "text",
+   "text": "\"準備する\", い-stem of \"する\", \"し\" + \"なさい\" or \"な\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Anime-style girl with long purple hair, yellow hair clip and black blazer, arms crossed. Text reads 準備しな, a blunt imperative meaning \"get ready\". No labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, that in itself isn't particularly confusing."
+  },
+  {
+   "type": "text",
+   "text": "What can confuse people is that if we say, for example,"
+  },
+  {
+   "type": "text",
+   "text": "\"バカにするな\" (don't make fun of me, of her);"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Angry pink cartoon rabbit head with long ears, slanted brows and a frown, with a large speech bubble whose tail points to it; the bubble reads バカにするな!. No other labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "\"それを食べるな\" (don't eat that! [could be poison])."
+  },
+  {
+   "type": "text",
+   "text": "This means the opposite!"
+  },
+  {
+   "type": "text",
+   "text": "We're using \"な\" for both a command to do something"
+  },
+  {
+   "type": "text",
+   "text": "and a command not to do something."
+  },
+  {
+   "type": "text",
+   "text": "So how do we tell the two apart? Fortunately, it's very easy."
+  },
+  {
+   "type": "text",
+   "text": "If the \"な\" is attached to the い-stem, then it's an abbreviation of \"なさい\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Hiragana chart あ い う え お / か き く け こ / さ し す せ そ / た ち つ て と / な に ぬ ね の / ば び ぶ べ ぼ / ま み む め も / ら り る れ ろ, with a red box around う く す つ ぬ ぶ む る and a green box around い き し ち に び み り. Green arrows point left from the red う column to the green い column; green text reads +な =なさい and the caption reads \"Ichidan (\\\"ru-verb\\\"): always just delete the る.\""
+  },
+  {
+   "type": "text",
+   "text": "It always is."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "If it's not attached to the い-stem but attached to the entire logical clause"
+  },
+  {
+   "type": "text",
+   "text": "as in \"それを食べるな\", then it is not an abbreviation of \"なさい\"."
+  },
+  {
+   "type": "text",
+   "text": "It's in fact an older negative related to \"ない\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two cartoon pandas: the upper holds a fish with mouth open, the lower scowls and scolds it. The speech bubble それを食べるな (\"Don't eat that,\" negative imperative な) points to the lower panda; no arrows or labels."
+  },
+  {
+   "type": "text",
+   "text": "So really, although they can seem confusing at first"
+  },
+  {
+   "type": "text",
+   "text": "and they're probably confusing when you're told by some textbook just"
+  },
+  {
+   "type": "text",
+   "text": "to learn which particular forms they stick to, it's not really confusing in practice."
+  },
+  {
+   "type": "text",
+   "text": "One only attaches where \"なさい\" would attach to the い-stem,"
+  },
+  {
+   "type": "text",
+   "text": "and that's the one that means \"なさい\"!"
+  },
+  {
+   "type": "text",
+   "text": "The other one tops off a complete logical clause with the negativizing \"な\"."
+  },
+  {
+   "type": "text",
+   "text": "Note: Some further info Dolly gives about なさい in the comments"
+  },
+  {
+   "type": "figure",
+   "text": "【図】A dark YouTube comment screenshot from @organicjapanesewithcuredol49 explaining that なさる is honorific and なさい after the い-stem is mostly a command form (命令形), with おやすみなさい and ごめんなさい (御免なさい) as set expressions. No diagram labels or arrows."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The real command / imperative form - 命令形"
+  },
+  {
+   "type": "text",
+   "text": "And now we come to the real command form, \"命令形\" in Japanese."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled 命令形 \"Command form (imperative)\". A hiragana chart has a red box around the う-column うくすつぬぶむる and a green box around the え-column えけせてねべめれ, with a green arrow from red to green and \"+nothing\" beside the green box. A note reads \"ichidan: replace る with ろ.\""
+  },
+  {
+   "type": "text",
+   "text": "And this is formed very simply by using the bare え-stem of a godan verb or,"
+  },
+  {
+   "type": "text",
+   "text": "in the case of an ichidan verb, we take off the -る as always, and replace it with -ろ."
+  },
+  {
+   "type": "text",
+   "text": "So you might hear people say in an anime \"黙れ!\""
+  },
+  {
+   "type": "text",
+   "text": "That is the verb \"黙る\" (to be quiet, to be silent) turned into a command:"
+  },
+  {
+   "type": "text",
+   "text": "\"Be quiet!\""
+  },
+  {
+   "type": "text",
+   "text": "And this is really pretty forceful."
+  },
+  {
+   "type": "text",
+   "text": "It's stronger and potentially more offensive than \"うるさい!\""
+  },
+  {
+   "type": "text",
+   "text": "(And I made a video on \"うるさい\" if you want to follow that up.)"
+  },
+  {
+   "type": "text",
+   "text": "It's not inherently offensive, Note: the 命令形 form"
+  },
+  {
+   "type": "text",
+   "text": "If someone really has the right to be giving orders, they may use it."
+  },
+  {
+   "type": "text",
+   "text": "And people who talk rough may use it among friends or to enemies."
+  },
+  {
+   "type": "text",
+   "text": "You may hear it a lot in shounen anime, where people do tend to talk rough."
+  },
+  {
+   "type": "text",
+   "text": "It can also express urgency in a few cases."
+  },
+  {
+   "type": "text",
+   "text": "One case that you'll often hear is when a character is in serious trouble"
+  },
+  {
+   "type": "text",
+   "text": "and calls out \"助けてくれ！\" which is like \"助けてください！\""
+  },
+  {
+   "type": "text",
+   "text": "but turning it into a real order, a command."
+  },
+  {
+   "type": "text",
+   "text": "Now, obviously someone in deep trouble isn't trying to insult"
+  },
+  {
+   "type": "text",
+   "text": "or offend anyone who might help him."
+  },
+  {
+   "type": "text",
+   "text": "So what this \"くれ\" is doing in this case is expressing the urgency of the situation."
+  },
+  {
+   "type": "text",
+   "text": "Yet even here, I'd have to say that I've only ever heard"
+  },
+  {
+   "type": "text",
+   "text": "male characters use this \"助けてくれ\"."
+  },
+  {
+   "type": "text",
+   "text": "Female characters, even in the direst emergency,"
+  },
+  {
+   "type": "text",
+   "text": "will tend to content themselves with \"助けて!\""
+  },
+  {
+   "type": "text",
+   "text": "And this shows how delicate the real \"命令形\" command form actually is."
+  },
+  {
+   "type": "text",
+   "text": "\"くれ\" is really the only irregular \"命令形\" apart from"
+  },
+  {
+   "type": "text",
+   "text": "the two regular irregulars, which are \"する\" and \"くる\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon of a man stuck through an upright toilet-paper roll with angry eyes and a torn hanging sheet, his head and hands out the left, legs out the right; a speech bubble tail points to him and reads 助けてくれ!. Red heading \"The regular irregulars\" gives する→しろ and くる→こい with arrows linking each verb to its imperative."
+  },
+  {
+   "type": "text",
+   "text": "So \"くれる\" (to give down / to me) becomes \"くれ\"."
+  },
+  {
+   "type": "text",
+   "text": "Note: Obviously, as shown, the くれ is a form of くれる; not くる/来る (that one has こい/来い)"
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "And, as you see, it's a particularly touchy kind of word to use,"
+  },
+  {
+   "type": "text",
+   "text": "because you're asking for a favor but you're demanding it,"
+  },
+  {
+   "type": "text",
+   "text": "you're commanding someone to do a favor down to you."
+  },
+  {
+   "type": "text",
+   "text": "Now, for completeness, I'd say that there are two other ways of commanding"
+  },
+  {
+   "type": "text",
+   "text": "that are mostly used for other things but can be used as command forms as well."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "のだ / んだ ending"
+  },
+  {
+   "type": "text",
+   "text": "One is the \"のだ / んだ\" ending which is put at the end of a complete logical clause,"
+  },
+  {
+   "type": "text",
+   "text": "and I've made a video about this \"のだ / んだ\" ending,"
+  },
+  {
+   "type": "text",
+   "text": "and I'll put a link to that over my head and in the information section below."
+  },
+  {
+   "type": "text",
+   "text": "As I explain in the video, it has a wide range of uses,"
+  },
+  {
+   "type": "text",
+   "text": "but one of those uses is turning something into a command."
+  },
+  {
+   "type": "text",
+   "text": "So if we say \"宿題をするのだ\", we're saying literally \"It's that (you) do (your) homework\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon: an angry standing woman with curly brown hair, purple sweater and crossed arms scolds a bored seated woman in an orange sweater; the speech bubble pointing to the standing woman reads 宿題を するのだ. A pen cup and stacked papers sit on the table; no diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "This will be somewhat like the English \"You're going to do your homework\". It's a command."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "ように"
+  },
+  {
+   "type": "text",
+   "text": "Also, \"ように\", which as an ender would tend to be more associated with"
+  },
+  {
+   "type": "text",
+   "text": "prayers and petitions and requests, can also form a command."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-theme YouTube comments: @azer84 proposes that command ように is short for ようにしなさい/ようにしてください, like て for てください, meaning \"make sure that\"; @organicjapanesewithcuredol49 agrees. No diagrams, only a reply-thread marker."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "And the main reason I mention these is because if you come across them"
+  },
+  {
+   "type": "text",
+   "text": "in your immersion and you see something that usually is doing something else"
+  },
+  {
+   "type": "text",
+   "text": "looking like a command, \"のだ\" or \"ように\", then don't be puzzled by it."
+  },
+  {
+   "type": "text",
+   "text": "In these cases, it is a command."
+  },
+  {
+   "type": "text",
+   "text": "Note: This might be useful:"
+  },
+  {
+   "type": "figure",
+   "text": "【図】A dark-mode YouTube comment thread, not a slide, asking \"Is ください the adjective form of くださる?\". Replies treat ください as the い-stem of くださる affected by イ音便, comparing なさい/なさる, and argue ください and なさい are 命令形 that soften commands like ます."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-mode YouTube comment thread (not a slide) headed “What do you have to say about ちょうだい?” with a reply from @organicjapanesewithcuredol49: “It is very similar to ください in meaning. Originally honorific now often more familiar.” No diagram labels or arrows."
+  }
+ ]
+}

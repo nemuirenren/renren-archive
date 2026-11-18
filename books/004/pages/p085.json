@@ -1,0 +1,569 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 85,
+ "page_label": "81. Global principle of all Japanese word-forms.",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "81. Global principle of all Japanese word-forms."
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "81. Global principle of all Japanese word-forms."
+  },
+  {
+   "type": "text",
+   "text": "At last! The TOTAL structure of Japanese! Global principle of all Japanese word-forms. Lesson 81"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about something we've never talked about before,"
+  },
+  {
+   "type": "text",
+   "text": "which is the overall, global, cosmic structure of Japanese."
+  },
+  {
+   "type": "text",
+   "text": "We've touched on it in the past, but I've never talked before about its totality."
+  },
+  {
+   "type": "text",
+   "text": "And there's a reason I didn't do that, which we'll come to in a minute."
+  },
+  {
+   "type": "text",
+   "text": "What we're going to talk about starts out with something you already know about,"
+  },
+  {
+   "type": "text",
+   "text": "which is the stem system."
+  },
+  {
+   "type": "text",
+   "text": "If you've been following my lessons at all, you know that there is no conjugation in Japanese."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Verb-stem slide using a kana chart: the u-column う, く, す, つ, ぬ, ふ, ぶ, む, る is boxed red and the i-column い, き, し, ち, に, ひ, び, み, り boxed green, with green arrows above and below pointing from red to green. Examples かう→かい, きく→きき, はなす→はなし, もつ→もち, しぬ→しに, とぶ→とび, のむ→のみ, とる→とり are brace-grouped to the labels -masu, -tai, -sou, etc.; the bottom note reads Ichidan (ru-verb): always just delete the る, with たべる→たべ."
+  },
+  {
+   "type": "text",
+   "text": "Note: As you know, take this not as a definitive statement, it is just to dodge some associations that come from the word “conjugation” in terms of European languages, since there is a form of conjugation in Japanese, as given in the Lesson 7.5 note screenshot citation from Dolly’s book. \nVerbs just make a small change to the one kana on the end,"
+  },
+  {
+   "type": "text",
+   "text": "changing it from an う-row kana to one of the four other rows."
+  },
+  {
+   "type": "text",
+   "text": "And then we attach various kinds of helpers, helper nouns, helper verbs, helper adjectives."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Kana chart (あ い う え お / か き く け こ / さ し す せ そ / た ち つ て と / な に ぬ ね の / ば び ぶ べ ぼ / ま み む め も / ら り る れ ろ) with Latin romanisation labels beside the kana. The う-column is outlined in red, and four green upward arrows beneath the あ, い, え and お columns point to them, with the green handwritten label “The 4 verb-stems.”"
+  },
+  {
+   "type": "text",
+   "text": "But what I didn't explain at the time I introduced this is that it goes much further than this."
+  },
+  {
+   "type": "text",
+   "text": "I left you thinking perhaps that the て-form, as it's called, and adjectives"
+  },
+  {
+   "type": "text",
+   "text": "have some kind of a minor conjugation-thing happening"
+  },
+  {
+   "type": "text",
+   "text": "that's a bit like European conjugation and the stuff the textbooks teach."
+  },
+  {
+   "type": "text",
+   "text": "This isn't true. I didn't talk about it too much at the time"
+  },
+  {
+   "type": "text",
+   "text": "because I think before you've ingested the basics properly"
+  },
+  {
+   "type": "text",
+   "text": "it could be a bit complicated-feeling and hard to take in."
+  },
+  {
+   "type": "text",
+   "text": "But now let's look at it properly."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Active & Static/Inert words"
+  },
+  {
+   "type": "text",
+   "text": "As you know, there are two kinds of word in Japanese,"
+  },
+  {
+   "type": "text",
+   "text": "and that is, active, changeable words and static (inert) words."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two-column slide split by a vertical magenta line: blue left \"Inert words (unchangeable)\" shows a train-car icon labelled \"Nouns\" and a chain-link icon labelled \"Other words (conjunctions etc.) but 99% nouns and noun-like entities\"; red right \"Active words (changeable)\" shows three stacked locomotives whose panels read う, い, だ above \"The 3 Engine-words verbs, adjectives, copula\". No arrows."
+  },
+  {
+   "type": "text",
+   "text": "Active, changeable words consist of the three kinds of word that can make the engine of a sentence, that's to say, verbs, adjectives, and the copula."
+  },
+  {
+   "type": "text",
+   "text": "Static words are nearly all nouns, and they never change at all. They can't change in any way."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, all the words that can change change in exactly the same way."
+  },
+  {
+   "type": "text",
+   "text": "We have to know two things about them."
+  },
+  {
+   "type": "text",
+   "text": "The first is that nothing changes in the base form of a word except the last kana."
+  },
+  {
+   "type": "text",
+   "text": "That's the う-row kana in a verb or the い in an adjective."
+  },
+  {
+   "type": "figure",
+   "text": "【図】List of words 食べる, 歩く, 話す, 美味しい, 暑い with each final kana in red. An owl teacher with a pointer and grad cap says \"Only the last kana ever changes,\" and lower text adds \"And if there isn't a 'loose' kana it's an inert word (usually a noun).\""
+  },
+  {
+   "type": "text",
+   "text": "Nothing before that can change."
+  },
+  {
+   "type": "text",
+   "text": "That's as fixed and settled and inert as a noun."
+  },
+  {
+   "type": "text",
+   "text": "It's only that last kana that can ever change"
+  },
+  {
+   "type": "text",
+   "text": "and that can then have things attached to it."
+  },
+  {
+   "type": "text",
+   "text": "The second thing to know is that they all change according to the stem-helper system."
+  },
+  {
+   "type": "text",
+   "text": "So, although I introduced the て-form as if it was a \"form\","
+  },
+  {
+   "type": "text",
+   "text": "a kind of morphing or conjugation of the whole word,"
+  },
+  {
+   "type": "text",
+   "text": "it is in fact a stem-helper system of its own."
+  },
+  {
+   "type": "text",
+   "text": "In real Japanese grammar as taught to Japanese natives by Japanese natives,"
+  },
+  {
+   "type": "text",
+   "text": "-た and -て are regarded as helpers, as entities in themselves that attach to the stem of a word."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled 'The て-stem of verbs', mapping godan endings with arrows: う・つ・る→っ, ぬ・ぶ・む→ん, く・ぐ→い, す→し. A blue brace groups ん and い and points to the list て・た・たら・たり; speech bubbles read 'Another verb-stem system?' and 'Don't worry, you already know it.'"
+  },
+  {
+   "type": "text",
+   "text": "So essentially verbs have not one stem-system, but two stem-systems."
+  },
+  {
+   "type": "text",
+   "text": "And that's partly why I didn't introduce it straight away, because that feels a bit overwhelming at first."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The て-stem system"
+  },
+  {
+   "type": "text",
+   "text": "The second stem-system, that's the て-stem, you already know. We'll go over it briefly."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "う-つ-る group"
+  },
+  {
+   "type": "text",
+   "text": "There's the う-つ-る group, and that changes the last kana, う, つ or る,"
+  },
+  {
+   "type": "text",
+   "text": "into a small っ, and then we can add the -た or the -て."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled \"The て stem of verbs\" with arrows from verb endings to changed stems: う、つ、る → っ (circled red), ぬ、ぶ、む → ん, く、ぐ → い, す → し. A blue brace groups the stems beside the blue endings \"て た たら たり\". Below, two finger faces say \"Another verb-stem system?\" and \"Don't worry, you already know it\"."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "ぬ-ぶ-む group"
+  },
+  {
+   "type": "text",
+   "text": "There's the ぬ-ぶ-む group: this changes the last kana, ぬ, む or ぶ, into ん,"
+  },
+  {
+   "type": "text",
+   "text": "and the influence of the softness of those kana and of the ん itself"
+  },
+  {
+   "type": "text",
+   "text": "affects in a euphonic manner the -て or the -た, turning them into で or -だ."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "く-ぐ group"
+  },
+  {
+   "type": "text",
+   "text": "く and ぐ turn into い -- and we're going to notice in a minute"
+  },
+  {
+   "type": "text",
+   "text": "that this relation between い and the か-row kana, か-き-く-け-こ,"
+  },
+  {
+   "type": "text",
+   "text": "is something that continues to play a role in adjectives."
+  },
+  {
+   "type": "text",
+   "text": "We'll look at that in a minute."
+  },
+  {
+   "type": "text",
+   "text": "く and ぐ turn into い, and in the case of ぐ, that ten-ten 〃 on the く, that soft sound,"
+  },
+  {
+   "type": "text",
+   "text": "again has a euphonic effect on the -て or -た that follow it, turning them into で or -だ."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "す “group”"
+  },
+  {
+   "type": "text",
+   "text": "And finally, す in the て-form does exactly what it does in forming the い-stem"
+  },
+  {
+   "type": "text",
+   "text": "in the regular stem system: it becomes し."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So, there we have the second verb-stem system, the て-stem, and we use this not only for \n-て and -た, but also to add helpers like the conditional -たら and -たり."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The Adjective stem system"
+  },
+  {
+   "type": "text",
+   "text": "Adjectives also have their own stem-system. Adjectives in fact have four stems."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled 'Adjective stem system' in red: a black い with a right-pointing arrow into a blue vertical list く, かっ, けれ, Ø, showing adjective stem endings. A cartoon owl in glasses and a graduation cap reads an open book at lower left."
+  },
+  {
+   "type": "text",
+   "text": "You can form adjective stems by dropping the い, just as we drop the る in ichidan verbs,"
+  },
+  {
+   "type": "text",
+   "text": "or by changing that い to one of three か-row kana, か, け or く."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "And as we said before, there's a relationship between か-row kana and い,"
+  },
+  {
+   "type": "text",
+   "text": "so with the て-stem of verbs, verbs ending in く, the き turns into い, and the same with the ten-ten 〃 version, ぐ."
+  },
+  {
+   "type": "text",
+   "text": "So we have four stems for adjectives, dropping the い or turning it into か, け or く."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The く stem"
+  },
+  {
+   "type": "text",
+   "text": "The く-stem attaches the -ない helper adjective, negativizing the adjective,"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled “Adjective stem system”: black い has a black arrow to a blue stem column く (circled red), かっ, けれ, Ø. From circled く a red arrow points to red て; blue ない is stacked under て, and below is red “Stands alone as adverb.”"
+  },
+  {
+   "type": "text",
+   "text": "and also if it stands on its own -- and as we know, stems sometimes can stand on their own."
+  },
+  {
+   "type": "text",
+   "text": "So the い-stem of a verb on its own becomes a noun."
+  },
+  {
+   "type": "text",
+   "text": "The え-stem on its own forms the imperative."
+  },
+  {
+   "type": "text",
+   "text": "The く-stem of an adjective on its own turns the adjective into an adverb."
+  },
+  {
+   "type": "text",
+   "text": "So, we can say \"早い車\" (fast(-is) car) or \"速く走る\" (run fast, fast is an adverb)."
+  },
+  {
+   "type": "text",
+   "text": "And く is also used, of course, to make the て-form: we just add -て to the end of the く."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The か stem (かっ)"
+  },
+  {
+   "type": "text",
+   "text": "The か-stem takes a small rider, which is the small っ, so it becomes かっ"
+  },
+  {
+   "type": "text",
+   "text": "and we use that to attach the past-helper -た, \nso we say -かった: \"おいしかった\" (that was delicious)."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled \"Adjective stem system\": い connects by a black arrow to a red oval around かっ, and a red arrow from かっ leads to the stacked suffixes た, たら, たり. Blue く sits above, けれ below, and Ø at the bottom, with no arrows to them."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The け stem (けれ)"
+  },
+  {
+   "type": "text",
+   "text": "The け-stem also takes a rider, which is -れ so we have the stem -けれ,"
+  },
+  {
+   "type": "text",
+   "text": "and to that we attach the helper -ば, which is the conditional"
+  },
+  {
+   "type": "text",
+   "text": "(and I made a whole set of videos on conditionals like -ば and -たら (Lessons 30, 31, 32 & 33),"
+  },
+  {
+   "type": "text",
+   "text": "and I'll put a link above and in the information section below)."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Red title \"Adjective stem system\": black い has an arrow to blue けれ in a red oval, with blue かっ and く above and blue Ø below; a red arrow runs from けれ to red ば, showing い→けれ+ば for the conditional."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The zero stem"
+  },
+  {
+   "type": "text",
+   "text": "When we drop the -い altogether we can use it for attaching things like the -そう helper noun,"
+  },
+  {
+   "type": "text",
+   "text": "which means that something appears to have that quality,"
+  },
+  {
+   "type": "text",
+   "text": "and also to attach helper verbs like がる."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Red title 'Adjective stem system': black い has a black arrow to the blue vertical endings く, かっ, けれ; a red-circled blue Ø has a red arrow to the red vertical endings そう, がる, すぎる. Shows which endings attach to the bare stem versus the い stem."
+  },
+  {
+   "type": "text",
+   "text": "So to the stem of \"欲しい\" we can attach がる to make \"欲しがる\""
+  },
+  {
+   "type": "text",
+   "text": "(show signs of wanting something, appear to want something)."
+  },
+  {
+   "type": "text",
+   "text": "Or to the たい helper we can drop that い and attach がる and get \"たがる\""
+  },
+  {
+   "type": "text",
+   "text": "(show signs of wanting to do something, appear to want to do something)."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled \"Adjective stem system\": い→ points to blue stems く, かつ, けれ and a red-circled slashed zero; a red arrow from the zero goes to red endings そう, がる, すぎる, while ほし・がる and た・がる sit at right. An owl in a cap and glasses reads a book at lower left."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So, as you see, adjectives have a stem-system of their own to which we attach a variety of helpers, like a smaller version of the one verbs have."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The Copula"
+  },
+  {
+   "type": "text",
+   "text": "Now, what about the copula?"
+  },
+  {
+   "type": "text",
+   "text": "That's the other dynamic element, the other engine."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled \"Copula mini-stem system\" listing だっ・た, たら, たり, だろ・う, with a decorative owl in a graduation cap holding a pointer. At the bottom \"Kana shifts: で, な\", where a red row-shift arrow points down to で and a red column-shift arrow points up to な."
+  },
+  {
+   "type": "text",
+   "text": "Now, the copula's only one kana (だ in this case) to start with, \nso generally we add something to that."
+  },
+  {
+   "type": "text",
+   "text": "We can add the small っ, to make the stem だ~, (I think by ~ here is meant っ = だっ)"
+  },
+  {
+   "type": "text",
+   "text": "which can then have the -た past helper added to it to make \"だった\"."
+  },
+  {
+   "type": "text",
+   "text": "We can add -ろ, so it can have the volitional helper added to make \"だろう\"."
+  },
+  {
+   "type": "text",
+   "text": "And in the て-form, the だ itself changes -- of course having only one kana, だ is the last kana --"
+  },
+  {
+   "type": "text",
+   "text": "and that can become \"で\" to make the て-form."
+  },
+  {
+   "type": "text",
+   "text": "It's a little bit less regular than the others, but that's really because there is only one copula,"
+  },
+  {
+   "type": "text",
+   "text": "so it doesn't have lots of other things in the same group for it to be regular with."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Summary"
+  },
+  {
+   "type": "text",
+   "text": "So, that's the overall structure of Japanese."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide split by a vertical pink line: blue \"Inert words (unchangeable)\" with a train-car icon labelled Nouns and a chain-link icon for other words (99% nouns and noun-like entities); red \"Active words (changeable)\" with three locomotives labelled う, い, だ over \"The 3 Engine-words verbs, adjectives, copula.\" No arrows."
+  },
+  {
+   "type": "text",
+   "text": "It/Japanese has two kinds of words, active and passive words, transforming and inert words."
+  },
+  {
+   "type": "text",
+   "text": "The inert words can't change in any way, but they can attach particles that tell us what they're doing."
+  },
+  {
+   "type": "text",
+   "text": "And fortunately, because they never change at all, there's nothing tricky about nouns."
+  },
+  {
+   "type": "text",
+   "text": "They always attach the same particle to do the same job regardless of what noun we're talking about."
+  },
+  {
+   "type": "text",
+   "text": "Much simpler than foreign grammatical systems."
+  },
+  {
+   "type": "text",
+   "text": "Active elements, verbs, adjectives and the copula, can only change that last kana"
+  },
+  {
+   "type": "text",
+   "text": "and they always do it according to the stem-helper system."
+  },
+  {
+   "type": "text",
+   "text": "When we understand that, the whole thing becomes a great deal easier to conceptualize and deal with."
+  },
+  {
+   "type": "figure",
+   "text": "【図】YouTube comment exchange: @ct_warrior asks whether adjective ku-stems can be nouns dropping に, citing 近く and 高く in 曲名：空より高くの楽譜一覧です。@organicjapanesewithcuredol49 replies that 近く is its own noun, ku-stems generally are not nouns, and the 高く example is not a usable rule. Only YouTube UI icons, no diagrams."
+  }
+ ]
+}

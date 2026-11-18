@@ -1,0 +1,891 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 72,
+ "page_label": "68. Japanese \"underlying logic\": \nわけ、そういうわけ、わけが分からない、わけない",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "68. Japanese \"underlying logic\": \nわけ、そういうわけ、わけが分からない、わけない"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "68. Japanese \"underlying logic\": \nわけ、そういうわけ、わけが分からない、わけない"
+  },
+  {
+   "type": "text",
+   "text": "Japanese \"underlying logic\": わけ、そういうわけ、わけが分からない、わけない | Lesson 68"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about \"わけ\","
+  },
+  {
+   "type": "figure",
+   "text": "【図】Large glossy red 3-D hiragana わけ with smaller red (訳) centred beneath, showing the kana alongside its kanji. No labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "which is a Japanese word that can cause quite a lot of confusion"
+  },
+  {
+   "type": "text",
+   "text": "because it's used in a variety of different ways and situations in Japanese"
+  },
+  {
+   "type": "text",
+   "text": "and in English dictionaries it has a whole string of definitions"
+  },
+  {
+   "type": "text",
+   "text": "that seem particularly disjointed and confusing."
+  },
+  {
+   "type": "text",
+   "text": "However, once we understand the real logic, the underlying meaning of the word,"
+  },
+  {
+   "type": "text",
+   "text": "it all falls into place rather nicely."
+  },
+  {
+   "type": "text",
+   "text": "So, what is \"わけ\"?"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "わけ/訳"
+  },
+  {
+   "type": "text",
+   "text": "First of all, let's look at the English dictionary definition."
+  },
+  {
+   "type": "text",
+   "text": "In the online dictionary it says \"わけ\" means \"conclusion from reasoning;"
+  },
+  {
+   "type": "text",
+   "text": "judgement or calculation based on something read or heard;"
+  },
+  {
+   "type": "text",
+   "text": "reason; cause; meaning; circumstances; situation\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Heading 訳わけ Noun: with red bullets giving 'conclusion from reasoning', 'judgement or calculation based on something read or heard', 'reason; cause; meaning', 'circumstances; situation'. Text-only definition slide; no diagram."
+  },
+  {
+   "type": "text",
+   "text": "So, what does it actually mean out of all that?"
+  },
+  {
+   "type": "text",
+   "text": "Well, for a nice change the dictionary actually agrees that it's a noun."
+  },
+  {
+   "type": "text",
+   "text": "\"わけ\" is a noun, so what kind of a noun is it?"
+  },
+  {
+   "type": "text",
+   "text": "What is a \"わけ\"?"
+  },
+  {
+   "type": "text",
+   "text": "Well, let's look a bit at the history of the word."
+  },
+  {
+   "type": "text",
+   "text": "Originally, \"わけ\" meant \"divide or separate\"."
+  },
+  {
+   "type": "text",
+   "text": "So it's connected with \"分ける\", which is a verb meaning \"divide or separate\","
+  },
+  {
+   "type": "text",
+   "text": "and also, more importantly for our present purposes,"
+  },
+  {
+   "type": "text",
+   "text": "\"分かる\", which also fundamentally means \"divide or separate\""
+  },
+  {
+   "type": "text",
+   "text": "but in the sense of \"break down, or analyze\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A sword slices an apple above red わけ and \"Root meaning divide/separate\", followed by blue わける split/divide and わかる do clear/understandable. An orange arrow points to \"See lesson 15\" with the note that these form a self-move/other-move pair."
+  },
+  {
+   "type": "text",
+   "text": "So, when we say \"本が分かる\", as I've pointed out in previous lessons,"
+  },
+  {
+   "type": "text",
+   "text": "we're not in fact saying \"I understand the book\";"
+  },
+  {
+   "type": "text",
+   "text": "we're saying \"the book does understandable or does clear\"."
+  },
+  {
+   "type": "text",
+   "text": "We could say in English \"The book is clear to me\","
+  },
+  {
+   "type": "text",
+   "text": "but in fact it's not an adjective, it's a verb -- \"the book does clear (to me)\"."
+  },
+  {
+   "type": "text",
+   "text": "But when we say \"clear\" we are using slightly the wrong metaphor"
+  },
+  {
+   "type": "text",
+   "text": "if we want to go into the actual etymology of the word."
+  },
+  {
+   "type": "text",
+   "text": "\"Clear\" is a metaphor, obviously, from seeing."
+  },
+  {
+   "type": "text",
+   "text": "But the real metaphor that underlies \"分かる\" is being broken down into constituent parts,"
+  },
+  {
+   "type": "text",
+   "text": "being analyzed or analyzable. (check Lesson 59)"
+  },
+  {
+   "type": "figure",
+   "text": "【図】White slide with brown handwritten-style English text: \"Why is it 'do analyzed' when English has to say 'be analyzed'? See the lesson on 'untranslatable Japanese'.\" A large brown curved arrow at upper right points upward but connects no labels; it is decorative. No Japanese text."
+  },
+  {
+   "type": "text",
+   "text": "And that's what \"わけ/訳\" means here."
+  },
+  {
+   "type": "text",
+   "text": "Now I know some of you may be thinking \"but it's a different kanji\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide with red わけ (訳) at top and the note “usually written in kana”; large red 分 labeled by red わかる and “most common kanji (showing blade bisecting)”, with blue 解る and 判る at right. A cartoon rabbit at lower right says in a speech bubble “The Three Wakaroos. Sounds like an Australian circus act.”"
+  },
+  {
+   "type": "text",
+   "text": "Well, that's true. We usually associate \"分かる\" with this kanji,"
+  },
+  {
+   "type": "text",
+   "text": "but in fact you can write the word \"分かる\" with three different possible kanji"
+  },
+  {
+   "type": "text",
+   "text": "and they all have slightly different implications -- 分かる, 解る, 判る"
+  },
+  {
+   "type": "text",
+   "text": "and I've written an article (it is a video actually) about that if you're interested,"
+  },
+  {
+   "type": "text",
+   "text": "so I'll put a link in the information section below (what is linked is a video)."
+  },
+  {
+   "type": "text",
+   "text": "The point is that \"わけ / 分かる\" is not tied to any one kanji."
+  },
+  {
+   "type": "text",
+   "text": "It's a fundamental Japanese word that goes back further than the kanji used to represent it,"
+  },
+  {
+   "type": "text",
+   "text": "and the fundamental idea in all these cases is the same:"
+  },
+  {
+   "type": "text",
+   "text": "the idea of separation, division, analysis, breakdown."
+  },
+  {
+   "type": "text",
+   "text": "So, what actually is a \"わけ/訳\"?"
+  },
+  {
+   "type": "text",
+   "text": "Let's take the most prominent English definitions, which are: cause, reason,"
+  },
+  {
+   "type": "text",
+   "text": "and conclusion based on something we've seen or heard."
+  },
+  {
+   "type": "text",
+   "text": "Now, let's note that cause, reason, and conclusion generally speaking refer to the same thing."
+  },
+  {
+   "type": "text",
+   "text": "The main difference is whether the process is going backward or whether the process is going forward."
+  },
+  {
+   "type": "text",
+   "text": "Let's take an example."
+  },
+  {
+   "type": "text",
+   "text": "If I say \"Sakura was out in the rain, and therefore she's wet\","
+  },
+  {
+   "type": "text",
+   "text": "we are taking two known facts and stating the causal, the reasoning, connection between the two."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Magenta heading “What IS a わけ?” over a blue reasoning diagram: a blue square, the label “rationality running forward,” and a blue right-pointing arrow. Below, blue “therefore” links the red premise “Sakura was in rain” to the red conclusion “wet”; at the bottom a chibi girl crouches under a tan umbrella while a beige cat sits opposite her in light-blue rain."
+  },
+  {
+   "type": "text",
+   "text": "If I say \"Sakura is wet and therefore I reason that she was out in the rain\","
+  },
+  {
+   "type": "text",
+   "text": "we're taking exactly the same piece of reason, the same causality, and working in the other direction."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled \"What IS a わけ?\" it contrasts \"Sakura was in rain therefore wet\" with a rightward blue arrow labelled \"rationality running forward\" against \"Sakura is wet therefore was in rain\" with a leftward arrow labelled \"rationality running backward\". Between them: \"cause/conclusion = same relationship\". A girl with an umbrella and a cat in the rain sit below."
+  },
+  {
+   "type": "text",
+   "text": "We're working from one known fact to another unknown fact that we use the reasoning to arrive at."
+  },
+  {
+   "type": "text",
+   "text": "But that piece of reasoning, that causal link, that fundamental underlying reasonality,"
+  },
+  {
+   "type": "text",
+   "text": "is the same in both statements."
+  },
+  {
+   "type": "text",
+   "text": "In one case we're working it forward, in the other case we're working it backward,"
+  },
+  {
+   "type": "text",
+   "text": "but that fundamental underlying causal logical reasonality, to coin a phrase, is the same."
+  },
+  {
+   "type": "text",
+   "text": "And I coined the phrase \"reasonality\" because there isn't really a word for this in English."
+  },
+  {
+   "type": "text",
+   "text": "But in Japanese there is, and the word is \"わけ/訳\"."
+  },
+  {
+   "type": "text",
+   "text": "So \"わけ\", as we see, expresses a cause, a reason,"
+  },
+  {
+   "type": "text",
+   "text": "and a conclusion or a logical judgement -- all of those things."
+  },
+  {
+   "type": "text",
+   "text": "What it really expresses is the underlying causality or reasonality,"
+  },
+  {
+   "type": "text",
+   "text": "and when the dictionaries say that it also expresses a circumstance or situation"
+  },
+  {
+   "type": "text",
+   "text": "or something like that, in fact it doesn't really do that,"
+  },
+  {
+   "type": "text",
+   "text": "but what it does is express the underlying reasonality of a circumstance or a situation."
+  },
+  {
+   "type": "text",
+   "text": "And once we understand that, we can start to understand the different ways in which \"わけ\" is used. So, it's used to give a reason."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "そういうわけ"
+  },
+  {
+   "type": "text",
+   "text": "So, if someone says"
+  },
+  {
+   "type": "text",
+   "text": "\"そういうわけでベッドの下に隠れた\" -- By so-said reasonality I hid under the bed"
+  },
+  {
+   "type": "text",
+   "text": "\"that's why I was hiding under the bed\" -- that's the reason."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Bedroom scene with a nightstand and pink polka-dot lamp at left and a bed with eyes peeking from beneath it at right. Text: 「そういうわけで」「ベッドの下に隠れた」, glossed \"by so-said reasonality\" / \"I hid under the bed.\" No diagrams."
+  },
+  {
+   "type": "text",
+   "text": "If we find out the solution to what seemed like an impossible crime,"
+  },
+  {
+   "type": "text",
+   "text": "we say, \"そういうわけでした\" -- \"so that's how it happened\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon of a Holmes-style detective in a plaid deerstalker and red coat with a pipe and cyan smoke puffs; his speech bubble, outlined in red, reads そういうわけでした. Beside it colour-coded gloss: 'Thus-said' (red), 'reasonability' (blue), 'was' (red). No arrows; only the bubble tail connects to the character."
+  },
+  {
+   "type": "text",
+   "text": "And we're not actually talking about the fact of the crime,"
+  },
+  {
+   "type": "text",
+   "text": "the circumstance of the crime, the situation of the crime;"
+  },
+  {
+   "type": "text",
+   "text": "we're talking about the reasonality that at first seemed completely obscure"
+  },
+  {
+   "type": "text",
+   "text": "and now we've understood."
+  },
+  {
+   "type": "text",
+   "text": "And if you notice, in this phrase we say \"そういうわけでした\", in the past tense."
+  },
+  {
+   "type": "text",
+   "text": "It's not because my reasoning happened in the past."
+  },
+  {
+   "type": "text",
+   "text": "My reasoning might be happening right now."
+  },
+  {
+   "type": "text",
+   "text": "But it's because the underlying reasonality of the event happened at the time of the event,"
+  },
+  {
+   "type": "text",
+   "text": "and that's what we're talking about."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"そんなわけで宿題を忘れました\" – By such a reasonality I forgot my homework"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Smiling boy in a light-blue shirt holds a textbook labeled 国語 and speaks to a backpacked boy seen from behind; the bubble tail marks him as speaker. Bubble: そんなわけで 宿題を忘れました (わけ blue), glossed \"By such a rationality / I forgot my homework\" with rationality in blue."
+  },
+  {
+   "type": "text",
+   "text": "we're saying \"that's why I forgot my homework\","
+  },
+  {
+   "type": "text",
+   "text": "that's the reason, the causal link that tells us why it was"
+  },
+  {
+   "type": "text",
+   "text": "that I forgot my homework and why you shouldn't blame me."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "わけが分からない / 訳が分からない"
+  },
+  {
+   "type": "text",
+   "text": "Now, \"わけ\" is used in a lot of negative uses that are very important in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "One that you'll commonly hear is \"わけが分からない\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Worried brown-haired woman in a pink collared shirt with a hand at her chin and three red question marks floating around her head. Japanese text: わけが分からない. No arrows or connectors."
+  },
+  {
+   "type": "text",
+   "text": "Now, that's very puzzling if we don't know what \"わけ\" means"
+  },
+  {
+   "type": "text",
+   "text": "and we also, as is the case if you take the textbooks seriously, don't know what \"分かる\" means."
+  },
+  {
+   "type": "text",
+   "text": "\"分かる\", as we know, doesn't mean \"understand\"; it means \"do clear\" or,"
+  },
+  {
+   "type": "text",
+   "text": "if we take the most literal sense of the word, \"do broken down / do analyzed\"."
+  },
+  {
+   "type": "text",
+   "text": "So what we're actually saying here is that the reasoning,"
+  },
+  {
+   "type": "text",
+   "text": "the underlying reasonality of something \"doesn't do analyzed\"."
+  },
+  {
+   "type": "text",
+   "text": "The way AI entities like myself would tend to put it is"
+  },
+  {
+   "type": "text",
+   "text": "\"the reasoning behind that does not compute\"."
+  },
+  {
+   "type": "text",
+   "text": "In other words, it's meaningless, it's nonsense."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "わけ as “It’s not as if…” / “It’s not that” / “It doesn’t mean that…”"
+  },
+  {
+   "type": "text",
+   "text": "In other negative uses, \"わけ\" is often used to mean"
+  },
+  {
+   "type": "text",
+   "text": "\"it's not as if... / it's not that...\" or \"it doesn't mean that...\""
+  },
+  {
+   "type": "text",
+   "text": "And of course, all those in fact fundamentally break down to the same thing."
+  },
+  {
+   "type": "text",
+   "text": "We take sentence A and then we're saying that sentence B conclusion can't be drawn from it."
+  },
+  {
+   "type": "text",
+   "text": "So if we say, for example, that she always eats in cheap restaurants and then add"
+  },
+  {
+   "type": "text",
+   "text": "\"お金が足りないわけではない\", we're saying \"it isn't that she's short of money\""
+  },
+  {
+   "type": "text",
+   "text": "or \"it's not as if she's short of money\". / Money-is-insufficient reasonality is-not"
+  },
+  {
+   "type": "text",
+   "text": "What we're saying here is that the conclusion"
+  },
+  {
+   "type": "text",
+   "text": "from the fact that she always eats in cheap restaurants"
+  },
+  {
+   "type": "text",
+   "text": "isn't that she's short of money; she isn't short of money."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Smiling cartoon waitress with a hair bun and red bow holds a tray with two blue glasses behind a counter. Color-coded sentence お金が足りないわけではない with gloss \"Money-is-insufficient reasonality is-not\" and green note \"Remember: any clause can modify a noun (here わけ).\" No arrows."
+  },
+  {
+   "type": "text",
+   "text": "Someone might say, \"嫉妬したわけではありません\" -- \"it's not that I got jealous\"."
+  },
+  {
+   "type": "text",
+   "text": "Again,"
+  },
+  {
+   "type": "text",
+   "text": "\"don't draw from my actions or words the conclusion that I got jealous. That's not what it was\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A white rabbit-like character with peach cheeks squats over a brown oval shadow. Below, 嫉妬したわけではありません colour-coded red/blue/red, with English gloss \"jealous rationality was-not\": red maps to 嫉妬した and ではありません, blue to わけ, illustrating わけではない."
+  },
+  {
+   "type": "text",
+   "text": "And, essentially, the dictionaries here say that \"わけ\" means a situation or a circumstance"
+  },
+  {
+   "type": "text",
+   "text": "because they take these statements as being denying the situation or the circumstance,"
+  },
+  {
+   "type": "text",
+   "text": "but as you see, that's not exactly what they're doing."
+  },
+  {
+   "type": "text",
+   "text": "They're not denying the situation or the circumstance,"
+  },
+  {
+   "type": "text",
+   "text": "they're denying the underlying reasonality of the situation or the circumstance,"
+  },
+  {
+   "type": "text",
+   "text": "and in doing that also implicitly denying the situation or the circumstance,"
+  },
+  {
+   "type": "text",
+   "text": "but that isn't always the case."
+  },
+  {
+   "type": "text",
+   "text": "For example, we might say \"Just because she's fat doesn't mean she eats too much\" --"
+  },
+  {
+   "type": "text",
+   "text": "\"食べすぎるわけではない\", the reasonality isn't that she eats too much."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A black-and-white cartoon panda sits above the red sentence 食べすぎるわけではない, glossed 'eat-too-much reasonality is-not' (red 食べすぎる/ではない, blue わけ). Green note: 'Remember: any clause can modify a noun (here わけ)'."
+  },
+  {
+   "type": "text",
+   "text": "And we may not be saying that she doesn't eat too much."
+  },
+  {
+   "type": "text",
+   "text": "We're just saying that the fact that she's fat doesn't necessarily mean that she eats too much,"
+  },
+  {
+   "type": "text",
+   "text": "that's not good reasoning."
+  },
+  {
+   "type": "text",
+   "text": "We don't know whether that's true or not, but from the fact that she's fat we can't say that."
+  },
+  {
+   "type": "text",
+   "text": "So, what we're doing in all these cases is denying a certain rational connection."
+  },
+  {
+   "type": "text",
+   "text": "We're saying that that rational connection doesn't exist."
+  },
+  {
+   "type": "text",
+   "text": "Whether the fact that it implies exists or not isn't really what we're talking about here."
+  },
+  {
+   "type": "text",
+   "text": "In some cases we're implying that it doesn't,"
+  },
+  {
+   "type": "text",
+   "text": "in some cases we may not be implying anything either way."
+  },
+  {
+   "type": "text",
+   "text": "But the important thing that we're denying is the underlying reasonality,"
+  },
+  {
+   "type": "text",
+   "text": "the logical link that might be made in these cases."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "わけない / 訳ない (訳がない)"
+  },
+  {
+   "type": "text",
+   "text": "Now, another common negative use is \"わけがない\", sometimes shortened to just \"わけない\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide contrasts two patterns: top “Y=Xわけではない” glossed “proposition Y does not have the rationality of entailing proposition X”; bottom “Xわけがない” glossed “proposition X does not have any rationality (therefore is not true)” plus green “Does not imply a proposition Y.” No arrows or diagram labels."
+  },
+  {
+   "type": "text",
+   "text": "This tends to be strongly denying that something exists at all."
+  },
+  {
+   "type": "text",
+   "text": "Again one might think one is denying the situation or the circumstance,"
+  },
+  {
+   "type": "text",
+   "text": "but what one is denying is the rationality of it."
+  },
+  {
+   "type": "text",
+   "text": "Now, how do we tell this from the uses that we saw before?"
+  },
+  {
+   "type": "text",
+   "text": "Well, let's notice the structural difference."
+  },
+  {
+   "type": "text",
+   "text": "One is \"x わけではない\", that's to say that the circumstance we've talked about"
+  },
+  {
+   "type": "text",
+   "text": "or are referring to doesn't have that reasoning."
+  },
+  {
+   "type": "text",
+   "text": "This is the simple difference between \"ではない\" and \"がない\""
+  },
+  {
+   "type": "text",
+   "text": "that we talked about way back in our lesson on negatives. (possibly Lesson 7)"
+  },
+  {
+   "type": "text",
+   "text": "So, in these cases where we're saying \"it doesn't mean that... / it's not that... / it's not as if...\" etc,"
+  },
+  {
+   "type": "text",
+   "text": "in other words \"that reasoning doesn't apply\", here we're saying that no reasoning exists."
+  },
+  {
+   "type": "text",
+   "text": "\"わけがない\": \"there is no reasoning\"."
+  },
+  {
+   "type": "text",
+   "text": "And therefore, since there is no reasoning, since it doesn't compute, it can't be the case."
+  },
+  {
+   "type": "text",
+   "text": "So, for example, \"さくらはウソをつくわけがない\" – Sakura-tell-a-lie reasonality is non-existent"
+  },
+  {
+   "type": "text",
+   "text": "\"Sakura wouldn't tell a lie\" -- there's no way she'd tell a lie."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A smiling young woman in a navy sailor uniform with white neckerchief, knee socks and loafers holds a black briefcase. At right: さくらはウソをつく わけがない, with red/blue English \"Sakura-tell-a-lie reasonality is non-existent.\" and green \"Therefore actuality cannot exist.\" No arrows."
+  },
+  {
+   "type": "text",
+   "text": "The underlying logic or reasonality of Sakura telling a lie doesn't exist,"
+  },
+  {
+   "type": "text",
+   "text": "therefore it's not possible that she would tell a lie."
+  },
+  {
+   "type": "text",
+   "text": "Again, \"さくらを忘れるわけがない\" -- \"I won't forget Sakura\" or \"I won't forget you, Sakura\"."
+  },
+  {
+   "type": "text",
+   "text": "What we're saying here really is that the underlying reasonality of forgetting Sakura doesn't exist."
+  },
+  {
+   "type": "text",
+   "text": "There is no reasonality, it doesn't compute, therefore it can't happen."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "わけがない as “there is no reason”"
+  },
+  {
+   "type": "text",
+   "text": "Now, there is another possible meaning for \"わけがない\""
+  },
+  {
+   "type": "text",
+   "text": "and that is in a more direct and literal sense saying simply \"There's no reason\"."
+  },
+  {
+   "type": "text",
+   "text": "It's not to say it's not happening or it doesn't exist, but there's no reason for it."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So, for example, \"そんなにお金の要るわけがない\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】A cartoon woman holds a fan of yen bills from a pink wallet with yellow sparkles. The text reads そんなにお金のいるわけがない, glossed “so-much-money-needed reasonality is non-existent”; no arrows or labels."
+  },
+  {
+   "type": "text",
+   "text": "\"there's no reason she would need that much money\""
+  },
+  {
+   "type": "text",
+   "text": "Note: since this いる, as per what Dolly says means “need”, I put 要る in its Kanji form to reflect it, rather than just regular “to be” 居る/いる."
+  },
+  {
+   "type": "text",
+   "text": "Also, this...just in case…"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Green slide with large pink す and 'su', a white arrow pointing to yellow して labelled 'shite', and the mnemonic 'SUSHI (su-shi)' at the bottom; illustrates す→して te-form."
+  },
+  {
+   "type": "text",
+   "text": "She might be asking for it, she might get it, but there's really no reason why she would need it."
+  },
+  {
+   "type": "text",
+   "text": "How do we know the difference between these two?"
+  },
+  {
+   "type": "text",
+   "text": "Well, this is a matter of context, and I've done a video on how we deal with this kind of thing."
+  },
+  {
+   "type": "text",
+   "text": "We actually do it in English all the time."
+  },
+  {
+   "type": "text",
+   "text": "Lots of statements have more than one possible interpretation"
+  },
+  {
+   "type": "text",
+   "text": "and most of the time we're not aware of it"
+  },
+  {
+   "type": "text",
+   "text": "because we are so used to using the context to determine"
+  },
+  {
+   "type": "text",
+   "text": "which of a possible range of meanings is to be applied in a given case."
+  },
+  {
+   "type": "text",
+   "text": "We're not conscious of this process so we really need to understand it"
+  },
+  {
+   "type": "text",
+   "text": "in order to apply it in Japanese or any other language."
+  },
+  {
+   "type": "text",
+   "text": "So take a look at that video if you haven't seen it already (Lesson 48)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "わけがない as “simple, easy”"
+  },
+  {
+   "type": "text",
+   "text": "And that might be particularly useful, because there is a third use of this negative \"わけがない\","
+  },
+  {
+   "type": "text",
+   "text": "often reduced to just \"わけない\", which is to say that something is simple or easy."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled \"The three implications of Xわけがない\" listing: \"X has no rationality. Therefore is not true.\"; \"X has no rationality. Therefore nothing exists (or doesn't) without a reason.\"; and a red-boxed third \"X has no rationality. Therefore is simple enough to exist without it. (hyperbole).\""
+  },
+  {
+   "type": "text",
+   "text": "\"日本語を話すのはわけがないことだ\" --"
+  },
+  {
+   "type": "text",
+   "text": "\"Speaking Japanese is easy, no problem.\""
+  },
+  {
+   "type": "text",
+   "text": "Why do we say \"わけがない\" here?"
+  },
+  {
+   "type": "text",
+   "text": "What we're saying is that there's really no reasoning needed."
+  },
+  {
+   "type": "text",
+   "text": "It can be compared to the English expression \"no-brainer\"."
+  },
+  {
+   "type": "text",
+   "text": "You might think that meant that something was stupid,"
+  },
+  {
+   "type": "text",
+   "text": "but what it actually means is that something is so easy or so obvious"
+  },
+  {
+   "type": "text",
+   "text": "that it doesn't take any brainwork to arrive at it."
+  },
+  {
+   "type": "text",
+   "text": "And this is the use of \"わけない\" here."
+  },
+  {
+   "type": "text",
+   "text": "\"It's a no-brainer. Talking Japanese is just simple."
+  },
+  {
+   "type": "text",
+   "text": "A cakewalk. Easy-peasy lemon-squeezy.\""
+  },
+  {
+   "type": "text",
+   "text": "And again, there's not much chance of misunderstanding or confusing the different uses"
+  },
+  {
+   "type": "text",
+   "text": "provided you understand the basic rules of disambiguation."
+  },
+  {
+   "type": "text",
+   "text": "And provided that most of the time you're doing it in context, in real Japanese immersion,"
+  },
+  {
+   "type": "text",
+   "text": "and not in chopped-off bleeding sample sentences."
+  },
+  {
+   "type": "text",
+   "text": "So don't forget: structure is the key to immersion but immersion is the key to Japanese."
+  }
+ ]
+}

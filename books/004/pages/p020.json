@@ -1,0 +1,931 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 20,
+ "page_label": "16. てみる, や particle, から particle, exclusive “and”",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "16. てみる, や particle, から particle, exclusive “and”"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "16. てみる, や particle, から particle, exclusive “and”"
+  },
+  {
+   "type": "text",
+   "text": "Lesson 16: Te-miru, \"try doing\", ya-particle, kara-particle, exclusive-\"and\" + more Alice"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going back to Alice, and we're going to be using quite a lot of trains this time"
+  },
+  {
+   "type": "text",
+   "text": "because I want us to really grasp the structure of these sentences."
+  },
+  {
+   "type": "text",
+   "text": "So, if you remember from last time, Alice had just entered the rabbit hole"
+  },
+  {
+   "type": "text",
+   "text": "and quite surprisingly she finds herself falling very slowly down a vertical hole."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Black-and-white Alice-in-Wonderland silhouette: Alice falls holding a clock, surrounded by cards, books and a teacup, with the Cheshire Cat's eyes and grin at upper left. Beside it Japanese text: 落ちる 間に ひまが たっぷり あって まわりを ゆっくり 見まわした。 No labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "\"落ちる間にひまがたっぷりあってまわりをゆっくり見まわせた\""
+  },
+  {
+   "type": "text",
+   "text": "Now, I'm going to tell you what this means first and then we're going to break it down."
+  },
+  {
+   "type": "text",
+   "text": "\"落ちる間に\""
+  },
+  {
+   "type": "text",
+   "text": "\"落ちる\", as we know, is \"fall\". \"間\" is a period of time and it's also the space between two things."
+  },
+  {
+   "type": "text",
+   "text": "And obviously a period of time is always, metaphorically speaking - and we can only really talk about time in spatial metaphors - a period of time is always a space between two points, isn't it? It has a beginning and it has an end. \nSo \"落ちる間に\" means \"while (she) was falling / during the period of time while (she) was falling\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "\"ひま\" means \"free time / open time\". It's a word you'll see quite often, and it can be used in"
+  },
+  {
+   "type": "text",
+   "text": "both a positive or a negative sense. It can mean free time to do what you want to do,"
+  },
+  {
+   "type": "text",
+   "text": "or it can mean empty time, being bored, having time hanging on your hands."
+  },
+  {
+   "type": "text",
+   "text": "Here it just means having plenty of time available to look around, because she's falling, she can't do anything else, and she's falling rather slowly."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "\"たっぷり\" means \"in large quantities\"."
+  },
+  {
+   "type": "text",
+   "text": "It's another one of these り-ending adverbs that don't need に."
+  },
+  {
+   "type": "text",
+   "text": "And it means \"in large quantities / in plentiful amounts\" - rather like pouring from a tap:"
+  },
+  {
+   "type": "text",
+   "text": "\"たっぷり\", \"in large quantities\"."
+  },
+  {
+   "type": "text",
+   "text": "And here it's an adverb describing the fact that the \"ひま\", the \"free time\", exists."
+  },
+  {
+   "type": "text",
+   "text": "So the free time exists in large quantities."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-car slide: う／落ちる, に／間に, が／ひまが, 福／たっぷり, う／あって, glossed \"fall-\", \"during\", \"free time\", \"plentifully\", \"existed-and\". Green \"= descriptor\" arrows link 落ちる→間に and たっぷり→あって, a green bracket spans the first two cars as a \"time-setting phrase\", an orange arrow from \"Verb working as adjective for あいだ\" points to the first car, a red arrow from \"福=adverbial noun not needing に\" points to the fourth, and a grey A→B arrow runs from ひまが to あって."
+  },
+  {
+   "type": "text",
+   "text": "So that's our first logical clause: \"落ちる間に…\" (which simply sets the scene, the time, for the action - it's an absolute time expression because it's a particular time, so it takes に)"
+  },
+  {
+   "type": "text",
+   "text": "\"...ひまがたっぷりあって\" (\"there was a lot of free time\")."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, the next part - \"まわりをゆっくり見まわせた\" - is interesting because this is another example of what we were talking about last week: self-move/other-move pairs."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Large 回る paired with まわる and \"Go around\" at upper left, and 回す with まわす and \"send/make-go around\" at right, contrasting self-move and other-move. A cartoon police officer at lower left is labeled おまわりさん, with the purple caption \"Of course we know which is other-move!\"; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "\"回る\" means to \"go around/move around\"."
+  },
+  {
+   "type": "text",
+   "text": "The rather childish name for a policeman is \"おまわりさん\", which means \"someone who goes around / someone who does the rounds\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "\"回す\" means \"make (something) go around / to send (something) around / to cause it to go around\" and of course, as we learned last week,"
+  },
+  {
+   "type": "text",
+   "text": "we easily know which of the pair is the self-move word (going around)"
+  },
+  {
+   "type": "text",
+   "text": "and which is the other-move word (sending around) because the sending-around one ends in -す."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, we don't actually have \"回る\" here; we have \"まわり\"."
+  },
+  {
+   "type": "text",
+   "text": "And as we've mentioned before, when we take the い-stem of a verb and use it on its own it usually becomes a noun."
+  },
+  {
+   "type": "text",
+   "text": "There is another use which we're not going to enter into right now, but in this case"
+  },
+  {
+   "type": "text",
+   "text": "it is becoming a noun."
+  },
+  {
+   "type": "text",
+   "text": "So, what does \"まわり\" mean?"
+  },
+  {
+   "type": "text",
+   "text": "\"まわり\" can actually mean two things:"
+  },
+  {
+   "type": "text",
+   "text": "it can be the noun-form of \"回る\", in which case it's \"going around\", \"doing the rounds\", and that's what we have in \"おまわりさん\", a policeman - here's someone who does the act of doing the rounds, \"まわり\" is \"the act of doing the rounds\","
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "but it can also mean \"the surroundings\", and in this case it actually takes a different kanji to show that it's a slightly different meaning of the word. Note: It’s this Kanji - 周り."
+  },
+  {
+   "type": "text",
+   "text": "It's still the noun-form of \"around\", but in this case it's the surroundings, not the act of going around."
+  },
+  {
+   "type": "figure",
+   "text": "【図】The slide is a train-metaphor grammar diagram moving from A on the left to B on the right: five cars carry white kana が, を, り, み, た with glosses のが/Alice, まわりを/surroundings, ゆっくり/leisurely, 見/lookage-, まわせた/around-send-could. Orange labels \"い-stem formation\" (arrows to the まわりを and 見 cars) and \"まわる + potential helper + past tense*\" (arrow to the B engine) annotate stem/conjugation; a bottom-left footnote reads \"*with very active す-verbs the potential actor is likely to be the human.\" A green brace under ゆっくり and 見 and a green arrow from \"White elements tell us more about engine\" point to the final engine, showing the white kana elements relate to the engine/head."
+  },
+  {
+   "type": "text",
+   "text": "Note: The top right orange まわる should be まわす. (Dolly-先生 admits in the comments)"
+  },
+  {
+   "type": "text",
+   "text": "So, \"(zeroが)まわりをゆっくり見まわせた\" means “(she) could in a leisurely manner…”"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Screenshot of a YouTube comment thread, not a teaching slide: @Skinup4431 asks whether まわせた is the potential past of まわる and says the え-stem would need まわす; @organicjapanesewithcuredo49 replies \"Yes it is from まわす. I am sorry that I misspoke there.\" Only UI icons, no diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "(\"ゆっくり\", that adverb we learned last week - Lesson 14)..."
+  },
+  {
+   "type": "text",
+   "text": "she could in a leisurely manner 見まわす\""
+  },
+  {
+   "type": "text",
+   "text": "What does \"見まわす\" mean?"
+  },
+  {
+   "type": "text",
+   "text": "We know what \"まわす\" means - it means to \"make (something) go around\"."
+  },
+  {
+   "type": "text",
+   "text": "\"見まわす\" is attaching \"まわす\" to the い-stem of \"見る\"."
+  },
+  {
+   "type": "text",
+   "text": "We can't actually tell it's the い-stem, because this is an ichidan verb, and all ichidan stems look the same, as we know,"
+  },
+  {
+   "type": "text",
+   "text": "but we know that this is in fact the れんようけい/連用形, the い-stem, because that's the one that gets used for attaching verbs to other verbs."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So, \"見まわす\" means literally \"send your looking around / send your eye-beams around"
+  },
+  {
+   "type": "text",
+   "text": "the place / make your looking go around\"."
+  },
+  {
+   "type": "text",
+   "text": "So, \"まわりを見まわす\" is \"look around the place / send your eye-beams, send your looking around the place / surroundings\"."
+  },
+  {
+   "type": "text",
+   "text": "And \"見まわせる\" is, as we've seen, the potential form of \"見まわす\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So what this is saying is"
+  },
+  {
+   "type": "text",
+   "text": "\"because a lot of time existed she was able to leisurely send her looking around the surroundings\"."
+  },
+  {
+   "type": "text",
+   "text": "\"落ちる間にひまがたっぷりあってまわりをゆっくり見まわせた\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Alice in a yellow dress and white apron falls amid bookshelves, books, jars and framed pictures at left; Japanese text at right reads まずは、下を 見てみた けど、暗すぎて 何も 見えなかった。 No arrows; the sentence means \"First I looked down, but it was too dark to see anything.\""
+  },
+  {
+   "type": "text",
+   "text": "\"まずは、下を見てみたけど、 暗すぎて何も見えなかった。\""
+  },
+  {
+   "type": "text",
+   "text": "\"First of all, she tried looking down, but it was too dark so nothing was visible (nothing could be seen).\""
+  },
+  {
+   "type": "text",
+   "text": "\"まずは\" means \"first of all\". \"まず\" is \"from the start / from the beginning\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Black-and-white train icon with a clock face labelled “R”; below are まずは, “first of all,” and “(from the start).” Green text at right: “Relative time expression”, “(we need to know ‘start of what?’)”, “So does not take に”, “Can be used without は”. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "\"まずは、下を 見てみた\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, \"下を見る\" is \"looking down / looking at the down\"."
+  },
+  {
+   "type": "text",
+   "text": "We know that in Japanese \"down\" is always a noun, don't we?"
+  },
+  {
+   "type": "text",
+   "text": "So you look \"at the down\" - \"下を見る\". But it doesn't say \"見る\" here; it says \"見てみた\". And this is a form of speech that we're going to find a great deal."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "-てみる / -て見る"
+  },
+  {
+   "type": "text",
+   "text": "When we add \"みる\" to the て-form of another verb, what we're doing is saying \"try doing something\"; literally we're saying \"do it and see\"."
+  },
+  {
+   "type": "text",
+   "text": "So, \"食べてみる\" means \"eat it and see / have a taste of it\"."
+  },
+  {
+   "type": "text",
+   "text": "A: \"Do you like this?\""
+  },
+  {
+   "type": "text",
+   "text": "B: \"I don't know.\""
+  },
+  {
+   "type": "text",
+   "text": "A: \"食べてみてください. Try it, taste it, eat it and see.\""
+  },
+  {
+   "type": "text",
+   "text": "We often say \"やってみる\" - \"I'll give it a try / I'll try and see what happens\"."
+  },
+  {
+   "type": "text",
+   "text": "\"やる\" is a more casual form of \"する\","
+  },
+  {
+   "type": "text",
+   "text": "and you can say \"してみる\", especially in more formal circumstances,"
+  },
+  {
+   "type": "text",
+   "text": "but more often we say \"やってみる\": \"Give it a try / give it a go / do it and see.\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Five train-car mnemonic images on a timeline arrow from A to B: a clock marked R with まずは, a faded car with が／の, a car with を／下を, then two cars with う／見て and う／みた; glosses first of all, Alice, down, look-, tried. A red arrow notes \"Could be written 見た but more usual in kana\" to みた."
+  },
+  {
+   "type": "text",
+   "text": "So here we're actually using \"見る\" with \"みる\". \"見てみる\""
+  },
+  {
+   "type": "text",
+   "text": "- \"try having a look / take a look / have a look and see\"."
+  },
+  {
+   "type": "text",
+   "text": "So,"
+  },
+  {
+   "type": "text",
+   "text": "\"下を見てみたけど、暗すぎて\"."
+  },
+  {
+   "type": "text",
+   "text": "\"暗い\" is \"dark\" and \"すぎる\", as we've talked about before, means \"going by, going beyond\"."
+  },
+  {
+   "type": "text",
+   "text": "So in this case \"すぎる\" means \"too much / going in excess of\"."
+  },
+  {
+   "type": "text",
+   "text": "In other words, it was too dark."
+  },
+  {
+   "type": "text",
+   "text": "It was excessively dark; it was too dark."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two-row train-metaphor grammar infographic on white: upper row has a light-grey car under a bold capital label and two dark locomotives under another label, with small Japanese annotations beneath; a red explanation stack with plus signs, an asterisk and a downward-curving arrow points to the lower-right train. The lower row has a flagged empty-car symbol with a Japanese character at left, a small grey car in the centre and a dark locomotive at right with a colour-coded gloss, showing how particles, negation and potential forms combine."
+  },
+  {
+   "type": "text",
+   "text": "\"暗すぎて何も見えなかった\"."
+  },
+  {
+   "type": "text",
+   "text": "\"何も\" means \"even as much as (something)\" - \"何も\"."
+  },
+  {
+   "type": "text",
+   "text": "And I've done a video on these uses of も which you might want to watch."
+  },
+  {
+   "type": "text",
+   "text": "\"何も見えなかった\" - now, \"見る\" is \"see\"; \"見える\" is “to be able to see/to be visible/be seen”."
+  },
+  {
+   "type": "text",
+   "text": "Note: Might be better to translate as \"to be visible/do seeable/do seen\" (self-move ver. of 見る)"
+  },
+  {
+   "type": "text",
+   "text": "I added this in case there would be confusion, since it is a rather nuanced difference and people were confused about this in the comments under the video, let alone me during the first time."
+  },
+  {
+   "type": "text",
+   "text": "What Cure Dolly says in the comments. I recommend reading through all comments about this."
+  },
+  {
+   "type": "text",
+   "text": "In the video, Dolly-先生 misspeaks here (as she admits in the comments), calling 見える “be able to see”, which might confuse someone to think of the potential form 見られる instead."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "In this case, she meant 見える as the self-move version of 見る, meaning something like"
+  },
+  {
+   "type": "text",
+   "text": "“be visible/seeable” as physical visibility (of a thing etc.). It is a nuanced difference to 見られる. \nAs Dolly says in the comments, it CAN both function as a potential and self-move version of"
+  },
+  {
+   "type": "text",
+   "text": "見る. It’s a different verb to 見られる, but 見える can also function as the irregular potential form of 見る and is also the self-moving partner to 見る. Check lesson 54 for this, even right after."
+  },
+  {
+   "type": "text",
+   "text": "Also, this point (if you check 見える inflections on Jisho), just like with 出来る note in Lesson 10.\nThe point here is that while both imply potential, there is a difference, with “be able to see” translation being more reserved to the “見られる” instead of 見える, hence why this note.\n---"
+  },
+  {
+   "type": "text",
+   "text": "And if we look at the trains here,"
+  },
+  {
+   "type": "text",
+   "text": "we've got to have a が marked subject in this second clause:"
+  },
+  {
+   "type": "text",
+   "text": "\"何も(zeroが)見えなかった\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Image could not be analyzed: the vision request timed out twice; no description available."
+  },
+  {
+   "type": "text",
+   "text": "What is the zero in this case?"
+  },
+  {
+   "type": "text",
+   "text": "If we're looking at it in English terms we might think it's Alice - \"Alice couldn't see anything\"."
+  },
+  {
+   "type": "text",
+   "text": "But in Japanese it will usually in fact be \"何\", which is \"a thing / something\"."
+  },
+  {
+   "type": "text",
+   "text": "\"Nothing was able to be seen, nothing could be seen\","
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "because usually with expressions like \"見える / 見えない\", \"聞こえる / 聞こえない\","
+  },
+  {
+   "type": "text",
+   "text": "\"be able to see/do seeable\" \"be able to hear/do hearable\" (+ their ない-form not hearable etc.)\nNote: The “do seeable” is a rough translation of how Dolly might translate it to I guess show that it’s a verb more per some of her comments as noted on the previous page’s note. \nAnother translation for 見える as per Dolly - to be visible/\"do seen\"/be seen/do seeable/visible.\nWhile -ない, as its negative form is quite adjectival (see this). It doesn't really matter how it’s translated, only if you wanted to be more technical as per Dolly’s way of rough translation & to more clearly show the difference between 見られる & 見える. Check lesson 54."
+  },
+  {
+   "type": "text",
+   "text": "- we apply it not to the person who's able to see, but to the thing that's able to be seen."
+  },
+  {
+   "type": "text",
+   "text": "And of course we've covered this, haven't we, in our lesson on the potential. (Lesson 10)"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Alice-like girl in a yellow dress and white apron falling past shelves of books, jars and framed pictures. Main text: その後、穴のまわりを見て、目に止まるのはぎっしりならんだとだなや本だなだった。 Vocabulary notes include 止まる(とまる), ぎっしり, ならぶ, ほんだな, とだな."
+  },
+  {
+   "type": "text",
+   "text": "\"その後\":"
+  },
+  {
+   "type": "text",
+   "text": "\"後\", as we know, means \"after\" - we've had it in following after someone,"
+  },
+  {
+   "type": "text",
+   "text": "but it also means \"after\" in the other sense, \"after that\"."
+  },
+  {
+   "type": "text",
+   "text": "\"その\" means \"that\"; \"その後\" means \"after that\"."
+  },
+  {
+   "type": "text",
+   "text": "So again, this is just a time-expression, setting it in time."
+  },
+  {
+   "type": "text",
+   "text": "And this time it's a relative time-expression, \"after that / after a particular thing\","
+  },
+  {
+   "type": "text",
+   "text": "so it doesn't need に."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two train cars show その (left, marked の, \"that\") plus 後(あと) (right, clock face R, \"after\"), giving その後. A red arrow runs from the top その explanation to the left car and a green arrow runs from \"Relative time-expression\" to the right car."
+  },
+  {
+   "type": "text",
+   "text": "\"その後、穴のまわりを見て\""
+  },
+  {
+   "type": "text",
+   "text": "So now she's not looking down. This means \"the surroundings\", again, \"まわり/周り\", of the hole, \"をみて\" - \"after that, she looked at the surroundings of the hole\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Wide dark-background slide with a multi-column table of small text blocks in pale lettering. The vision request timed out repeatedly on this file, so the exact text could not be transcribed."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "\"目に止まるのはぎっしりならんだとだなや本だなだった.\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide with a girl in a yellow dress holding a white cloth, above a sentence with furigana and green glosses; a red oval circles 目に 止まるのは. Text: その後、穴のまわりを見て目に止まるのはぎっしりならんだとだなや本だなだった。 Glosses: その (that), め (eye), 止まる(とまる) (stop), ぎっしり (packed/crowded), ならぶ (line up), ほんだな (bookshelf), とだな (cupboard)."
+  },
+  {
+   "type": "text",
+   "text": "Right, so this is quite complex. The first clause is simple enough."
+  },
+  {
+   "type": "text",
+   "text": "\"その後、穴のまわり見て\" - \"After that, she looked at the surroundings of the hole\"."
+  },
+  {
+   "type": "text",
+   "text": "The second clause has quite a lot for us to consider."
+  },
+  {
+   "type": "text",
+   "text": "\"目に止まるのは\" means literally \"the thing that stopped in her eye\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Black-and-white train diagram: left car labeled に, right car labeled の, with a flag on the right car labeled は; no arrows. Below, 目に glossed \"eye-at\" and 止まるのは glossed \"stopped-thing-as-for.\""
+  },
+  {
+   "type": "text",
+   "text": "Now this is a similar expression to, in English, \"the thing that caught her eye\", isn't it?"
+  },
+  {
+   "type": "text",
+   "text": "Various things passed through her eye, passed through her vision, and the thing that stopped there was what we are going to talk about."
+  },
+  {
+   "type": "text",
+   "text": "But we also need to look at this use of の."
+  },
+  {
+   "type": "text",
+   "text": "As we've seen before, の is like apostrophe-s ('s) in English."
+  },
+  {
+   "type": "text",
+   "text": "So if we say \"さくらのドレス\", we're saying, \"Sakura's dress\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two girls: a blonde in a red dress labeled メアリーのドレス and a red-haired girl in a blue dress labeled さくらのドレス. Center text さくらの が 好きだ is glossed \"I like Sakura's*\", with footnotes \"*lit: Sakura's is pleasing (to me)\" and \"の and 's work as 'pronoun' for 'dress'\", showing の standing in for the omitted noun."
+  },
+  {
+   "type": "text",
+   "text": "Now also, just as in English, if you say, \"Which dress do you like best?\""
+  },
+  {
+   "type": "text",
+   "text": "Suppose that Sakura and Mary are both wearing dresses and you say,"
+  },
+  {
+   "type": "text",
+   "text": "\"Which dress do you like best?\""
+  },
+  {
+   "type": "text",
+   "text": "In English you might say, \"Sakura's. I like Sakura's best\"."
+  },
+  {
+   "type": "text",
+   "text": "You could say, \"Sakura's dress\" but you don't have to, you can just say, \"Sakura's\"."
+  },
+  {
+   "type": "text",
+   "text": "And it's the same in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "You can say (just) , \"さくらの\" - Sakura's, the one that belongs to Sakura."
+  },
+  {
+   "type": "text",
+   "text": "But this can be taken much further in Japanese, and I've done a whole video about this particular use of の, which you can look at if you want to go deeper."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "But in this case the way it's taken further is"
+  },
+  {
+   "type": "text",
+   "text": "\"目に止まるの\" - this is \"the thing, the one that stopped in her eye\"."
+  },
+  {
+   "type": "text",
+   "text": "\"Which dress do you like best? Sakura's, Sakura's one, Sakura's thing, Sakura's dress.\""
+  },
+  {
+   "type": "text",
+   "text": "\"目に止まるの\" - \"the thing, the one that stopped in her eye\"."
+  },
+  {
+   "type": "text",
+   "text": "So, \"穴のまわりを見て、目に止まるのは\" - \"looking at the surroundings of the hole,"
+  },
+  {
+   "type": "text",
+   "text": "the thing that stopped in her eye was…\""
+  },
+  {
+   "type": "text",
+   "text": "And what it was, was"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Segments 目に 止まるのは ぎっしり ならんだ とだなや 本だなだった into train cars: top cars carry に and の with は on a flag (glosses eye-at, stopped-thing-as-for). Bottom row: a greyed が car labeled A glossed ∅が/\"it\", then cars with ぎっしり, ならんだ, とだなや, 本だなだった, with B bracketing the final や and だ cars."
+  },
+  {
+   "type": "text",
+   "text": "\"(zeroが)ぎっしりならんだとだなや本だなだった\"."
+  },
+  {
+   "type": "text",
+   "text": "\"ぎっしり\" is yet another one of these り-ending adverbs that don't need に."
+  },
+  {
+   "type": "text",
+   "text": "\"ぎっしり\" means \"tightly packed\". \"ならんだ\" is the past tense of \"ならぶ\" which means \"lined-up\", so \"ぎっしり ならんだ\" means \"tightly lined-up / packed together / lined-up and packed together\"."
+  },
+  {
+   "type": "text",
+   "text": "\"ぎっしりならんだとだなや本だなだった\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "All right. Well, we'll get to the \"や\" in just a moment, but"
+  },
+  {
+   "type": "text",
+   "text": "\"とだなや本だな\"."
+  },
+  {
+   "type": "text",
+   "text": "The word for a shelf in Japanese is \"たな\", and when we add something before it to tell"
+  },
+  {
+   "type": "text",
+   "text": "us what kind of a shelf it is, we use that \"ten-ten hooking\" (〃) that we've talked about before.\nNote: Lesson 5, “The third & fourth Godan group”."
+  },
+  {
+   "type": "text",
+   "text": "So the \"た\" becomes \"だ\": \"とだな\" - that \"と\" means \"door\", so literally, \"とだな\" is a \"door-shelf\" and that is the Japanese word for a cupboard."
+  },
+  {
+   "type": "text",
+   "text": "And it's quite a good word, I think. That's what a cupboard really is, isn't it? Shelves, with a door. It's a better way of saying cupboard than the English way which says it's a board on which you put cups, which isn't quite what a cupboard is."
+  },
+  {
+   "type": "text",
+   "text": "\"本だな\" is even easier: it's quite literally a book-shelf, bookshelves."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The や particle + exclusive “and”"
+  },
+  {
+   "type": "text",
+   "text": "Now, this \"や\" is something we need to cover."
+  },
+  {
+   "type": "text",
+   "text": "When you want to say \"and\" - something \"and\" something else - how do you say it in Japanese?"
+  },
+  {
+   "type": "text",
+   "text": "We know that when you're putting two clauses together, we use the て-form, or sometimes we use other things, like \"でも\"."
+  },
+  {
+   "type": "text",
+   "text": "In English we use \"and\" in all cases: we say \"bread and butter\", \"pencil and paper\"."
+  },
+  {
+   "type": "text",
+   "text": "We also say \"I went into the baker's and bought some bread.\""
+  },
+  {
+   "type": "text",
+   "text": "But in Japanese we don't use the same \"and\" in the two cases."
+  },
+  {
+   "type": "text",
+   "text": "We already know some of the ways we can \"and\" two clauses together,"
+  },
+  {
+   "type": "text",
+   "text": "but when we're \"anding\" two things together, there are two ways to do it."
+  },
+  {
+   "type": "text",
+   "text": "And one is to use the と-particle."
+  },
+  {
+   "type": "text",
+   "text": "We know that the と-particle is the quotation particle, but it's also the and-particle."
+  },
+  {
+   "type": "text",
+   "text": "So if you want to say \"pen and book\", we say \"ペンと本\"."
+  },
+  {
+   "type": "text",
+   "text": "But we can also use the や-particle, so we can say \"と\" or \"や\" when we want to \"and\" together two or more objects. What's the difference?"
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Well, as a matter of fact it's a very useful difference, and one that we could do with in English."
+  },
+  {
+   "type": "text",
+   "text": "\"と\" is an exclusive \"and\". If I say, \"What's in that box?\" and you answer \"ペンとえんぴつ\" - \"pens and pencils\" - you are telling me that there are pens and pencils and nothing else in that box."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two panels contrast ペンとえんぴつ, labeled \"Exclusive 'and'\", with ペンやえんぴつ, labeled \"Non-exclusive 'and'\", with と and や in red. Each panel shows a pen drawing a squiggle beside a pencil."
+  },
+  {
+   "type": "text",
+   "text": "If you say \"ペンやえんぴつ\", you're saying there are pens and pencils and there might"
+  },
+  {
+   "type": "text",
+   "text": "also be something else - and very often you're implying that there is something else because you're avoiding using the exclusive \"and\"."
+  },
+  {
+   "type": "text",
+   "text": "So what \"stopped in her eye\" was the fact that cupboards and bookshelves (among other things) were tightly lined around the walls."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-car slide using sentence chunks: top cars bear に and の, with a は flag above the second, captioned 目に and 止まるのは; bottom cars bear が and や/だ, captioned のが, ぎっしり, ならんだ, とだなや, and 本だなだった, with English glosses. Label A sits above the faded が car, and a curly brace labeled B spans the final two bottom cars (や and だ); no arrows."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Watercolour of a girl in a white ruffled dress and green stockings holding a red-lidded jar while stepping down from an open wooden cupboard, with a bookcase, framed picture and wall map behind. Sentence: 「たなの 一つから びんを 取り下ろした。」 with green glosses 一つ(ひとつ) 'one (a single thing)', から 'from (particle)', びん 'bottle/jar', 取る(とる) 'take', 下す(おろす) 'lower (something)'. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "Note: 取り下ろした in the video has an extra ろ in its 下 furigana. Read “とりおろした” only.\nI fixed it here. To lower (something) can be written as 下す (おろす) or 下ろす(おろす).\n下す is the irregular okurigana usage version of 下ろす. Both are fine."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The most basic use of the から particle"
+  },
+  {
+   "type": "text",
+   "text": "\"たなの一つからびんを取り下した\""
+  },
+  {
+   "type": "text",
+   "text": "\"たなの一つ\": \"一つ\" means \"one\"; \"から\" is a particle meaning \"from\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, here she's using \"たな\" on its own - \"shelves\" - and because it's not joined to anything, it's \"たな\" not \"だな\"."
+  },
+  {
+   "type": "text",
+   "text": "And so she is saying \"from one of the shelves\"- \"たなの一つから\", \"from one of the shelves\" -"
+  },
+  {
+   "type": "text",
+   "text": "notice here that \"たなの一つ\" is really just the same as English \"one of the shelves\" -"
+  },
+  {
+   "type": "text",
+   "text": "\"たなの一つ\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A short, wide white strip slide (1000x275) with a text band across the upper third and a larger text block across the middle. Vision analysis timed out repeatedly on this file, so the text could not be transcribed."
+  },
+  {
+   "type": "text",
+   "text": "\"(zeroが)たなの一つからびんを取り下ろした.\""
+  },
+  {
+   "type": "text",
+   "text": "Now, \"取る\" means \"take\", and \"下す\" - the kanji, as you can see, is the kanji for \"down\","
+  },
+  {
+   "type": "text",
+   "text": "and again this is part of a move-pair, self-move/other-move pair, \nwhich is why I introduced them early."
+  },
+  {
+   "type": "figure",
+   "text": "【図】The slide contrasts 下りる (self-move) with 下す (other-move) above a left-to-right coupled train: A labels the left grey car with が, B labels the rightmost locomotive with す, and the intervening cars read の, から, を, す; no arrowheads appear, only couplings connecting A to B. The bottom Japanese text is かのじょが, たなの, ひとつから, びんを, とり, おろした, glossed She, shelves’s, one-from, jar, take-, lowered."
+  },
+  {
+   "type": "text",
+   "text": "Note: The earlier furigana note also applies for 下りる, in the video there is a typo, it should only have お. I fixed it here. No 下る for (下りる) here though, it is not its irregular form.\nThen it would rather mean くだる (下る) or さがる (下る), in their irregular okurigana forms."
+  },
+  {
+   "type": "text",
+   "text": "Most courses would regard that as an intermediate thing, self-move and other-move, but I think"
+  },
+  {
+   "type": "text",
+   "text": "it makes it much easier to recognize what words are doing if you're aware of this."
+  },
+  {
+   "type": "text",
+   "text": "\"下りる\" means \"come down / step down\" - come down the stairs, come off a bus."
+  },
+  {
+   "type": "text",
+   "text": "\"下す/下ろす\" means \"bring (something) down\"."
+  },
+  {
+   "type": "text",
+   "text": "And once again, we know which is the other-move one"
+  },
+  {
+   "type": "text",
+   "text": "- you \"bring (something else) down\" - that's the one that ends in -す: \"下す\"."
+  },
+  {
+   "type": "text",
+   "text": "So \"取り下ろす\" means \"take and bring down\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】The slide contrasts 下りる (self-move) with 下す (other-move) above a left-to-right coupled train: A labels the left grey car with が, B labels the rightmost locomotive with す, and the intervening cars read の, から, を, す; no arrowheads appear, only couplings connecting A to B. The bottom Japanese text is かのじょが, たなの, ひとつから, びんを, とり, おろした, glossed She, shelves’s, one-from, jar, take-, lowered."
+  },
+  {
+   "type": "text",
+   "text": "\"(zeroが)たなの一つからびんを取り下ろした.\" \"From one of the shelves (she) took down...\""
+  },
+  {
+   "type": "text",
+   "text": "\"びん\" usually gets translated as \"bottle\"; in fact in this case it was more of a \"jar\"."
+  },
+  {
+   "type": "text",
+   "text": "What was in it? Well, we'll have to wait till next time to find out…"
+  },
+  {
+   "type": "text",
+   "text": "Note: Again, I highly recommend going through all the comments under this video lesson, since some parts of it are further cleared up there by Dolly as this lesson is rather “intense” (；￣Д￣)"
+  }
+ ]
+}

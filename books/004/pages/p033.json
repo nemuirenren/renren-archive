@@ -1,0 +1,280 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 33,
+ "page_label": "29. ことにする & ことになる",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "29. ことにする & ことになる"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "29. ことにする & ことになる"
+  },
+  {
+   "type": "text",
+   "text": "Lesson 29: Koto ni Suru, Koto ni Naru. The simple logic behind them."
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to discuss \"ことにする\" and \"ことになる\"."
+  },
+  {
+   "type": "text",
+   "text": "Last week we looked at \"ようにする\" and \"ようになる\" and we briefly recapitulated"
+  },
+  {
+   "type": "text",
+   "text": "the fact that when we say \"(something)になる\" we mean that the thing we're speaking about turned into whatever is marked by に."
+  },
+  {
+   "type": "text",
+   "text": "So if we say \"さくらはカエルになった\", we're saying Sakura turned into a frog."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-style slide: さくらは under a は flag, with a top gray arrow to a gray car labeled が (∅が beneath; label a). A red CORE oval marks the black car labeled に (かえるに beneath; label b) and the frog, both bullseyed; the right locomotive is labeled う with なった beneath, and a lower gray arrow points from the girl to the frog."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"にする\", we're saying that someone deliberately turned what we're talking about into the に-marked noun."
+  },
+  {
+   "type": "text",
+   "text": "So, if we say \"まじょがさくらをカエルにした\", we're saying \n”the witch turned Sakura into a frog.”"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Four train icons: passenger cars with が/まじょが, を/さくらを, に/カエルに (red (=turned)) and a locomotive with う/した, with A above the first car and B above the locomotive. A pale grey arrow runs from さくらを to カエルに, which carries a red bullseye; together they read まじょが さくらを カエルに した."
+  },
+  {
+   "type": "text",
+   "text": "So, what about \"ことにする\" and \"ことになる\"?"
+  },
+  {
+   "type": "text",
+   "text": "We know that \"こと\" means a \"thing\", not a concrete thing like a book or pencil (=もの) but an abstract thing, a situation, or a circumstance. (=こと)"
+  },
+  {
+   "type": "text",
+   "text": "So, if we say \"けっこんすることにした\", we're saying"
+  },
+  {
+   "type": "text",
+   "text": "literally: It became the thing of getting married."
+  },
+  {
+   "type": "text",
+   "text": "Obviously we have to have a zero-pronoun here,"
+  },
+  {
+   "type": "text",
+   "text": "because something has to become something."
+  },
+  {
+   "type": "text",
+   "text": "So, what's \"it\"?"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train diagram: A/が (の が, \"we\") at left, a red-circled を car (the situation) and に car (ことに) before B/う with した, plus a top う train labelled b. Pink arrows connect A→けっこんする and b→the に car's funnel, a small grey arrow runs from the を car to the に car, and a blue A→B arrow crosses the cars; side text explains the situation takes を because an outside が-marked force acts on it (\"Other-move\")."
+  },
+  {
+   "type": "text",
+   "text": "Well, \"it\" is what it might be in English: \"the situation / the circumstance\"."
+  },
+  {
+   "type": "text",
+   "text": "\"The circumstance turned into one in which we're getting married/in which getting married is the thing.\""
+  },
+  {
+   "type": "text",
+   "text": "We have to use \"こと\" here because, as you know, we can't attach the logical particle に,"
+  },
+  {
+   "type": "text",
+   "text": "or any other logical particle, to anything but a noun."
+  },
+  {
+   "type": "text",
+   "text": "So, we use \"けっこんする\" as the modifier for \"こと\" in order to give us a noun of the situation or circumstance of getting married."
+  },
+  {
+   "type": "text",
+   "text": "So what does it mean?"
+  },
+  {
+   "type": "text",
+   "text": "\"We turned the situation into the thing of getting married\" means \"We decided to get married\" / \"We brought about a situation in which getting married was the thing\"."
+  },
+  {
+   "type": "text",
+   "text": "And so the textbooks will tell you that \"ことにする\" means \"decide (something)\","
+  },
+  {
+   "type": "text",
+   "text": "and it's not quite as simple as that, as we'll see in a moment."
+  },
+  {
+   "type": "text",
+   "text": "However, if we say \"フランスで留学することになった\","
+  },
+  {
+   "type": "text",
+   "text": "we're saying \"It became the thing of studying in France\", which really means \"It came about that I am going to study in France\"."
+  },
+  {
+   "type": "text",
+   "text": "The situation turned from one in which I'm not going to study in France"
+  },
+  {
+   "type": "text",
+   "text": "to one in which I am going to study in France."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-car diagrams contrasting が / フランスで / 留学する with が / ことに / なった, giving フランスで留学することになった. Labels include が, ∅が, で, フランスで, う, りゅうがく, 留学する, に, ことに, なった; pink arrows flank the で/フランスで car and a grey arrow points from A toward the に car. Left note explains that “the situation” itself changes and takes が, implying an outside decision."
+  },
+  {
+   "type": "text",
+   "text": "Now because \"ことにする\" is a deliberate act done by whoever is making the decision,"
+  },
+  {
+   "type": "text",
+   "text": "\"ことになる\" is taken to imply in many cases a deliberate decision."
+  },
+  {
+   "type": "text",
+   "text": "So we can translate this most of the time as \"They're sending me to France to study\" /"
+  },
+  {
+   "type": "text",
+   "text": "\"It's been decided that I'm going to France to study.\""
+  },
+  {
+   "type": "text",
+   "text": "The thing to notice here, though, is that there's no actual mention of a decision by anyone,"
+  },
+  {
+   "type": "text",
+   "text": "and in this case it doesn't matter if we assume that that's what it means, because it probably does."
+  },
+  {
+   "type": "text",
+   "text": "Some people will say \"けっこんすることになった\", which kind of means \"It's been decided"
+  },
+  {
+   "type": "text",
+   "text": "that we're getting married\" or, more literally, \"It's come about that we're getting married\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two-row train diagram. Top pink-framed panel: a (gray car) marked が / のが 'we' with a pink right arrow to b (locomotive) marked う / けっこんする 'get-married'. Middle row: A on the gray car (が / のが, 'it' = the situation), the black car marked に / ことに 'we-get-married thing', blue arrow right to B (う / なった 'turned into'); orange text 'Self-move (on the part of the situation). Playing down one's own will. Suggests decision of others.'"
+  },
+  {
+   "type": "text",
+   "text": "And the reason for saying this is that, even though in this day and age, the people who"
+  },
+  {
+   "type": "text",
+   "text": "decide that they're getting married are almost always the people who are actually getting married, it sounds a little less forceful, a little less ego-centered,"
+  },
+  {
+   "type": "text",
+   "text": "not to say \"we've decided...\" but just to say \"It's been decided...\" or \"It's come about...\""
+  },
+  {
+   "type": "text",
+   "text": "And I have to say that sounds a little bit more pleasant to me as well,"
+  },
+  {
+   "type": "text",
+   "text": "but I'm just an android, so what do I know?"
+  },
+  {
+   "type": "text",
+   "text": "However, we may also say \"たいへんなことになった\", and what that means is"
+  },
+  {
+   "type": "text",
+   "text": "\"It became -- the situation became -- a terrible thing\"."
+  },
+  {
+   "type": "text",
+   "text": "And this does not carry any implication that anybody decided it ought to be a terrible thing."
+  },
+  {
+   "type": "text",
+   "text": "It does not imply a decision, and there's no reason it would, because there's no mention"
+  },
+  {
+   "type": "text",
+   "text": "of decision anywhere in \"ことにする\" or \"ことになる\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Orange header: “This time a logical clause is not ‘loaded’ into the こと and no decision is being implied (there is no action for the decision to be about).” A blue A→B arrow spans a faded left train marked が with のが and “it”=the situation beneath, then three black trains marked な, に, た labelled たいへんな/terrible, ことに/thing, なった/turned into, the middle train carrying a red target symbol; a small gray arrow links the faded train to the first black one."
+  },
+  {
+   "type": "text",
+   "text": "In many cases a decision is implied, but in cases like this -- and there are many times when you'll see \"ことになる\" working in this way -- all it's telling us is that the situation came about, not that anybody decided that the situation should come about."
+  },
+  {
+   "type": "text",
+   "text": "So this is why it's important to learn structure in Japanese, because if we just get a handful"
+  },
+  {
+   "type": "text",
+   "text": "of Japanese and a handful of English thrown at us -- \"ことになる\" means \"it is decided\""
+  },
+  {
+   "type": "text",
+   "text": "-- well, sometimes it does and sometimes it doesn't."
+  },
+  {
+   "type": "text",
+   "text": "The important thing to know is what's actually going on in the sentence."
+  },
+  {
+   "type": "text",
+   "text": "Then we can make a sensible assessment ourselves of what's being said when we see it in"
+  },
+  {
+   "type": "text",
+   "text": "an anime or a book or in conversation."
+  },
+  {
+   "type": "text",
+   "text": "Note: I will just in case put up a further explanation by Dolly-先生, responding to a comment regarding this ことになる/する, which she later pinned, since I feel it can be a bit tricky.\n\n\nContinuing with - the link is for the Lesson 28 by the way,"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark YouTube comment by Xrenegoznaet asking how \"Xすることになった\" differs from \"Xした\" and when to use each, contrasting \"it became so that X was done\" with \"X was done\". Plain text; no diagrams."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A text-only YouTube comment by “Organic Japanese with Cure Dolly” on こと nominalisation, contrasting けっこんした, けっこんすることにした and けっこんすることになった and explaining こと as nominalising the clause Øがけっこんする, with した/なった marking decision versus outcome; it also mentions たいへんなことになった. No diagram labels or arrows."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-mode YouTube comment thread, not a slide. A viewer asks whether ことになる/ことにする work for agentless verbal clauses, citing 大変 modifying こと and examples \"ボールが落ちることになった\" versus \"ボールが落ちた\"; Cure Dolly replies that ことになる・する imply decisions or willed outcomes even without an explicit decider, and that situations simply coming about take ようになる・する, linking youtu.be/IE7WgIOOGbM. No diagram or arrows."
+  },
+  {
+   "type": "text",
+   "text": "Hopefully this helps a bit in case the lesson explanation was a bit confusing, you can read the other comments under the video if you want, perhaps some other one may also help."
+  }
+ ]
+}

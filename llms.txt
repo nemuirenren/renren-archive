@@ -43,6 +43,10 @@ peta: https://nemuirenren.github.io/renren-archive/books/002/index.html
 en · 353 halaman
 peta: https://nemuirenren.github.io/renren-archive/books/003/index.html
 
+### 004 — Cure Dolly Complete Grammar Series Transcript
+en · 101 halaman
+peta: https://nemuirenren.github.io/renren-archive/books/004/index.html
+
 ## Data mentah (untuk program, bukan untuk browsing)
 
 - Katalog: https://raw.githubusercontent.com/nemuirenren/renren-archive/main/index.json

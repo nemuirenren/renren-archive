@@ -1,0 +1,529 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 64,
+ "page_label": "60. The OTHER HALF of Japanese Structure - non-logical topic/comment structure",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "60. The OTHER HALF of Japanese Structure - non-logical topic/comment structure"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "60. The OTHER HALF of Japanese Structure - non-logical topic/comment structure"
+  },
+  {
+   "type": "text",
+   "text": "The OTHER HALF of Japanese Structure - non-logical topic/comment structure | Lesson 60"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about one of"
+  },
+  {
+   "type": "text",
+   "text": "the most important subjects in Japanese structure."
+  },
+  {
+   "type": "text",
+   "text": "In fact this is the other half of Japanese structure."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled \"The two halves of Japanese\", split by a red vertical line. Left \"Logical structure\": red が, \"A-car, B-engine\", a passenger car marked が and a locomotive. Right \"Non-logical structure\": red は, \"Topic, Comment\", a flag marked は, and a car marked は above a locomotive. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "We've referred to it on many occasions."
+  },
+  {
+   "type": "text",
+   "text": "You can't really do much Japanese without it."
+  },
+  {
+   "type": "text",
+   "text": "But we've never tackled it head-on, and that's what we're going to do now."
+  },
+  {
+   "type": "text",
+   "text": "What we're going to talk about is topic - comment structure."
+  },
+  {
+   "type": "text",
+   "text": "And this is just as important as logical,"
+  },
+  {
+   "type": "text",
+   "text": "subject - predicate, A-car - B-engine, structure."
+  },
+  {
+   "type": "text",
+   "text": "In my book \"Unlocking Japanese\","
+  },
+  {
+   "type": "text",
+   "text": "I referred to が as the king of Japanese and は as the queen of Japanese."
+  },
+  {
+   "type": "text",
+   "text": "が is the head of the logical particles, the logical side of the language."
+  },
+  {
+   "type": "text",
+   "text": "は is the head of the non-logical particles and strategies, \nthe non-logical side of the language."
+  },
+  {
+   "type": "text",
+   "text": "And we can go so far as to say that"
+  },
+  {
+   "type": "text",
+   "text": "not only does every Japanese sentence have\na が-marked A-car, whether we can see it or not,"
+  },
+  {
+   "type": "text",
+   "text": "every Japanese sentence also has a は-marked topic, whether we can see it or not."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The topic"
+  },
+  {
+   "type": "text",
+   "text": "So what is a topic?"
+  },
+  {
+   "type": "text",
+   "text": "Every language has a topic; most languages are not, like Japanese, topic-prominent."
+  },
+  {
+   "type": "text",
+   "text": "But to explain what a topic is in English, here's a very quick example."
+  },
+  {
+   "type": "text",
+   "text": "In English, we track topics by using pronouns,"
+  },
+  {
+   "type": "text",
+   "text": "and that's why English uses so many pronouns."
+  },
+  {
+   "type": "text",
+   "text": "That's why it's saying \"it\" at the time."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A sunny cartoon hill with a winding path, trees, red-roofed houses and a red ball at lower left, above four lines: \"I had a ball / It rolled down the hill / It reached the bottom / It was a red ball\", each repeated It in red. A red note reads \"'It' is the subject\" with 主語, \"of each clause\"; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "So, we can say \"I had a ball. \nIt rolled down the hill. It reached the bottom. It was a red ball.\""
+  },
+  {
+   "type": "text",
+   "text": "As you see, each time the ball is marked by \"it\","
+  },
+  {
+   "type": "text",
+   "text": "and you might say that what's being tracked here"
+  },
+  {
+   "type": "text",
+   "text": "is the subject, because it was the ball that rolled"
+  },
+  {
+   "type": "text",
+   "text": "down the hill, it was the ball that reached the bottom,"
+  },
+  {
+   "type": "text",
+   "text": "it was the ball that was red."
+  },
+  {
+   "type": "text",
+   "text": "But we could also say \"I had a ball. I dropped it."
+  },
+  {
+   "type": "text",
+   "text": "It rolled down the hill. When it reached the bottom,"
+  },
+  {
+   "type": "text",
+   "text": "Sakura picked it up and walked away with it.\""
+  },
+  {
+   "type": "text",
+   "text": "Now, you see, the first \"it\" is the object of my dropping it:"
+  },
+  {
+   "type": "text",
+   "text": "\"I dropped it.\""
+  },
+  {
+   "type": "text",
+   "text": "The second and third \"it\":"
+  },
+  {
+   "type": "text",
+   "text": "\"It rolled down the hill... it reached the bottom\" --"
+  },
+  {
+   "type": "text",
+   "text": "in those two the ball is the subject."
+  },
+  {
+   "type": "text",
+   "text": "And then \"Sakura picked it up\","
+  },
+  {
+   "type": "text",
+   "text": "and it's become the object again,"
+  },
+  {
+   "type": "text",
+   "text": "the object this time of Sakura's action."
+  },
+  {
+   "type": "text",
+   "text": "So \"it\" is not tracking the subject, it's not tracking the object,"
+  },
+  {
+   "type": "text",
+   "text": "it's tracking the topic, the thing we're talking about."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide maps English “it” to Japanese roles using “I had a ball. I dropped it. / It rolled down the hill. / When it reached the bottom / Sakura picked it up and / walked away with it,” with red “It/it” for subject and blue “it” for object. A right note reads “Here, ‘it’ is sometimes subject (が) and sometimes object (を). What it always is is topic,” with color-matched labels; a blonde girl in a sailor uniform kneels holding a red ball. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "That's what a topic is."
+  },
+  {
+   "type": "text",
+   "text": "And as I said, Japanese always has a topic, even though we can't always see it."
+  },
+  {
+   "type": "text",
+   "text": "So, if we say \"アメリカ人です\", usually we would"
+  },
+  {
+   "type": "text",
+   "text": "map that out as \"zeroがアメリカ人です\" – \"I am an American\", but to be completely thorough"
+  },
+  {
+   "type": "text",
+   "text": "we would have to map it as \"zeroはzeroがアメリカ人です\","
+  },
+  {
+   "type": "text",
+   "text": "that is \"I am the topic, I am the subject, and I'm an American.\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon cowboy at left beside three stacked Japanese lines: アメリカ人です, ＝のがアメリカ人です, ＝のはのがアメリカ人です. The leading ＝ signs equate the successive lines; no arrows or other labels."
+  },
+  {
+   "type": "text",
+   "text": "We don't have to go through all that every time, but it's important to know that it exists."
+  },
+  {
+   "type": "text",
+   "text": "When the topic and the subject are the same,\nit's not so important, but as we know they often aren't."
+  },
+  {
+   "type": "text",
+   "text": "And in Japanese much more than in English they very often aren't."
+  },
+  {
+   "type": "text",
+   "text": "So, in sentences like \"コーヒーが好きだ\", \"頭が痛い\", \"おなかが空いた\", \"クレープが食べたい\","
+  },
+  {
+   "type": "text",
+   "text": "all of these are complete logical sentences:"
+  },
+  {
+   "type": "text",
+   "text": "\"Coffee is likeable\"; \"Head hurts\"; \"Stomach is empty\"; \"Crepes are eat-want-inducing\"."
+  },
+  {
+   "type": "text",
+   "text": "In each case we have an A-car, we have a B-engine, we have a complete logical clause."
+  },
+  {
+   "type": "text",
+   "text": "But while it's logically complete, it isn't grammatically complete without understanding"
+  },
+  {
+   "type": "text",
+   "text": "that there is also an invisible は-marked topic:"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Pattern chart: A and B over a train car marked の and a locomotive, with a は flag at left and no arrows. Rows: のは コーヒーが 好きだ; のは 頭が いたい; のは おなかが 空いた; のは クレープが 食べたい (のは magenta, が-phrases blue, predicates red)."
+  },
+  {
+   "type": "text",
+   "text": "\"zeroはコーヒーが好きだ\"; \"zeroは頭が痛い\";\n\"zeroはおなかが空いた\"; \"zeroはクレープが食べたい\"."
+  },
+  {
+   "type": "text",
+   "text": "\"In relation to me, coffee is likeable/pleasing\";"
+  },
+  {
+   "type": "text",
+   "text": "\"In relation to me, head hurts\";"
+  },
+  {
+   "type": "text",
+   "text": "\"In relation to me, stomach is empty\";"
+  },
+  {
+   "type": "text",
+   "text": "\"In relation to me, crepes are eat-want-inducing\"."
+  },
+  {
+   "type": "text",
+   "text": "And while, as with the zero が-marked pronoun,"
+  },
+  {
+   "type": "text",
+   "text": "the default is \"I\" but it doesn't have to be \"I\","
+  },
+  {
+   "type": "text",
+   "text": "so the は-marked zero-pronoun the same applies."
+  },
+  {
+   "type": "text",
+   "text": "For example, if we look at a tall person go by and we say"
+  },
+  {
+   "type": "text",
+   "text": "\"背が高い、ね?\", literally, \"back is high, isn't it?\""
+  },
+  {
+   "type": "text",
+   "text": "and that's the way we say someone is tall."
+  },
+  {
+   "type": "text",
+   "text": "But as you see, this isn't complete without"
+  },
+  {
+   "type": "text",
+   "text": "the は-marked zero pronoun: \"zeroは背が高い\" – \"In relation to that person, back is tall\"."
+  },
+  {
+   "type": "text",
+   "text": "And because Japanese has so many constructions that don't center on an ego,"
+  },
+  {
+   "type": "text",
+   "text": "as we talked about in one of our previous videos (Lesson 9),"
+  },
+  {
+   "type": "text",
+   "text": "so many constructions in which neither the A-car nor the B-engine are in fact the person concerned, like all the examples we've just talked about,"
+  },
+  {
+   "type": "text",
+   "text": "it's very necessary in lots of cases that we understand that the は-marked topic is there."
+  },
+  {
+   "type": "text",
+   "text": "And the other thing we need to understand about topic-comment structure is that"
+  },
+  {
+   "type": "text",
+   "text": "the comment is always a complete logical clause."
+  },
+  {
+   "type": "figure",
+   "text": "【図】The slide explains topic-comment structure: は marks the topic (“Topic: Usually a noun”) and the comment “Must be a complete logical clause,” shown as a train of clause parts. A flag marked は sits at upper left, label A over a car marked が, a middle car with ?, label B over the locomotive at right; no arrows, only left-to-right arrangement, with a brown owl holding a tablet at lower left."
+  },
+  {
+   "type": "text",
+   "text": "The topic is usually a noun (it could be something else)"
+  },
+  {
+   "type": "text",
+   "text": "but the comment is always and must always be a complete logical clause."
+  },
+  {
+   "type": "text",
+   "text": "This is something the textbooks don't explain,"
+  },
+  {
+   "type": "text",
+   "text": "and it may be a good thing that they don't explain it,"
+  },
+  {
+   "type": "text",
+   "text": "because if they did, I think we know how they'd go about it. \nThey'd present this as some kind of strange Oriental rule that we have to memorize."
+  },
+  {
+   "type": "text",
+   "text": "But that's not what it is: it's a logical necessity."
+  },
+  {
+   "type": "text",
+   "text": "As we know, every sentence, every logical clause, must"
+  },
+  {
+   "type": "text",
+   "text": "have an A-car and a B-engine, a subject and a predicate, \nand as we know from our third lesson on は,"
+  },
+  {
+   "type": "text",
+   "text": "は can never mark either the A-car or the B-engine, or any other element of a logical sentence. It can only mark the non-logical topic."
+  },
+  {
+   "type": "text",
+   "text": "So that means that if we're going to have a sentence"
+  },
+  {
+   "type": "text",
+   "text": "at all, both its elements have to be outside of the topic."
+  },
+  {
+   "type": "text",
+   "text": "We have to have a topic and we also have to have"
+  },
+  {
+   "type": "text",
+   "text": "an A-car, we also have to have a B-engine."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Therefore, every topic-comment sentence"
+  },
+  {
+   "type": "text",
+   "text": "only has two elements, the topic and the comment."
+  },
+  {
+   "type": "text",
+   "text": "Both the elements of the logical clause have to be in the comment."
+  },
+  {
+   "type": "text",
+   "text": "Therefore, logically, in a topic-comment sentence the comment is always a logical clause."
+  },
+  {
+   "type": "text",
+   "text": "In another video I've talked, and I'm going to talk again,"
+  },
+  {
+   "type": "text",
+   "text": "about some of the implications of what is called the choice between は and が;"
+  },
+  {
+   "type": "text",
+   "text": "what it means when we mark something with は, what it means when we mark it with が."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A confused emoji-like face with a hand on its chin sits among three outward red arrows labeled が (left), は (right) and a slashed-circle symbol (top). Blue text reads \"The so-called\" and \"choice between は and が\"."
+  },
+  {
+   "type": "text",
+   "text": "And there are a lot of implications involved here."
+  },
+  {
+   "type": "text",
+   "text": "I won't go into them in this video but you can watch the other one and I'll put a card up for that."
+  },
+  {
+   "type": "text",
+   "text": "But the thing to remember here because we're talking about the actual structure, is that"
+  },
+  {
+   "type": "text",
+   "text": "when people talk about the choice between は and が, it's confusing and somewhat misleading because it implies that は and が are somewhat similar, \nthat they do a similar kind of job."
+  },
+  {
+   "type": "text",
+   "text": "And we know that they don't. We know that"
+  },
+  {
+   "type": "text",
+   "text": "they're absolutely different species of particle."
+  },
+  {
+   "type": "text",
+   "text": "And what we know from this lesson is that"
+  },
+  {
+   "type": "text",
+   "text": "what we're actually doing when we're making"
+  },
+  {
+   "type": "text",
+   "text": "a choice between は and が is that we're choosing"
+  },
+  {
+   "type": "text",
+   "text": "which of two elements which are always present to make visible, whether we make the は visible, the が visible, or neither visible."
+  },
+  {
+   "type": "text",
+   "text": "So we can say \"アメリカ人です\","
+  },
+  {
+   "type": "text",
+   "text": "we can say \"私はアメリカ人です\","
+  },
+  {
+   "type": "text",
+   "text": "and we can say \"私がアメリカ人です\"."
+  },
+  {
+   "type": "text",
+   "text": "And each of those has a slightly different implication."
+  },
+  {
+   "type": "text",
+   "text": "When we're not actually choosing between は and が,"
+  },
+  {
+   "type": "text",
+   "text": "what we're choosing to do is to emphasize,"
+  },
+  {
+   "type": "text",
+   "text": "by making it visible, the topic-nature of the subject"
+  },
+  {
+   "type": "text",
+   "text": "or the subject-nature of the topic, or neither."
+  },
+  {
+   "type": "text",
+   "text": "And which of those we choose to emphasize has big implications for what we're saying"
+  },
+  {
+   "type": "text",
+   "text": "and what we're implying…"
+  }
+ ]
+}

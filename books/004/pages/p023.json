@@ -1,0 +1,689 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 23,
+ "page_label": "19. Causative + causative receptive",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "19. Causative + causative receptive"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "19. Causative + causative receptive"
+  },
+  {
+   "type": "text",
+   "text": "Lesson 19: Causative + \"causative passive\": what they NEVER tell you! It's logical and super easy"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。\nToday we are going to talk about the causative helper verb."
+  },
+  {
+   "type": "text",
+   "text": "In the standard grammars this is called \"causative\" and it's a perfectly good name because it indicates that we are causing someone to do the verb to which it is attached."
+  },
+  {
+   "type": "text",
+   "text": "In the standard grammars it's often taught along with the receptive"
+  },
+  {
+   "type": "text",
+   "text": "(which they like to call the \"passive\") and there's a very very good reason for doing this although the real reason is never actually explained in the regular textbooks. So, I'll be telling you that shortly."
+  },
+  {
+   "type": "text",
+   "text": "But first of all let's look at what the causative helper verb is."
+  },
+  {
+   "type": "text",
+   "text": "It's a helper verb which, like the receptive, goes onto the end of the あ-stem of another verb, and while the receptive helper is \"れる/\"られる\"\", the causative helper is \"せる/させる\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide teaches verb stems: a gojūon chart highlights the a-column in green and the u-column in red, showing godan verbs shift final u→a (う→わ, not あ) while ichidan \"ru-verbs\" simply drop る. Examples: かう→かわ, きく→きか, はなす→はなさ, もつ→もた, しぬ→しな, とぶ→とば, のむ→のま, とる→とら, たべる→たべ; at right the receptive/passive endings -れる/-られる and causative endings -せる/-させる are listed, with せる and させる circled."
+  },
+  {
+   "type": "text",
+   "text": "If they sound rather close to each other, there's a good reason for that."
+  },
+  {
+   "type": "text",
+   "text": "As we have noted earlier, the Eve and Adam of Japanese verbs are"
+  },
+  {
+   "type": "text",
+   "text": "\"ある\" and \"する\" – \"be\" and \"do\"."
+  },
+  {
+   "type": "text",
+   "text": "\"ある\" is the mother of all self-move verbs; \"する\" is the father of all other-move verbs."
+  },
+  {
+   "type": "text",
+   "text": "Now, the receptive \"れる/\"られる\"\" is closely related to \"ある\";"
+  },
+  {
+   "type": "text",
+   "text": "the causative \"せる/させる\" is closely related to \"する\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Yin-yang slide: left blonde girl over ある with 'Mother of self-move', BE, brown れる/られる, 'Receptive belongs on this side'; right boy over する with 'Father of other-move', DO, blue せる/させる, 'Causative belongs on this side'. White half holds あ る, black half す る; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "And while it's not exact to say that they are the self-move and other-move versions"
+  },
+  {
+   "type": "text",
+   "text": "of each other, we can see that they are very closely related conceptually to that."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "\"れる/\"られる\"\" indicates receiving the action to which it is attached."
+  },
+  {
+   "type": "text",
+   "text": "\"せる/させる\" means causing that action to be performed by somebody else."
+  },
+  {
+   "type": "text",
+   "text": "And this leads on to the most fundamental similarity between the two pairs of helper verbs –"
+  },
+  {
+   "type": "text",
+   "text": "the similarity that the textbooks never explain and that is most fundamental to understanding how they work."
+  },
+  {
+   "type": "text",
+   "text": "Why don't the textbooks explain it?"
+  },
+  {
+   "type": "text",
+   "text": "Well, the fundamental reason is that they call the causative and the receptive helper verbs \"conjugations\"."
+  },
+  {
+   "type": "text",
+   "text": "And the real structure of how they work is completely destroyed and obscured by calling them \"conjugations\"."
+  },
+  {
+   "type": "text",
+   "text": "A conjugated verb is by definition a single verb."
+  },
+  {
+   "type": "text",
+   "text": "But a verb plus the receptive or the causative helper is never a single verb."
+  },
+  {
+   "type": "text",
+   "text": "It's two verbs."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide headed \"Always two different verbs with two different actors.\" Top: pink 食べられる with arrows from 食べ to \"Vb A done by eater\" and from られる to \"Vb B done by eat-receiver (thing eaten)\" beside a blonde girl. Bottom: blue 食べさせる with arrows from 食べ to \"Vb A done by eater\" and from させる to \"Vb B done by eat-causer (who compels/allows eating)\" beside a dark-haired boy."
+  },
+  {
+   "type": "text",
+   "text": "Not only is it two verbs, but the two verbs always have two separate subjects."
+  },
+  {
+   "type": "text",
+   "text": "So in a sentence like \"水が犬に飲まれた\" – \"the water got drunk by the dog\""
+  },
+  {
+   "type": "text",
+   "text": "– we have two verbs, two actions, and two different actors doing the two different verbs."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide on the receptive/passive: 水が犬に飲まれた (\"The water got drunk by the dog\") shown as train cars 水が (water), 犬に (dog), 飲ま (drunk), れた (got), with red boxes around 水が and れた and a blue box around 犬に and 飲ま. It marks れる as core action \"get/receive\" with actor 水 and 飲む as secondary action with actor 犬, plus a green arrow to the note \"implicit subclause: inu-ga nonda.\""
+  },
+  {
+   "type": "text",
+   "text": "The main verb of the sentence, the core verb, is \"れる\" – \"get\""
+  },
+  {
+   "type": "text",
+   "text": "– and that's being done by the water: the water is getting drunk by the dog."
+  },
+  {
+   "type": "text",
+   "text": "The secondary verb is \"drink\" and that's being done by the dog."
+  },
+  {
+   "type": "text",
+   "text": "This becomes clearer in a slightly longer sentence:"
+  },
+  {
+   "type": "text",
+   "text": "\"さくらがだれかにかばんをぬすまれた\" – \"Sakura got her bag stolen by someone\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled “Sakura got her bag stolen by someone,” the train-car slide boxes さくらが and れた in red and だれかに, かばんを, ぬすま in blue, with car labels が, に, を, ま, れ and glosses below. Red text makes れる the core action with actor さくら, blue makes ぬすむ the secondary action with actor だれか and object かばん, and a green arrow links the note “だれか marked by に not が because the particle indicates its relation to core, not secondary, action” to the “implicit subclause” note."
+  },
+  {
+   "type": "text",
+   "text": "Again, there are two actions going on, and always in a receptive sentence the main action, the core action of the sentence, is \"れる\" – \"receive\": \"Sakura received\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "But there is a nested action within this done by the secondary verb, \"ぬすむ\" – \"steal\"."
+  },
+  {
+   "type": "text",
+   "text": "And that's done by \"someone\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, it's exactly the same with the causative."
+  },
+  {
+   "type": "text",
+   "text": "We always have two actors performing the two different verbs."
+  },
+  {
+   "type": "text",
+   "text": "So if we say, \"(zeroが)犬を食べさせた\", which means \"I caused the dog to eat\","
+  },
+  {
+   "type": "text",
+   "text": "there are two actions going on."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled \"I caused the dog to eat (causative)\" with boxed train cars: faded red が car with ∅が / \"I\"; blue を car 犬を \"dog\" followed by a る car 食べ \"eat\"; red る locomotive させた \"caused\". Notes read core action verb させる \"cause\" with actor ∅ \"I\", secondary action 食べる \"eat\" with actor 犬 \"dog\", and explain 犬 takes を because it belongs to the core action; a green arrow points to the \"implicit subclause\" label."
+  },
+  {
+   "type": "text",
+   "text": "There is the action of eating, which is being done by the dog, and then there is the main action, the core action of the sentence, the action of causing, which is done by me."
+  },
+  {
+   "type": "text",
+   "text": "So as you see, we cannot possibly talk about a conjugated verb in the case of either the"
+  },
+  {
+   "type": "text",
+   "text": "receptive or the causative helper."
+  },
+  {
+   "type": "text",
+   "text": "In each case, there are two separate verbs."
+  },
+  {
+   "type": "text",
+   "text": "Even though they're joined together, they not only remain separate in function but"
+  },
+  {
+   "type": "text",
+   "text": "they refer to two different actors."
+  },
+  {
+   "type": "text",
+   "text": "Now let's also take a moment to understand what \"せる/させる\" actually means."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled せる・させる with the subtitle 'Add to あ-stem', plus する becomes させる and くる becomes こさせる. Two identical chibi schoolgirls in teal skirts look confused; bubbles ask 'But does it mean allow?' and 'Or compel?', with lower 'or...?' bubbles beside red くる and する. Only the speech-bubble tails connect, no arrows."
+  },
+  {
+   "type": "text",
+   "text": "We're told that in English it can mean either \"make\" someone do something or"
+  },
+  {
+   "type": "text",
+   "text": "\"allow\" someone to do something."
+  },
+  {
+   "type": "text",
+   "text": "And that's correct: it can have either of those meanings."
+  },
+  {
+   "type": "text",
+   "text": "But the important thing to understand is that it can have either of those meanings but"
+  },
+  {
+   "type": "text",
+   "text": "it can also have neither of those meanings."
+  },
+  {
+   "type": "text",
+   "text": "The best way to translate it is with the very un-English sounding \"cause\" someone to do something."
+  },
+  {
+   "type": "text",
+   "text": "Why?"
+  },
+  {
+   "type": "text",
+   "text": "Because we can mean that we're forcing them to do something, we can mean that we are allowing them to do something, but we can also mean something that isn't covered by either of those English translations."
+  },
+  {
+   "type": "text",
+   "text": "An example?"
+  },
+  {
+   "type": "text",
+   "text": "Well, you've already had one: \"(zeroが)犬を食べさせた\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Four coupled train cars labelled が, を, う, う, with のが, 犬を, 食べ, させた printed below them, read left to right to give a causative sentence. Below sits a dog beside a spilled green food bag, a blue box and a bone; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "It doesn't mean \"I forced the dog to eat\", does it?"
+  },
+  {
+   "type": "text",
+   "text": "But it also doesn't mean \"I allowed the dog to eat\"."
+  },
+  {
+   "type": "text",
+   "text": "It doesn't mean that I gave the dog permission to eat or I took it off its chain so it could reach the food."
+  },
+  {
+   "type": "text",
+   "text": "That's not what it means."
+  },
+  {
+   "type": "text",
+   "text": "It means that I set up the conditions under which it was able to eat; I gave it food;"
+  },
+  {
+   "type": "text",
+   "text": "I caused it to eat."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So \"せる/させる\" means \"cause\" a person or a thing to perform an action by whatever means, whether that causing is allowing, whether it's compelling or whether it's setting up the conditions to make it happen."
+  },
+  {
+   "type": "text",
+   "text": "Now, the only thing that can appear to be a little confusing about the causative is"
+  },
+  {
+   "type": "text",
+   "text": "that sometimes the person or thing that we are causing to do something can be marked"
+  },
+  {
+   "type": "text",
+   "text": "by を and sometimes by に."
+  },
+  {
+   "type": "text",
+   "text": "Now, I've told you before that Japanese particles do not change their function at random, as the textbooks strongly imply and sometimes openly state that they do – \nand as we have to believe if we think that \"コーヒーが好きだ\" (Coffee pleasing is) literally means \"I like coffee\"."
+  },
+  {
+   "type": "text",
+   "text": "And if you don't know what I'm talking about here, please watch the relevant video (Lesson 9), because this is absolutely crucial to understanding Japanese correctly."
+  },
+  {
+   "type": "text",
+   "text": "So how is it that two different logical particles can apply to the thing or person we are causing to do something?"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two causative-pattern diagrams: green squiggle + を + red squiggle + blue せる/させる with “Object?” beneath を; below, green squiggle + に + red squiggle + blue せる/させる with “Target?” beneath に. Illustrates を versus に before the causative helper."
+  },
+  {
+   "type": "text",
+   "text": "That is to say, the noun associated with \"せる/させる\"."
+  },
+  {
+   "type": "text",
+   "text": "First of all, we have to understand that this thing can be seen as either the object or the target of the action (\"せる/させる\") of the person or thing that is doing the causing."
+  },
+  {
+   "type": "text",
+   "text": "If we take that object or target to be human, it becomes a little clearer."
+  },
+  {
+   "type": "text",
+   "text": "If we treat the person as the object, we are assuming that they have no personal will in the matter; we are treating them literally as an object."
+  },
+  {
+   "type": "text",
+   "text": "So this is more appropriate when we are compelling someone to do something;"
+  },
+  {
+   "type": "text",
+   "text": "if we treat them as a target, the implication is more mutual, we are treating them more as an equal and this goes more naturally with allowing rather than compelling."
+  },
+  {
+   "type": "text",
+   "text": "And I've talked about these degrees of mutuality between the particles を, に and と when"
+  },
+  {
+   "type": "text",
+   "text": "dealing with people in a video which you may want to watch."
+  },
+  {
+   "type": "text",
+   "text": "However, the choice between に and を is not the main, or an exact, indicator of whether"
+  },
+  {
+   "type": "text",
+   "text": "we mean allowing or compelling when we use \"せる/させる\"."
+  },
+  {
+   "type": "text",
+   "text": "Why not?"
+  },
+  {
+   "type": "text",
+   "text": "There are two reasons for this."
+  },
+  {
+   "type": "text",
+   "text": "The first, as we've already mentioned, is that saying that \"せる/させる\" either means"
+  },
+  {
+   "type": "text",
+   "text": "\"compel\" or \"allow\" is warping the meaning of the causative by trying to find exact English analogies, and there is no precise English analogy."
+  },
+  {
+   "type": "text",
+   "text": "On many occasions, as I demonstrated, it may mean neither \"compel\" nor \"allow\"."
+  },
+  {
+   "type": "text",
+   "text": "It's a sliding scale between the two; it's subtler and more graduated than that."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Secondly, when the action that is being compelled itself has a を-marked object"
+  },
+  {
+   "type": "text",
+   "text": "– for example, \"(zeroが)犬に肉を食べさせた\" – \"(I) caused the dog to eat meat\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Light-background slide with a large bordered table/panel layout and several rows of text. The vision request timed out repeatedly on this file, so the content could not be read."
+  },
+  {
+   "type": "text",
+   "text": "You can see the implied, subordinate sentence here is \"犬が肉を食べた\"."
+  },
+  {
+   "type": "text",
+   "text": "The meat is the object of the dog's action,"
+  },
+  {
+   "type": "text",
+   "text": "and the dog is the thing I am causing to do that action."
+  },
+  {
+   "type": "text",
+   "text": "Now, in these kinds of sentences, Japanese does not allow us to use the を-particle twice."
+  },
+  {
+   "type": "text",
+   "text": "Since there is an を-particle attached to the meat which is being eaten by the dog –"
+  },
+  {
+   "type": "text",
+   "text": "in other words, that's the object of the inner, subordinate sentence –"
+  },
+  {
+   "type": "text",
+   "text": "we can't also use it on the dog itself who is the object or target of the causing."
+  },
+  {
+   "type": "text",
+   "text": "Why is that?"
+  },
+  {
+   "type": "text",
+   "text": "Well, really this is partly stylistic, but largely a pragmatic strategy on the part of Japanese grammar."
+  },
+  {
+   "type": "text",
+   "text": "Not only does it sound awkward if you have two をs in the sentence, it could, in some"
+  },
+  {
+   "type": "text",
+   "text": "sentences, become ambiguous."
+  },
+  {
+   "type": "text",
+   "text": "We might end up with some doubt as to which を marked the object associated with"
+  },
+  {
+   "type": "text",
+   "text": "\"食べる\" (or whatever the verb is) and which を is associated with \"せる/させる\", the causing of the action."
+  },
+  {
+   "type": "text",
+   "text": "As it is, we always know that in a \"せる/させる\" sentence, a causative sentence,"
+  },
+  {
+   "type": "text",
+   "text": "which also has an object of the action itself, that object will always be marked by を,"
+  },
+  {
+   "type": "text",
+   "text": "and the target or object of the causation, the thing be made to do something or allowed to do something or facilitated in doing something, will be marked by に."
+  },
+  {
+   "type": "text",
+   "text": "Well, that I think is the most complicated aspect of the whole thing,"
+  },
+  {
+   "type": "text",
+   "text": "and it's not really very difficult, is it?"
+  },
+  {
+   "type": "text",
+   "text": "Now, the other thing that people do find particularly difficult is the causative receptive"
+  },
+  {
+   "type": "text",
+   "text": "(what is called the \"causative passive\" and, when taught with the standard grammatical model,"
+  },
+  {
+   "type": "text",
+   "text": "causes people to receive a great deal of confusion)"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Causative receptive / causative passive"
+  },
+  {
+   "type": "text",
+   "text": "Now, as a matter of fact, once we have understood what the causative and the receptive really"
+  },
+  {
+   "type": "text",
+   "text": "are and really do, I don't think there's anything special about the causative receptive at all."
+  },
+  {
+   "type": "text",
+   "text": "We know that helper verbs are simply verbs."
+  },
+  {
+   "type": "text",
+   "text": "They attach to other verbs, but they are verbs in their own right."
+  },
+  {
+   "type": "text",
+   "text": "If we don't understand this, everything becomes very difficult."
+  },
+  {
+   "type": "text",
+   "text": "Now also, the main structural helper verbs, like the causative, the potential and the"
+  },
+  {
+   "type": "text",
+   "text": "receptive, are ichidan verbs."
+  },
+  {
+   "type": "text",
+   "text": "So if we need to attach anything else to them, we simply do what we do with every other ichidan"
+  },
+  {
+   "type": "text",
+   "text": "verb – we take off the -る and attach whatever it is we're going to attach."
+  },
+  {
+   "type": "text",
+   "text": "So if we want to attach the receptive to the causative, we simply take the -る off the"
+  },
+  {
+   "type": "text",
+   "text": "causative, \"せる\" or \"させる\", and attach \"られる\", which is the ichidan helper form"
+  },
+  {
+   "type": "text",
+   "text": "of the receptive."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide headed \"Causative-receptive\" and \"Get-made to do\"; under \"(just another day in lego-land)\" a pink arrow points to red せる・させる, and the right side gives the formula せる・させる −る +られる = せられる / させられる (causative red, passive green). A smiling girl washes a plate in a blue sink with bubbles and a stack of plates nearby."
+  },
+  {
+   "type": "text",
+   "text": "And it's as simple as that."
+  },
+  {
+   "type": "text",
+   "text": "Nothing complicated about it at all."
+  },
+  {
+   "type": "text",
+   "text": "But somebody's going to say, quite rightly,"
+  },
+  {
+   "type": "text",
+   "text": "\"But don't we have three verbs in the sentence now?\" and that's exactly right."
+  },
+  {
+   "type": "text",
+   "text": "We have three verbs in a causative receptive sentence."
+  },
+  {
+   "type": "text",
+   "text": "For example, \"私はブロコリを食べさせられた\" – \"I got made to eat broccoli\"."
+  },
+  {
+   "type": "text",
+   "text": "So we have three verbs: \"食べる\" – \"eat\";"
+  },
+  {
+   "type": "text",
+   "text": "\"させる\" – \"compel\" (in this case it will be \"compel\");"
+  },
+  {
+   "type": "text",
+   "text": "\"られる\" – \"receive\": \"I received being compelled to eat broccoli\"."
+  },
+  {
+   "type": "text",
+   "text": "So, if we have three verbs, do we have three subjects?"
+  },
+  {
+   "type": "text",
+   "text": "No, we have two subjects."
+  },
+  {
+   "type": "text",
+   "text": "There are always two subjects."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-metaphor diagram of 私はブロッコリーを食べさせられた: は flag over 私は Topic: me, grey car marked が (Øが 'I'), black car marked を (ブロッコリーを 'broccoli'), three engines marked う labelled 食べ 'eat', させ 'compel', られた 'got'. Top note 'first and third actor always the same. second always different' has blue arrows to 食べ and られた and a red arrow to させ. Bottom colour-coded text: Core action verb られる 'get', actor Ø 'I'; Secondary verb させる 'compel', actor unspecified; Tertiary verb 食べる 'eat', actor Ø 'I'; broccoli drawing lower left."
+  },
+  {
+   "type": "text",
+   "text": "Note: In the video, the red “Secondary action: verb” has a typo ”さらる”. Jisho, Yomichan with 27 dictionaries…nor anything else…do not even know that “さらる”. I fixed it."
+  },
+  {
+   "type": "text",
+   "text": "And is it difficult to understand what the two subjects are going to be?"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-mode YouTube comment thread, not a slide: the top comment points out a typo on the final slide, さらる instead of される, and the reply from “Organic Japanese with Cure Dolly” thanks them and mentions a proofreader. Japanese UI text includes 返信, 1 件の返信, 2年前; no diagram or arrows."
+  },
+  {
+   "type": "text",
+   "text": "No, it isn't, because the person receiving and the person eating are always going to"
+  },
+  {
+   "type": "text",
+   "text": "be the same."
+  },
+  {
+   "type": "text",
+   "text": "\"I received being made to eat...\" – I was the one that received being made to eat,"
+  },
+  {
+   "type": "text",
+   "text": "and therefore, I must have been also the one that ate."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So the first verb in the sentence, the verb to which the other two are attached,"
+  },
+  {
+   "type": "text",
+   "text": "is always going to be performed by the same person as the last verb, the receiving."
+  },
+  {
+   "type": "text",
+   "text": "And the compelling of the person to do something is always done by someone else."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So we have three verbs, two of which are attached to the person who received"
+  },
+  {
+   "type": "text",
+   "text": "the compulsion and who did the action because she received the compulsion."
+  },
+  {
+   "type": "text",
+   "text": "And the middle one belongs to the person who did the compulsion."
+  },
+  {
+   "type": "text",
+   "text": "Note: If anything, take a look into the comments, as usual."
+  }
+ ]
+}

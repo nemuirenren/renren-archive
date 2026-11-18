@@ -1,0 +1,609 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 24,
+ "page_label": "20. Directionals: それ・その・そんな・そう etc.",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "20. Directionals: それ・その・そんな・そう etc."
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "20. Directionals: それ・その・そんな・そう etc."
+  },
+  {
+   "type": "text",
+   "text": "Lesson 20: \"Sore/Sono/Sonna/Sou\" etc. how directional words REALLY work!\""
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about the Japanese system of directional words which use \nこ-, そ-, あ-, ど-."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Mnemonic diagram of three nested colour rings: inner red circle labeled こ, middle pale-yellow ring そ, outer light-blue ring あ, with green ど below flanked by two green question marks. No arrows; the kana sit in their regions to show proximity-based demonstratives. Text: こ, そ, あ, ど."
+  },
+  {
+   "type": "text",
+   "text": "This is commonly called the こ-そ-あ-ど system and initially it simply marks physical locations, but it then expands out to more subtle and metaphorical uses."
+  },
+  {
+   "type": "text",
+   "text": "This is common because all languages use physical metaphors to express abstract concepts."
+  },
+  {
+   "type": "text",
+   "text": "And fortunately these means of expression are often similar across languages because"
+  },
+  {
+   "type": "text",
+   "text": "the conceptual world maps to the physical world in certain quite predictable ways."
+  },
+  {
+   "type": "text",
+   "text": "So let's take the most basic meaning and use of こ-そ-あ-ど, and that is actual physical locations."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "ここ, そこ, あそこ, どこ"
+  },
+  {
+   "type": "text",
+   "text": "The most basic location use is \"ここ\", \"そこ\", \"あそこ\", \"どこ\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Place demonstratives with purple right arrows: a heart labeled ここ \"Here (near me)\" → two owls labeled そこ \"There (near you/a little way off)\" → a megaphone labeled あそこ \"Over there\"; a curved lavender arrow above points from right owl to left owl. Bottom left, a rainbow question-mark icon beside どこ \"Where?\"; a green box reads こ = ところ (所) = place."
+  },
+  {
+   "type": "text",
+   "text": "\"ここ\" means \"here\"."
+  },
+  {
+   "type": "text",
+   "text": "If you know the Japanese word \"こころ/心\" - \"heart\" - it's here, right where I am, right where my heart is. That's not the etymology of the word, but it's a mnemonic."
+  },
+  {
+   "type": "text",
+   "text": "\"そこ\" means \"there\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, often \"ここ\" means the speaker's place and \"そこ\" means the place of the listener."
+  },
+  {
+   "type": "text",
+   "text": "\"あそこ\" means \"over there\""
+  },
+  {
+   "type": "text",
+   "text": "and it often means distant from both the speaker and the listener."
+  },
+  {
+   "type": "text",
+   "text": "So the あ word means over there, somewhat in the distance, so it's a bit far away,"
+  },
+  {
+   "type": "text",
+   "text": "you have to aaaah - shout - to be heard over there."
+  },
+  {
+   "type": "text",
+   "text": "\"どこ\" means \"where\", so that's a question word."
+  },
+  {
+   "type": "text",
+   "text": "So, こ words mean here, possibly near to me,"
+  },
+  {
+   "type": "text",
+   "text": "the そ words mean there, often near to you,"
+  },
+  {
+   "type": "text",
+   "text": "the あ words mean over there,"
+  },
+  {
+   "type": "text",
+   "text": "and the ど words form a question."
+  },
+  {
+   "type": "text",
+   "text": "So, in anime or manga you'll often see someone saying,"
+  },
+  {
+   "type": "text",
+   "text": "\"ここはどこ?\" - \"Where is this?\""
+  },
+  {
+   "type": "text",
+   "text": "Literally, \"Speaking of this place, where (is it)?\""
+  },
+  {
+   "type": "text",
+   "text": "And that seems to be the most usual way for a Japanese person to ask that question finding"
+  },
+  {
+   "type": "text",
+   "text": "herself suddenly in an unknown location."
+  },
+  {
+   "type": "text",
+   "text": "The English way of asking it is more likely to be ---- \"Where am I?\""
+  },
+  {
+   "type": "text",
+   "text": "but the Japanese way is \"Where is this place?\""
+  },
+  {
+   "type": "text",
+   "text": "\"ここはどこ?\" - \"As for this place, where?\""
+  },
+  {
+   "type": "text",
+   "text": "Now, that's quite simple, I think."
+  },
+  {
+   "type": "text",
+   "text": "And now we're going to look at something that does occasionally confuse people,"
+  },
+  {
+   "type": "text",
+   "text": "and that's because when we come to the れ- and the の-group, in English we express both with the same word."
+  },
+  {
+   "type": "text",
+   "text": "But we do have the distinction, so let's look at those."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "これ, それ, あれ, どれ"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled 'れ-Group... act as nouns': a heart labeled これ / This / (a thing near me), purple arrow to two owls labeled それ / That / (a thing near you), then purple arrow to a megaphone labeled あれ / That / a thing over there. Bottom left a rainbow question mark with どれ / Which thing?; bottom right green box れ related to ある(be) = a being (object or sentient)."
+  },
+  {
+   "type": "text",
+   "text": "The れ-group is \"これ\", \"それ\", \"あれ\", \"どれ\"."
+  },
+  {
+   "type": "text",
+   "text": "And the thing here is that the -れ means \"a thing\"."
+  },
+  {
+   "type": "text",
+   "text": "こ- means a place, a location, and it can actually be written with the kanji for \"所\" - \"place\"."
+  },
+  {
+   "type": "text",
+   "text": "-れ is related to \"ある\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide contrasting ある, beside a blonde female figure labeled \"Mother of self-move\" and \"BE\", with する, beside a dark-haired male figure labeled \"Father of other-move\" and \"DO\". A central yin-yang places black ある in the white half and white する in the black half; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "It's one of these things that's related to the fundamental \"ある\", the mother of verbs."
+  },
+  {
+   "type": "text",
+   "text": "And \"ある\" means to \"be\"; this -れ means \"a being\"."
+  },
+  {
+   "type": "text",
+   "text": "When we say \"a being\" in English we usually mean a sentient being, an animal or a person"
+  },
+  {
+   "type": "text",
+   "text": "or something, but this means any kind of a being, anything that exists."
+  },
+  {
+   "type": "text",
+   "text": "So, \"これ\" means \"this thing/this being\"; \n\"それ\" means \"that thing/that being\";"
+  },
+  {
+   "type": "text",
+   "text": "\"あれ\" means \"that thing over there/that being over there\", \nand \"どれ\" means \"which being/what thing?\""
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "この, その, あの, どの"
+  },
+  {
+   "type": "text",
+   "text": "Now, what these can get confused with is the の-group: \"この\", \"その\", \"あの\", \"どの\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled の-Group... act as adjectives with purple arrows running left to right: a pink heart labeled この \"this-something described as near me\", two purple owls labeled その \"that-something described as near you\", then a blue megaphone labeled あの \"that-something described as over there\"; a curved arrow above the owls points back to the title. A rainbow question mark is labeled どの \"how-described?\", and a green box reads \"This の is the 'adjectival' class-marking の\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, -れ means a being and refers to a thing."
+  },
+  {
+   "type": "text",
+   "text": "の, as we know, is used to make adjectivals or descriptors."
+  },
+  {
+   "type": "text",
+   "text": "So if we say, \"さくらのドレス\", we're saying, \"Sakura's dress\"."
+  },
+  {
+   "type": "text",
+   "text": "If we say, \"でんせつのせんし/伝説の戦士\", we're saying, \"legendary warrior/warrior that belongs to the class of legend\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Now, this is the same の that we see in \"この/その/あの/どの\"."
+  },
+  {
+   "type": "text",
+   "text": "So if we take a very basic textbook phrase like \"これは (zeroが) ペンだ\", we're saying,"
+  },
+  {
+   "type": "text",
+   "text": "\"this - this being - (it) is a pen.\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】White slide with two text areas in the upper half and two in the lower half, with a little pink colouring at the right edge. Vision analysis timed out repeatedly on this file, so the content could not be read."
+  },
+  {
+   "type": "text",
+   "text": "But if we say, \"このペン(zeroが)は赤い\" - \"This pen (it) is red\"."
+  },
+  {
+   "type": "text",
+   "text": "\"このペン\" - the here pen, the pen that belongs to the class of things that are here."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide compares two patterns with literal glosses: そのペンは（Øが）赤い, glossed “there’s pen as-for (it) red-is,” and それは（Øが）ペンだ, glossed “As for there-thing (it) pen-is.” Colored glosses align with matching segments; no arrows. Decorative blue-pen and red-pen mascots sit at upper right and lower left."
+  },
+  {
+   "type": "text",
+   "text": "\"それは(zeroが)ペンだ\" - \"That thing over there or the thing you're holding (it) is a pen\"."
+  },
+  {
+   "type": "text",
+   "text": "\"そのペンは(zeroが)赤い\" - \"That pen, the pen that belongs to the class of things over there, (it) is red\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, in English we can say \"this\" or \"this pen\" and there's no distinction between the words."
+  },
+  {
+   "type": "text",
+   "text": "We're using \"this\" in both cases."
+  },
+  {
+   "type": "text",
+   "text": "So, once we've got used to how they work, I think those are very straightforward too."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "こんな, そんな, あんな, どんな"
+  },
+  {
+   "type": "text",
+   "text": "Now, the next group is \"こんな\",\"そんな\", \"あんな\", \"どんな\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled “な-Group...” and “real adjectives” in red, with こんな (“Like this”), そんな (“Like that”) and あんな (“Like that”) above a heart → owl pair → megaphone row linked by purple right arrows; a curved lavender arrow rises from the owl pair to the title. Below, どんな (“Like what?”) sits by a rainbow question mark, and a green box reads “The な used for adjectival nouns: descriptive of a thing's quality. ‘Distance’ often conceptual, not physical.”"
+  },
+  {
+   "type": "text",
+   "text": "Now, in this case we are using -な."
+  },
+  {
+   "type": "text",
+   "text": "And -な, as we know, is the form of the copula that turns an adjectival noun into an adjective that you can place before something else. (Lesson 6)"
+  },
+  {
+   "type": "text",
+   "text": "And this is exactly what's happening here."
+  },
+  {
+   "type": "text",
+   "text": "So, \"こんな\" means \"like this/this kind of\"; \n\"そんな\" means \"that kind of\","
+  },
+  {
+   "type": "text",
+   "text": "\"あんな\" means \"that kind of over there/the further-away kind of\"."
+  },
+  {
+   "type": "text",
+   "text": "And I'm not going to go into the details of this,"
+  },
+  {
+   "type": "text",
+   "text": "but whether we use \"そんな\" or \"あんな\"is going to depend on..."
+  },
+  {
+   "type": "text",
+   "text": "sometimes the literal position of something but very often on how far these things are from what we are talking about, from the present circumstance, from something we associate with ourselves."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So, we could say, \"こんな食べ物が好きです\" - \"I like food like this\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Smiling girl with a brown bob sits at a table holding chopsticks and a bowl of food. Lower right text こんな食べ物 glossed \"= food like this\"; no labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "\"そんなことがひどい\" - \"That kind of thing's unkind/cruel\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide of a crying girl in a blue uniform and red bow saying 「そんな…」. Below, 「そんな こと」 color-coded (そんな blue, こと red) glossed “= a thing like that”; grey parenthesis 「(がひどい = is cruel)」 and green line “= what you just said.” No arrows, only equals signs."
+  },
+  {
+   "type": "text",
+   "text": "And in fact you'll often find in anime or manga that someone just says, \"そんな!\""
+  },
+  {
+   "type": "text",
+   "text": "And when it's said in that kind of a complaining or accusing kind of way, it's short for saying \"that kind of thing.\""
+  },
+  {
+   "type": "text",
+   "text": "You're saying, \"that kind of thing\", and it would mean something like"
+  },
+  {
+   "type": "text",
+   "text": "\"that kind of thing is unkind/that kind of thing is mean / that kind of thing is something I don't like.\""
+  },
+  {
+   "type": "text",
+   "text": "\"そんな!\" - \"That you said such a thing!\""
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "So \"そんな\" is essentially a comparing adjectival:"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled “な-Group...” and “real adjectives,” the slide chains a pink heart labelled こんな (“Like this”) by a purple arrow to two owls labelled そんな (“Like that”), then by another purple arrow to a megaphone labelled あんな (“Like that”); a rainbow question mark is labelled どんな (“Like what?”). A curved pink arrow links “real adjectives” to “な-Group,” and a green note reads “The な used for adjectival nouns: descriptive of a thing's quality. ‘Distance’ often conceptual, not physical.”"
+  },
+  {
+   "type": "text",
+   "text": "we're describing what something is like by comparing it to something else that we're referring to, something that's here, something that's over there or something that's way over there, either in physical space or conceptually."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "\"どんな\" is asking what kind of a thing something is."
+  },
+  {
+   "type": "text",
+   "text": "Literally, what would we compare it to?"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "こう, そう, ああ, どう"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide contrasting \"Long group...\" (left) with \"...'adverbs'\" (right, \"describe action/way\"), a pink curved arrow pointing from right title back to left. Purple block arrows connect a heart labeled こう (\"In this way\") to two owls labeled そう (\"In that way\") to a megaphone labeled ああ (\"In that way\"); a rainbow question mark at lower left is labeled どう (\"How? In what way?\"). Green box: \"Lengthened form of こ-そ-あ-ど describes manner of being or doing Like な-group but for actions/states\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, when we use こ-そ-あ-ど on their own and lengthen them with -う\n(or in the case of あ-, with an extra -あ) so they become \"こう\", \"そう\", \"ああ\", \"どう\","
+  },
+  {
+   "type": "text",
+   "text": "then we are talking about the way something is or happens."
+  },
+  {
+   "type": "text",
+   "text": "So when we say \"(zeroが)そうですね?\" we're saying, \"(It)That's right, isn't it?\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide shows そうです above = ∅がそうです, then English glosses “= it (the fact/situation) is that way (the way you have said)” and “= That's right!”, teaching そうです as agreement. The ∅ marks the omitted subject/fact linked by が; a smiling spiky-haired cartoon boy at lower right gives a thumbs-up toward the text. No arrows or labelled diagrams."
+  },
+  {
+   "type": "text",
+   "text": "So what we are really saying is \"(zeroが)そうだ/そうです\" - \"(It) is like that\"."
+  },
+  {
+   "type": "text",
+   "text": "If we say, \"そうする\" we mean \"do like that\"; if we say \"こうする\" we mean \"do like this\":"
+  },
+  {
+   "type": "text",
+   "text": "do in that way/do in this way."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"どうする\", we say \"do like how?\""
+  },
+  {
+   "type": "text",
+   "text": "and we often say \"どうすればいい?\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Large multicoloured phrase どうすればいい with the colour-coded gloss “In what way if I act will be good?”, the paraphrase “What will be the best way to act?”, and the caveat “(Not literally ‘what [thing] should I do’)”. A confused chibi girl touches her cheek below, flanked by two yellow “?” labels; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, \"すれば\" is the conditional form of \"する\"."
+  },
+  {
+   "type": "text",
+   "text": "Saying \"どうすればいい?\" means \"how if I do will be good?\""
+  },
+  {
+   "type": "text",
+   "text": "And we often find these combined with \"いう/言う\" meaning \"say\"."
+  },
+  {
+   "type": "text",
+   "text": "It's another example of the wider application of the concept of quotation in Japanese,"
+  },
+  {
+   "type": "text",
+   "text": "which we discussed recently."
+  },
+  {
+   "type": "text",
+   "text": "And this is often used in relation to things that are not physical, concrete things -"
+  },
+  {
+   "type": "text",
+   "text": "in other words, the kind of things which we call \"こと\" rather than \"もの\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】The slide contrasts large brown も の, labelled “mono: thing concrete” with a red top hat, smiling pink flower and green pencil, against large pink こ と, labelled “koto: thing abstract” and set below pink thought bubbles connected by cloud puffs to an anime girl; the bubbles read “solidity wetness,” “food taste funny,” “Alice come to tea.” No arrows, only the thought-bubble puffs."
+  },
+  {
+   "type": "text",
+   "text": "And we're going to hear an awful lot \"そういうこと\", \"こういうこと\" and \"どういうこと\"."
+  },
+  {
+   "type": "text",
+   "text": "We also hear \"ああいうこと\"."
+  },
+  {
+   "type": "text",
+   "text": "It's less commonly used than the others, but it is used."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide on そういうこと: colored kana with literal gloss \"That-way say matter,\" plus \"= Thus-described matter\" and \"= That kind of thing.\" Two overlapping lined sheets are labeled \"Department Report\"; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "So what do we mean when we say"
+  },
+  {
+   "type": "text",
+   "text": "\"そういうこと\" - \"a thing of that kind\";"
+  },
+  {
+   "type": "text",
+   "text": "\"こういうこと\" - \"a thing of this kind\";"
+  },
+  {
+   "type": "text",
+   "text": "\"どういうこと\" - \"what kind of a thing\"?"
+  },
+  {
+   "type": "text",
+   "text": "Why do we mean \"what kind of a thing\"?"
+  },
+  {
+   "type": "text",
+   "text": "This kind of a thing / that kind of thing, what kind of a thing?"
+  },
+  {
+   "type": "text",
+   "text": "What we're actually saying is"
+  },
+  {
+   "type": "text",
+   "text": "\"how-said thing / how-said circumstance / how-said condition\"."
+  },
+  {
+   "type": "text",
+   "text": "In other words, in what way do we describe this condition / what kind of a description"
+  },
+  {
+   "type": "text",
+   "text": "does this circumstance or condition have?"
+  },
+  {
+   "type": "text",
+   "text": "And we often hear as a kind of exclamation, \"どういうこと!?\" and it means"
+  },
+  {
+   "type": "text",
+   "text": "\"what's going on here? / what is this? / what description of thing is this that's happening?\""
+  },
+  {
+   "type": "text",
+   "text": "And it can also mean"
+  },
+  {
+   "type": "text",
+   "text": "\"what are you talking about / what are you getting at / what are you saying here?\""
+  },
+  {
+   "type": "text",
+   "text": "\"どういうこと!?\""
+  },
+  {
+   "type": "text",
+   "text": "And the thing to understand here is that"
+  },
+  {
+   "type": "text",
+   "text": "the \"いう\" there is not referring to the fact that the person has just said it."
+  },
+  {
+   "type": "text",
+   "text": "\"どういうこと\" meaning \"What do you mean / what are you driving at / what are you talking about here?\""
+  },
+  {
+   "type": "text",
+   "text": "The \"いう\" does not refer to the fact that you're saying it."
+  },
+  {
+   "type": "text",
+   "text": "The \"いう\" refers to the description of the thing."
+  },
+  {
+   "type": "text",
+   "text": "So \"どういうこと\" is in this case short for"
+  },
+  {
+   "type": "text",
+   "text": "\"どういうことをいう?\" - \"how described thing are you saying?\""
+  },
+  {
+   "type": "text",
+   "text": "So we see the こ-そ-あ-ど system works both in terms of literal location and in terms of metaphorical location."
+  }
+ ]
+}

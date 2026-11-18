@@ -1,0 +1,476 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 15,
+ "page_label": "11. Compound sentences, くれる, あげる \nand more uses of the て-form",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "11. Compound sentences, くれる, あげる \nand more uses of the て-form"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "11. Compound sentences, くれる, あげる \nand more uses of the て-form"
+  },
+  {
+   "type": "text",
+   "text": "Lesson 11: Compound sentences, kureru, ageru, more te-form uses"
+  },
+  {
+   "type": "text",
+   "text": "We've now completed ten lessons and it's time for a change of pace."
+  },
+  {
+   "type": "text",
+   "text": "We've learned enough now that we can start looking at some real narrative."
+  },
+  {
+   "type": "text",
+   "text": "It'll be a little simplified at first, but we can use this to"
+  },
+  {
+   "type": "text",
+   "text": "bring together the things we've learned so far."
+  },
+  {
+   "type": "text",
+   "text": "We'll also be learning new structural elements because even in the simplest story we're going to encounter things that we need to learn."
+  },
+  {
+   "type": "text",
+   "text": "But this may be a more interesting way of doing it."
+  },
+  {
+   "type": "text",
+   "text": "So please let me know what you think in the comments below. All right."
+  },
+  {
+   "type": "text",
+   "text": "Now let's go into a story that I believe we all know."
+  },
+  {
+   "type": "text",
+   "text": "\"ある日アリスは川のそばにいた.\""
+  },
+  {
+   "type": "text",
+   "text": "Now, this is a simple sentence."
+  },
+  {
+   "type": "text",
+   "text": "The word \"川/かわ\" means \"river\", and \"そば\" means \"beside\" and it's a noun."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Black-and-white Alice illustration beside the sentence ある 日 アリスは 川の そばに いた。 with a red oval around そばに. Cyan glosses label 川 'river' and そば 'beside'; no arrows. Means 'One day Alice was beside the river'."
+  },
+  {
+   "type": "text",
+   "text": "So \"川のそば\" is \"the beside of the river\"."
+  },
+  {
+   "type": "text",
+   "text": "Just as we put something on the \"on\" of the table or the \"under\" of the table and"
+  },
+  {
+   "type": "text",
+   "text": "we also always mark it with に, so the \"beside of the river\" is where Alice was."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Contrasts positional nouns: left, \"The ON (うえ) of the table\" with a grey arrow from the label down to the tabletop where うえ is written; right, \"The BESIDE (そば) of the river\" with a grey arrow down to the bank where そば is written. Green text: \"Unlike English, all relative-position statements work the same way.\""
+  },
+  {
+   "type": "text",
+   "text": "\"ある\" means \"a certain\", so \"ある日\" is like \"one day\" or \"a certain day\", and let's notice"
+  },
+  {
+   "type": "text",
+   "text": "that what's happening here is what we've seen before."
+  },
+  {
+   "type": "text",
+   "text": "\"ある\" is the verb that means \"exist\" or \"be\", and what we've done here is what we've seen in the video lesson on so-called adjectives. (Lesson 6)"
+  },
+  {
+   "type": "text",
+   "text": "We can make any engine into an adjective."
+  },
+  {
+   "type": "text",
+   "text": "So, \"ある\" is an \"A does B\" engine, an う-engine, \nso if we say \"本がある\" we are saying, \"There is a book / a book exists\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train diagram for 本がある: label A above a passenger car bearing が, with 本が and gloss 'book' beneath; label B above a steam locomotive bearing う, with ある and gloss 'exist' beneath. No arrows link the two vehicles, and the orange footer reads 'Book exists/there is a book.'"
+  },
+  {
+   "type": "text",
+   "text": "And if we move that \"ある\" engine to the other side of the book, we turn it white"
+  },
+  {
+   "type": "text",
+   "text": "and it becomes a descriptor, an adjectival."
+  },
+  {
+   "type": "text",
+   "text": "So we're saying \"ある本\" – \"an existing book / a certain book / a book that there is\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Black-and-white steam locomotive marked う on the left, labelled ある and 'exist'; a black railcar marked が on the right under a grey A, labelled 本が and 'book'. Orange caption: 'Existing-book/a certain book (that is).' No arrows; the labels sit on and under the two cars."
+  },
+  {
+   "type": "text",
+   "text": "And it's the same: \"ある日\" – \"a certain day\"."
+  },
+  {
+   "type": "text",
+   "text": "\"ある日アリスは川のそばにいた\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Black-and-white Alice illustration at left of the sentence ある 日 アリスは 川の そばに いた。 A red oval circles ある 日, and cyan glossary labels gloss 川 as “river” and そば as “beside.” No arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, the next sentence is going to be a little bit more complex, but don't worry, it's always easy when there's a fully-functioning android to help you."
+  },
+  {
+   "type": "text",
+   "text": "(Actually, I'm not quite fully-functioning, but for the purposes of showing you Japanese I am.)"
+  },
+  {
+   "type": "text",
+   "text": "\"おねえちゃんはつまらない本をよんでいてあそんでくれなかった\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Green vocabulary list おねえちゃん, つまらない, 本, よむ above the sentence おねえちゃんは つまらない 本を よんで いて あそんで くれなかった。 Beside it an oval painting of a reclining woman reading a book. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "So we've got quite a complex sentence here, and let's break it down."
+  },
+  {
+   "type": "text",
+   "text": "\"おねえちゃん\" means \"big sister\": \"ねえ\" is \"sister\";"
+  },
+  {
+   "type": "text",
+   "text": "\"-ちゃん\", I'm sure you know, is a cute, friendly honorific; \"お-\" is also an honorific."
+  },
+  {
+   "type": "text",
+   "text": "So, \"おねえちゃん\" – \"big sister\"."
+  },
+  {
+   "type": "text",
+   "text": "\"つまらない\" means \"dull\" or \"boring\"."
+  },
+  {
+   "type": "text",
+   "text": "\"本\", as we know, is \"book\"."
+  },
+  {
+   "type": "text",
+   "text": "\"よむ\" means \"read\"; \"よんでいる\" – we put the \"よむ\" into the て-form and add \"いる\""
+  },
+  {
+   "type": "text",
+   "text": "and it means \"is reading\"; and then we put the \"いる\" itself into the て-form."
+  },
+  {
+   "type": "text",
+   "text": "So why are we doing all that?"
+  },
+  {
+   "type": "text",
+   "text": "Let's take a look."
+  },
+  {
+   "type": "text",
+   "text": "\"おねえちゃんはつまらない本をよんでいて\" – \"Big sister is reading a boring book\""
+  },
+  {
+   "type": "text",
+   "text": "– but then that -て...."
+  },
+  {
+   "type": "text",
+   "text": "て-form has a lot of different uses."
+  },
+  {
+   "type": "text",
+   "text": "In this case it will complete a clause."
+  },
+  {
+   "type": "text",
+   "text": "\"Big sister is reading a boring book\" – that's a complete clause, isn't it?"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-metaphor slide for おねえちゃんは: a flag reads は, A sits over the leftmost grey car (が; Øが beneath), B over the locomotive (う), and the cars carry が, い, を, う, う left-to-right. Beneath them are つまらない, ほんを, よんで, and いて (いて circled in red); no arrows, only left-to-right train order."
+  },
+  {
+   "type": "text",
+   "text": "And if we turn that final う-engine into the て-form, what we're saying is that something"
+  },
+  {
+   "type": "text",
+   "text": "else is going to follow this clause."
+  },
+  {
+   "type": "text",
+   "text": "We are indicating that we're making a complex sentence made up of more than one clause."
+  },
+  {
+   "type": "text",
+   "text": "So it's like saying,"
+  },
+  {
+   "type": "text",
+   "text": "\"Big sister was reading a boring book and...\""
+  },
+  {
+   "type": "text",
+   "text": "And that something else comes: \"あそんでくれなかった\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Word list おねえちゃん, つまらない, 本, よむ, あそぶ, くれる with English glosses and a note that くれる is \"give-down\" to me/us, giving a thing or action, plus a painting of a woman reading. Below, おねえちゃんは つまらない 本を よんで いて あそんで くれなかった。 with あそんで くれなかった。 circled red; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "\"あそぶ\" means to \"play\", and that also is in the て-form, isn't it?"
+  },
+  {
+   "type": "text",
+   "text": "\"あそぶ\" --> あそんで\"."
+  },
+  {
+   "type": "text",
+   "text": "If you're in any doubt of how we make these て-forms, please go back to the video lesson"
+  },
+  {
+   "type": "text",
+   "text": "on the て-form and refresh your memory. (Lesson 5)"
+  },
+  {
+   "type": "text",
+   "text": "\"あそんでくれなかった\""
+  },
+  {
+   "type": "text",
+   "text": "Now this is another use of the て-form."
+  },
+  {
+   "type": "text",
+   "text": "て-form is terribly important and it does various different things."
+  },
+  {
+   "type": "text",
+   "text": "What's it doing here?"
+  },
+  {
+   "type": "text",
+   "text": "Well, \"あそぶ\", as we know, means \"play\"."
+  },
+  {
+   "type": "text",
+   "text": "\"くれる\" means to \"give\", and it specifically means \"give downwards\"."
+  },
+  {
+   "type": "text",
+   "text": "And the reason we say \"give downwards\" in Japanese\nis because we are always polite to people."
+  },
+  {
+   "type": "text",
+   "text": "So we always represent ourselves as being below other people"
+  },
+  {
+   "type": "text",
+   "text": "and other people as being above ourselves."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide contrasts giving verbs with gift boxes and arrows: under a red box an orange downward arrow points to くれる, labeled \"kureru / give-down / (to me/us)*\" with the footnote \"*or person we identify with such as Alice in this narrative\"; above a purple box an orange upward arrow points to あげる, labeled \"ageru / give-up / (to other).\""
+  },
+  {
+   "type": "text",
+   "text": "So if I say \"くれる\" (give), I always mean that someone"
+  },
+  {
+   "type": "text",
+   "text": "is giving something to me or to someone close to me."
+  },
+  {
+   "type": "text",
+   "text": "But what is Alice's big sister giving – or not giving – to Alice?"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide contrasting ～てあげる, labeled \"[action] te-ageru / give-up / (to other)\" with an orange up arrow from a man helping a fallen person, against ～てくれる, labeled \"[action] te-kureru / give-down / (to me/us)\" with an orange down arrow from a mother and child reading."
+  },
+  {
+   "type": "text",
+   "text": "Well, it's not the book. In fact, it's not any actual object."
+  },
+  {
+   "type": "text",
+   "text": "She is giving the action to which \"くれる\" is connected by the て-form."
+  },
+  {
+   "type": "text",
+   "text": "She is giving – or in this case, not giving – the act of playing to Alice."
+  },
+  {
+   "type": "text",
+   "text": "What do we mean by that?"
+  },
+  {
+   "type": "text",
+   "text": "Well, we say \"くれる\" not only for giving a thing – a book, a present, a candy – we"
+  },
+  {
+   "type": "text",
+   "text": "also say it for giving an action, for doing something for our benefit."
+  },
+  {
+   "type": "text",
+   "text": "This is very very often used in Japanese, so it's important to understand it."
+  },
+  {
+   "type": "text",
+   "text": "If someone does something for our benefit, \nwe turn that action to て-form and we add \"くれる\"."
+  },
+  {
+   "type": "text",
+   "text": "If we do something for someone else's benefit, we turn that action into te-form and add \"あげる\", which means to \"give upward\", in other words, to give to you, to give to another person."
+  },
+  {
+   "type": "text",
+   "text": "\"くれる\" and \"あげる\" – give down to me or my group / [\"あげる\"] give up to you or someone else or your group or their group."
+  },
+  {
+   "type": "text",
+   "text": "So what is this second part of the sentence?"
+  },
+  {
+   "type": "text",
+   "text": "It's \"あそんでくれなかった\" – \"she didn't play / she didn't give Alice playing-with /"
+  },
+  {
+   "type": "text",
+   "text": "she didn't play for Alice's benefit\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Vocabulary slide listing おねえちゃん, つまらない, 本, よむ, あそぶ and くれる with romanization and glosses, plus a note that くれる is 'give-down' (to me/us). At right an oval painting of a woman reading a book; the example sentence おねえちゃんは つまらない 本を よんで いて あそんで くれなかった。 has あそんで くれなかった。 circled in red."
+  },
+  {
+   "type": "text",
+   "text": "It's rather different from anything we find in English, but it's also very expressive,"
+  },
+  {
+   "type": "text",
+   "text": "something we could actually do with having in English."
+  },
+  {
+   "type": "text",
+   "text": "So now let's look at the whole sentence again."
+  },
+  {
+   "type": "text",
+   "text": "\"おねえちゃんはつまらない本をよんでいてあそんでくれなかった\" –"
+  },
+  {
+   "type": "text",
+   "text": "\"Big sister was reading a boring book and did not play [with Alice]\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-car diagram of a Japanese sentence: top row A→B1 has a は flag and car labels が, い, を, で, て above Øが つまらない ほんを よんで いて, while lower row B2 has labels で, た above あそんで くれなかった. A large arrow connects A to B1 and a diagonal arrow connects A to the first lower train; いて at B1 is circled in red as the connective letting A be shared with B2."
+  },
+  {
+   "type": "text",
+   "text": "Notice that we have two complete clauses here: \nClause 1: \"おねえちゃんはつまらない本をよんだ\" – that's a complete clause in itself, isn't it?"
+  },
+  {
+   "type": "text",
+   "text": "Clause 2: \"おねえちゃんはあそんでくれなかった\" – \"Oneechan did not play for Alice's benefit\""
+  },
+  {
+   "type": "text",
+   "text": "And we've connected the two together with the て-form."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "A thing we should notice here is that \"おねえちゃんはつまらない本をよんで\" \ndoesn't tell us the tense."
+  },
+  {
+   "type": "text",
+   "text": "We don't know whether she's reading a boring book right now or in the future or in the past. We don't know that until we get to the end of the sentence."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-car grammar diagram with labels A (upper left), B1 (upper right) and B2 (lower right), and the pieces は, が, Øが, つまらない, ほんを, よんで, いて, あそんで, くれなかった (carriage kana が, い, な, う, う, う, う). A long top arrow links A to B1, a diagonal arrow links A to B2, and くれなかった is circled beside B2."
+  },
+  {
+   "type": "text",
+   "text": "In English we put the tense marker on both halves of a complex sentence."
+  },
+  {
+   "type": "text",
+   "text": "We would say, \"Big sister WAS reading a boring book...\""
+  },
+  {
+   "type": "text",
+   "text": "so we already know that it's in the past."
+  },
+  {
+   "type": "text",
+   "text": "But in Japanese we put that tense marker, -た or -かった, at the end"
+  },
+  {
+   "type": "text",
+   "text": "and we only need one tense marker per sentence."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-car slide: a は flag and label A precede top-row cars printed が, い, を, う, う (subtext Øが, つまらない, ほんを, よんで, いて), with a long arrow to B1 and a diagonal arrow from the first car down toward B2. B2’s cars are printed う, う with subtext あそんで, くれなかった, and a green arrow runs from くれなかった to the green “was” by いて, with the green note “one tense-marker puts whole sentence in the past.”"
+  },
+  {
+   "type": "text",
+   "text": "\"よんでいて\" could mean \"is reading\" or could mean \"was reading\","
+  },
+  {
+   "type": "text",
+   "text": "but because the \"あそんでくれなかった\" is in the past and it's part of the same sentence"
+  },
+  {
+   "type": "text",
+   "text": "we have put everything into the past."
+  },
+  {
+   "type": "text",
+   "text": "Well, we didn't get very far into Alice's adventure today, did we?"
+  },
+  {
+   "type": "text",
+   "text": "But we can proceed faster as we get used to real text and learn the basic narrative structures."
+  }
+ ]
+}

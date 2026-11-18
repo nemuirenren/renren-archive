@@ -30,6 +30,16 @@
       "source": "Tae Kim Japanese Grammar Guide.pdf",
       "path": "books/003/",
       "index": "books/003/index.json"
+    },
+    {
+      "id": "004",
+      "slug": "cure-dolly",
+      "title": "Cure Dolly Complete Grammar Series Transcript",
+      "lang": "en",
+      "pages": 101,
+      "source": "Cure Dolly Complete Grammar Series Transcript.docx",
+      "path": "books/004/",
+      "index": "books/004/index.json"
     }
   ]
 }

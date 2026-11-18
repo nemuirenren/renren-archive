@@ -1,0 +1,415 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 12,
+ "page_label": "8b. Particles explained.",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "8b. Particles explained."
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "8b. Particles explained."
+  },
+  {
+   "type": "text",
+   "text": "Lesson 8b: Japanese particles explained. How they REALLY work."
+  },
+  {
+   "type": "text",
+   "text": "こんにちは."
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to get the key to every Japanese sentence."
+  },
+  {
+   "type": "text",
+   "text": "We're going to do a round-up of the logical particles – and the logical particles are the linchpins of Japanese."
+  },
+  {
+   "type": "text",
+   "text": "With a full understanding of what they do you can understand every Japanese sentence."
+  },
+  {
+   "type": "text",
+   "text": "Without it, you can't."
+  },
+  {
+   "type": "text",
+   "text": "And that's why the Japanese taught by the textbook which doesn't explain the logical particles correctly leaves most learners non-functional in Japanese even after they've passed exams."
+  },
+  {
+   "type": "text",
+   "text": "So, I'm going to do a round-up of the logical particles we've learned so far and I'm going"
+  },
+  {
+   "type": "text",
+   "text": "to introduce the last major logical particle, which is the で-particle."
+  },
+  {
+   "type": "text",
+   "text": "I'm going to do this with an analogy of detective work, because the logical particles essentially interrogate the nouns in the sentence and show how they relate to each other"
+  },
+  {
+   "type": "text",
+   "text": "and to the verb of the sentence, and they give the structure of the sentence."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Same slide as image1145: black silhouette of a pipe-smoking detective in a deerstalker above bold “THE DETECTIVES,” the Japanese string がをにへで(の), and a pink note that (の) is a logical particle but not part of the current detective group. No diagram labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "And this is what a logical particle is."
+  },
+  {
+   "type": "text",
+   "text": "People sometimes ask \"What do you mean by a logical particle?\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Contrasts logical particles drawn as three train cars labelled が, を, に, captioned \"Logical particles mark the structural functions of nouns in a sentence,\" with non-logical topic-markers drawn as two flags labelled は and も, captioned \"Non-logical topic-markers flag topics. Tell nothing about structure.\" No arrows; labels sit on the cars and flags."
+  },
+  {
+   "type": "text",
+   "text": "We've already discussed the difference between a logical particle and a non-logical topic-marker."
+  },
+  {
+   "type": "text",
+   "text": "A logical particle tells us how the sentence logically holds together."
+  },
+  {
+   "type": "text",
+   "text": "It tells us who does what to whom, with what, where, when and so forth."
+  },
+  {
+   "type": "text",
+   "text": "The は-particle doesn't do this, it just tells us what is the topic we're speaking about."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "There are other particles that I would call a-logical."
+  },
+  {
+   "type": "text",
+   "text": "They're not non-logical topic markers, but they're not logical particles either."
+  },
+  {
+   "type": "text",
+   "text": "For example, the particle -と adds two nouns together."
+  },
+  {
+   "type": "text",
+   "text": "So if we say \"さくらとメアリーがあるいていた\", we're saying \"Sakura and Mary were walking\"."
+  },
+  {
+   "type": "text",
+   "text": "The が-particle tells us who was doing the walking."
+  },
+  {
+   "type": "text",
+   "text": "The と-particle simply adds those two together. It doesn't tell us anything about what they were doing, where they were going, or anything else."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Explains the と particle via train cars: \"と-particle combines Sakura into the が-marked logical subject (A-car)... possesses none of its own.\" Green と and arrow point to car さくらと (\"Sakura-and\"), a green coupler links it to メアリーが; a red A→B arrow spans to the engines う あるいて and う いた, giving さくらとメアリーがあるいていた."
+  },
+  {
+   "type": "text",
+   "text": "So, the logical particles are the ones that tell us what is actually happening in the sentence."
+  },
+  {
+   "type": "text",
+   "text": "The other thing to remember about logical particles is that they always attach to a noun."
+  },
+  {
+   "type": "text",
+   "text": "If you see a logical particle attaching to anything, you know that that word is in fact functionally a noun."
+  },
+  {
+   "type": "text",
+   "text": "And we must always see the noun plus the particle attaching to it as an inseparable pair."
+  },
+  {
+   "type": "text",
+   "text": "The two work together."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Three train cars labeled が, を, に above black text \"Logical particles mark the structural functions of nouns in a sentence\" and red text \"That's why noun+particle are represented by one car,\" with three red arrows from the explanation to the cars. Below left, flags labeled は and も with \"Non-logical topic-markers flag topics. Tell nothing about structure.\""
+  },
+  {
+   "type": "text",
+   "text": "They are a question and an answer which form a fundamental unit of a Japanese sentence."
+  },
+  {
+   "type": "text",
+   "text": "All right. So let's look at this."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Particle が"
+  },
+  {
+   "type": "text",
+   "text": "The head of the Logical Particle Detective Agency is Detective が."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A black cartoon penguin in a brown plaid deerstalker holds a magnifying glass behind a large gold shield badge labelled \"CHIEF\" above and \"DETECTIVE\" below, with a central gold star containing が. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "He is the Chief."
+  },
+  {
+   "type": "text",
+   "text": "He has to be in every case."
+  },
+  {
+   "type": "text",
+   "text": "There can't be a sentence without が, as we already know, although sometimes you can't see him because he's in disguise, just like Sherlock Holmes is sometimes in disguise."
+  },
+  {
+   "type": "text",
+   "text": "He also has powers that the other logical particles do not have."
+  },
+  {
+   "type": "text",
+   "text": "He can work in A-is-B sentences, that is, descriptive sentences,"
+  },
+  {
+   "type": "text",
+   "text": "sentences that tell us what something is, what its qualities are."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "The other particles can't do that."
+  },
+  {
+   "type": "text",
+   "text": "They can only work in A-does-B sentences, that is, sentences with a verb engine."
+  },
+  {
+   "type": "text",
+   "text": "To put it another way, while Detective Ga works in the office with descriptive work,"
+  },
+  {
+   "type": "text",
+   "text": "the other detectives only work on cases, on actual actions, on incidents, on verb-ending clauses."
+  },
+  {
+   "type": "text",
+   "text": "So, let's look at them all at work on a verb-ending clause."
+  },
+  {
+   "type": "text",
+   "text": "Each of them has its own specific questions."
+  },
+  {
+   "type": "text",
+   "text": "Detective が asks the fundamental question: \"Who did it?\""
+  },
+  {
+   "type": "text",
+   "text": "This is the fundamental question of any sentence,"
+  },
+  {
+   "type": "text",
+   "text": "and for that reason, only Detective が's carriage can be black."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled 'Case-solving Questions (the attached noun answers it)': a detective penguin with a が badge and the bubble 'Who (or what) did it?'. At right a train sequence with A above the first car (marked が), an unlabelled middle car (marked を) and B above the locomotive (marked に); no arrows."
+  },
+  {
+   "type": "text",
+   "text": "Because the core of every sentence is \"who did the action?\""
+  },
+  {
+   "type": "text",
+   "text": "So が asks, \"Who was the actor? Who dunnit?\" and that forms the core of the sentence."
+  },
+  {
+   "type": "text",
+   "text": "The other logical particles ask other questions about the incident which give us"
+  },
+  {
+   "type": "text",
+   "text": "a complete picture of the event."
+  },
+  {
+   "type": "text",
+   "text": "We won't usually see all of them in any one sentence."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Particles を, に, へ"
+  },
+  {
+   "type": "text",
+   "text": "Detective を asks \"Who was it done to? Who was the receiver of the action?\""
+  },
+  {
+   "type": "text",
+   "text": "Detective に asks \"Where did he go?\" or \"Where is the weapon?\""
+  },
+  {
+   "type": "text",
+   "text": "に asks where someone or something went to or where it is."
+  },
+  {
+   "type": "text",
+   "text": "Detective へ asks \"In what direction did he go?\""
+  },
+  {
+   "type": "text",
+   "text": "Now, this is very close to Detective に's question, isn't it?"
+  },
+  {
+   "type": "text",
+   "text": "But we may not actually know where he went, so the answer to that question could be north, south, east or west, and that's the kind of question that に can't ask."
+  },
+  {
+   "type": "text",
+   "text": "Or it could be \"He went in the direction of Sakura's house\", and that's very close"
+  },
+  {
+   "type": "text",
+   "text": "to the question that に does ask."
+  },
+  {
+   "type": "text",
+   "text": "So they overlap to quite a degree."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Particle で"
+  },
+  {
+   "type": "text",
+   "text": "Now let's look at Detective で."
+  },
+  {
+   "type": "text",
+   "text": "Detective で asks the question \"Where was it done?\""
+  },
+  {
+   "type": "text",
+   "text": "and the question \"With what was it done? What was the weapon?\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled \"Case-solving Questions (the attached noun answers it)\" with five penguin detectives whose speech-bubble tails point to questions labeled が, を, に, へ and で. At upper right a train diagram labels the left car A and the locomotive B, marking the outer cars with が and the middle car with ?."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"(zeroが)こうえんにいる\", we're saying \"(I) am in the park\"."
+  },
+  {
+   "type": "text",
+   "text": "But if we want to say \"(I) am playing in the park\", we have to say \n\"(zeroが)こうえんであそんでいる\","
+  },
+  {
+   "type": "text",
+   "text": "because to express that we are doing something in a place rather than just being there, we have to use で."
+  },
+  {
+   "type": "figure",
+   "text": "【図】White slide with two blocks of dark text, upper and lower, essentially the same layout as image689. Vision analysis timed out repeatedly on this file, so the text could not be read."
+  },
+  {
+   "type": "text",
+   "text": "And we also use で to express the means (in terms of a noun) by which we do something."
+  },
+  {
+   "type": "text",
+   "text": "So if we say \"(zeroが)こえうんにいく\", we're saying \"(I) go to the park\"."
+  },
+  {
+   "type": "text",
+   "text": "But if we say \"(zeroが)バスでこうえんにいく\", we're saying the means by which we go to the park, in this case a bus."
+  },
+  {
+   "type": "figure",
+   "text": "【図】White slide with two blocks of dark text — one across the upper fifth, one across the middle — in the same layout as image713. The vision service timed out repeatedly on this file, so the wording could not be transcribed."
+  },
+  {
+   "type": "text",
+   "text": "If we say that we knocked in a hammer with a nail or ate food with chopsticks,"
+  },
+  {
+   "type": "text",
+   "text": "we use で for the thing we did it with."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"(zeroが)にほんごをはなす\", we're saying \"(I) speak Japanese\", \nbut if we say \"(zeroが)にほんごではなす\", we're saying"
+  },
+  {
+   "type": "text",
+   "text": "\"(I) speak with Japanese/Japanese is the means by which (I) speak\"."
+  },
+  {
+   "type": "text",
+   "text": "So this is equivalent in English to saying \"I speak in Japanese\", but as you can see,"
+  },
+  {
+   "type": "text",
+   "text": "the Japanese construction is more logical because that actually is what we're doing,"
+  },
+  {
+   "type": "text",
+   "text": "we're speaking by the means of Japanese."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "The other question, of course, that Detective に can ask is \n\"Who was the target of an action done to something else?\" \nbut we've already discussed that in the に lesson. (Lesson 8)"
+  },
+  {
+   "type": "text",
+   "text": "So this covers all the basic functions of the main logical particles, and as you can see,"
+  },
+  {
+   "type": "text",
+   "text": "these are the particles that tell us what's going on in any Japanese sentence."
+  },
+  {
+   "type": "text",
+   "text": "If we understand them, we can understand the sentence; if we don't understand them, we can't."
+  },
+  {
+   "type": "text",
+   "text": "So if we get confused by the logical particles, which we will if we take the textbooks seriously, we'll have a lot of trouble understanding Japanese."
+  },
+  {
+   "type": "text",
+   "text": "Don't confuse the particles and they won't confuse you."
+  }
+ ]
+}

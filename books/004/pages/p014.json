@@ -1,0 +1,529 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 14,
+ "page_label": "10. Helper verbs & the potential helper verb",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "10. Helper verbs & the potential helper verb"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "10. Helper verbs & the potential helper verb"
+  },
+  {
+   "type": "text",
+   "text": "Lesson 10: \"Japanese conjugation\" myth busted! Also, potential verb form secret unlocked"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about the main helper-verbs and about the potential form."
+  },
+  {
+   "type": "text",
+   "text": "When I say \"the main helper-verbs\", I'm referring to what the standard"
+  },
+  {
+   "type": "text",
+   "text": "Western Japanese grammar descriptions call \"conjugation\"."
+  },
+  {
+   "type": "text",
+   "text": "And I only mention this word because I don't want you to get confused"
+  },
+  {
+   "type": "text",
+   "text": "if you see \"conjugation\" referred to somewhere else."
+  },
+  {
+   "type": "text",
+   "text": "When they talk about \"conjugation\", this is what they mean."
+  },
+  {
+   "type": "text",
+   "text": "But in fact there is no such thing as conjugation in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "All we ever do is add helper-words to the four verb stems."
+  },
+  {
+   "type": "text",
+   "text": "And there are a lot of helper-words and most of them are just a question of extra vocabulary so long as you don't think of them as conjugation."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Kana chart with a red box around the う-column (う く す つ ぬ ぶ む る) and four red upward arrows below pointing to the あ, い, え and お columns. Right side pairs かう きく はなす もつ しぬ とぶ のむ とる with readings and glosses buy, hear, speak, hold, die, fly, drink, take."
+  },
+  {
+   "type": "text",
+   "text": "In some cases they get called \"conjugation\", in other cases they don't,"
+  },
+  {
+   "type": "text",
+   "text": "and they're exactly the same process every time."
+  },
+  {
+   "type": "text",
+   "text": "The only difference is that some of them happen to accidentally, and only very vaguely, resemble European conjugation and others don't."
+  },
+  {
+   "type": "text",
+   "text": "All kinds of confusions arise from confusing Japanese helper-verbs and helper-adjectives"
+  },
+  {
+   "type": "text",
+   "text": "with conjugations, but because we're not going to use them, we don't need to worry about that here. All right."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The potential helper verb"
+  },
+  {
+   "type": "text",
+   "text": "So, the first main helper-verb we're going to look at is the potential verb."
+  },
+  {
+   "type": "text",
+   "text": "Now, we've already looked, haven't we, at helper-words."
+  },
+  {
+   "type": "text",
+   "text": "We've looked at the helper-adjectives \"ない\", which forms the negative, and \"たい\", which"
+  },
+  {
+   "type": "text",
+   "text": "is used for the desirability of an action."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Three black-and-white trains labelled が (passenger car), う and い (locomotives), no arrows, above green text さくらが / はしら / ない with glosses. Bottom note: ない helper adjective on あ-stem, i.e. はしら + ない."
+  },
+  {
+   "type": "text",
+   "text": "We've also looked at the helper-verb \"がる\", which is attached to an adjective."
+  },
+  {
+   "type": "text",
+   "text": "Now we're going to look at the potential helper-verb, and this attaches to the え-stem."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Hiragana chart at left with the う-column (うくすつぬふむる) boxed red and the え-column (えけせてねへめれ) boxed green, green arrows pointing from red to green. To the right, arrowed pairs かう→かえ, きく→きけ, はなす→はなせ, もつ→もて, しぬ→しね, とぶ→とべ, のむ→のめ, とる→とれ and たべる→たべ, with a blue brace labelled る and blue -られる; caption \"Ichidan ('ru-verb'): always just delete the る\"."
+  },
+  {
+   "type": "text",
+   "text": "There aren't as many things we do with the え-stem"
+  },
+  {
+   "type": "text",
+   "text": "as we do with the あ and い-stems, but there are some."
+  },
+  {
+   "type": "text",
+   "text": "And only one of them is a verb, so there's no room for confusion here."
+  },
+  {
+   "type": "text",
+   "text": "The potential helper-verb has two forms, and they are \"-る\" and \"-られる\"."
+  },
+  {
+   "type": "text",
+   "text": "People can be a little disconcerted by the godan form of the helper-verb because it's"
+  },
+  {
+   "type": "text",
+   "text": "just one character, る(ru)."
+  },
+  {
+   "type": "text",
+   "text": "But that shouldn't worry you at all, and because it only ever goes onto the え-stem, can't be used on its own, it's very very easy to recognize."
+  },
+  {
+   "type": "text",
+   "text": "\"-られる\" is the form of the potential helper-verb that goes onto ichidan verbs – and we discussed godan and ichidan verbs before, didn't we?"
+  },
+  {
+   "type": "text",
+   "text": "So, \"かう\" (buy) becomes \"かえる\" (buy-able); \"きく\" (hear) becomes \"きける\" (hear-able);"
+  },
+  {
+   "type": "text",
+   "text": "\"はなす\" (speak) becomes \"はなせる\" (speak-able); \"もつ\" (hold) becomes \"もてる\" (hold-able)"
+  },
+  {
+   "type": "text",
+   "text": "and so forth."
+  },
+  {
+   "type": "text",
+   "text": "Note: change to え-stem and then the godan potential form る. Also note this…\n\nThere is some difference in their implication, Dolly clears them up further in LESSON 54. \nDolly SEEMS to make an error here by calling 聞こえる other-move, but it should be self-move as she implies in the beginning of the comment (+in comparison to other sources like Imabi)."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Screenshot of a YouTube comment thread on dark background: a learner asks whether kikeru is an exception since the table gives kiku→kikeru but they hear kikoeru; Cure Dolly replies that 聞く has regular 聞ける and irregular 聞こえる, like 見られる and 見える, and that helper ない has なくて and ないで. UI text includes 返信 and 1 件の返信."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark YouTube comment thread: @HyperLuigi37 asks the difference between 聞ける and 聞こえる, and a reply explains 聞こえる as a self-move form, the potential of 聞く being 聞ける, and 〇〇に聞こえる meaning \"sounds like 〇〇.\" A red \"SELF-\" label and underline correct \"other-\" to \"SELF-move\"; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "And with \"たべる\", which is an ichidan verb, we do what we always do, simply take off the"
+  },
+  {
+   "type": "text",
+   "text": "-る and put on whatever we're going to put on."
+  },
+  {
+   "type": "text",
+   "text": "So \"たべる\" (eat) becomes \"たべられる\" (eat-able)."
+  },
+  {
+   "type": "text",
+   "text": "So this is very simple, isn't it?"
+  },
+  {
+   "type": "text",
+   "text": "There are only two exceptions to this formation of the potential form and they are the two"
+  },
+  {
+   "type": "text",
+   "text": "Japanese irregular verbs, \"くる\" and \"する\"."
+  },
+  {
+   "type": "text",
+   "text": "\"くる\" become \"こられる\"\", but \"する\" surprisingly becomes できる."
+  },
+  {
+   "type": "text",
+   "text": "できる is the potential form of \"する\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two verb mappings: kuru (くる) with a right arrow to ko-rareru (こられる), and suru (する) with a right arrow to dekiru (できる), the changed kana in coral red. Arrows connect each base verb to its irregular potential form."
+  },
+  {
+   "type": "text",
+   "text": "And this is an interesting word because it also means \"come out\" –\nliterally it's made up of the kanji \"out\" and \"come\" – \"出来る/できる\", 出る (exit) 来る (come)"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Headed 「Side note - NO NEED TO LEARN」, the slide shows できる = 出来る and then glosses 出る as “leave/exit” and 来る as “come”; there are no arrows. A small white cartoon creature sits at lower right in a dark oval hole."
+  },
+  {
+   "type": "text",
+   "text": "And if we say \"にほんごができる\", we're not saying \"I can do Japanese\", \nwe're saying \"Japanese is possible\" / “does” possible"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Flag labelled は beside わたしは (marked OPTIONAL); below, a が-marked passenger car labelled にほんごが sits before a locomotive labelled う with できる beneath, illustrating わたしは にほんごが できる (“I can do Japanese”). No arrows, only the flagpole; the が-car is adjacent to the できる locomotive."
+  },
+  {
+   "type": "text",
+   "text": "And if we say or imply \"わたしはにほんごができる\", we're saying, \n\"To me, Japanese is possible\". (Dolly gives “does possible” to imply it’s A does B; not A is B)"
+  },
+  {
+   "type": "text",
+   "text": "And it's interesting if you see a small child perhaps trying to make something out of paper,"
+  },
+  {
+   "type": "text",
+   "text": "she may say, \"I'm trying very hard, but it won't come out right\" – and this is just"
+  },
+  {
+   "type": "text",
+   "text": "the way できる is used in Japanese, isn't it?"
+  },
+  {
+   "type": "text",
+   "text": "And there are some interesting ways in which できる is used which show how the idea of"
+  },
+  {
+   "type": "text",
+   "text": "something being possible and something coming out are closely linked in the Japanese language."
+  },
+  {
+   "type": "text",
+   "text": "But we won't talk about that now – that's a little bit more advanced."
+  },
+  {
+   "type": "text",
+   "text": "There's only one danger area with the potential form, and it's very very close to something we dealt with last week. (Lesson 9)"
+  },
+  {
+   "type": "text",
+   "text": "So if you've seen that lesson, this one should be very easy to you."
+  },
+  {
+   "type": "text",
+   "text": "Let's look at a typical sentence: \"ほんがよめる.\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train diagram for わたしは ほんが よめる (\"I can read books\"): a flag labelled は beside わたしは / watashi-wa / \"in relation to me\" with a diagonal green \"OPTIONAL\" mark, a left car labelled が over ほんが / hon-ga / \"book\", and a right locomotive labelled よ over よめる / yomeru. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, the standard texts usually translate this as \"I can read the book\"."
+  },
+  {
+   "type": "text",
+   "text": "But that isn't what it means, as you can clearly understand if you followed our previous lesson."
+  },
+  {
+   "type": "text",
+   "text": "Look where the が is. The が is marking what?"
+  },
+  {
+   "type": "text",
+   "text": "It's marking the book!"
+  },
+  {
+   "type": "text",
+   "text": "So who is the actor of this sentence?"
+  },
+  {
+   "type": "text",
+   "text": "It's the book."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-diagram slide for わたしはほんがよめる: a flag labels は (pronounced wa) beside わたしは / watashi-wa / in relation to me, marked green OPTIONAL. A red circle encloses が and ほんが / hon-ga / book, linking them; the locomotive bears う and is labelled よめる / yomeru / read-possible-does. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "We are saying something about the book."
+  },
+  {
+   "type": "text",
+   "text": "So the book is the main car and \"よめる\" is the engine."
+  },
+  {
+   "type": "text",
+   "text": "We are saying the book is readable, it's possible to read the book."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "If we add \"わたしは\", we are saying the book is readable \"to me\"."
+  },
+  {
+   "type": "text",
+   "text": "What we are literally saying is, \"In relation to me, the book is readable\"."
+  },
+  {
+   "type": "text",
+   "text": "But this does not and cannot mean, \"I can read the book\"."
+  },
+  {
+   "type": "text",
+   "text": "If we wanted to say \"I can read the book\", the book would have to be marked by を, wouldn't it?"
+  },
+  {
+   "type": "text",
+   "text": "And I would have to be marked by が."
+  },
+  {
+   "type": "text",
+   "text": "And it is in fact possible to do this, but it's not what is usually done."
+  },
+  {
+   "type": "text",
+   "text": "But also remember that if we want to put stress on the ego, the way English wants to, then we have to change the particles."
+  },
+  {
+   "type": "text",
+   "text": "If we literally want to say, \"I can read the book\" – \"わたしがほんをよめる\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "A lot of people think this is bad Japanese. \nNote: I guess it isn’t how the Japanese tend to speak. It could be called “Englishised” Japanese as it puts emphasis on the ego first, as the subject, which isn’t how they tend to think in Japan."
+  },
+  {
+   "type": "text",
+   "text": "Not our place to work out whether it is or isn't bad Japanese."
+  },
+  {
+   "type": "text",
+   "text": "The point is that most of the time you will see \"ほんがよめる\", \nand \"(わたしは)ほんがよめる\" can't literally mean \"I can read the book\"."
+  },
+  {
+   "type": "text",
+   "text": "It means \"The book is readable\". \n(Can say わたしは to imply book does readable TO ME - a topic, but it’s usually not mentioned)"
+  },
+  {
+   "type": "text",
+   "text": "So that's simple enough, and provided we remember that, we don't send all those particles into"
+  },
+  {
+   "type": "text",
+   "text": "crazy illogicality."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Black-and-white compass rose with particle labels around it: が at top, に at right, を at bottom, で at left, with no arrows or connecting lines. Orange text below reads \"don't confuse the particles & they won't confuse you.\""
+  },
+  {
+   "type": "text",
+   "text": "So really this is very much similar to the questions we discussed last week about -たい and adjectives of desire."
+  },
+  {
+   "type": "text",
+   "text": "If we just keep that が straight in our minds, everything else will fall into place."
+  },
+  {
+   "type": "text",
+   "text": "And just as with the たい-form if we say, \"(わたしは)ケーキがたべたい\","
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-metaphor slide: an optional flag marked は labelled わたしは with green “OPTIONAL,” a boxcar marked が labelled ケーキが (“cake”), and a locomotive marked い labelled たべたい (“eat-want-making-is”). No arrows; the pieces read わたしは ケーキが たべたい — “I want to eat cake.”"
+  },
+  {
+   "type": "text",
+   "text": "it's the cake that’s being want-inducing (to me personally - topic), but if we just say \n\"(わたしは)(zeroが)たべたい\" we do mean \"(In relation to me) (I) want to eat\" / eat-wanting-am,"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train diagram: a pennant flag は beside わたしは (\"speaking of me\") with green OPTIONAL, a gray が-marked car over ∅が (\"I\"), and a black い-engine over たべたい (\"eat-wanting-am\"). It illustrates わたしは ∅が たべたい with は optional and が marking the zero subject; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "because when there's no particular food there to do the being wanted, then I do the wanting."
+  },
+  {
+   "type": "text",
+   "text": "(I’m the subject that just wants to eat something because I’m hungry; here I’m also the topic)."
+  },
+  {
+   "type": "text",
+   "text": "However, do note that no food is present there, so it defaults to “me”. \nZeroが (and also zeroは) is dependent on the context of the situation/sentence, Dolly says..."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-mode YouTube comment screenshot: a learner asks whether shouting a romanized word at a cake makes the cake the subject; Organic Japanese with Cure Dolly replies that the implicit sentence would be 「のが食べたい」 where ∅ = the cake, otherwise 「食べたい」 means \"I want to eat\" with ∅ = \"I\". UI text includes 「1 件の返信」, 「返信」, 「4年前」."
+  },
+  {
+   "type": "text",
+   "text": "It's the same with the potential form."
+  },
+  {
+   "type": "text",
+   "text": "So we say, \"(わたしは)ほんがよめる\" – \"(to me) the book is read-able\","
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-style diagram: a flag labelled は above わたしは with green 'OPTIONAL' and gloss 'in relation to me'; a left car labelled が above ほんが ('book'); a right locomotive labelled う above よめる ('read-possible-does'). The pieces model わたしは ほんが よめる and are not visibly connected by arrows."
+  },
+  {
+   "type": "text",
+   "text": "but if we just want to say \"I can read\" – not \"I can read the book or I can read the newspaper"
+  },
+  {
+   "type": "text",
+   "text": "or I can read Sakura's secret diary\", but \n\"I can read\" – then we say \"わたしがよめる\" or just \"よめる\", which means \"(zeroが)よめる\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Two juxtaposed train images with no connecting lines: at left a faded passenger car with a large black が, labelled øが / ø-ga / 'I'; at right a black steam locomotive with う, labelled よめる / yomeru / 'read-can'. Together they suggest øがよめる 'I can read'."
+  },
+  {
+   "type": "text",
+   "text": "And we really have become the subject of the sentence."
+  },
+  {
+   "type": "text",
+   "text": "And I am sure there are people who find this confusing, but if you followed the past lesson"
+  },
+  {
+   "type": "text",
+   "text": "this should be completely clear."
+  },
+  {
+   "type": "text",
+   "text": "And let's remember that Japanese always fits together just like Lego,"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide with peach outlined text “Main helper verbs are ichidan always just remove る and add what is needed” on white. Three unlabeled 3-D Lego-style bricks (blue 1×4, red 1×1, yellow 2×3) are shown separately, no arrows, as a snap-together metaphor."
+  },
+  {
+   "type": "text",
+   "text": "so the potential helper-verb, even when it's just that single kana る(ru), is simply a regular ichidan verb like most helper-verbs, and we can do exactly the same things with it that we can do with other helper-verbs. \nNote: I guess Dolly means the potential helper works like ichidan, so if adding anything to the potential, remove the る as with any ichidan and attach to the え-stem. \nDolly’s replies under one comment:"
+  },
+  {
+   "type": "text",
+   "text": "‘The \"potential form\" of godan verbs is ichidan because the る helper is ichidan…\nGodan is a red herring here. As soon as we attach any ichidan helper to a godan verb we are dealing with an ichidan entity and anything we do after that follows the ichidan pattern…So there is no question of a godan verb becoming ichidan. What is happening is that a godan verb is attaching an ichidan helper.’"
+  },
+  {
+   "type": "text",
+   "text": "We'll always recognize it, because it's the only one that goes onto the え-stem, and we"
+  },
+  {
+   "type": "text",
+   "text": "can do everything with it that we do with any other ichidan verb."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide explains ichidan potential conjugation with あるける, headed “arukeru (can walk) every potential verb works like this” and “(aruku→aruke+ru).” A red arrow runs from あるける down to あるけ labelled “ichidan stem (remove る);” red arrows from あるけ point to た (“past”) and ない (“negative”), and from ない to なかった (“negative+past”). Green text: “ichidan helper verbs work like every other ichidan verb”; blue, red and yellow Lego bricks at right are unlabelled building-block imagery."
+  },
+  {
+   "type": "text",
+   "text": "So: \"あるける\" – can walk; \"あるけない\" – can't walk; \n\"あるけた\" – could walk; \"あるけなかった\" – couldn't walk."
+  },
+  {
+   "type": "text",
+   "text": "And this regularity is the same even with the irregulars."
+  },
+  {
+   "type": "text",
+   "text": "So: できる – possible; \"できない\" – not possible;"
+  },
+  {
+   "type": "text",
+   "text": "\"できた\" – was possible; \"できなかった\" – wasn't possible."
+  },
+  {
+   "type": "text",
+   "text": "Note: I got quite confused, since I looked up 出来る/できる in Jisho and they actually show that it has a potential form of “できられる” which is interesting since できる should already imply the potential form. I looked up some Japanese forums (and others) and it seems that even the Japanese?? found できられる weird. Or it could be an honorific form?… Correct me if wrong…\nE.g. 分かる also has no potential form, as it implies it. Dolly explains, “分かれる” is another word"
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "Note: I will also add some regular ichidan verb example."
+  },
+  {
+   "type": "text",
+   "text": "“たべられる” - can eat; “たべられない” - can’t eat;\n“たべられた” - could eat; “たべられなかった” - couldn’t eat."
+  },
+  {
+   "type": "text",
+   "text": "And it's really as easy as that."
+  }
+ ]
+}

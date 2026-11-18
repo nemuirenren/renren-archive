@@ -1,0 +1,501 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 7,
+ "page_label": "5. Verb Groups and the て-form",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "5. Verb Groups and the て-form"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "5. Verb Groups and the て-form"
+  },
+  {
+   "type": "text",
+   "text": "Lesson 5: Japanese verb groups and the te-form. Verb groups 1, 2, 3 made easy. Organic Japanese"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about Japanese verb groups."
+  },
+  {
+   "type": "text",
+   "text": "Japanese verbs fall into three groups, and these don't matter except when we're going"
+  },
+  {
+   "type": "text",
+   "text": "to make some change in the form of the verb."
+  },
+  {
+   "type": "text",
+   "text": "But because we do that pretty often, it's important to understand the three groups."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Ichidan verbs"
+  },
+  {
+   "type": "text",
+   "text": "The first group of Japanese verbs is called ichidan verbs or \"one-level\" verbs."
+  },
+  {
+   "type": "text",
+   "text": "Some people call them \"る-verbs\", which is a very silly name."
+  },
+  {
+   "type": "text",
+   "text": "If you're going to call them anything like that, we should probably call them \"いる/える verbs\"."
+  },
+  {
+   "type": "text",
+   "text": "They are the simplest and most basic kind of verb."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled \"ICHIDAN\": \"iru/eru\", \"Morphing easy. Just switch out the る ru.,\" with \"Always\" emphasized at the bottom. Explains ichidan conjugation by replacing final る; no diagram or arrows. Japanese text: る."
+  },
+  {
+   "type": "text",
+   "text": "When we want to make any change, we always do it the same way."
+  },
+  {
+   "type": "text",
+   "text": "All we do is take the -る off the end and put on whatever we want to put on."
+  },
+  {
+   "type": "text",
+   "text": "Ichidan verbs can only end with either -いる or -える, that's to say, \nwith one of the kana from the い-row or one of the kana from the え-row plus -る."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Hiragana gojūon chart with column headers r-, y-, m-, h-, n-, t-, s-, k- and row labels -a, -i, -u, -e, -o, romaji beneath. Red boxes outline the -i and -e rows, joined by a red curly brace pointing to +る, illustrating i/e-row kana + る."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Godan verbs"
+  },
+  {
+   "type": "text",
+   "text": "The second group of verbs is by far the largest and any ending that a verb can have,"
+  },
+  {
+   "type": "text",
+   "text": "verbs in this group can have."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Pale-blue beveled slide headed 'GODAN' listing dictionary-form godan endings in red with romaji above the kana: u tsu ru / う つ る; nu bu mu / ぬ ぶ む; ku gu / く ぐ; su / す. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "Verbs always end with the う-sound, but not all う-kana can make the end of a verb,"
+  },
+  {
+   "type": "text",
+   "text": "but a lot of them can and all of them can make godan verbs."
+  },
+  {
+   "type": "text",
+   "text": "They are called godan verbs, or \"five-level\" verbs, for reasons that we'll see shortly,"
+  },
+  {
+   "type": "text",
+   "text": "and as I say they can end in any う-sound, including -いる or -える."
+  },
+  {
+   "type": "text",
+   "text": "Unlike ichidan verbs, they can also end in -おる, -ある or -うる."
+  },
+  {
+   "type": "text",
+   "text": "So the only time we have any ambiguity is when we have a verb ending in -いる or -える."
+  },
+  {
+   "type": "text",
+   "text": "Most of those verbs are ichidan verbs, but there is a substantial minority"
+  },
+  {
+   "type": "text",
+   "text": "of いる/える-ending godan verbs."
+  },
+  {
+   "type": "text",
+   "text": "It's not as difficult to differentiate them as you might think, and I've made a video on that,"
+  },
+  {
+   "type": "text",
+   "text": "although it's a little bit more advanced than this lesson."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Irregular verbs"
+  },
+  {
+   "type": "text",
+   "text": "The third group of verbs is irregular verbs,"
+  },
+  {
+   "type": "text",
+   "text": "and the good news here is that there are only two of them."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Pale-pink slide titled \"IRREGULAR\" with red text \"kuru\" over くる and \"suru\" over する, and \"That’s all\" at the bottom; presents くる and する as the only irregular verbs."
+  },
+  {
+   "type": "text",
+   "text": "You know those pages and pages of irregular verbs in your Spanish or French textbook?"
+  },
+  {
+   "type": "text",
+   "text": "Well, Japanese has just two."
+  },
+  {
+   "type": "text",
+   "text": "There are a couple of other verbs that are irregular in just one small respect, but very few."
+  },
+  {
+   "type": "text",
+   "text": "The irregular verbs are くる (come) and する (do)."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The -て Form"
+  },
+  {
+   "type": "text",
+   "text": "So now that we know the three groups, we're going to take a look at how you make them"
+  },
+  {
+   "type": "text",
+   "text": "into the -て and -た form."
+  },
+  {
+   "type": "text",
+   "text": "As I explained last week (Lesson 4), we need those two forms for making the Japanese present and past tenses."
+  },
+  {
+   "type": "text",
+   "text": "And they have a number of other uses too, which we'll learn as we go along with this course."
+  },
+  {
+   "type": "text",
+   "text": "And as I demonstrated last week, ichidan verbs are always very easy."
+  },
+  {
+   "type": "text",
+   "text": "You never do anything except take off the -る and put on whatever you're going to put on,"
+  },
+  {
+   "type": "text",
+   "text": "in this case a て or a た."
+  },
+  {
+   "type": "text",
+   "text": "As for the godan verbs, they fall into five groups, as you would expect (五段/ごだん, five-level verbs), and I made a video about this a while ago."
+  },
+  {
+   "type": "text",
+   "text": "So what I'm going to do is run that video right now,"
+  },
+  {
+   "type": "text",
+   "text": "because it explains things pretty clearly."
+  },
+  {
+   "type": "text",
+   "text": "All right, roll the video."
+  },
+  {
+   "type": "text",
+   "text": "Godan verbs have five kinds of possible ending – that's why they're called godan verbs:"
+  },
+  {
+   "type": "text",
+   "text": "five-level verbs."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Green chart links final kana to て形 endings with white right-pointing arrows: う・つ・る→って, ぬ・ぶ・む→んで, く→いて, ぐ→いで, す→して. Terse reference for Group I verb te-form sound changes."
+  },
+  {
+   "type": "text",
+   "text": "And although that seems a little bit difficult, it really isn't."
+  },
+  {
+   "type": "text",
+   "text": "We can combine two of the levels anyway, because they are so close that we only need to learn them once."
+  },
+  {
+   "type": "text",
+   "text": "And I'm going to go through the main groups."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The First Godan Group"
+  },
+  {
+   "type": "text",
+   "text": "The first group is what I call the UTSURU/うつる verbs."
+  },
+  {
+   "type": "text",
+   "text": "Those are the verbs ending in -う, -つ and -る."
+  },
+  {
+   "type": "text",
+   "text": "The word うつる in Japanese – if you don't know it, now is a good time to learn it –"
+  },
+  {
+   "type": "text",
+   "text": "うつる means to move from one thing to another, and that's exactly what we're doing here – moving our verbs from one type to another."
+  },
+  {
+   "type": "text",
+   "text": "So the verbs which end in -う, -つ and -る all transform in the same way to the て-form."
+  },
+  {
+   "type": "text",
+   "text": "We take off the -う, the -つ or the -る, and we replace it with a small -っplus て"
+  },
+  {
+   "type": "text",
+   "text": "(or た in the た-form)."
+  },
+  {
+   "type": "text",
+   "text": "So わらう - laugh, becomes わらって (Waratte); \nもつ - hold, becomes もって (Motte); \nand とる - take, becomes とって (Totte)."
+  },
+  {
+   "type": "text",
+   "text": "Now, you'll notice that うつる has つ in the middle."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Green background with pink heading うつる UTSURU group; \"u,tsu,ru\" labels cyan うつる and \"tte\" labels pale-yellow って. A large dark-red curved arrow points from うつる to って, and white つ characters sit at bottom left and right."
+  },
+  {
+   "type": "text",
+   "text": "And the て-form of the うつる verbs is formed by using a small っ plus that て."
+  },
+  {
+   "type": "text",
+   "text": "It's the only group that has つ in it, and it's the only group that has a つ in the て-form ending. \nTip: you can type the small っ by typing t before a T-kana った (tta), or by X key + tsu. This also applies to “あ, い, う, え, お” kana - ぁ (X + a), ぃ (X + i)... Note also づ (typed - Du) and ぢ (Di) - irregular ず and じ kana forms. In case you ever need to type them, can happen. And ん is “nn”."
+  },
+  {
+   "type": "text",
+   "text": "So it's really easy to remember."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The Second Godan Group"
+  },
+  {
+   "type": "text",
+   "text": "The second group is what I call the NEW BOOM group."
+  },
+  {
+   "type": "text",
+   "text": "In Japanese when something is really taking off, when it's becoming popular,"
+  },
+  {
+   "type": "text",
+   "text": "we call it a ブーム (BUUMU)."
+  },
+  {
+   "type": "text",
+   "text": "That's an English word, isn't it?"
+  },
+  {
+   "type": "text",
+   "text": "Buumu, a New Buumu!"
+  },
+  {
+   "type": "text",
+   "text": "So, this group I call the New Boom group"
+  },
+  {
+   "type": "text",
+   "text": "because there isn't a Japanese word that you can make out of ぬ, ぶ and む that I know of,"
+  },
+  {
+   "type": "text",
+   "text": "and what I want you to notice about this group of verbs is that they all end"
+  },
+  {
+   "type": "text",
+   "text": "in what I would call a dull sound – ぬ, ぶ, む."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Green chalkboard slide headed ぬ,ぶ,む NEW BOOM group (nu,bu,mu), with a white arrow from cyan ぬ,ぶ,む to yellow んで labelled nde. At the bottom, 'The blunt, dull sounds' has two upward arrows pointing to ぬ,ぶ,む and to んで."
+  },
+  {
+   "type": "text",
+   "text": "It's not a sharp sound like す, つ, く, and it's not a neutral sound like る or う."
+  },
+  {
+   "type": "text",
+   "text": "It's a dull sound – ぬ, ぶ, む (Nu, Bu, Mu)."
+  },
+  {
+   "type": "text",
+   "text": "And this is important because the ending is also a dull sound."
+  },
+  {
+   "type": "text",
+   "text": "The て-form ending is -んで, the た-form is -んだ."
+  },
+  {
+   "type": "text",
+   "text": "So しぬ, the only -ぬ ending verb, becomes しんで / しんだ; \nのむ - drink, becomes のんで / のんだ; あそぶ - play, becomes あそんで / あそんだ."
+  },
+  {
+   "type": "text",
+   "text": "So that's the New Boom group, the dull-ending verbs."
+  },
+  {
+   "type": "text",
+   "text": "And because only a limited number of the possible kana can be used as a verb ending, they include all the dull sounds except for ぐ (Gu)."
+  },
+  {
+   "type": "text",
+   "text": "We'll come to that right now."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The Third & Fourth Godan Group"
+  },
+  {
+   "type": "text",
+   "text": "I told you that two of the groups could be combined - and that is the く and ぐ group."
+  },
+  {
+   "type": "text",
+   "text": "To make the て form of a -く ending verb, we cut off the -く and add -いて,"
+  },
+  {
+   "type": "text",
+   "text": "or -いた in the た form."
+  },
+  {
+   "type": "text",
+   "text": "So あるく - walk, becomes あるいて / あるいた."
+  },
+  {
+   "type": "text",
+   "text": "Now, if we have a〃(ten-ten) on that -く, to make it into a -ぐ, \nit's exactly the same, except that there is also a ten-ten on the て-ending."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Green chalkboard slide shows く、ぐ at top with “KU-GU”; below, く、ぐ labeled “ku, gu” with ぐ circled red, and いて、いで labeled “ite, ide” with で circled red, joined by a white right-pointing arrow. Bottom mnemonics read “mnemonic: GUIDE (gu-ide)” and “or QUITE (ku-ite).”"
+  },
+  {
+   "type": "text",
+   "text": "So あるく becomes あるいて, but およぐ - to swim, becomes およいで."
+  },
+  {
+   "type": "text",
+   "text": "But, as you see, the two are more or less identical."
+  },
+  {
+   "type": "text",
+   "text": "It's just that if there's a ten-ten on the original verb, there's a ten-ten on the て-form too."
+  },
+  {
+   "type": "text",
+   "text": "あるく, あるいて; およぐ, およいで."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The Fifth Godan Group"
+  },
+  {
+   "type": "text",
+   "text": "And now we just have one left, and that is す."
+  },
+  {
+   "type": "text",
+   "text": "And verbs ending in -す drop the -す and add -して."
+  },
+  {
+   "type": "text",
+   "text": "As you will notice, if you have followed our last lesson (Not sure which, but will be discussed), \nwe are just doing that regular thing of shifting the す kana to its い-row equivalent, し."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Partial hiragana chart rows あいうえお through らりるれろ (plus ばびぶべぼ), with Latin readings beside each kana. A green vertical box encloses いきしちにびみり, a red vertical box encloses うくすつぬぶむる, and a red horizontal oval encloses さしすせそ; green arrows at top and bottom point left from the red box to the green box."
+  },
+  {
+   "type": "text",
+   "text": "So はなす - talk, becomes はなして; the ます helper verb, which turns verbs into formal (polite) verbs, in the past tense becomes ました."
+  },
+  {
+   "type": "text",
+   "text": "Note: Whenever Dolly uses the term “formal” for です or ます, it should be POLITE instead, there is a difference between the two terms in Japanese, not sure why she did not bring this one up, but it is quite important to distinguish, if you look into their definitions, dictionaries mark them as polite."
+  },
+  {
+   "type": "text",
+   "text": "They are part of the 丁寧語 (polite language). So it is more accurate to call them polite instead."
+  },
+  {
+   "type": "text",
+   "text": "So now we have all the godan verbs. Didn't I look young in that old video?"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide teaches hiragana す: large pink す with 'su', cyan す at left, a white arrow pointing right to yellow して labelled 'shite'. Bottom mnemonic: 'SUSHI (su-shi)'."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The Exceptions"
+  },
+  {
+   "type": "text",
+   "text": "Now, we are just going to look at the exceptions."
+  },
+  {
+   "type": "text",
+   "text": "There are only three altogether: our two irregular verbs and one other small one."
+  },
+  {
+   "type": "text",
+   "text": "And these are very simple. くる (come) becomes きて; する (do) becomes して."
+  },
+  {
+   "type": "text",
+   "text": "And いく – the verb いく (to go) – because it ends in -く, \nyou would expect it to become いいて, but it doesn't, it becomes いって."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Te-form pairs: くる→きて and する→して in pink, いく→いって in blue, while いいて is crossed out with a red X. A bottom-left box labelled IRREGULAR holds くる and する with \"That's all\" and two upward arrows to them; romanised labels sit above the verbs and glosses come/do/go below."
+  },
+  {
+   "type": "text",
+   "text": "And those are the only exceptions. So if you go over the video / this lesson a couple of times, \nI think you’ll find it pretty easy to know exactly how to make the -て and -た forms in all cases."
+  }
+ ]
+}

@@ -1,0 +1,1727 @@
+{
+ "id": "004",
+ "title": "Cure Dolly Complete Grammar Series Transcript",
+ "lang": "en",
+ "pages": 101,
+ "outline": [
+  {
+   "level": 1,
+   "title": "Front Matter",
+   "pages": [
+    1,
+    1
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Table of Contents",
+   "pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "level": 1,
+   "title": "1. The Basic Types of Sentences",
+   "pages": [
+    3,
+    3
+   ]
+  },
+  {
+   "level": 1,
+   "title": "2. The Invisible Carriage and the を Particle",
+   "pages": [
+    4,
+    4
+   ]
+  },
+  {
+   "level": 1,
+   "title": "3. The は Particle",
+   "pages": [
+    5,
+    5
+   ]
+  },
+  {
+   "level": 1,
+   "title": "4. Japanese Verb Tenses",
+   "pages": [
+    6,
+    6
+   ]
+  },
+  {
+   "level": 1,
+   "title": "5. Verb Groups and the て-form",
+   "pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "level": 1,
+   "title": "6. Adjectives",
+   "pages": [
+    8,
+    8
+   ]
+  },
+  {
+   "level": 1,
+   "title": "7. Negative Forms and Adjectives in Past Tense",
+   "pages": [
+    9,
+    9
+   ]
+  },
+  {
+   "level": 1,
+   "title": "7.5. Conjugation",
+   "pages": [
+    10,
+    10
+   ]
+  },
+  {
+   "level": 1,
+   "title": "8. The に and へ particles",
+   "pages": [
+    11,
+    11
+   ]
+  },
+  {
+   "level": 1,
+   "title": "8b. Particles explained.",
+   "pages": [
+    12,
+    12
+   ]
+  },
+  {
+   "level": 1,
+   "title": "9. The Subject of the Japanese Sentence & Expressing Desire: ほしい, たい, たがる",
+   "pages": [
+    13,
+    13
+   ]
+  },
+  {
+   "level": 1,
+   "title": "10. Helper verbs & the potential helper verb",
+   "pages": [
+    14,
+    14
+   ]
+  },
+  {
+   "level": 1,
+   "title": "11. Compound sentences, くれる, あげる \nand more uses of the て-form",
+   "pages": [
+    15,
+    15
+   ]
+  },
+  {
+   "level": 1,
+   "title": "12. Quotation particle と, compound verbs & nouns",
+   "pages": [
+    16,
+    16
+   ]
+  },
+  {
+   "level": 1,
+   "title": "13. Passive Conjugation / Receptive Helper Verb",
+   "pages": [
+    17,
+    17
+   ]
+  },
+  {
+   "level": 1,
+   "title": "14. Adverbs and the も Particle",
+   "pages": [
+    18,
+    18
+   ]
+  },
+  {
+   "level": 1,
+   "title": "15. Transitive & intransitive verbs",
+   "pages": [
+    19,
+    19
+   ]
+  },
+  {
+   "level": 1,
+   "title": "16. てみる, や particle, から particle, exclusive “and”",
+   "pages": [
+    20,
+    20
+   ]
+  },
+  {
+   "level": 1,
+   "title": "17. Polite Japanese and the volitional",
+   "pages": [
+    21,
+    21
+   ]
+  },
+  {
+   "level": 1,
+   "title": "18. って = は?? Mysteries explained! \n-おうとする, とする, として, という, っていう",
+   "pages": [
+    22,
+    22
+   ]
+  },
+  {
+   "level": 1,
+   "title": "19. Causative + causative receptive",
+   "pages": [
+    23,
+    23
+   ]
+  },
+  {
+   "level": 1,
+   "title": "20. Directionals: それ・その・そんな・そう etc.",
+   "pages": [
+    24,
+    24
+   ]
+  },
+  {
+   "level": 1,
+   "title": "21. てある/ている & ておく",
+   "pages": [
+    25,
+    25
+   ]
+  },
+  {
+   "level": 1,
+   "title": "22. ては & ても",
+   "pages": [
+    26,
+    26
+   ]
+  },
+  {
+   "level": 1,
+   "title": "23. だって + だから & それから",
+   "pages": [
+    27,
+    27
+   ]
+  },
+  {
+   "level": 1,
+   "title": "24. Hearsay & guesses - そう・そうだ・そうです",
+   "pages": [
+    28,
+    28
+   ]
+  },
+  {
+   "level": 1,
+   "title": "25. らしい vs そうだ / そうです + っぽい (ppoi)",
+   "pages": [
+    29,
+    29
+   ]
+  },
+  {
+   "level": 1,
+   "title": "26. Similes: ようだ・のように・のような ・みたい",
+   "pages": [
+    30,
+    30
+   ]
+  },
+  {
+   "level": 1,
+   "title": "27. ばかり",
+   "pages": [
+    31,
+    31
+   ]
+  },
+  {
+   "level": 1,
+   "title": "28. ように - one key to all the main uses",
+   "pages": [
+    32,
+    32
+   ]
+  },
+  {
+   "level": 1,
+   "title": "29. ことにする & ことになる",
+   "pages": [
+    33,
+    33
+   ]
+  },
+  {
+   "level": 1,
+   "title": "30. Japanese Conditionals: と",
+   "pages": [
+    34,
+    34
+   ]
+  },
+  {
+   "level": 1,
+   "title": "31. The ば / れば Conditional",
+   "pages": [
+    35,
+    35
+   ]
+  },
+  {
+   "level": 1,
+   "title": "32. The たら, なら Conditionals",
+   "pages": [
+    36,
+    36
+   ]
+  },
+  {
+   "level": 1,
+   "title": "33. Limiting terms: だけ, しか, ばかり, のみ",
+   "pages": [
+    37,
+    37
+   ]
+  },
+  {
+   "level": 1,
+   "title": "34. Understand any sentence",
+   "pages": [
+    38,
+    38
+   ]
+  },
+  {
+   "level": 1,
+   "title": "35. より, のほう, 一方",
+   "pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "level": 1,
+   "title": "36. 所 - the concept of “place”",
+   "pages": [
+    40,
+    40
+   ]
+  },
+  {
+   "level": 1,
+   "title": "37. New structure secrets + な vs の, なる & たる adjectives",
+   "pages": [
+    41,
+    41
+   ]
+  },
+  {
+   "level": 1,
+   "title": "38. When \"it isn't\" means \"it is\": \nじゃない, ではない",
+   "pages": [
+    42,
+    42
+   ]
+  },
+  {
+   "level": 1,
+   "title": "39. The か Particle: \"Buried questions\", \nかな, もんか, かどうか...",
+   "pages": [
+    43,
+    43
+   ]
+  },
+  {
+   "level": 1,
+   "title": "40. 3 pitfalls in Japanese and how to avoid them",
+   "pages": [
+    44,
+    44
+   ]
+  },
+  {
+   "level": 1,
+   "title": "41. 5 key facts about the basic structure of Japanese",
+   "pages": [
+    45,
+    45
+   ]
+  },
+  {
+   "level": 1,
+   "title": "42. Basic word-confusion | まま",
+   "pages": [
+    46,
+    46
+   ]
+  },
+  {
+   "level": 1,
+   "title": "43. PARADIGM SHIFT: Cut through the confusion",
+   "pages": [
+    47,
+    47
+   ]
+  },
+  {
+   "level": 1,
+   "title": "44. How to use natural Japanese: ちゃう, ちゃった",
+   "pages": [
+    48,
+    48
+   ]
+  },
+  {
+   "level": 1,
+   "title": "45. First-Step Guide into Self Immersion Technique",
+   "pages": [
+    49,
+    49
+   ]
+  },
+  {
+   "level": 1,
+   "title": "46. Word Order MATTERS \n2 Simple rules to crack tough sentences",
+   "pages": [
+    50,
+    50
+   ]
+  },
+  {
+   "level": 1,
+   "title": "47. How to Understand Japanese: Your Secret Weapon for breaking down sentences",
+   "pages": [
+    51,
+    51
+   ]
+  },
+  {
+   "level": 1,
+   "title": "48. Dealing with ambiguity in Japanese",
+   "pages": [
+    52,
+    52
+   ]
+  },
+  {
+   "level": 1,
+   "title": "49. Japanese Point-of-View Deconfused! \n-もらう・てもらう",
+   "pages": [
+    53,
+    53
+   ]
+  },
+  {
+   "level": 1,
+   "title": "50. 2 Aspects of Japanese that Foreigners Can't Fathom: させてもらう Last Secret of the Potential",
+   "pages": [
+    54,
+    54
+   ]
+  },
+  {
+   "level": 1,
+   "title": "51. How to read a Japanese 怪談 / かいだん \n(ghost story)",
+   "pages": [
+    55,
+    55
+   ]
+  },
+  {
+   "level": 1,
+   "title": "52. In-depth Japanese Sentence Analysis in Real Native Context",
+   "pages": [
+    56,
+    56
+   ]
+  },
+  {
+   "level": 1,
+   "title": "53. Enjoy Japanese Horror in Japanese",
+   "pages": [
+    57,
+    57
+   ]
+  },
+  {
+   "level": 1,
+   "title": "54. IRREGULARITIES & how they work | \n見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる",
+   "pages": [
+    58,
+    58
+   ]
+  },
+  {
+   "level": 1,
+   "title": "55. Secrets of the で particle. \nWhy do we say みんなで行く? and 世界で一番?",
+   "pages": [
+    59,
+    59
+   ]
+  },
+  {
+   "level": 1,
+   "title": "56. \"Agility\": Deeper secrets of は and の particles",
+   "pages": [
+    60,
+    60
+   ]
+  },
+  {
+   "level": 1,
+   "title": "57. 込む (Komu) and the secret of multi-meaning Japanese words",
+   "pages": [
+    61,
+    61
+   ]
+  },
+  {
+   "level": 1,
+   "title": "58. Japanese double particles. How they work",
+   "pages": [
+    62,
+    62
+   ]
+  },
+  {
+   "level": 1,
+   "title": "59. Untranslatable Japanese exists! \nHow to understand it",
+   "pages": [
+    63,
+    63
+   ]
+  },
+  {
+   "level": 1,
+   "title": "60. The OTHER HALF of Japanese Structure - non-logical topic/comment structure",
+   "pages": [
+    64,
+    64
+   ]
+  },
+  {
+   "level": 1,
+   "title": "61. は and が: the Deeper Secrets! \nThe yin-yang structure of Japanese",
+   "pages": [
+    65,
+    65
+   ]
+  },
+  {
+   "level": 1,
+   "title": "62. ておく vs てしまう, helper verb secrets",
+   "pages": [
+    66,
+    66
+   ]
+  },
+  {
+   "level": 1,
+   "title": "63. WILD sentence enders in real life Japanese \nかい、だい,、ぜ、ぞ、さ、から、し、ちょうだい",
+   "pages": [
+    67,
+    67
+   ]
+  },
+  {
+   "level": 1,
+   "title": "64. \"Things\" get Strange! \nもの and こと - Advanced secrets: \nものだ, ことがある, こと as sentence-ender",
+   "pages": [
+    68,
+    68
+   ]
+  },
+  {
+   "level": 1,
+   "title": "65. Coming and Going: Deeper secrets of 行く and 来る、て行くand て来る (te-iku, te-kuru)",
+   "pages": [
+    69,
+    69
+   ]
+  },
+  {
+   "level": 1,
+   "title": "66. HIDDEN Subjects in Japanese - and how to understand them",
+   "pages": [
+    70,
+    70
+   ]
+  },
+  {
+   "level": 1,
+   "title": "67. もう and まだ the time-relations that make sense of them",
+   "pages": [
+    71,
+    71
+   ]
+  },
+  {
+   "level": 1,
+   "title": "68. Japanese \"underlying logic\": \nわけ、そういうわけ、わけが分からない、わけない",
+   "pages": [
+    72,
+    72
+   ]
+  },
+  {
+   "level": 1,
+   "title": "69. Japanese in the Wild! \nTackling native Japanese material. 怪談 4",
+   "pages": [
+    73,
+    73
+   ]
+  },
+  {
+   "level": 1,
+   "title": "70. かける / かかる All-purpose Japanese Explained!",
+   "pages": [
+    74,
+    74
+   ]
+  },
+  {
+   "level": 1,
+   "title": "71. Japanese counters: 3 simple rules",
+   "pages": [
+    75,
+    75
+   ]
+  },
+  {
+   "level": 1,
+   "title": "72. The Great Connector (い-stem magic)",
+   "pages": [
+    76,
+    76
+   ]
+  },
+  {
+   "level": 1,
+   "title": "73. Secrets of 気: \n気になる, 気にする, 気がする, 気に入る etc.",
+   "pages": [
+    77,
+    77
+   ]
+  },
+  {
+   "level": 1,
+   "title": "74. LOVE and other mysteries of こと! \nあなたのことが好き, 私のことが嫌い, ということ, \nそういうこと, どういうこと, そんなこと",
+   "pages": [
+    78,
+    78
+   ]
+  },
+  {
+   "level": 1,
+   "title": "75. Japanese is NOT English: How expression strategies differ | polite 英本語=rude Japanese",
+   "pages": [
+    79,
+    79
+   ]
+  },
+  {
+   "level": 1,
+   "title": "76. The Right Opening? | \nあく, あける, ひらく, ひらける, 開く, 開け",
+   "pages": [
+    80,
+    80
+   ]
+  },
+  {
+   "level": 1,
+   "title": "77. Real Japanese Structure vs Tae Kim: \nStructural Review of Tae Kim's Japanese Grammar",
+   "pages": [
+    81,
+    81
+   ]
+  },
+  {
+   "level": 1,
+   "title": "78. Breaking the Core: Tae Kim vs the Copula | Japanese Structure-Based Critical Review",
+   "pages": [
+    82,
+    82
+   ]
+  },
+  {
+   "level": 1,
+   "title": "79. Deeper secret of the copula",
+   "pages": [
+    83,
+    83
+   ]
+  },
+  {
+   "level": 1,
+   "title": "80. Dropped particles & casual omissions",
+   "pages": [
+    84,
+    84
+   ]
+  },
+  {
+   "level": 1,
+   "title": "81. Global principle of all Japanese word-forms.",
+   "pages": [
+    85,
+    85
+   ]
+  },
+  {
+   "level": 1,
+   "title": "82. なんて、なんか、など: \n3 Common words clarified.",
+   "pages": [
+    86,
+    86
+   ]
+  },
+  {
+   "level": 1,
+   "title": "83. Three Levels of Command in Japanese: \nて-form commands, なさい, な-commands, imperative form.",
+   "pages": [
+    87,
+    87
+   ]
+  },
+  {
+   "level": 1,
+   "title": "84. である and the Structure of Japanese. \nWhat older copulas tell us: \nである, であります、でござる、でございます",
+   "pages": [
+    88,
+    88
+   ]
+  },
+  {
+   "level": 1,
+   "title": "85. まい - the negative helper",
+   "pages": [
+    89,
+    89
+   ]
+  },
+  {
+   "level": 1,
+   "title": "86. 次第 (shidai)",
+   "pages": [
+    90,
+    90
+   ]
+  },
+  {
+   "level": 1,
+   "title": "87. Japanese Structure INVERTED: strange life of しか",
+   "pages": [
+    91,
+    91
+   ]
+  },
+  {
+   "level": 1,
+   "title": "88. Xをしたい vs Xがしたい",
+   "pages": [
+    92,
+    92
+   ]
+  },
+  {
+   "level": 1,
+   "title": "89. De-mystifying Japanese. The Universal Subject",
+   "pages": [
+    93,
+    93
+   ]
+  },
+  {
+   "level": 1,
+   "title": "90. Japanese Punctuation: How it works.",
+   "pages": [
+    94,
+    94
+   ]
+  },
+  {
+   "level": 1,
+   "title": "91. Outer Limits! 限る & 限り: \nIts many meanings and how they work \n知っている限り、とは限らない and more",
+   "pages": [
+    95,
+    95
+   ]
+  },
+  {
+   "level": 1,
+   "title": "92. Will English EAT Japanese? \nLoan-word invasion - is it really a threat?",
+   "pages": [
+    96,
+    96
+   ]
+  },
+  {
+   "level": 1,
+   "title": "93. Cussin' 'Em Out with くせに. How it works.",
+   "pages": [
+    97,
+    97
+   ]
+  },
+  {
+   "level": 1,
+   "title": "94. くらい VS ほど",
+   "pages": [
+    98,
+    98
+   ]
+  },
+  {
+   "level": 1,
+   "title": "95. Using Word-History the Smart Way \nどうも、やっぱり、やはり",
+   "pages": [
+    99,
+    99
+   ]
+  },
+  {
+   "level": 1,
+   "title": "96. 通り and せっかく: \nA metaphorical road and an untranslatable word.",
+   "pages": [
+    100,
+    100
+   ]
+  },
+  {
+   "level": 1,
+   "title": "97. The meanings of うち: Home, Self, Social boundary, Time marker: いまのうち、そのうち",
+   "pages": [
+    101,
+    101
+   ]
+  }
+ ],
+ "items": [
+  {
+   "page": 1,
+   "page_label": "Front Matter",
+   "kind": "front_matter",
+   "outline": [
+    "Front Matter"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 2,
+   "page_label": "Table of Contents",
+   "kind": "toc",
+   "outline": [
+    "Table of Contents"
+   ],
+   "first_heading": "Table of Contents"
+  },
+  {
+   "page": 3,
+   "page_label": "1. The Basic Types of Sentences",
+   "kind": "content",
+   "outline": [
+    "1. The Basic Types of Sentences"
+   ],
+   "first_heading": "1. The Basic Types of Sentences"
+  },
+  {
+   "page": 4,
+   "page_label": "2. The Invisible Carriage and the を Particle",
+   "kind": "content",
+   "outline": [
+    "2. The Invisible Carriage and the を Particle"
+   ],
+   "first_heading": "2. The Invisible Carriage and the を Particle"
+  },
+  {
+   "page": 5,
+   "page_label": "3. The は Particle",
+   "kind": "content",
+   "outline": [
+    "3. The は Particle"
+   ],
+   "first_heading": "3. The は Particle"
+  },
+  {
+   "page": 6,
+   "page_label": "4. Japanese Verb Tenses",
+   "kind": "content",
+   "outline": [
+    "4. Japanese Verb Tenses"
+   ],
+   "first_heading": "4. Japanese Verb Tenses"
+  },
+  {
+   "page": 7,
+   "page_label": "5. Verb Groups and the て-form",
+   "kind": "content",
+   "outline": [
+    "5. Verb Groups and the て-form"
+   ],
+   "first_heading": "5. Verb Groups and the て-form"
+  },
+  {
+   "page": 8,
+   "page_label": "6. Adjectives",
+   "kind": "content",
+   "outline": [
+    "6. Adjectives"
+   ],
+   "first_heading": "6. Adjectives"
+  },
+  {
+   "page": 9,
+   "page_label": "7. Negative Forms and Adjectives in Past Tense",
+   "kind": "content",
+   "outline": [
+    "7. Negative Forms and Adjectives in Past Tense"
+   ],
+   "first_heading": "7. Negative Forms and Adjectives in Past Tense"
+  },
+  {
+   "page": 10,
+   "page_label": "7.5. Conjugation",
+   "kind": "content",
+   "outline": [
+    "7.5. Conjugation"
+   ],
+   "first_heading": "7.5. Conjugation"
+  },
+  {
+   "page": 11,
+   "page_label": "8. The に and へ particles",
+   "kind": "content",
+   "outline": [
+    "8. The に and へ particles"
+   ],
+   "first_heading": "8. The に and へ particles"
+  },
+  {
+   "page": 12,
+   "page_label": "8b. Particles explained.",
+   "kind": "content",
+   "outline": [
+    "8b. Particles explained."
+   ],
+   "first_heading": "8b. Particles explained."
+  },
+  {
+   "page": 13,
+   "page_label": "9. The Subject of the Japanese Sentence & Expressing Desire: ほしい, たい, たがる",
+   "kind": "content",
+   "outline": [
+    "9. The Subject of the Japanese Sentence & Expressing Desire: ほしい, たい, たがる"
+   ],
+   "first_heading": "9. The Subject of the Japanese Sentence & Expressing Desire: ほしい, たい, たがる"
+  },
+  {
+   "page": 14,
+   "page_label": "10. Helper verbs & the potential helper verb",
+   "kind": "content",
+   "outline": [
+    "10. Helper verbs & the potential helper verb"
+   ],
+   "first_heading": "10. Helper verbs & the potential helper verb"
+  },
+  {
+   "page": 15,
+   "page_label": "11. Compound sentences, くれる, あげる \nand more uses of the て-form",
+   "kind": "content",
+   "outline": [
+    "11. Compound sentences, くれる, あげる \nand more uses of the て-form"
+   ],
+   "first_heading": "11. Compound sentences, くれる, あげる \nand more uses of the て-form"
+  },
+  {
+   "page": 16,
+   "page_label": "12. Quotation particle と, compound verbs & nouns",
+   "kind": "content",
+   "outline": [
+    "12. Quotation particle と, compound verbs & nouns"
+   ],
+   "first_heading": "12. Quotation particle と, compound verbs & nouns"
+  },
+  {
+   "page": 17,
+   "page_label": "13. Passive Conjugation / Receptive Helper Verb",
+   "kind": "content",
+   "outline": [
+    "13. Passive Conjugation / Receptive Helper Verb"
+   ],
+   "first_heading": "13. Passive Conjugation / Receptive Helper Verb"
+  },
+  {
+   "page": 18,
+   "page_label": "14. Adverbs and the も Particle",
+   "kind": "content",
+   "outline": [
+    "14. Adverbs and the も Particle"
+   ],
+   "first_heading": "14. Adverbs and the も Particle"
+  },
+  {
+   "page": 19,
+   "page_label": "15. Transitive & intransitive verbs",
+   "kind": "content",
+   "outline": [
+    "15. Transitive & intransitive verbs"
+   ],
+   "first_heading": "15. Transitive & intransitive verbs"
+  },
+  {
+   "page": 20,
+   "page_label": "16. てみる, や particle, から particle, exclusive “and”",
+   "kind": "content",
+   "outline": [
+    "16. てみる, や particle, から particle, exclusive “and”"
+   ],
+   "first_heading": "16. てみる, や particle, から particle, exclusive “and”"
+  },
+  {
+   "page": 21,
+   "page_label": "17. Polite Japanese and the volitional",
+   "kind": "content",
+   "outline": [
+    "17. Polite Japanese and the volitional"
+   ],
+   "first_heading": "17. Polite Japanese and the volitional"
+  },
+  {
+   "page": 22,
+   "page_label": "18. って = は?? Mysteries explained! \n-おうとする, とする, として, という, っていう",
+   "kind": "content",
+   "outline": [
+    "18. って = は?? Mysteries explained! \n-おうとする, とする, として, という, っていう"
+   ],
+   "first_heading": "18. って = は?? Mysteries explained! \n-おうとする, とする, として, という, っていう"
+  },
+  {
+   "page": 23,
+   "page_label": "19. Causative + causative receptive",
+   "kind": "content",
+   "outline": [
+    "19. Causative + causative receptive"
+   ],
+   "first_heading": "19. Causative + causative receptive"
+  },
+  {
+   "page": 24,
+   "page_label": "20. Directionals: それ・その・そんな・そう etc.",
+   "kind": "content",
+   "outline": [
+    "20. Directionals: それ・その・そんな・そう etc."
+   ],
+   "first_heading": "20. Directionals: それ・その・そんな・そう etc."
+  },
+  {
+   "page": 25,
+   "page_label": "21. てある/ている & ておく",
+   "kind": "content",
+   "outline": [
+    "21. てある/ている & ておく"
+   ],
+   "first_heading": "21. てある/ている & ておく"
+  },
+  {
+   "page": 26,
+   "page_label": "22. ては & ても",
+   "kind": "content",
+   "outline": [
+    "22. ては & ても"
+   ],
+   "first_heading": "22. ては & ても"
+  },
+  {
+   "page": 27,
+   "page_label": "23. だって + だから & それから",
+   "kind": "content",
+   "outline": [
+    "23. だって + だから & それから"
+   ],
+   "first_heading": "23. だって + だから & それから"
+  },
+  {
+   "page": 28,
+   "page_label": "24. Hearsay & guesses - そう・そうだ・そうです",
+   "kind": "content",
+   "outline": [
+    "24. Hearsay & guesses - そう・そうだ・そうです"
+   ],
+   "first_heading": "24. Hearsay & guesses - そう・そうだ・そうです"
+  },
+  {
+   "page": 29,
+   "page_label": "25. らしい vs そうだ / そうです + っぽい (ppoi)",
+   "kind": "content",
+   "outline": [
+    "25. らしい vs そうだ / そうです + っぽい (ppoi)"
+   ],
+   "first_heading": "25. らしい vs そうだ / そうです + っぽい (ppoi)"
+  },
+  {
+   "page": 30,
+   "page_label": "26. Similes: ようだ・のように・のような ・みたい",
+   "kind": "content",
+   "outline": [
+    "26. Similes: ようだ・のように・のような ・みたい"
+   ],
+   "first_heading": "26. Similes: ようだ・のように・のような ・みたい"
+  },
+  {
+   "page": 31,
+   "page_label": "27. ばかり",
+   "kind": "content",
+   "outline": [
+    "27. ばかり"
+   ],
+   "first_heading": "27. ばかり"
+  },
+  {
+   "page": 32,
+   "page_label": "28. ように - one key to all the main uses",
+   "kind": "content",
+   "outline": [
+    "28. ように - one key to all the main uses"
+   ],
+   "first_heading": "28. ように - one key to all the main uses"
+  },
+  {
+   "page": 33,
+   "page_label": "29. ことにする & ことになる",
+   "kind": "content",
+   "outline": [
+    "29. ことにする & ことになる"
+   ],
+   "first_heading": "29. ことにする & ことになる"
+  },
+  {
+   "page": 34,
+   "page_label": "30. Japanese Conditionals: と",
+   "kind": "content",
+   "outline": [
+    "30. Japanese Conditionals: と"
+   ],
+   "first_heading": "30. Japanese Conditionals: と"
+  },
+  {
+   "page": 35,
+   "page_label": "31. The ば / れば Conditional",
+   "kind": "content",
+   "outline": [
+    "31. The ば / れば Conditional"
+   ],
+   "first_heading": "31. The ば / れば Conditional"
+  },
+  {
+   "page": 36,
+   "page_label": "32. The たら, なら Conditionals",
+   "kind": "content",
+   "outline": [
+    "32. The たら, なら Conditionals"
+   ],
+   "first_heading": "32. The たら, なら Conditionals"
+  },
+  {
+   "page": 37,
+   "page_label": "33. Limiting terms: だけ, しか, ばかり, のみ",
+   "kind": "content",
+   "outline": [
+    "33. Limiting terms: だけ, しか, ばかり, のみ"
+   ],
+   "first_heading": "33. Limiting terms: だけ, しか, ばかり, のみ"
+  },
+  {
+   "page": 38,
+   "page_label": "34. Understand any sentence",
+   "kind": "content",
+   "outline": [
+    "34. Understand any sentence"
+   ],
+   "first_heading": "34. Understand any sentence"
+  },
+  {
+   "page": 39,
+   "page_label": "35. より, のほう, 一方",
+   "kind": "content",
+   "outline": [
+    "35. より, のほう, 一方"
+   ],
+   "first_heading": "35. より, のほう, 一方"
+  },
+  {
+   "page": 40,
+   "page_label": "36. 所 - the concept of “place”",
+   "kind": "content",
+   "outline": [
+    "36. 所 - the concept of “place”"
+   ],
+   "first_heading": "36. 所 - the concept of “place”"
+  },
+  {
+   "page": 41,
+   "page_label": "37. New structure secrets + な vs の, なる & たる adjectives",
+   "kind": "content",
+   "outline": [
+    "37. New structure secrets + な vs の, なる & たる adjectives"
+   ],
+   "first_heading": "37. New structure secrets + な vs の, なる & たる adjectives"
+  },
+  {
+   "page": 42,
+   "page_label": "38. When \"it isn't\" means \"it is\": \nじゃない, ではない",
+   "kind": "content",
+   "outline": [
+    "38. When \"it isn't\" means \"it is\": \nじゃない, ではない"
+   ],
+   "first_heading": "38. When \"it isn't\" means \"it is\": \nじゃない, ではない"
+  },
+  {
+   "page": 43,
+   "page_label": "39. The か Particle: \"Buried questions\", \nかな, もんか, かどうか...",
+   "kind": "content",
+   "outline": [
+    "39. The か Particle: \"Buried questions\", \nかな, もんか, かどうか..."
+   ],
+   "first_heading": "39. The か Particle: \"Buried questions\", \nかな, もんか, かどうか..."
+  },
+  {
+   "page": 44,
+   "page_label": "40. 3 pitfalls in Japanese and how to avoid them",
+   "kind": "content",
+   "outline": [
+    "40. 3 pitfalls in Japanese and how to avoid them"
+   ],
+   "first_heading": "40. 3 pitfalls in Japanese and how to avoid them"
+  },
+  {
+   "page": 45,
+   "page_label": "41. 5 key facts about the basic structure of Japanese",
+   "kind": "content",
+   "outline": [
+    "41. 5 key facts about the basic structure of Japanese"
+   ],
+   "first_heading": "41. 5 key facts about the basic structure of Japanese"
+  },
+  {
+   "page": 46,
+   "page_label": "42. Basic word-confusion | まま",
+   "kind": "content",
+   "outline": [
+    "42. Basic word-confusion | まま"
+   ],
+   "first_heading": "42. Basic word-confusion | まま"
+  },
+  {
+   "page": 47,
+   "page_label": "43. PARADIGM SHIFT: Cut through the confusion",
+   "kind": "content",
+   "outline": [
+    "43. PARADIGM SHIFT: Cut through the confusion"
+   ],
+   "first_heading": "43. PARADIGM SHIFT: Cut through the confusion"
+  },
+  {
+   "page": 48,
+   "page_label": "44. How to use natural Japanese: ちゃう, ちゃった",
+   "kind": "content",
+   "outline": [
+    "44. How to use natural Japanese: ちゃう, ちゃった"
+   ],
+   "first_heading": "44. How to use natural Japanese: ちゃう, ちゃった"
+  },
+  {
+   "page": 49,
+   "page_label": "45. First-Step Guide into Self Immersion Technique",
+   "kind": "content",
+   "outline": [
+    "45. First-Step Guide into Self Immersion Technique"
+   ],
+   "first_heading": "45. First-Step Guide into Self Immersion Technique"
+  },
+  {
+   "page": 50,
+   "page_label": "46. Word Order MATTERS \n2 Simple rules to crack tough sentences",
+   "kind": "content",
+   "outline": [
+    "46. Word Order MATTERS \n2 Simple rules to crack tough sentences"
+   ],
+   "first_heading": "46. Word Order MATTERS \n2 Simple rules to crack tough sentences"
+  },
+  {
+   "page": 51,
+   "page_label": "47. How to Understand Japanese: Your Secret Weapon for breaking down sentences",
+   "kind": "content",
+   "outline": [
+    "47. How to Understand Japanese: Your Secret Weapon for breaking down sentences"
+   ],
+   "first_heading": "47. How to Understand Japanese: Your Secret Weapon for breaking down sentences"
+  },
+  {
+   "page": 52,
+   "page_label": "48. Dealing with ambiguity in Japanese",
+   "kind": "content",
+   "outline": [
+    "48. Dealing with ambiguity in Japanese"
+   ],
+   "first_heading": "48. Dealing with ambiguity in Japanese"
+  },
+  {
+   "page": 53,
+   "page_label": "49. Japanese Point-of-View Deconfused! \n-もらう・てもらう",
+   "kind": "content",
+   "outline": [
+    "49. Japanese Point-of-View Deconfused! \n-もらう・てもらう"
+   ],
+   "first_heading": "49. Japanese Point-of-View Deconfused! \n-もらう・てもらう"
+  },
+  {
+   "page": 54,
+   "page_label": "50. 2 Aspects of Japanese that Foreigners Can't Fathom: させてもらう Last Secret of the Potential",
+   "kind": "content",
+   "outline": [
+    "50. 2 Aspects of Japanese that Foreigners Can't Fathom: させてもらう Last Secret of the Potential"
+   ],
+   "first_heading": "50. 2 Aspects of Japanese that Foreigners Can't Fathom: させてもらう Last Secret of the Potential"
+  },
+  {
+   "page": 55,
+   "page_label": "51. How to read a Japanese 怪談 / かいだん \n(ghost story)",
+   "kind": "content",
+   "outline": [
+    "51. How to read a Japanese 怪談 / かいだん \n(ghost story)"
+   ],
+   "first_heading": "51. How to read a Japanese 怪談 / かいだん \n(ghost story)"
+  },
+  {
+   "page": 56,
+   "page_label": "52. In-depth Japanese Sentence Analysis in Real Native Context",
+   "kind": "content",
+   "outline": [
+    "52. In-depth Japanese Sentence Analysis in Real Native Context"
+   ],
+   "first_heading": "52. In-depth Japanese Sentence Analysis in Real Native Context"
+  },
+  {
+   "page": 57,
+   "page_label": "53. Enjoy Japanese Horror in Japanese",
+   "kind": "content",
+   "outline": [
+    "53. Enjoy Japanese Horror in Japanese"
+   ],
+   "first_heading": "53. Enjoy Japanese Horror in Japanese"
+  },
+  {
+   "page": 58,
+   "page_label": "54. IRREGULARITIES & how they work | \n見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる",
+   "kind": "content",
+   "outline": [
+    "54. IRREGULARITIES & how they work | \n見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる"
+   ],
+   "first_heading": "54. IRREGULARITIES & how they work | \n見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる"
+  },
+  {
+   "page": 59,
+   "page_label": "55. Secrets of the で particle. \nWhy do we say みんなで行く? and 世界で一番?",
+   "kind": "content",
+   "outline": [
+    "55. Secrets of the で particle. \nWhy do we say みんなで行く? and 世界で一番?"
+   ],
+   "first_heading": "55. Secrets of the で particle. \nWhy do we say みんなで行く? and 世界で一番?"
+  },
+  {
+   "page": 60,
+   "page_label": "56. \"Agility\": Deeper secrets of は and の particles",
+   "kind": "content",
+   "outline": [
+    "56. \"Agility\": Deeper secrets of は and の particles"
+   ],
+   "first_heading": "56. \"Agility\": Deeper secrets of は and の particles"
+  },
+  {
+   "page": 61,
+   "page_label": "57. 込む (Komu) and the secret of multi-meaning Japanese words",
+   "kind": "content",
+   "outline": [
+    "57. 込む (Komu) and the secret of multi-meaning Japanese words"
+   ],
+   "first_heading": "57. 込む (Komu) and the secret of multi-meaning Japanese words"
+  },
+  {
+   "page": 62,
+   "page_label": "58. Japanese double particles. How they work",
+   "kind": "content",
+   "outline": [
+    "58. Japanese double particles. How they work"
+   ],
+   "first_heading": "58. Japanese double particles. How they work"
+  },
+  {
+   "page": 63,
+   "page_label": "59. Untranslatable Japanese exists! \nHow to understand it",
+   "kind": "content",
+   "outline": [
+    "59. Untranslatable Japanese exists! \nHow to understand it"
+   ],
+   "first_heading": "59. Untranslatable Japanese exists! \nHow to understand it"
+  },
+  {
+   "page": 64,
+   "page_label": "60. The OTHER HALF of Japanese Structure - non-logical topic/comment structure",
+   "kind": "content",
+   "outline": [
+    "60. The OTHER HALF of Japanese Structure - non-logical topic/comment structure"
+   ],
+   "first_heading": "60. The OTHER HALF of Japanese Structure - non-logical topic/comment structure"
+  },
+  {
+   "page": 65,
+   "page_label": "61. は and が: the Deeper Secrets! \nThe yin-yang structure of Japanese",
+   "kind": "content",
+   "outline": [
+    "61. は and が: the Deeper Secrets! \nThe yin-yang structure of Japanese"
+   ],
+   "first_heading": "61. は and が: the Deeper Secrets! \nThe yin-yang structure of Japanese"
+  },
+  {
+   "page": 66,
+   "page_label": "62. ておく vs てしまう, helper verb secrets",
+   "kind": "content",
+   "outline": [
+    "62. ておく vs てしまう, helper verb secrets"
+   ],
+   "first_heading": "62. ておく vs てしまう, helper verb secrets"
+  },
+  {
+   "page": 67,
+   "page_label": "63. WILD sentence enders in real life Japanese \nかい、だい,、ぜ、ぞ、さ、から、し、ちょうだい",
+   "kind": "content",
+   "outline": [
+    "63. WILD sentence enders in real life Japanese \nかい、だい,、ぜ、ぞ、さ、から、し、ちょうだい"
+   ],
+   "first_heading": "63. WILD sentence enders in real life Japanese \nかい、だい,、ぜ、ぞ、さ、から、し、ちょうだい"
+  },
+  {
+   "page": 68,
+   "page_label": "64. \"Things\" get Strange! \nもの and こと - Advanced secrets: \nものだ, ことがある, こと as sentence-ender",
+   "kind": "content",
+   "outline": [
+    "64. \"Things\" get Strange! \nもの and こと - Advanced secrets: \nものだ, ことがある, こと as sentence-ender"
+   ],
+   "first_heading": "64. \"Things\" get Strange! \nもの and こと - Advanced secrets: \nものだ, ことがある, こと as sentence-ender"
+  },
+  {
+   "page": 69,
+   "page_label": "65. Coming and Going: Deeper secrets of 行く and 来る、て行くand て来る (te-iku, te-kuru)",
+   "kind": "content",
+   "outline": [
+    "65. Coming and Going: Deeper secrets of 行く and 来る、て行くand て来る (te-iku, te-kuru)"
+   ],
+   "first_heading": "65. Coming and Going: Deeper secrets of 行く and 来る、て行くand て来る (te-iku, te-kuru)"
+  },
+  {
+   "page": 70,
+   "page_label": "66. HIDDEN Subjects in Japanese - and how to understand them",
+   "kind": "content",
+   "outline": [
+    "66. HIDDEN Subjects in Japanese - and how to understand them"
+   ],
+   "first_heading": "66. HIDDEN Subjects in Japanese - and how to understand them"
+  },
+  {
+   "page": 71,
+   "page_label": "67. もう and まだ the time-relations that make sense of them",
+   "kind": "content",
+   "outline": [
+    "67. もう and まだ the time-relations that make sense of them"
+   ],
+   "first_heading": "67. もう and まだ the time-relations that make sense of them"
+  },
+  {
+   "page": 72,
+   "page_label": "68. Japanese \"underlying logic\": \nわけ、そういうわけ、わけが分からない、わけない",
+   "kind": "content",
+   "outline": [
+    "68. Japanese \"underlying logic\": \nわけ、そういうわけ、わけが分からない、わけない"
+   ],
+   "first_heading": "68. Japanese \"underlying logic\": \nわけ、そういうわけ、わけが分からない、わけない"
+  },
+  {
+   "page": 73,
+   "page_label": "69. Japanese in the Wild! \nTackling native Japanese material. 怪談 4",
+   "kind": "content",
+   "outline": [
+    "69. Japanese in the Wild! \nTackling native Japanese material. 怪談 4"
+   ],
+   "first_heading": "69. Japanese in the Wild! \nTackling native Japanese material. 怪談 4"
+  },
+  {
+   "page": 74,
+   "page_label": "70. かける / かかる All-purpose Japanese Explained!",
+   "kind": "content",
+   "outline": [
+    "70. かける / かかる All-purpose Japanese Explained!"
+   ],
+   "first_heading": "70. かける / かかる All-purpose Japanese Explained!"
+  },
+  {
+   "page": 75,
+   "page_label": "71. Japanese counters: 3 simple rules",
+   "kind": "content",
+   "outline": [
+    "71. Japanese counters: 3 simple rules"
+   ],
+   "first_heading": "71. Japanese counters: 3 simple rules"
+  },
+  {
+   "page": 76,
+   "page_label": "72. The Great Connector (い-stem magic)",
+   "kind": "content",
+   "outline": [
+    "72. The Great Connector (い-stem magic)"
+   ],
+   "first_heading": "72. The Great Connector (い-stem magic)"
+  },
+  {
+   "page": 77,
+   "page_label": "73. Secrets of 気: \n気になる, 気にする, 気がする, 気に入る etc.",
+   "kind": "content",
+   "outline": [
+    "73. Secrets of 気: \n気になる, 気にする, 気がする, 気に入る etc."
+   ],
+   "first_heading": "73. Secrets of 気: \n気になる, 気にする, 気がする, 気に入る etc."
+  },
+  {
+   "page": 78,
+   "page_label": "74. LOVE and other mysteries of こと! \nあなたのことが好き, 私のことが嫌い, ということ, \nそういうこと, どういうこと, そんなこと",
+   "kind": "content",
+   "outline": [
+    "74. LOVE and other mysteries of こと! \nあなたのことが好き, 私のことが嫌い, ということ, \nそういうこと, どういうこと, そんなこと"
+   ],
+   "first_heading": "74. LOVE and other mysteries of こと! \nあなたのことが好き, 私のことが嫌い, ということ, \nそういうこと, どういうこと, そんなこと"
+  },
+  {
+   "page": 79,
+   "page_label": "75. Japanese is NOT English: How expression strategies differ | polite 英本語=rude Japanese",
+   "kind": "content",
+   "outline": [
+    "75. Japanese is NOT English: How expression strategies differ | polite 英本語=rude Japanese"
+   ],
+   "first_heading": "75. Japanese is NOT English: How expression strategies differ | polite 英本語=rude Japanese"
+  },
+  {
+   "page": 80,
+   "page_label": "76. The Right Opening? | \nあく, あける, ひらく, ひらける, 開く, 開け",
+   "kind": "content",
+   "outline": [
+    "76. The Right Opening? | \nあく, あける, ひらく, ひらける, 開く, 開け"
+   ],
+   "first_heading": "76. The Right Opening? | \nあく, あける, ひらく, ひらける, 開く, 開け"
+  },
+  {
+   "page": 81,
+   "page_label": "77. Real Japanese Structure vs Tae Kim: \nStructural Review of Tae Kim's Japanese Grammar",
+   "kind": "content",
+   "outline": [
+    "77. Real Japanese Structure vs Tae Kim: \nStructural Review of Tae Kim's Japanese Grammar"
+   ],
+   "first_heading": "77. Real Japanese Structure vs Tae Kim: \nStructural Review of Tae Kim's Japanese Grammar"
+  },
+  {
+   "page": 82,
+   "page_label": "78. Breaking the Core: Tae Kim vs the Copula | Japanese Structure-Based Critical Review",
+   "kind": "content",
+   "outline": [
+    "78. Breaking the Core: Tae Kim vs the Copula | Japanese Structure-Based Critical Review"
+   ],
+   "first_heading": "78. Breaking the Core: Tae Kim vs the Copula | Japanese Structure-Based Critical Review"
+  },
+  {
+   "page": 83,
+   "page_label": "79. Deeper secret of the copula",
+   "kind": "content",
+   "outline": [
+    "79. Deeper secret of the copula"
+   ],
+   "first_heading": "79. Deeper secret of the copula"
+  },
+  {
+   "page": 84,
+   "page_label": "80. Dropped particles & casual omissions",
+   "kind": "content",
+   "outline": [
+    "80. Dropped particles & casual omissions"
+   ],
+   "first_heading": "80. Dropped particles & casual omissions"
+  },
+  {
+   "page": 85,
+   "page_label": "81. Global principle of all Japanese word-forms.",
+   "kind": "content",
+   "outline": [
+    "81. Global principle of all Japanese word-forms."
+   ],
+   "first_heading": "81. Global principle of all Japanese word-forms."
+  },
+  {
+   "page": 86,
+   "page_label": "82. なんて、なんか、など: \n3 Common words clarified.",
+   "kind": "content",
+   "outline": [
+    "82. なんて、なんか、など: \n3 Common words clarified."
+   ],
+   "first_heading": "82. なんて、なんか、など: \n3 Common words clarified."
+  },
+  {
+   "page": 87,
+   "page_label": "83. Three Levels of Command in Japanese: \nて-form commands, なさい, な-commands, imperative form.",
+   "kind": "content",
+   "outline": [
+    "83. Three Levels of Command in Japanese: \nて-form commands, なさい, な-commands, imperative form."
+   ],
+   "first_heading": "83. Three Levels of Command in Japanese: \nて-form commands, なさい, な-commands, imperative form."
+  },
+  {
+   "page": 88,
+   "page_label": "84. である and the Structure of Japanese. \nWhat older copulas tell us: \nである, であります、でござる、でございます",
+   "kind": "content",
+   "outline": [
+    "84. である and the Structure of Japanese. \nWhat older copulas tell us: \nである, であります、でござる、でございます"
+   ],
+   "first_heading": "84. である and the Structure of Japanese. \nWhat older copulas tell us: \nである, であります、でござる、でございます"
+  },
+  {
+   "page": 89,
+   "page_label": "85. まい - the negative helper",
+   "kind": "content",
+   "outline": [
+    "85. まい - the negative helper"
+   ],
+   "first_heading": "85. まい - the negative helper"
+  },
+  {
+   "page": 90,
+   "page_label": "86. 次第 (shidai)",
+   "kind": "content",
+   "outline": [
+    "86. 次第 (shidai)"
+   ],
+   "first_heading": "86. 次第 (shidai)"
+  },
+  {
+   "page": 91,
+   "page_label": "87. Japanese Structure INVERTED: strange life of しか",
+   "kind": "content",
+   "outline": [
+    "87. Japanese Structure INVERTED: strange life of しか"
+   ],
+   "first_heading": "87. Japanese Structure INVERTED: strange life of しか"
+  },
+  {
+   "page": 92,
+   "page_label": "88. Xをしたい vs Xがしたい",
+   "kind": "content",
+   "outline": [
+    "88. Xをしたい vs Xがしたい"
+   ],
+   "first_heading": "88. Xをしたい vs Xがしたい"
+  },
+  {
+   "page": 93,
+   "page_label": "89. De-mystifying Japanese. The Universal Subject",
+   "kind": "content",
+   "outline": [
+    "89. De-mystifying Japanese. The Universal Subject"
+   ],
+   "first_heading": "89. De-mystifying Japanese. The Universal Subject"
+  },
+  {
+   "page": 94,
+   "page_label": "90. Japanese Punctuation: How it works.",
+   "kind": "content",
+   "outline": [
+    "90. Japanese Punctuation: How it works."
+   ],
+   "first_heading": "90. Japanese Punctuation: How it works."
+  },
+  {
+   "page": 95,
+   "page_label": "91. Outer Limits! 限る & 限り: \nIts many meanings and how they work \n知っている限り、とは限らない and more",
+   "kind": "content",
+   "outline": [
+    "91. Outer Limits! 限る & 限り: \nIts many meanings and how they work \n知っている限り、とは限らない and more"
+   ],
+   "first_heading": "91. Outer Limits! 限る & 限り: \nIts many meanings and how they work \n知っている限り、とは限らない and more"
+  },
+  {
+   "page": 96,
+   "page_label": "92. Will English EAT Japanese? \nLoan-word invasion - is it really a threat?",
+   "kind": "content",
+   "outline": [
+    "92. Will English EAT Japanese? \nLoan-word invasion - is it really a threat?"
+   ],
+   "first_heading": "92. Will English EAT Japanese? \nLoan-word invasion - is it really a threat?"
+  },
+  {
+   "page": 97,
+   "page_label": "93. Cussin' 'Em Out with くせに. How it works.",
+   "kind": "content",
+   "outline": [
+    "93. Cussin' 'Em Out with くせに. How it works."
+   ],
+   "first_heading": "93. Cussin' 'Em Out with くせに. How it works."
+  },
+  {
+   "page": 98,
+   "page_label": "94. くらい VS ほど",
+   "kind": "content",
+   "outline": [
+    "94. くらい VS ほど"
+   ],
+   "first_heading": "94. くらい VS ほど"
+  },
+  {
+   "page": 99,
+   "page_label": "95. Using Word-History the Smart Way \nどうも、やっぱり、やはり",
+   "kind": "content",
+   "outline": [
+    "95. Using Word-History the Smart Way \nどうも、やっぱり、やはり"
+   ],
+   "first_heading": "95. Using Word-History the Smart Way \nどうも、やっぱり、やはり"
+  },
+  {
+   "page": 100,
+   "page_label": "96. 通り and せっかく: \nA metaphorical road and an untranslatable word.",
+   "kind": "content",
+   "outline": [
+    "96. 通り and せっかく: \nA metaphorical road and an untranslatable word."
+   ],
+   "first_heading": "96. 通り and せっかく: \nA metaphorical road and an untranslatable word."
+  },
+  {
+   "page": 101,
+   "page_label": "97. The meanings of うち: Home, Self, Social boundary, Time marker: いまのうち、そのうち",
+   "kind": "content",
+   "outline": [
+    "97. The meanings of うち: Home, Self, Social boundary, Time marker: いまのうち、そのうち"
+   ],
+   "first_heading": "97. The meanings of うち: Home, Self, Social boundary, Time marker: いまのうち、そのうち"
+  }
+ ]
+}

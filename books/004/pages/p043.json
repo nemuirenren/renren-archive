@@ -1,0 +1,629 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 43,
+ "page_label": "39. The か Particle: \"Buried questions\", \nかな, もんか, かどうか...",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "39. The か Particle: \"Buried questions\", \nかな, もんか, かどうか..."
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "39. The か Particle: \"Buried questions\", \nかな, もんか, かどうか..."
+  },
+  {
+   "type": "text",
+   "text": "Lesson 39: The か Ka-particle's Secret Life! \"Buried questions\", Kana, Monka, Ka dou ka & much more"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about questions that aren't questions."
+  },
+  {
+   "type": "text",
+   "text": "They come up all the time in Japanese, so it's important to understand what they are"
+  },
+  {
+   "type": "text",
+   "text": "and how they work."
+  },
+  {
+   "type": "text",
+   "text": "So, what we're going to talk about is the particle -か."
+  },
+  {
+   "type": "text",
+   "text": "Now, we probably know the particle -か as a kind of verbal question mark"
+  },
+  {
+   "type": "text",
+   "text": "that goes at the end of です/ます sentences to turn them into questions."
+  },
+  {
+   "type": "text",
+   "text": "However, we don't use -か, as we explained last week,"
+  },
+  {
+   "type": "text",
+   "text": "at the end of sentences to mark them as questions in regular, non-formal Japanese."
+  },
+  {
+   "type": "text",
+   "text": "Why not?"
+  },
+  {
+   "type": "text",
+   "text": "Because putting -か at the end of a non-formal sentence sounds kind of blunt and rough."
+  },
+  {
+   "type": "text",
+   "text": "It's not ungrammatical, and it's sometimes used by male speakers who want to sound blunt or rough."
+  },
+  {
+   "type": "text",
+   "text": "But generally speaking, we don't use it."
+  },
+  {
+   "type": "text",
+   "text": "We indicate questions by intonation in regular speech."
+  },
+  {
+   "type": "text",
+   "text": "But we do use the -か marker all the time, just not at the end of sentences."
+  },
+  {
+   "type": "text",
+   "text": "What do we use it for?"
+  },
+  {
+   "type": "text",
+   "text": "Well, we use it to mark questions, but not quite what we normally think of when we say \"question\"."
+  },
+  {
+   "type": "text",
+   "text": "So let's start right off with an example."
+  },
+  {
+   "type": "text",
+   "text": "Suppose we say, \"さくらが来るかわからない.\""
+  },
+  {
+   "type": "text",
+   "text": "What we're saying is \"I don't know if Sakura will come.\""
+  },
+  {
+   "type": "text",
+   "text": "And what's literally happening here is that we're turning the logical sentence, the proposition, \"さくらが来る\", which means \"Sakura will come\", into a question, and then we're saying \"わからない.\""
+  },
+  {
+   "type": "text",
+   "text": "So we're essentially saying \"Sakura come (question), not clear / The question of whether Sakura will come is not clear to me.\""
+  },
+  {
+   "type": "text",
+   "text": "In English, \"I don't know if Sakura's coming.\""
+  },
+  {
+   "type": "text",
+   "text": "Now, we can use this as part of an actual question."
+  },
+  {
+   "type": "text",
+   "text": "We might say \"さくらが来るか知っていますか.\""
+  },
+  {
+   "type": "text",
+   "text": "Now, if we ask that in です/ます form, as I just did, we use a second -か at the end"
+  },
+  {
+   "type": "text",
+   "text": "to mark the actual question."
+  },
+  {
+   "type": "text",
+   "text": "So we're saying \"The question of whether Sakura will come, do you know?\""
+  },
+  {
+   "type": "text",
+   "text": "And we should notice here that what's happening is, first of all, the -か is turning the proposition, the question, into something noun-like which we can then use as the basis of a new sentence."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Image could not be read: the vision request timed out on repeated attempts, so no reliable description of this slide is available."
+  },
+  {
+   "type": "text",
+   "text": "So that's the first thing we need to notice, and the second thing we need to notice is"
+  },
+  {
+   "type": "text",
+   "text": "that -か displaces logical particles most of the time."
+  },
+  {
+   "type": "text",
+   "text": "So, normally when we say \"わからない\", we say \"(何-何)がわからない\";"
+  },
+  {
+   "type": "text",
+   "text": "if we say \"知ってる\", we say \"(何-何)を知ってる\"; but in this case"
+  },
+  {
+   "type": "text",
+   "text": "the -か particle displaces the normal logical particle."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled “The Case of the Missing Particles” with a detective penguin in a deerstalker holding a magnifying glass and pipe, it contrasts “NORMAL STRUCTURE” (XXが分からない, XXを知っています) with “LOGICAL PARTICLES DISPLACED BY か” (XXか分からない, XXか知っています). Green XX is a placeholder, red marks が/を/か and blue marks predicates; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "So we say \"さくらが来るかわからない\" not \"さくらが来るかがわからない.\""
+  },
+  {
+   "type": "text",
+   "text": "So \"さくらが来るか\" is a noun-like entity which, because it ends in -か, doesn't need"
+  },
+  {
+   "type": "text",
+   "text": "to take the usual logical particle."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "かどうか"
+  },
+  {
+   "type": "text",
+   "text": "Now, it also gets used in the common expression \"かどうか\"."
+  },
+  {
+   "type": "text",
+   "text": "And although we can learn this as a glued-together expression meaning \"whether or not\","
+  },
+  {
+   "type": "text",
+   "text": "so \"さくらが来るかどうかわからない\" means \"I don't know whether Sakura's coming or not,\""
+  },
+  {
+   "type": "text",
+   "text": "(in English that's how we'd say it, as opposed to \"さくらが来るかわからない\" --"
+  },
+  {
+   "type": "text",
+   "text": "in English we'd say \"I don't know if Sakura's coming\"; \n\"さくらが来るかどうかわからない\" – we'd say in English \"I don't know whether Sakura's coming or not.\")"
+  },
+  {
+   "type": "text",
+   "text": "what we're literally saying here is \"Sakura coming (question) how (question) わからない.\""
+  },
+  {
+   "type": "text",
+   "text": "So what we're saying is something like \"I don't know if Sakura's coming or how it will be.\""
+  },
+  {
+   "type": "text",
+   "text": "And from this we can see how we get the use of -か to mean \"or\" between nouns."
+  },
+  {
+   "type": "text",
+   "text": "So we can say \"お茶かコーヒーどちらがいい?\""
+  },
+  {
+   "type": "text",
+   "text": "-- \"Tea or coffee, which would you like?\""
+  },
+  {
+   "type": "text",
+   "text": "Now, how is this working?"
+  },
+  {
+   "type": "text",
+   "text": "Well, essentially this is an abbreviation of \"お茶かコーヒーかどちらがいい?\""
+  },
+  {
+   "type": "text",
+   "text": "So, we're putting two propositions side by side, \"whether coffee or whether tea,\" and"
+  },
+  {
+   "type": "text",
+   "text": "then asking \"どちらがいい?\""
+  },
+  {
+   "type": "text",
+   "text": "And once again although this seems like a different use, -か is doing the same thing"
+  },
+  {
+   "type": "text",
+   "text": "-- it's bundling something up as a proposition."
+  },
+  {
+   "type": "text",
+   "text": "But remember that when we use \"or\" in English it's always got to be a question."
+  },
+  {
+   "type": "text",
+   "text": "It's never a certainty."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"A or B\" we're saying it might be A and it might be B."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"A and B\", we know what we're talking about."
+  },
+  {
+   "type": "text",
+   "text": "We know that both A and B exist or do whatever it is that we're saying."
+  },
+  {
+   "type": "text",
+   "text": "But if we say \"A or B\", we don't know whether it's A or whether it's B."
+  },
+  {
+   "type": "text",
+   "text": "We know it's one of them."
+  },
+  {
+   "type": "text",
+   "text": "So, again this -か, this questioning-whether particle, is continuing to use that function"
+  },
+  {
+   "type": "text",
+   "text": "of marking a possibility, a question, something that might happen or might not happen,"
+  },
+  {
+   "type": "text",
+   "text": "might be there or might not be there."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "かも知れない"
+  },
+  {
+   "type": "text",
+   "text": "Now, we see this at work, for example, in \"かも知れない\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Explains XXかもしれない: が marks the proposition XX, broken into も \"as much as,\" しれ (え-stem of 知る \"know\"), ない (negative helper), giving \"= The question of XX, I cannot go so far as to know\" and \"= Maybe XX.\" Title colors か red and も/しれない blue; a cartoon woman sits lower right."
+  },
+  {
+   "type": "text",
+   "text": "Now, this is taught as if it were a word or expression that means \"maybe\"."
+  },
+  {
+   "type": "text",
+   "text": "And it is, but teaching it as a lump like that, as I've explained in another video, is misleading."
+  },
+  {
+   "type": "text",
+   "text": "The point of that misleadingness that I would like to talk about here is that"
+  },
+  {
+   "type": "text",
+   "text": "it confuses us about what that -か is actually doing."
+  },
+  {
+   "type": "text",
+   "text": "That -か is attached to the proposition that we are talking about."
+  },
+  {
+   "type": "text",
+   "text": "So, if we say \"さくらが来るかも知れない\" -- \"Perhaps Sakura will come\" --"
+  },
+  {
+   "type": "text",
+   "text": "what we're saying is \"さくらが来るか\", that's the question or proposition"
+  },
+  {
+   "type": "text",
+   "text": "that we're talking about, and then \"も知れない.\""
+  },
+  {
+   "type": "text",
+   "text": "The も is giving us the meaning of \"even\" or \"as much as\", as I've explained that it very often does,"
+  },
+  {
+   "type": "text",
+   "text": "and \"知れない\" is \"知る\" -- \"know\" / \"知れる\"-- \"ability to know or be known\""
+  },
+  {
+   "type": "text",
+   "text": "and the helper adjective \"-ない\"."
+  },
+  {
+   "type": "text",
+   "text": "So the whole thing actually means \"さくらが来るか\" -- \"the question of whether Sakura comes\" – \"も知れない\" -- \"I can't go so far as to know / Maybe Sakura will come, maybe she won't.\""
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "かな"
+  },
+  {
+   "type": "text",
+   "text": "Similarly with \"かな\", which is sometimes presented as a particle meaning \"I wonder\","
+  },
+  {
+   "type": "text",
+   "text": "you see how this actually works."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide presents さくらが来るかな with か in orange-red and な in blue. Notes read “か bundles the question” and “な addresses it to oneself,” giving “= I wonder if Sakura will come”; color matching connects words to notes, no arrows."
+  },
+  {
+   "type": "text",
+   "text": "Note: in the video, there is a typo where the red line says が instead of か. I fixed it."
+  },
+  {
+   "type": "figure",
+   "text": "【図】YouTube comment thread: AI Alvarez notes that at 7:35 the text says が where it should be か, and Organic Japanese with Cure Dolly replies 'You're absolutely right. I'm sorry that rather bad typo slipped through.' No slide or diagram."
+  },
+  {
+   "type": "text",
+   "text": "\"か\" is taking the proposition, so if we say \"さくらが来るかな\", we're saying"
+  },
+  {
+   "type": "text",
+   "text": "\"さくらが来るか\" -- \"the question of whether Sakura will come\" -- \"な\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, \"な\", as we've discussed in another video, is a marker that indicates addressing something to yourself."
+  },
+  {
+   "type": "text",
+   "text": "So, you're saying \"Will Sakura come?\" addressing that to yourself."
+  },
+  {
+   "type": "text",
+   "text": "The way we would say that in English is \"I wonder if Sakura will come / I am pondering"
+  },
+  {
+   "type": "text",
+   "text": "the question of whether Sakura will come.\""
+  },
+  {
+   "type": "text",
+   "text": "And while it's all right to learn things like \"かな\" and \"かも知れない\" as if they were"
+  },
+  {
+   "type": "text",
+   "text": "what the textbooks say they are, lumps of grammar that you just have to memorize,"
+  },
+  {
+   "type": "text",
+   "text": "it helps not only with those but with structure as a whole to understand what they're really doing."
+  },
+  {
+   "type": "text",
+   "text": "They're bundling something into a question, so a proposition becomes a question which"
+  },
+  {
+   "type": "text",
+   "text": "is a noun-like entity which we can then add something like \"do you know / I don't know /"
+  },
+  {
+   "type": "text",
+   "text": "I can't be sure\" or \"I wonder (I'm addressing this question to myself).\""
+  },
+  {
+   "type": "text",
+   "text": "Now, from this proposition-making quality and questioning quality of -か, we get expressions"
+  },
+  {
+   "type": "text",
+   "text": "such as one which we discussed in a previous video, \"まるでゆうれいを見たかのような顔.\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Main sentence まるでゆうれいを見たか / のような顔をした (\"made a face as if he had seen a ghost\"), illustrated by a sweating white ghost reading a red book labeled 怪談; smaller kana ようかい / ようだ with a pointing finger. Notes explain か marks question/hypothesis and nominalizes the blue clause so it can take の; no arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, that means \"a face as if one had seen a ghost.\""
+  },
+  {
+   "type": "text",
+   "text": "So what's the -か doing here?"
+  },
+  {
+   "type": "text",
+   "text": "It's doing the same thing as before."
+  },
+  {
+   "type": "text",
+   "text": "It's marking \"ゆうれいを見た\" as a question, a proposition, a thing that's not certain,"
+  },
+  {
+   "type": "text",
+   "text": "in fact in this particular case, a thing that hasn't happened: we're not saying that"
+  },
+  {
+   "type": "text",
+   "text": "the person HAS seen a ghost, we're only saying that she had a face AS IF she had seen a ghost."
+  },
+  {
+   "type": "text",
+   "text": "So we're marking the proposition that she'd seen a ghost as a question and then continuing to comment on it, and in this case we actually are attaching a logical particle,"
+  },
+  {
+   "type": "text",
+   "text": "the logical particle の, to the か-marked noun-like entity that we have made of the proposition that she is seeing a ghost."
+  },
+  {
+   "type": "figure",
+   "text": "【図】The vision model timed out repeatedly on this file (multiple re-encodes, sizes and prompts all failed), so its text could not be read. Pixel statistics show a predominantly white slide with its content concentrated in a middle band, consistent with a single central diagram or block of text; no transcription available."
+  },
+  {
+   "type": "text",
+   "text": "So with a の-particle, unlike the が and を-particle, we can attach this to a か-marked entity."
+  },
+  {
+   "type": "text",
+   "text": "Now, there is another use of -か, which is a little different but still closely related"
+  },
+  {
+   "type": "text",
+   "text": "to its question-making quality."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "もんか/ものか"
+  },
+  {
+   "type": "text",
+   "text": "And that is in certain expressions where it negativizes what we're talking about."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon boy with hand on chin beside a red/yellow arcade cabinet with joystick and coins; the bubble tail links his head to 学校に行くもんか (もん blue, か red). Green/red note: \"Negating か: in certain expressions calls into question (denies) a proposition.\""
+  },
+  {
+   "type": "text",
+   "text": "An example of this that you've probably come across if you've been watching anime or reading manga is \"もんか\"."
+  },
+  {
+   "type": "text",
+   "text": "And that's short for \"ものか\", and it can be used in more formal speech,"
+  },
+  {
+   "type": "text",
+   "text": "in which case we say \"ものですか\"."
+  },
+  {
+   "type": "text",
+   "text": "So, if I were to say \"そちらへ行くものですか,\" I'm saying \"I won't go there / I'm not going there.\""
+  },
+  {
+   "type": "text",
+   "text": "If I say \"さくらが来るものですか,\" I'm saying \"Sakura is not coming / She won't come /"
+  },
+  {
+   "type": "text",
+   "text": "There's no likelihood of her coming.\""
+  },
+  {
+   "type": "text",
+   "text": "What does \"ものですか\" mean?"
+  },
+  {
+   "type": "text",
+   "text": "It means literally \"Is that a thing?\""
+  },
+  {
+   "type": "text",
+   "text": "So, it's a question, but it's the kind of negativizing question that we also get in English"
+  },
+  {
+   "type": "text",
+   "text": "when we say things like \"Do you think I'm going to do that?\" or \"Would I do that?\" or \"How likely is that?\""
+  },
+  {
+   "type": "text",
+   "text": "In all those cases, by turning something into a question we're denying its likelihood."
+  },
+  {
+   "type": "text",
+   "text": "Now, when we say \"ものか\" it's the same thing, and it often gets reduced right down to \"もんか\"."
+  },
+  {
+   "type": "text",
+   "text": "So someone might say \"それを食べるもんか\" -- \"I'm not eating that.\""
+  },
+  {
+   "type": "text",
+   "text": "And you notice here that we are in fact using the か marker after a regular non-formal sentence, and that's because \"もんか\" or \"ものか\" is in fact rather a rough way of talking."
+  },
+  {
+   "type": "text",
+   "text": "You're denying something very forcefully and often in opposition to somebody."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "どころか"
+  },
+  {
+   "type": "text",
+   "text": "Another place where we often see -か as a negativizing question marker is in \"どころか\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, \"どころ\" is a form of \"ところ\", \nwhich we talked about in a recent lesson, didn't we? (Lesson 36)"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Bold text 「XXどころか」 with green X's and blue/red kana, teaching the pattern meaning “far from XX / let alone XX”. Below it “The place of XX?” is answered “(No! Nowhere near!)” in teal; no diagram or arrows."
+  },
+  {
+   "type": "text",
+   "text": "\"ところ\" can mean not just \"place\" in the literal sense, but a time or a circumstance or condition."
+  },
+  {
+   "type": "text",
+   "text": "When it's said as \"どころ\" it's usually negative, so when we say \"どころか\", we're negativizing what came before it and usually putting an even stronger negative after it."
+  },
+  {
+   "type": "text",
+   "text": "So if we say, for example, \"漢字が読めるどころかひらがなも読めない\" --"
+  },
+  {
+   "type": "text",
+   "text": "\"Not only can't I read kanji, I can't even read hiragana.\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon schoolgirl with a notebook and pen and a large speech bubble: 「漢字が読めるどころか ひらがなも読めない」, with どころか in red. English text reads \"Far from kanji being possible (for me) to read, even hiragana isn't read-possible,\" with a red note \"Place metaphor in both languages.\" No arrows."
+  },
+  {
+   "type": "text",
+   "text": "What's \"どころか\" doing here?"
+  },
+  {
+   "type": "text",
+   "text": "Well, of course it's negativizing, just as we've already seen that it can, but it's also"
+  },
+  {
+   "type": "text",
+   "text": "using the concept of place / \"ところ\", that's to say, conceptual space rather than literal place."
+  },
+  {
+   "type": "text",
+   "text": "We're saying \"Not only can't I go as far as reading kanji, I can't even get to the point of reading hiragana.\""
+  },
+  {
+   "type": "text",
+   "text": "That's the metaphor that's being used here: not only has the situation not reached this far place, it hasn't even reached a nearer place than that."
+  },
+  {
+   "type": "text",
+   "text": "So we see that while -か has a variety of meanings, all of them are closely connected"
+  },
+  {
+   "type": "text",
+   "text": "to its ability to make a question and turn the question into a proposition,"
+  },
+  {
+   "type": "text",
+   "text": "but never a proposition that exists in actuality, always a hypothetical condition…"
+  }
+ ]
+}

@@ -1,0 +1,900 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 38,
+ "page_label": "34. Understand any sentence",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "34. Understand any sentence"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "34. Understand any sentence"
+  },
+  {
+   "type": "text",
+   "text": "Lesson 34: Understand any sentence. Powerful analysis technique."
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we are going to discuss the most fundamental thing in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "And, if we understand this, we can understand any Japanese sentence."
+  },
+  {
+   "type": "text",
+   "text": "If we don't, we can't."
+  },
+  {
+   "type": "text",
+   "text": "It's really as fundamental as that."
+  },
+  {
+   "type": "text",
+   "text": "And I introduced this in our very first lesson, because if we don't have this, we're going nowhere."
+  },
+  {
+   "type": "text",
+   "text": "What we are going to do today is start talking about how we can apply this to any Japanese"
+  },
+  {
+   "type": "text",
+   "text": "sentence that we find in the wild."
+  },
+  {
+   "type": "text",
+   "text": "Now, the fundamental core of Japanese, as you know, is the core Japanese sentence."
+  },
+  {
+   "type": "text",
+   "text": "It's what I call the A-car and the B-engine."
+  },
+  {
+   "type": "text",
+   "text": "Both of those elements have to be there in every sentence."
+  },
+  {
+   "type": "text",
+   "text": "We can always see the B-engine."
+  },
+  {
+   "type": "text",
+   "text": "We can't always see the A-car, but it's always there."
+  },
+  {
+   "type": "text",
+   "text": "In English these are called the subject and the predicate and \nin Japanese they are called the 主語/しゅご and 述語/じゅつご,"
+  },
+  {
+   "type": "text",
+   "text": "but we are going to continue calling them the A-car and the B-engine"
+  },
+  {
+   "type": "text",
+   "text": "because this way we can visualize exactly what's going on in a sentence by using trains."
+  },
+  {
+   "type": "text",
+   "text": "Now this lesson begins with a question asked by my Gold Kokeshi patron Pantelis Chrysafis-sama (and I hope I'm pronouncing your name right)."
+  },
+  {
+   "type": "text",
+   "text": "It was a very simple question, but a very good one, a very fundamental one."
+  },
+  {
+   "type": "text",
+   "text": "It was simply, \"How do we know where a logical clause ends?\""
+  },
+  {
+   "type": "text",
+   "text": "And that's really the same as the question \"How do we identify a logical clause?\""
+  },
+  {
+   "type": "text",
+   "text": "We need to know where it ends and we need to know where it begins."
+  },
+  {
+   "type": "text",
+   "text": "The factors complicating this are that there can be more than one logical clause in a compound sentence"
+  },
+  {
+   "type": "text",
+   "text": "(but as I'm going to demonstrate, that isn't really as difficult as it seems)"
+  },
+  {
+   "type": "text",
+   "text": "and also the fact that we can't always see the A-car."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled “Complicating factors” using train cars as clauses: A-labeled passenger cars carry が, B-labeled locomotives are predicates, and a green “conjunction” arrow points to the coupler between a B locomotive and the next car. Caption “Can be more than one logical clause in a (compound) sentence”; bottom row fades the A-car with “Can't always see the A-car.” A blue panda at right with three question marks."
+  },
+  {
+   "type": "text",
+   "text": "The other complicating factor is the fact that we will see the elements of logical clauses"
+  },
+  {
+   "type": "text",
+   "text": "and even complete logical clauses that are not part of the sentence core."
+  },
+  {
+   "type": "text",
+   "text": "And if they're not part of the sentence core, what they are doing is modifying or"
+  },
+  {
+   "type": "text",
+   "text": "telling us more about either the A-car or the B-engine."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train diagram: a blue-boxed three-car train with cars a and b, and a second train labelled A and B; the first car in each carries が. A blue arrow labelled 'modifier to A-car' links the boxed train to the A car, and the heading reads 'Core elements and even complete logical clauses can be present but not part of the core'."
+  },
+  {
+   "type": "text",
+   "text": "That's the only thing they can ever be doing, because the sentence is its core"
+  },
+  {
+   "type": "text",
+   "text": "and everything else in the sentence is related to and telling us more about that core."
+  },
+  {
+   "type": "text",
+   "text": "Now, sentences where there is more than one logical clause have to be connected"
+  },
+  {
+   "type": "text",
+   "text": "by some kind of conjunction."
+  },
+  {
+   "type": "text",
+   "text": "And this is very important, because this gives us the key to seeing whether or not there"
+  },
+  {
+   "type": "text",
+   "text": "is more than one core and if there is, where they are and how they're working."
+  },
+  {
+   "type": "text",
+   "text": "In our recent series on conditionals, we were in fact dealing with conjunctions."
+  },
+  {
+   "type": "text",
+   "text": "There are various kinds of conjunction: and, but, when, if, etc."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide titled \"Clause Conjunctions\": cars labeled A carry が and engines labeled B, and a chain-link icon with a green arrow labeled \"conjunction\" links the first B engine to the next clause's car, captioned \"Can be more than one logical clause in a (compound) sentence\". Below, LEGO-like blocks pair \"If, when / and, but / because / etc.\" with 〜たら、なら、ば; そして、けど; から、ので, and red て-form / い-stem with an arrow from \"verb/adj engine clause conjunctions\" to い-stem."
+  },
+  {
+   "type": "text",
+   "text": "And the two other kinds of conjunctions that we need to look out for are the て-form, which can join two clauses together into a compound sentence, as we looked at in our first lesson on compound sentences (Lesson 11), and the い-stem of a verb."
+  },
+  {
+   "type": "text",
+   "text": "You've seen how the い-stem is the main conjunctive stem out of the four stems of verbs."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Japanese grammar infographic on the い-stem/連用形, called \"The Great Connector\": hiragana chart with the い-column boxed green and the う-column boxed red, showing -u → -i stem change. Examples わらう→わらい, なく→なき, はなす→はなし, もつ→もち, しぬ→しに, とぶ→とび, のむ→のみ, はしる→はしり, plus ichidan たべる→たべ with note \"always just delete the る\". Blue labels: \"い-stem\", \"連用形\", \"The Great Connector\", \"Can also connect clauses just like て-form\"."
+  },
+  {
+   "type": "text",
+   "text": "It can connect nouns to verbs; it can connect other verbs to verbs; it can connect various helpers to verbs; and it can also connect one logical clause to another."
+  },
+  {
+   "type": "text",
+   "text": "This is slightly more literary, slightly more sophisticated, perhaps, than the て-form,"
+  },
+  {
+   "type": "text",
+   "text": "but it's the one other thing you need to look out for when you're investigating whether"
+  },
+  {
+   "type": "text",
+   "text": "there is more than one logical clause in a sentence."
+  },
+  {
+   "type": "text",
+   "text": "We'll talk about this more in a later lesson."
+  },
+  {
+   "type": "text",
+   "text": "Now, let's talk about the complications that can arise and how we can see through them,"
+  },
+  {
+   "type": "text",
+   "text": "how we can use our detective powers to see what's really going on."
+  },
+  {
+   "type": "text",
+   "text": "I'm going to take a simple conditional sentence that we used before."
+  },
+  {
+   "type": "text",
+   "text": "\"かさを持って来ればよかった\" which means \"I should have taken an umbrella /"
+  },
+  {
+   "type": "text",
+   "text": "I wish I'd taken an umbrella\"."
+  },
+  {
+   "type": "text",
+   "text": "What it literally means is \"If I had taken an umbrella, it would have been good.\""
+  },
+  {
+   "type": "text",
+   "text": "Now, we can see the first logical clause easily, can't we?"
+  },
+  {
+   "type": "text",
+   "text": "That is \"かさを持って来れば\", which is simply \"かさを持ってくる\" -- \"bring an umbrella\""
+  },
+  {
+   "type": "text",
+   "text": "-- turned into its conditional form -- \"if I bring an umbrella\" -- and that's going to"
+  },
+  {
+   "type": "text",
+   "text": "be thrown into the past tense by the final engine in the sentence, which is the way Japanese works."
+  },
+  {
+   "type": "text",
+   "text": "So, we have clause one, which is \"かさを持って来れば\"."
+  },
+  {
+   "type": "text",
+   "text": "We know that it's a complete clause and we know it's going to be followed by a second clause because we have a conjunction there in the form of a conditional."
+  },
+  {
+   "type": "text",
+   "text": "But what follows it is simply \"よかった\" which is the past tense of \"いい\" and it means \"good\"."
+  },
+  {
+   "type": "text",
+   "text": "Is this a core sentence?"
+  },
+  {
+   "type": "text",
+   "text": "Yes, it is."
+  },
+  {
+   "type": "text",
+   "text": "The first sentence is \"かさを持ってくれば\" ; the second sentence is \"(zeroが)よかった\"."
+  },
+  {
+   "type": "text",
+   "text": "We know this because \"よかった\" is an engine."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Train-metaphor slide for conditional “if”: top row has A over a gray が car, a を car, engines labeled う and う with B over the right one, and a chain-link icon; printed below are のが/I, かさを/umbrella, 持って/hold-, く（来）/-come, れば/if. The lower row has A over a が car and B over an い engine with のが/it and よかった/good would have been; a green arrow labeled “Conditionality carries over to main engine” runs from れば to the lower い engine. A rain-cloud penguin sits at lower right."
+  },
+  {
+   "type": "text",
+   "text": "It's an adjective, it's a describing word and it has to be describing something."
+  },
+  {
+   "type": "text",
+   "text": "Wherever you've got an adjective, the adjective must be describing something."
+  },
+  {
+   "type": "text",
+   "text": "Wherever you've got a B-engine, there must be an A-car to correspond to it."
+  },
+  {
+   "type": "text",
+   "text": "So what is the A-car here?"
+  },
+  {
+   "type": "text",
+   "text": "What is \"よかった\" describing?"
+  },
+  {
+   "type": "text",
+   "text": "What is it telling us \"would have been good\"?"
+  },
+  {
+   "type": "text",
+   "text": "This is a very important point."
+  },
+  {
+   "type": "text",
+   "text": "If we translate it into very literal English, what we're saying is \"If I had brought an umbrella,"
+  },
+  {
+   "type": "text",
+   "text": "it would have been good.\""
+  },
+  {
+   "type": "text",
+   "text": "And this is exactly what the Japanese means."
+  },
+  {
+   "type": "text",
+   "text": "\"It\" would have been good. The A-car is \"it\"."
+  },
+  {
+   "type": "text",
+   "text": "So what is \"it\"?"
+  },
+  {
+   "type": "text",
+   "text": "This is the important point: \"It\", or the zero-car, does not have to be clearly definable,"
+  },
+  {
+   "type": "text",
+   "text": "either in English or in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "What \"it\" means here is \"the circumstance / things in general (would have been good)\"."
+  },
+  {
+   "type": "text",
+   "text": "And we do this in Japanese all the time."
+  },
+  {
+   "type": "text",
+   "text": "And we do it in English all the time."
+  },
+  {
+   "type": "text",
+   "text": "So, for example, if we say in English \"It's sunny, isn't it!\""
+  },
+  {
+   "type": "text",
+   "text": "In Japanese we might say \"(zeroが)晴れだね!\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide contrasting the English \"It's sunny, isn't it!\" (A-car pronoun needed twice) with Japanese (Øが)晴れだね, described as zero particle plus copula. Labels A above (Øが) and B above だ; no arrows, plus a smiling cartoon sun and a note that a copula must couple something."
+  },
+  {
+   "type": "text",
+   "text": "They mean the same thing."
+  },
+  {
+   "type": "text",
+   "text": "In English we have to say \"It is sunny\" -- we could say \"Sunny, isn't it?\" but that's only"
+  },
+  {
+   "type": "text",
+   "text": "because we're leaving out the \"it\"."
+  },
+  {
+   "type": "text",
+   "text": "And we've still got it at the end, because we don't ever say \"Sunny, isn't!\""
+  },
+  {
+   "type": "text",
+   "text": "We say \"Sunny, isn't it!\" which must be short for \"It is sunny, isn't it!\""
+  },
+  {
+   "type": "text",
+   "text": "In Japanese we say \"晴れ...\" (which means \"sunny\" or \"clear\" in the sense of clear skies):"
+  },
+  {
+   "type": "text",
+   "text": "\"晴れだね!\""
+  },
+  {
+   "type": "text",
+   "text": "Now, \"だ\" is the copula."
+  },
+  {
+   "type": "text",
+   "text": "It's got to be connecting that \"晴れ晴れ\" to something else, which is our zero-particle."
+  },
+  {
+   "type": "text",
+   "text": "What is it connecting it to?"
+  },
+  {
+   "type": "text",
+   "text": "Well, in this case we don't know."
+  },
+  {
+   "type": "text",
+   "text": "It could be the day -- \"The day is sunny\"."
+  },
+  {
+   "type": "text",
+   "text": "It could be the weather -- \"The weather is sunny\"."
+  },
+  {
+   "type": "text",
+   "text": "It could be the sky -- \"The sky is clear\" -- because \"晴れ\" can mean \"clear\" as well in that sky sense."
+  },
+  {
+   "type": "text",
+   "text": "It doesn't matter."
+  },
+  {
+   "type": "text",
+   "text": "It doesn't matter in Japanese and it doesn't matter in English what we mean by \"it\" when"
+  },
+  {
+   "type": "text",
+   "text": "we say \"If I'd brought an umbrella, it would have been good\" or \"It is sunny\"."
+  },
+  {
+   "type": "text",
+   "text": "But we can't do without it."
+  },
+  {
+   "type": "text",
+   "text": "We can't do without it in Japanese and we can't do without it in English."
+  },
+  {
+   "type": "text",
+   "text": "Because in both Japanese and English we have to have an A-car and a B-engine."
+  },
+  {
+   "type": "text",
+   "text": "A subject and a predicate. A 主語/しゅご and a 述語/じゅつご."
+  },
+  {
+   "type": "text",
+   "text": "In English we always have to be able to see both of them."
+  },
+  {
+   "type": "text",
+   "text": "In Japanese we don't need to see the first one."
+  },
+  {
+   "type": "text",
+   "text": "We do need to see the second one."
+  },
+  {
+   "type": "text",
+   "text": "But the first one is always there, and if we don't understand that we're going to have"
+  },
+  {
+   "type": "text",
+   "text": "great difficulty picking out the core sentence, especially as things get more complex."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Three stacked steam locomotives labelled う, い and だ show the 'three possible clause engines: verb, adjective and copula.' A white mascot says 'Don't forget: there are only three possible clause engines: verb, adjective and copula' with a bubble 'It's important'; a black mascot replies 'you said that already'."
+  },
+  {
+   "type": "text",
+   "text": "So, to get directly to the question, how do we find the end of a logical clause?"
+  },
+  {
+   "type": "text",
+   "text": "Now, the main logical clause, the head clause of the sentence, is always the last one,"
+  },
+  {
+   "type": "text",
+   "text": "and we can find the end very easily because the end of the logical clause is the end of the sentence."
+  },
+  {
+   "type": "text",
+   "text": "In Japanese, a sentence has to end with an engine, that is to say, an adjective, a copula"
+  },
+  {
+   "type": "text",
+   "text": "(\"だ\" or \"です\") or a verb."
+  },
+  {
+   "type": "text",
+   "text": "So the last engine in the sentence will be the end of the head clause of the sentence,"
+  },
+  {
+   "type": "text",
+   "text": "the main final clause of the sentence, always."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Black-and-white steam locomotive facing right with a separate pennant flag on a diagonal pole labeled を; no arrows connect them. Caption below reads \"End of a sentence looks like this: Engine (one of the three) plus any sentence-ender (post-clause) particles.\""
+  },
+  {
+   "type": "text",
+   "text": "It will be the last thing in the sentence apart, perhaps, from one or two sentence-ender"
+  },
+  {
+   "type": "text",
+   "text": "particles like \"よ\" or \"ね\" or \"よね\"."
+  },
+  {
+   "type": "text",
+   "text": "We call them sentence-ender particles, but in a way it might be more accurate to call them"
+  },
+  {
+   "type": "text",
+   "text": "particles that come after the end of the sentence."
+  },
+  {
+   "type": "text",
+   "text": "The final engine is the end of the logical sentence and the ender particles are just"
+  },
+  {
+   "type": "text",
+   "text": "a little add-on that we put on right after the end of the sentence."
+  },
+  {
+   "type": "text",
+   "text": "So it's very easy to find the end of the last logical clause in a sentence or the end of"
+  },
+  {
+   "type": "text",
+   "text": "the entire logical clause if there is only one logical clause in the sentence."
+  },
+  {
+   "type": "text",
+   "text": "The more difficult question -- but it's not really all that difficult, but the question"
+  },
+  {
+   "type": "text",
+   "text": "that can cause problems is the question of how do we find or how do we eliminate the"
+  },
+  {
+   "type": "text",
+   "text": "possibility of a compound sentence?"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Black-and-white steam locomotive facing right beside a chain-link icon, with the text 'Logical clause inside a compound sentence looks like this: Engine (one of the three) plus conjunction.' Green text: 'It has to have one to connect to next logical clause.' No Japanese text or arrows."
+  },
+  {
+   "type": "text",
+   "text": "How do we know there are no other logical clauses in the sentence or, if there are,"
+  },
+  {
+   "type": "text",
+   "text": "how do we find them?"
+  },
+  {
+   "type": "text",
+   "text": "And the answer to that is again very simple and straightforward."
+  },
+  {
+   "type": "text",
+   "text": "A logical clause will always end with an engine: a verb, a noun followed by a copula (\"だ\""
+  },
+  {
+   "type": "text",
+   "text": "-- it won't be followed by \"な\", because if the copula \"だ\" has become \"な\" then"
+  },
+  {
+   "type": "text",
+   "text": "it must be a modifier, it can't be a logical clause in itself) -- a noun with the copula \"だ\","
+  },
+  {
+   "type": "text",
+   "text": "or an adjective."
+  },
+  {
+   "type": "text",
+   "text": "And if it is a clause before the final clause in a compound sentence, it's going to end"
+  },
+  {
+   "type": "text",
+   "text": "with a connector."
+  },
+  {
+   "type": "text",
+   "text": "It has to, because it has to connect to the next logical clause."
+  },
+  {
+   "type": "text",
+   "text": "So, now what we're going to do is look at the sort of complex sentence that can confuse"
+  },
+  {
+   "type": "text",
+   "text": "people and we're going to look at how we tackle that sentence."
+  },
+  {
+   "type": "text",
+   "text": "So the sentence is \n\"私がさくらに話した日本語ができる留学生は(zeroが)"
+  },
+  {
+   "type": "text",
+   "text": "五輪金メダルを獲得した女性と結婚した\""
+  },
+  {
+   "type": "text",
+   "text": "Now, as you can see, that looks pretty complicated."
+  },
+  {
+   "type": "text",
+   "text": "How do we go about it, how do we go about analyzing it?"
+  },
+  {
+   "type": "text",
+   "text": "Jay Rubin-先生, for whom I have great respect, suggests that if we're really stuck we should"
+  },
+  {
+   "type": "text",
+   "text": "work backwards through a Japanese sentence."
+  },
+  {
+   "type": "text",
+   "text": "And there's some sense in that, because Japanese sentences do in a certain way and up to a"
+  },
+  {
+   "type": "text",
+   "text": "certain point run in reverse order from an English sentence."
+  },
+  {
+   "type": "text",
+   "text": "However, we can only do that with written sentences."
+  },
+  {
+   "type": "text",
+   "text": "We can't do it with spoken sentences because people won't speak backwards for us most of the time."
+  },
+  {
+   "type": "text",
+   "text": "However, one thing I do think is useful if you're feeling particularly stuck with a sentence"
+  },
+  {
+   "type": "text",
+   "text": "is to make sure you've got the head verb or the head copula or the head adjective,"
+  },
+  {
+   "type": "text",
+   "text": "whatever is the head of the sentence, in your mind."
+  },
+  {
+   "type": "text",
+   "text": "So if we just take a peek at that first so we know where we're going to."
+  },
+  {
+   "type": "text",
+   "text": "And the head of this sentence is very straightforward, isn't it?"
+  },
+  {
+   "type": "text",
+   "text": "It's \"結婚した\"."
+  },
+  {
+   "type": "text",
+   "text": "The head verb is simply \"した\" -- \"did\" -- but that's making a する-verb with \"結婚\"; \nso, \"結婚した\"."
+  },
+  {
+   "type": "text",
+   "text": "What the sentence is telling us is that somebody got married."
+  },
+  {
+   "type": "text",
+   "text": "All right."
+  },
+  {
+   "type": "text",
+   "text": "But now let's do what I think we should do so long as we can, and most of the time we really can --"
+  },
+  {
+   "type": "text",
+   "text": "Start from the beginning. All right."
+  },
+  {
+   "type": "text",
+   "text": "So, the first part of the sentence, the first clause: \"私がさくらに話した\""
+  },
+  {
+   "type": "text",
+   "text": "Now, that could be a complete logical sentence in itself, couldn't it?"
+  },
+  {
+   "type": "text",
+   "text": "\"I spoke to Sakura.\""
+  },
+  {
+   "type": "text",
+   "text": "Or it could be \"I told Sakura\" in which case it couldn't be complete in itself, could it?"
+  },
+  {
+   "type": "text",
+   "text": "Because I would have to tell her something."
+  },
+  {
+   "type": "text",
+   "text": "Now, which is it in this case?"
+  },
+  {
+   "type": "text",
+   "text": "Well, we know that's it's not a complete logical clause, \"I spoke to Sakura.\" Why not?"
+  },
+  {
+   "type": "text",
+   "text": "Because it's not ending in any kind of conjunction, is it?"
+  },
+  {
+   "type": "text",
+   "text": "It's followed directly by a noun, \"日本語\"."
+  },
+  {
+   "type": "text",
+   "text": "There's no conjunctive word, there's no て-form and it's not the い-stem of \"話す\"."
+  },
+  {
+   "type": "text",
+   "text": "So we know that this is in fact a modifier for something else."
+  },
+  {
+   "type": "text",
+   "text": "So, what have we got next?"
+  },
+  {
+   "type": "text",
+   "text": "\"日本語ができる\" -- now, that means \"Japanese is possible\"."
+  },
+  {
+   "type": "text",
+   "text": "日本語ができる\" could be a complete sentence in itself, couldn't it?"
+  },
+  {
+   "type": "text",
+   "text": "\"To me, Japanese is possible.\""
+  },
+  {
+   "type": "text",
+   "text": "The \"to me\" would be implicit, but that's fine, we do that all the time."
+  },
+  {
+   "type": "text",
+   "text": "But we know it isn't because it doesn't end in any kind of conjunction."
+  },
+  {
+   "type": "text",
+   "text": "So this also can't be a complete logical clause within a compound sentence."
+  },
+  {
+   "type": "text",
+   "text": "It must be a modifier for something."
+  },
+  {
+   "type": "text",
+   "text": "And what we expect it to be a modifier for would be a person: a person to whom Japanese is possible."
+  },
+  {
+   "type": "text",
+   "text": "And that's exactly what we get next: “留学生\"."
+  },
+  {
+   "type": "text",
+   "text": "\"留学生\" is an exchange student, usually from a foreign country."
+  },
+  {
+   "type": "text",
+   "text": "So, \"日本語ができる\" modifies \"留学生\" -- \"an exchange student to whom Japanese is possible / a Japanese-speaking exchange student.\""
+  },
+  {
+   "type": "text",
+   "text": "And \"私がさくらに話した\" is modifying all that."
+  },
+  {
+   "type": "text",
+   "text": "\"The Japanese-speaking exchange student who I told Sakura about\""
+  },
+  {
+   "type": "text",
+   "text": "And then that's followed by は."
+  },
+  {
+   "type": "text",
+   "text": "Now, \"留学生は\" indicates it's very likely, isn't it, that this is going to be"
+  },
+  {
+   "type": "text",
+   "text": "the topic of the sentence and that the topic of the sentence is going to be the doer,"
+  },
+  {
+   "type": "text",
+   "text": "the A-car of the sentence."
+  },
+  {
+   "type": "text",
+   "text": "But let's continue the sentence and see if that seems to be the case."
+  },
+  {
+   "type": "text",
+   "text": "We now have \"五輪金メダル\" and that means an Olympic gold medal."
+  },
+  {
+   "type": "text",
+   "text": "\"五輪\" means \"five circles\"."
+  },
+  {
+   "type": "text",
+   "text": "\"五輪金\" -- which is gold -- \"メダル\" -- an Olympic gold medal -- \"を獲得した\"."
+  },
+  {
+   "type": "text",
+   "text": "Now that is not, that can't be a logical sentence because it's not a logical sentence, is it?"
+  },
+  {
+   "type": "text",
+   "text": "It's not a logical sentence without a doer, and there's no doer implied here."
+  },
+  {
+   "type": "text",
+   "text": "But we have the doer right afterwards, don't we?"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Sentence 私がさくらに話した日本語ができる留学生は五輪金メダルを獲得した女性と結婚した with a red oval around 女性. Orange glosses: 獲得 = acquire, win (prize, medal); 女性 = lady/woman (more respectful than 女の人)."
+  },
+  {
+   "type": "text",
+   "text": "So we know that we have here a modifier for another noun, not a logical sentence in itself:"
+  },
+  {
+   "type": "text",
+   "text": "\"五輪金メダルを獲得した女性\"."
+  },
+  {
+   "type": "text",
+   "text": "So now we have another modified noun: \"A woman who won an Olympic gold medal\"."
+  },
+  {
+   "type": "text",
+   "text": "And now we've come to the head-verb of the sentence: \"-と結婚した\".\nNote: about that と"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark YouTube comment thread: a user asks whether と in an example is the quotation particle, and \"Organic Japanese with Cure Dolly\" replies \"No it is the \\\"with\\\" usage of と. Japanese says marry-with rather than marry (or married to).\" Only と is printed Japanese; no diagrams."
+  },
+  {
+   "type": "text",
+   "text": "So we were right. (about the は presumption)"
+  },
+  {
+   "type": "text",
+   "text": "We have the A-car, which is the exchange student (in the sentence it would be more specifically the zeroが after ”留学生は” which implies said exchange student, that is the invisible subject, so subject is also the topic here) who can speak Japanese that I told Sakura about married (B car - predicate) a woman who won an Olympic gold medal."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Description unavailable: the vision service timed out on this image repeatedly at several sizes, so its contents could not be verified. The image is a wide (1000x337) slide, likely from the same regret/condition lesson as the neighbouring slides, but no text could be confirmed."
+  },
+  {
+   "type": "text",
+   "text": "And as you see, we've got various actions going on in this sentence; we've got various"
+  },
+  {
+   "type": "text",
+   "text": "things that could, under different circumstances, form logical clauses of their own, but"
+  },
+  {
+   "type": "text",
+   "text": "none of them actually can."
+  },
+  {
+   "type": "text",
+   "text": "We now know that this is not a compound sentence."
+  },
+  {
+   "type": "text",
+   "text": "This is one rather complex sentence \nwith a single A-car (zeroが = 留学生) and a single B-engine (結婚した)."
+  },
+  {
+   "type": "text",
+   "text": "Where a logical clause ends is either at the end of the sentence or before a conjunction."
+  },
+  {
+   "type": "text",
+   "text": "And if you can do that, you can analyze just about any Japanese sentence, however complicated it looks, and see what's going on in the sentence."
+  },
+  {
+   "type": "text",
+   "text": "A Personal Tip Note: if still confusing, I recommend you read the comments under that video. With lots of input, the brain should sort it out eventually, but it needs work and time. Dolly just prepares for that dive. At this point, you might want to slowly start with input if you have not yet, together with Dolly grammar. Once finished with the transcript, refer to it when you encounter something confusing or want to review, but comprehensible input/”immersion” is the key (as Dolly herself advocated). This way, you will be ready to apply stuff in Lessons 45-48 right away.\nBut it is up to you, it would be good to get the tools etc. ready now at least & start after 45-ish.\nAs mentioned on the first page, I have written a long document - LINK HERE - containing my most favourite sites that have hundreds of extremely useful and varied resources, tips, guides, tools and everything needed for deep Japanese immersion that you may find somewhat helpful."
+  }
+ ]
+}

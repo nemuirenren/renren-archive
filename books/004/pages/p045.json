@@ -1,0 +1,670 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 45,
+ "page_label": "41. 5 key facts about the basic structure of Japanese",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "41. 5 key facts about the basic structure of Japanese"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "41. 5 key facts about the basic structure of Japanese"
+  },
+  {
+   "type": "text",
+   "text": "5 key facts they never tell you about the basic structure of Japanese. Lesson 41"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about"
+  },
+  {
+   "type": "text",
+   "text": "something very important that affects the whole structure of Japanese."
+  },
+  {
+   "type": "text",
+   "text": "And, surprise, surprise, the textbooks never explain this properly."
+  },
+  {
+   "type": "text",
+   "text": "What we're going to talk about is Japanese words."
+  },
+  {
+   "type": "text",
+   "text": "Not vocabulary, but the actual nature of the words themselves and"
+  },
+  {
+   "type": "text",
+   "text": "how they structurally work inside the language."
+  },
+  {
+   "type": "text",
+   "text": "This isn't difficult. In fact, it's very simple."
+  },
+  {
+   "type": "text",
+   "text": "But if you don't know it, it's very confusing because you actually see a sentence and"
+  },
+  {
+   "type": "text",
+   "text": "you don't know what the words are really doing inside that sentence."
+  },
+  {
+   "type": "text",
+   "text": "And this is the position that the textbooks leave you in."
+  },
+  {
+   "type": "text",
+   "text": "Now, the fact is that Japanese is much simpler than English and much simpler than most languages in the types of words that it has."
+  },
+  {
+   "type": "text",
+   "text": "However, the English textbooks and dictionaries try to assimilate Japanese words to the various English types and this doesn't work well at all and leads to endless confusion."
+  },
+  {
+   "type": "text",
+   "text": "So I'm going to present five facts that will clarify the whole situation."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Fact 1"
+  },
+  {
+   "type": "text",
+   "text": "Fact 1: Nearly all Japanese words fall into one of three categories. Just three."
+  },
+  {
+   "type": "text",
+   "text": "And those three categories are: Nouns, Verbs, and Adjectives."
+  },
+  {
+   "type": "text",
+   "text": "Now, there are also, as we know, particles – they're not words,"
+  },
+  {
+   "type": "text",
+   "text": "but they are the nuts and bolts that hold the language together."
+  },
+  {
+   "type": "text",
+   "text": "And there are a few -- a very few -- specialized words that don't fall into those three categories."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A cartoon owl perched on a red book at left, with bold \"FACT 1\" and \"Nearly all Japanese words fall into 3 TYPES ONLY\". A green \"NOTE:\" says \"Dedicated words usu. small and non-specific (i.e. not specifying a particular kind of thing, quality or action),\" with examples また, もう, けど. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "For example, there are conjunction words that join together two logical clauses to make a compound sentence."
+  },
+  {
+   "type": "text",
+   "text": "Most conjunctions aren't done with words anyway -- they're done with the て-form, the い-stem, or groups of particles like \"でも\" and \"のに\"."
+  },
+  {
+   "type": "text",
+   "text": "But there are a few dedicated conjunctions like \"けど\" and the other \"が\","
+  },
+  {
+   "type": "text",
+   "text": "the \"が\" that isn't a particle but a conjunction, which we discussed in a recent video."
+  },
+  {
+   "type": "text",
+   "text": "Now, apart from these, everything you see is going to be a noun, a verb, or an adjective."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Fact 2"
+  },
+  {
+   "type": "text",
+   "text": "Fact 2: Verbs and adjectives are very easily recognized and distinguished."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A cartoon brown owl perches on a closed red book above dark-red \"FACT 2\" and centered blue/red text: \"Verbs and adjectives / easily spotted. / Forms wholly regular. / The rest 99.9% nouns\". No Japanese text, labels or arrows."
+  },
+  {
+   "type": "text",
+   "text": "Every verb ends in an -う row kana -- and it has to be a kana, it can't be included in kanji."
+  },
+  {
+   "type": "text",
+   "text": "And every adjective has to end in the kana い."
+  },
+  {
+   "type": "text",
+   "text": "Again, it has to be the kana, can't be part of a kanji."
+  },
+  {
+   "type": "text",
+   "text": "Now, as we know, there are certain completely regular transformations"
+  },
+  {
+   "type": "text",
+   "text": "that this -う row kana and that this い can make."
+  },
+  {
+   "type": "text",
+   "text": "They can go into て-form or た-form, and the final -う row kana of a verb can change into the equivalent kana in the same row in order to attach a helper word such as the negative helper adjective \"ない\" or the causative helper verb \"せる/させる\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Hiragana chart slide with the a-column boxed green and the u-column boxed red, green arrows pointing from u to a; examples かう→かわ, きく→きか, はなす→はなさ, もつ→もた, しぬ→しな, とぶ→とば, のむ→のま, とる→とら. A note calls かう→かわ \"only irregularity in the entire 4-stem system!\" (wa wa, not a a); bottom-left \"Ichidan (ru-verb): always just delete the る\" with たべる→たべ and a blue brace linking -ない, -れる, -せる."
+  },
+  {
+   "type": "text",
+   "text": "Now, once you know the basic permutations of verbs and adjectives, which you should do very early on, you know that if a word doesn't have one of those possible verb endings"
+  },
+  {
+   "type": "text",
+   "text": "or one of those possible adjective endings, it is a noun."
+  },
+  {
+   "type": "text",
+   "text": "You know that if a word is written in kanji only or can be written in kanji only,"
+  },
+  {
+   "type": "text",
+   "text": "it is in 99 cases out of 100 a noun."
+  },
+  {
+   "type": "text",
+   "text": "So Japanese, as I've said before, is a very noun-centered language."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Fact 3"
+  },
+  {
+   "type": "text",
+   "text": "Fact 3: There is a legion of super-nouns."
+  },
+  {
+   "type": "text",
+   "text": "What I mean by this is that there are certain special categories of noun,"
+  },
+  {
+   "type": "text",
+   "text": "each of which has one superpower and one only."
+  },
+  {
+   "type": "text",
+   "text": "That's to say that the nouns in each of these groups of special or super-nouns"
+  },
+  {
+   "type": "text",
+   "text": "differ from ordinary nouns in one respect only."
+  },
+  {
+   "type": "text",
+   "text": "Now, two of those groups we already know, so as Fact 4 I'm just going to go over those quickly."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Fact 4"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Adjectival nouns"
+  },
+  {
+   "type": "text",
+   "text": "The first group is adjectival nouns, which are horribly misnamed by the textbooks \"な adjectives\"."
+  },
+  {
+   "type": "text",
+   "text": "They're not adjectives. They are nouns that can under certain circumstances be used adjectivally."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Blue label \"Adjectival noun\" with subtitle \"Don't ever call her a 'na adjective'\" beside a red-suited masked superheroine running left with speed streaks. Upper red bubble (tail at her head): \"Sure I describe, but I'm no adjective\"; lower bubble (red arrow to her foot): \"I'm a NOUN and my superpower is...\". No Japanese text."
+  },
+  {
+   "type": "text",
+   "text": "The superpower of adjectival nouns, the one thing they can do that makes them different"
+  },
+  {
+   "type": "text",
+   "text": "from any other noun, is that they can use the soft or connective form of the copula \"だ\"."
+  },
+  {
+   "type": "text",
+   "text": "So, we can say \"屋敷が不思議だ\" -- \"mansion mysterious is\"."
+  },
+  {
+   "type": "text",
+   "text": "When we do this we're just doing what we can do with any noun."
+  },
+  {
+   "type": "text",
+   "text": "We can say \"さくらが日本人だ\" -- \"Sakura Japanese person is\"."
+  },
+  {
+   "type": "text",
+   "text": "But we can also use that soft form of \"だ\", which is \"な\","
+  },
+  {
+   "type": "text",
+   "text": "and we can say \"不思議な屋敷\" - \"mysterious-is mansion\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide with a black castle silhouette with yellow windows beside 屋敷が不思議だ, glossed \"mansion mysterious is\", and 不思議な屋敷, glossed \"mysterious-is mansion\", colour-linked across the two patterns. Orange note: \"But don't forget that 不思議, like the majority of adjectival nouns, also operates independently as a pure noun.\" No arrows."
+  },
+  {
+   "type": "text",
+   "text": "You can't do that with a regular noun."
+  },
+  {
+   "type": "text",
+   "text": "And that's the only difference between a regular noun and an adjectival noun."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "する nouns"
+  },
+  {
+   "type": "text",
+   "text": "The second group is する nouns, which the dictionaries somewhat confusingly call \"する verbs\". What they are is nouns."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A blue-and-yellow caped cartoon hero is labelled 'Suru noun'; his speech bubble reads 'I'm no verb. You'd be confusing me with my partner する'. Blue text below: 'We work together a lot but I'm more than \"one half of the Dynamic Duo\"' — a noun that forms verbs with する."
+  },
+  {
+   "type": "text",
+   "text": "And their superpower is that they are allowed to drop the direct object marker, \"を\"."
+  },
+  {
+   "type": "text",
+   "text": "So, if we take the noun \"勉強\", which means \"study\", we can say \"勉強をする\", \nwhich means \"do study\""
+  },
+  {
+   "type": "text",
+   "text": "but we can also say \"勉強する\", which means \"to study\" (the verb).\nNote: It’s just a very nuanced difference, basically. \nThe を is the Direct Object (noun) + verb (勉強を + する) & the 勉強する is a する verb."
+  },
+  {
+   "type": "text",
+   "text": "We can use the を to mark a direct object of any verb, but we can only drop that を in the case of する nouns. That is their superpower."
+  },
+  {
+   "type": "text",
+   "text": "So when we do that, we fuse together \"勉強\" with \"する\""
+  },
+  {
+   "type": "text",
+   "text": "and make what we really can call a \"する verb\"."
+  },
+  {
+   "type": "text",
+   "text": "But the important point to remember is that when \"する\" is not attached to it, it's not a する verb. It's not any kind of a verb. It's a noun."
+  },
+  {
+   "type": "text",
+   "text": "Note: Do note that “WHEN する is NOT attached to it” e.g. 勉強をする, where 勉強 is a noun. But with 勉強する, the する should be the Head of the phrase 勉強する, so it should be a verb."
+  },
+  {
+   "type": "text",
+   "text": "So we can say \"勉強が好きだ\"."
+  },
+  {
+   "type": "text",
+   "text": "That means \"study (noun) is pleasing to me\"."
+  },
+  {
+   "type": "text",
+   "text": "We don't say \"勉強するのが好きだ\", because what we'd be doing if we said that"
+  },
+  {
+   "type": "text",
+   "text": "would be taking a noun, turning it into a verb with \"する\", and then turning it back into a noun again with \"の\" (the nominaliser for the verb 勉強する)."
+  },
+  {
+   "type": "text",
+   "text": "We don't need to do that because it's a noun in the first place."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Fact 5"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Adverbial nouns"
+  },
+  {
+   "type": "text",
+   "text": "Now, the third group, which we haven't yet introduced, is adverbial nouns."
+  },
+  {
+   "type": "text",
+   "text": "Now, there are a lot of these and an awful lot of them end in the kana \"り\","
+  },
+  {
+   "type": "text",
+   "text": "but not all of them by any means."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Titled \"Adverbial\" Nouns, showing anime girl Foxy in a sailor outfit holding a flower, with a speech bubble: \"I'm Foxy. I get confused with all kinds of things. But what I am is - that's right - a noun.\" Notes around her read \"(If it's a puzzle and ends with ly)…\", \"…most of the time it's gonna be me!\" and \"And if it doesn't it still might be!\". No Japanese text, no arrows."
+  },
+  {
+   "type": "text",
+   "text": "So, we're going to look at two that do and one that doesn't,"
+  },
+  {
+   "type": "text",
+   "text": "and we're going to look at their superpower."
+  },
+  {
+   "type": "text",
+   "text": "Their superpower is very similar to the superpower of the する noun,"
+  },
+  {
+   "type": "text",
+   "text": "which is to say that they can drop the relevant particle under certain circumstances."
+  },
+  {
+   "type": "text",
+   "text": "As we know, any noun that's appropriate for the use can be turned into an adverb by adding に."
+  },
+  {
+   "type": "text",
+   "text": "So, \"静か\", which is the (Adjectival) noun \"quiet\", can be used adverbially with に."
+  },
+  {
+   "type": "text",
+   "text": "We can say \"静かにする\" -- \"do quietly / act quietly\"."
+  },
+  {
+   "type": "text",
+   "text": "We can say \"静かに歩く\" -- \"walk quietly\"."
+  },
+  {
+   "type": "text",
+   "text": "---"
+  },
+  {
+   "type": "text",
+   "text": "(But) With adverbial nouns, we can drop that に."
+  },
+  {
+   "type": "text",
+   "text": "Note: I think Dolly here does NOT mean that we can drop に with 静か because it is NOT an adverb(ial noun) like ゆっくり, but Adj. Noun. At least I can’t find anything about 静かする etc. \nDolly also seems to allude at multiple points (Lesson 8) to that adverbs like ゆっくり could be classed as a kind of noun, although stuff like Jisho/Yomichan lists them as Adverbs and their name 副詞 (ふくし) is different of course, means Adverb, so it would be just a special sub-class."
+  },
+  {
+   "type": "text",
+   "text": "I think that the term “Adverbial Noun” might be what that 副詞 refers to for Dolly, where usually they are called Adverbs, but they might be this very special class of nouns in Japanese, so why Dolly calls them that. As to why we can drop the に, since ゆっくり is already 副詞 on default. \nSo, we'll take one that ends in the typical \"り\": \"ゆっくり\" -- that means ''slow'' or ''leisurely''"
+  },
+  {
+   "type": "text",
+   "text": "and we can say \n\"ゆっくりにする\" -- \"act in a leisurely manner\", \"ゆっくりに歩く\" -- \"walk slowly\"."
+  },
+  {
+   "type": "text",
+   "text": "But we can also say \"ゆっくりする\", \"ゆっくり歩く\". We can drop that に."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide with a sleeping panda on a tree branch. Top text ゆっくりにする (に in red), lower green text ゆっくりする. Orange note: “Must be a noun since only nouns can take Logical Particles like に (See lesson 8b)”; small mascot at right labeled “foxpower engaged.”"
+  },
+  {
+   "type": "text",
+   "text": "So, that's the one and only superpower of the adverbial noun."
+  },
+  {
+   "type": "text",
+   "text": "And it's important to understand this because when you start trying to explain them without"
+  },
+  {
+   "type": "text",
+   "text": "recognizing this fundamental fact, you can get into all kinds of difficulty."
+  },
+  {
+   "type": "text",
+   "text": "Let's take another one: \"余り/あまり\"."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "あまり"
+  },
+  {
+   "type": "text",
+   "text": "Now, this noun is usually explained in a way that's completely confusing."
+  },
+  {
+   "type": "text",
+   "text": "\"あまり\" is a noun, and what it means is \"excess\"."
+  },
+  {
+   "type": "text",
+   "text": "You can use it in a completely literal sense."
+  },
+  {
+   "type": "text",
+   "text": "You can say \"ご飯のあまり\" -- which means \"the excess rice / the leftover cooked rice\"."
+  },
+  {
+   "type": "text",
+   "text": "It's very often used in more abstract ways."
+  },
+  {
+   "type": "text",
+   "text": "So, we can say \"悲しみのあまり泣いた\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, this means \"from an excess of sadness, I cried.\""
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide contrasting 悲しみのあまりに泣いた with 悲しみのあまり泣いた, a red arrow showing the optional に. A crying girl in a yellow headband holds a crying teddy bear, beside a yellow fox-like mascot labeled “foxpower engaged.” Bottom gloss: “From sadness’s excess, cried.”"
+  },
+  {
+   "type": "text",
+   "text": "And, as you see, we can leave out the particle."
+  },
+  {
+   "type": "text",
+   "text": "We usually do leave out the particle with \"あまり\"."
+  },
+  {
+   "type": "text",
+   "text": "So it's now being used adverbially and it still means \"excess\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, the textbooks generally introduce it in a different context, which makes it very confusing"
+  },
+  {
+   "type": "text",
+   "text": "when we see it in other contexts and especially when we don't understand that it's actually a noun."
+  },
+  {
+   "type": "text",
+   "text": "They show it being used adverbially in expressions like \"あまり勉強しない\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Cartoon blonde girl at a desk with a book and pencil case, a yellow mascot labeled \"foxpower engaged,\" and the phrase あまり勉強しない with a red arc linking あまり to しない. Glosses: \"Lit: (I) don't study too much\" and \"= 'I don't study very much'.\""
+  },
+  {
+   "type": "text",
+   "text": "What does that literally mean?"
+  },
+  {
+   "type": "text",
+   "text": "It literally means \"I don't study too much / I don't do an excess of study.\""
+  },
+  {
+   "type": "text",
+   "text": "But of course, as we know, what it means in practice is that \"I don't study very much\"."
+  },
+  {
+   "type": "text",
+   "text": "And this is what we call litotes."
+  },
+  {
+   "type": "text",
+   "text": "We've talked about hyperbole in language and how it's a very common phenomenon."
+  },
+  {
+   "type": "text",
+   "text": "Litotes is the opposite of hyperbole."
+  },
+  {
+   "type": "text",
+   "text": "Hyperbole is saying more than we really mean; litotes is saying less than we really mean."
+  },
+  {
+   "type": "text",
+   "text": "The word \"litotes\" isn't as well known as \"hyperbole\"."
+  },
+  {
+   "type": "text",
+   "text": "That's perhaps because current Western speech is much more prone to hyperbole than to litotes."
+  },
+  {
+   "type": "text",
+   "text": "But we still have litotes in set expressions."
+  },
+  {
+   "type": "text",
+   "text": "So, if we are going on a picnic and we look at the dark clouds in the sky and say"
+  },
+  {
+   "type": "text",
+   "text": "\"It doesn't look too good!\" what we're literally saying is \"It doesn't look excessively good\""
+  },
+  {
+   "type": "text",
+   "text": "but what we actually mean is \"It doesn't look very good!\""
+  },
+  {
+   "type": "text",
+   "text": "And it's just the same with \"あまり\"."
+  },
+  {
+   "type": "text",
+   "text": "If we say \"あまり勉強しない\", we're saying \"I don't study too much / I don't study excessively\""
+  },
+  {
+   "type": "text",
+   "text": "but what we actually mean is \"I don't study very much at all.\""
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "随分"
+  },
+  {
+   "type": "text",
+   "text": "So, let's just take one more that doesn't end in \"り\", and that's \"随分/ずいぶん\"."
+  },
+  {
+   "type": "text",
+   "text": "What it really means is \"sufficiently\"."
+  },
+  {
+   "type": "text",
+   "text": "And you may say, \"Well, 'sufficiently' isn't a noun\"."
+  },
+  {
+   "type": "text",
+   "text": "And that's true -- in English it isn't a noun."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Mnemonic for ずいぶん, root meaning \"sufficiently,\" with a fennec-fox at upper left and large kana ずいぶん at upper right. Diagrams 随 (red, ずい, \"attendant (appropriate)\") + 分 (blue, ぶん, \"portion\") joined by a black plus sign, plus green note \"usually written in kana.\" No arrows."
+  },
+  {
+   "type": "text",
+   "text": "In Japanese it is, and if we look at the kanji \"随分\", what it actually means is something like"
+  },
+  {
+   "type": "text",
+   "text": "\"appropriate portion\" or \"appropriate amount\" -- in other words, \"sufficient\" or \"sufficiently\"."
+  },
+  {
+   "type": "text",
+   "text": "And this is another litotes which is common to both English and Japanese and many other languages."
+  },
+  {
+   "type": "text",
+   "text": "When you say to someone \"ずいぶん上手だね\", what you're literally saying is"
+  },
+  {
+   "type": "text",
+   "text": "\"you're skilful enough / you're sufficiently skilful\"."
+  },
+  {
+   "type": "text",
+   "text": "What you actually mean is that the person is very skilful."
+  },
+  {
+   "type": "text",
+   "text": "And this is just the same in English. You might say \"You're pretty good\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide headed ずいぶん上手だね (ずいぶん red, 上手だね blue, 上手 underlined), glossed \"(you're) sufficiently skilled, ne\". Lower left notes red =\"pretty\" and =very; lower right red italic \"foxpower engaged.\" beside a yellow fox mascot. No arrows."
+  },
+  {
+   "type": "text",
+   "text": "And \"ずいぶん\", like \"pretty\" or \"fairly\" in English can run the full range from its original meaning of \"sufficiently\" or \"fairly\" \nto its more usual litotes meaning of \"very / considerably\"."
+  },
+  {
+   "type": "text",
+   "text": "So the thing to remember is that there are a very limited number of word-types in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "Nearly all words are either verbs, nouns or adjectives."
+  },
+  {
+   "type": "text",
+   "text": "And the ones that aren't verbs or adjectives, whatever the dictionaries tell you they are,"
+  },
+  {
+   "type": "text",
+   "text": "are practically all the time nouns. (This seems to support that 副詞 theory of mine above)"
+  },
+  {
+   "type": "text",
+   "text": "When you understand that, you have a much clearer understanding of what's going on in a sentence."
+  },
+  {
+   "type": "text",
+   "text": "Note: Check this:"
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark-mode YouTube comment by @organicjapanesewithcuredol49 (4 years ago, edited): some nouns with the \"Foxy (副詞)\" property can drop に or と (not だ) when modifying a verb/adjective/copula, e.g. かなり、しばらく、はっきり。Advises recognition in input, caution in output. No labels or arrows."
+  }
+ ]
+}

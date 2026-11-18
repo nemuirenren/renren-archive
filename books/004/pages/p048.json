@@ -1,0 +1,328 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "cure-dolly",
+  "title": "Cure Dolly Complete Grammar Series Transcript",
+  "lang": "en"
+ },
+ "page": 48,
+ "page_label": "44. How to use natural Japanese: ちゃう, ちゃった",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "44. How to use natural Japanese: ちゃう, ちゃった"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "44. How to use natural Japanese: ちゃう, ちゃった"
+  },
+  {
+   "type": "text",
+   "text": "How to use natural Japanese: chau, chatta, how they really work ちゃう、ちゃった | Lesson 44"
+  },
+  {
+   "type": "text",
+   "text": "こんにちは。"
+  },
+  {
+   "type": "text",
+   "text": "Today we're going to talk about something"
+  },
+  {
+   "type": "text",
+   "text": "that you encounter all the time in anime, manga, everyday conversation, light novels,"
+  },
+  {
+   "type": "text",
+   "text": "and anywhere that you encounter real, so-called casual -- that's to say, non-formal -- Japanese."
+  },
+  {
+   "type": "text",
+   "text": "Now, we're going to have to use a little trick to understand from an English point of view how this works."
+  },
+  {
+   "type": "text",
+   "text": "And of course the standard explanations wouldn't give you a trick like this because"
+  },
+  {
+   "type": "text",
+   "text": "they don't even explain the basics of the underlying principles of Japanese structure."
+  },
+  {
+   "type": "text",
+   "text": "So we get the effect of the three blind men and the elephant."
+  },
+  {
+   "type": "text",
+   "text": "I'm sure you've heard the story."
+  },
+  {
+   "type": "text",
+   "text": "The first one feels one of the elephant's legs and says an elephant's like a tree,"
+  },
+  {
+   "type": "text",
+   "text": "the second one feels its trunk and says it's like a snake,"
+  },
+  {
+   "type": "text",
+   "text": "the third one feels its tail and says that it's like a rope."
+  },
+  {
+   "type": "text",
+   "text": "And of course none of these are exactly incorrect."
+  },
+  {
+   "type": "text",
+   "text": "The elephant does manifest all these qualities, but if you present them as isolated facts"
+  },
+  {
+   "type": "text",
+   "text": "without explaining that there's an elephant underlying the whole thing, which makes sense of it, you're making everything a great deal more difficult than it needs to be."
+  },
+  {
+   "type": "text",
+   "text": "And the standard English so-called Japanese grammar does this from the very beginning"
+  },
+  {
+   "type": "text",
+   "text": "with the structure of the language, which is disastrous, and then it does it again,"
+  },
+  {
+   "type": "text",
+   "text": "and again, and again with what it calls \"grammar points\"."
+  },
+  {
+   "type": "text",
+   "text": "And the very fact that it calls them \"grammar points\" is part of the problem,"
+  },
+  {
+   "type": "text",
+   "text": "because for the most part these aren't in fact points, they are logical structures,"
+  },
+  {
+   "type": "text",
+   "text": "and if we understand the structure we don't have to memorize them as separate meaningless \"points\"."
+  },
+  {
+   "type": "text",
+   "text": "So, what we're going to discuss today are the expressions \"-ちゃった\" or \"-じゃった\","
+  },
+  {
+   "type": "text",
+   "text": "which are attached to the end of verbs."
+  },
+  {
+   "type": "text",
+   "text": "Now if we look at the conventional explanations, we will read that it indicates an action that's been finished or completed, or an action that we regret or did by accident, or something that just happened unexpectedly."
+  },
+  {
+   "type": "text",
+   "text": "They don't usually add to this that it can also indicate something that happened that was very good, or that it can in fact be used in the future tense as \"-ちゃう\" or \"-じゃう\","
+  },
+  {
+   "type": "text",
+   "text": "which would seem to contradict everything that we've just learned, wouldn't it?"
+  },
+  {
+   "type": "text",
+   "text": "So, instead of looking at the tail and the legs and the trunk, let's start by taking a look at the actual elephant."
+  },
+  {
+   "type": "text",
+   "text": "First of all, \"-ちゃう\" or \"-ちゃった\" is in fact a contraction of the past tense of the word \n\"しまう\", which means to finish or complete."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Slide shows “Present:” with blue ○○てしまう, a red → pointing right to red ○○ちゃう, and purple “finish, complete” labelling the meaning. “Past:” shows blue ○○てしまった with a red → to red ○○ちゃった. Demonstrates the casual contractions てしまう→ちゃう and てしまった→ちゃった."
+  },
+  {
+   "type": "text",
+   "text": "So, if you ever listen to Japanese fairy tales, you'll find that they often end with the formula \n\"おしまい\"."
+  },
+  {
+   "type": "text",
+   "text": "And \"しまい\" is the い-stem, which makes it a noun of \"しまう\", so it means \"the finish / the ending / the end\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Open red stage curtains with gold tiebacks frame red おしまい on a cream backdrop above a blue-lit stage edge. Red caption reads \"The End (completion, close)\"; blue text reads \"い-stem of しまう makes it a noun. お is beautifying prefix.\" No arrows."
+  },
+  {
+   "type": "text",
+   "text": "Now, if you put that into the past tense, it's \"しまった\","
+  },
+  {
+   "type": "text",
+   "text": "and \"しまった\" can be used all on its own as an expression, and it usually means \"Something's gone very wrong / This is not at all satisfactory\" : \"しまった!\""
+  },
+  {
+   "type": "text",
+   "text": "Perhaps the best way to put that in English would be to say something like \"That's done it\""
+  },
+  {
+   "type": "text",
+   "text": "or \"That's the end!\" or something like that."
+  },
+  {
+   "type": "text",
+   "text": "Now, we can then use this \"しまった\" as a helper verb that we put onto the て-form of another verb."
+  },
+  {
+   "type": "text",
+   "text": "And the way we do that is, we put the other word into て-form and then we add \"しまった\"."
+  },
+  {
+   "type": "text",
+   "text": "And \"-てしまった\" gets contracted down to \"-ちゃった\"."
+  },
+  {
+   "type": "figure",
+   "text": "【図】A shocked elf in a green cap and tunic stands at left, an axe floating diagonally at upper right. Labels: green おのを, red なくしてしまった, and red →なくしちゃった, marking the casual contraction ～てしまった → ～ちゃった (\"lost the axe\")."
+  },
+  {
+   "type": "text",
+   "text": "Now, if the て-form is \"で\" (as we know that it is in some words and if you don't understand that, I've explained it in a previous video - Lesson 5 & 40),"
+  },
+  {
+   "type": "text",
+   "text": "if the て-form is \"で\" then instead of becoming \"-ちゃった\", it becomes \"-じゃった\", just in the way that \"では\" becomes \"じゃ\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, this has a much wider range of meanings than just \"しまった\" on its own."
+  },
+  {
+   "type": "text",
+   "text": "It can be used for things that we did by accident or that we wish we hadn't done."
+  },
+  {
+   "type": "text",
+   "text": "For example, we often say \"忘れちゃった\", which is \"忘れる” -- \"forget\" -- plus \"-ちゃった\"."
+  },
+  {
+   "type": "text",
+   "text": "There's a famous song \"ネコ踏んじゃった\", which is great fun, and I'll put a link in the information section below."
+  },
+  {
+   "type": "text",
+   "text": "And what that means is \"I trod on the cat\": \"踏む\" -- to \"tread (on something)\"."
+  },
+  {
+   "type": "text",
+   "text": "So we can see that it has a negative sense here, but it can also be something very good."
+  },
+  {
+   "type": "text",
+   "text": "We might say \"スーパーヒーローになっちゃった\" -- \"I became a superhero.\""
+  },
+  {
+   "type": "text",
+   "text": "So what do these things have in common?"
+  },
+  {
+   "type": "text",
+   "text": "Accidental things, things we regret, things we're very pleased about."
+  },
+  {
+   "type": "text",
+   "text": "The way I would put this, the way I would translate this into English, because this"
+  },
+  {
+   "type": "text",
+   "text": "is the English expression that I think covers practically all cases of \"-ちゃった\", is the word \"done\"."
+  },
+  {
+   "type": "text",
+   "text": "\"忘れちゃった\" -- \"I done forgot\"; \"猫踏んじゃった\" -- \"I done trod on the cat\";"
+  },
+  {
+   "type": "text",
+   "text": "\"スーパーヒーローになっちゃった\" -- \"I done became a superhero.\""
+  },
+  {
+   "type": "text",
+   "text": "In all these cases , the idea is very similar."
+  },
+  {
+   "type": "text",
+   "text": "We're saying that it happened, it's done, it's completed, it's a fact, and the implication generally speaking is that we didn't expect it to be a fact or it wasn't what most people would normally have expected to be a fact, but it is. It “done happened”."
+  },
+  {
+   "type": "text",
+   "text": "And if we understand that, it's very easy to understand all the different kinds of circumstances under which \"-ちゃった\" gets used."
+  },
+  {
+   "type": "text",
+   "text": "The only real difference between this and \"done\" in English is that we don't only use it about past things. We also use it about future things."
+  },
+  {
+   "type": "text",
+   "text": "So we can say, \"夏休みが終わってしまう\" and that means \"the summer vacation will done end\"."
+  },
+  {
+   "type": "text",
+   "text": "Now, of course you can't say that in English but that essentially is what you're saying."
+  },
+  {
+   "type": "text",
+   "text": "It will just be and go and end."
+  },
+  {
+   "type": "text",
+   "text": "That's what'll happen and it'll be done and there's nothing we'll be able to do about it."
+  },
+  {
+   "type": "text",
+   "text": "If you're about to tell somebody something embarrassing, you might say"
+  },
+  {
+   "type": "text",
+   "text": "\"君のは笑っちゃうだろう\" -- \"You'll probably laugh\""
+  },
+  {
+   "type": "text",
+   "text": "or \"You'll probably done laugh / You'll probably just up and laugh.\""
+  },
+  {
+   "type": "text",
+   "text": "Again, it's the same idea but in Japanese we can project that idea into the future as well."
+  },
+  {
+   "type": "text",
+   "text": "We can say \"今日はどんどん飲んじゃう\", and that's \"Today, I'm going to drink like crazy\"."
+  },
+  {
+   "type": "text",
+   "text": "\"どんどん\" is \"one after another in rapid succession\"; \"飲んじゃう\" is \"done drink\"."
+  },
+  {
+   "type": "text",
+   "text": "Again, we can't put that in the future in English, but we can put it in the future in Japanese."
+  },
+  {
+   "type": "text",
+   "text": "So if we understand how these work, we don't have to have a lot of complicated explanations"
+  },
+  {
+   "type": "text",
+   "text": "of all their different cases."
+  },
+  {
+   "type": "text",
+   "text": "They work in the same way all the time if we only think about what is the way they work"
+  },
+  {
+   "type": "text",
+   "text": "rather than what their end result is if you translate it into English."
+  },
+  {
+   "type": "figure",
+   "text": "【図】Dark screenshot of a pinned YouTube comment by \"Organic Japanese with Cure Dolly\" explaining that \"Done\" suits 〇〇てしまう, advising past-tense testing, with examples 笑っちゃうだろう and どんどん飲んじゃう. Not a slide; no diagrams."
+  }
+ ]
+}
