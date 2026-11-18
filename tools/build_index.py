@@ -22,29 +22,27 @@ BASE_URL = "https://nemuirenren.github.io/renren-archive"
 RAW_BASE = "https://raw.githubusercontent.com/nemuirenren/renren-archive/main"
 SCHEMA_VERSION = "2.0"
 
-STYLE = (
-    "body{font:16px/1.7 -apple-system,Segoe UI,Roboto,sans-serif;margin:2rem auto;"
-    "max-width:56rem;padding:0 1rem;color:#1b1a17;background:#faf8f3}"
-    "a{color:#8a3b2e}h1{font-size:1.5rem;line-height:1.35}"
-    "h2{font-size:1.15rem;margin-top:2rem}"
-    "table{border-collapse:collapse;margin:.8rem 0;font-size:.95rem}"
-    "th,td{border:1px solid #d8d2c4;padding:.35rem .6rem;text-align:left;vertical-align:top}"
-    "th{background:#efe9dc}"
-    "pre{background:#f1ece1;padding:1rem;overflow:auto;font-size:.78rem;line-height:1.45}"
-    ".meta{color:#6d6558;font-size:.9rem}"
-    ".fig{display:block;border-left:3px solid #d8d2c4;padding-left:.8rem;margin:1rem 0;color:#3a352c}"
-)
+STYLE = """body{font:16px/1.7 -apple-system,Segoe UI,Roboto,sans-serif;margin:2rem auto;
+max-width:56rem;padding:0 1rem;color:#1b1a17;background:#faf8f3}
+a{color:#8a3b2e}h1{font-size:1.5rem;line-height:1.35}h2{font-size:1.15rem;margin-top:2rem}
+table{border-collapse:collapse;margin:.8rem 0;font-size:.95rem}
+th,td{border:1px solid #d8d2c4;padding:.35rem .6rem;text-align:left;vertical-align:top}
+th{background:#efe9dc}
+pre{background:#f1ece1;padding:1rem;overflow:auto;font-size:.78rem;line-height:1.45}
+.meta{color:#6d6558;font-size:.9rem}
+.fig{display:block;border-left:3px solid #d8d2c4;padding-left:.8rem;margin:1rem 0;color:#3a352c}"""
 
 
 def esc(s):
     return html.escape(str(s), quote=False)
 
 
-def html_doc(title, body):
+def html_doc(title, body, css_href):
     return (
         "<!doctype html>\n<html lang=\"id\">\n<head>\n<meta charset=\"utf-8\">\n"
         "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n"
-        f"<title>{esc(title)}</title>\n<style>{STYLE}</style>\n</head>\n<body>\n"
+        f"<title>{esc(title)}</title>\n"
+        f"<link rel=\"stylesheet\" href=\"{css_href}\">\n</head>\n<body>\n"
         f"{body}\n</body>\n</html>\n"
     )
 
@@ -156,7 +154,7 @@ def build_book_index(book_id, meta, pages):
         f'<p class="meta">Data mentah: <a href="index.json">index.json</a></p>'
     )
     with open(os.path.join(BOOKS, book_id, "index.html"), "w") as f:
-        f.write(html_doc(f"{book_id} — {meta['title']}", body))
+        f.write(html_doc(f"{book_id} — {meta['title']}", body, "../style.css"))
     return index
 
 
@@ -174,7 +172,7 @@ def write_page_html(book_id, meta, d):
     )
     path = os.path.join(BOOKS, book_id, "pages", f"p{d['page']:03d}.html")
     with open(path, "w") as f:
-        f.write(html_doc(f"{book_id} p{d['page']:03d} — {meta['title']}", body))
+        f.write(html_doc(f"{book_id} p{d['page']:03d} — {meta['title']}", body, "../../../style.css"))
 
 
 def write_root_index(books):
@@ -212,7 +210,7 @@ def write_root_index(books):
         '<p class="meta">Data mentah: <a href="index.json">index.json</a></p>'
     )
     with open(os.path.join(ROOT, "index.html"), "w") as f:
-        f.write(html_doc("Renren Archive", body))
+        f.write(html_doc("Renren Archive", body, "style.css"))
     return index
 
 
@@ -306,6 +304,8 @@ def main():
         books.append({"id": book_id, "meta": meta, "index": index})
         print(f"  {book_id}: {len(pages)} halaman — {meta['title']} (+{len(pages)} HTML)")
 
+    with open(os.path.join(ROOT, "style.css"), "w") as f:
+        f.write(STYLE + "\n")
     write_root_index(books)
     write_llms(books)
 
