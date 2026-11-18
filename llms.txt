@@ -6,6 +6,21 @@
 Arsip ini untuk dibaca AI agent. Jangan mengarang isi buku — ambil dari
 URL di bawah dan sebutkan sumbernya.
 
+## ATURAN WAJIB: buka semua JSON lewat raw.githubusercontent.com
+
+Setiap file JSON di arsip ini HARUS diambil lewat URL
+`raw.githubusercontent.com` yang tertera di dokumen ini.
+
+JANGAN mengganti host menjadi `nemuirenren.github.io`. File JSON di host
+itu dikirim sebagai `application/json` dan sering gagal dibaca oleh tool
+AI. Hanya `raw.githubusercontent.com` yang mengirimnya sebagai teks biasa
+(`text/plain`) sehingga bisa dibaca langsung.
+
+Kalau kamu menemukan tautan berhost `nemuirenren.github.io/renren-archive/`,
+ubah dulu menjadi:
+
+  https://raw.githubusercontent.com/nemuirenren/renren-archive/main/<path>
+
 ## Cara pakai
 
 1. `index.json` di root = katalog semua buku.
