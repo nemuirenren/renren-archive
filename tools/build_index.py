@@ -151,7 +151,6 @@ def build_book_index(book_id, meta, pages):
         "<p>Kolom kedua = bab/tema, kolom ketiga = heading pertama halaman itu.</p>"
         "<table><thead><tr><th>Halaman</th><th>Bab / tema</th><th>Heading pertama</th>"
         "</tr></thead><tbody>" + "".join(rows) + "</tbody></table>"
-        f'<p class="meta">Data mentah: <a href="index.json">index.json</a></p>'
     )
     with open(os.path.join(BOOKS, book_id, "index.html"), "w") as f:
         f.write(html_doc(f"{book_id} — {meta['title']}", body, "../style.css"))
@@ -205,9 +204,6 @@ def write_root_index(books):
         "<p>Arsip materi belajar bahasa Jepang. Setiap buku dipecah per halaman; "
         "tiap halaman tersedia sebagai HTML (mudah dibaca AI) dan JSON (data mentah).</p>"
         f"<h2>Buku</h2><ul>{items}</ul>"
-        "<h2>Untuk AI</h2>"
-        '<p>Mulai dari <a href="llms.txt">llms.txt</a> — peta lengkap arsip ini.</p>'
-        '<p class="meta">Data mentah: <a href="index.json">index.json</a></p>'
     )
     with open(os.path.join(ROOT, "index.html"), "w") as f:
         f.write(html_doc("Renren Archive", body, "style.css"))
