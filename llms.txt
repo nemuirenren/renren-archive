@@ -21,11 +21,11 @@ halaman yang relevan dengan pertanyaan.
 
 ### 001 — 改訂版 中学理科が面白いほどわかる本
 ja · 285 halaman
-peta: https://nemuirenren.github.io/renren-archive/books/001/index.json
+peta: https://raw.githubusercontent.com/nemuirenren/renren-archive/main/books/001/index.json
 
 ### 002 — Minna no Nihongo I (edisi Indonesia)
 id · 204 halaman
-peta: https://nemuirenren.github.io/renren-archive/books/002/index.json
+peta: https://raw.githubusercontent.com/nemuirenren/renren-archive/main/books/002/index.json
 
 ## Format halaman
 

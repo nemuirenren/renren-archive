@@ -17,7 +17,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOOKS = os.path.join(ROOT, "books")
-BASE_URL = "https://nemuirenren.github.io/renren-archive"
+BASE_URL = "https://raw.githubusercontent.com/nemuirenren/renren-archive/main"
 SCHEMA_VERSION = "2.0"
 
 
