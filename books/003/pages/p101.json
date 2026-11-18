@@ -1,0 +1,108 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 101,
+ "page_label": "101",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "The Question Marker 「か」"
+  },
+  {
+   "level": 3,
+   "title": "Using question words"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 皆【みんな】- everybody"
+  },
+  {
+   "type": "text",
+   "text": "3. 皆さん【みな・さん】- everybody (polite)"
+  },
+  {
+   "type": "text",
+   "text": "4. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "5. 質問【しつ・もん】- question"
+  },
+  {
+   "type": "text",
+   "text": "6. 答え【こた・え】- answer"
+  },
+  {
+   "type": "text",
+   "text": "7. 知る【し・る】(u-verb) - to know"
+  },
+  {
+   "type": "text",
+   "text": "8. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "9. 遅れる【おく・れる】(ru-verb) - to be late"
+  },
+  {
+   "type": "text",
+   "text": "10. ここ - here"
+  },
+  {
+   "type": "text",
+   "text": "11. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "12. レストラン - restaurant"
+  },
+  {
+   "type": "text",
+   "text": "13. おいしい (i-adj) - tasty"
+  },
+  {
+   "type": "text",
+   "text": "14. 今週末【こん・しゅう・まつ】- this weekend"
+  },
+  {
+   "type": "text",
+   "text": "15. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "The same question words in the chart above can be combined with 「も」 in a negative sentence to mean \"nobody\" (誰も), \"nothing\" (何も), \"nowhere\" (どこも), etc."
+  },
+  {
+   "type": "text",
+   "text": "「誰も」 and 「何も」 are primarily used only for negative sentences. Curiously, there is no way to say \"everything\" with question words. Instead, it is conventional to use other words like 「全部」. And although 「誰も」 can sometimes be used to mean \"everybody\", it is customary to use 「皆」 or 「皆さ ん」"
+  },
+  {
+   "type": "text",
+   "text": "The remaining three words 「いつも」 (meaning \"always\") and 「どれも」 (meaning \"any and all\"), and 「どこも」 (meaning everywhere) can be used in both negative and positive sentences."
+  },
+  {
+   "type": "text",
+   "text": "Inclusive Words Word+ も Meaning 誰も Everybody/Nobody 何も Nothing (negative only) いつも Always どこも Everywhere どれも Any and all"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. この質問の答えは、誰も知らない。\nNobody knows the answer of this question."
+  }
+ ]
+}

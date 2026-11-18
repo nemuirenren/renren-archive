@@ -1,0 +1,100 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 141,
+ "page_label": "141",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Expressing \"must\" or \"have to\" 「〜だめ、〜いけない、〜ならない、〜ても」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「だめ」, 「いけない」, and 「ならない」 for things that must"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "5. 食べる【たべ・る】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "6. 夜【よる】- evening"
+  },
+  {
+   "type": "text",
+   "text": "7. 遅い【おそ・い】(i-adj) - late"
+  },
+  {
+   "type": "text",
+   "text": "8. 〜まで (particle) - until 〜"
+  },
+  {
+   "type": "text",
+   "text": "9. 電話【でん・わ】- phone"
+  },
+  {
+   "type": "text",
+   "text": "10. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "11. 早い【はや・い】(i-adj) - fast; early"
+  },
+  {
+   "type": "text",
+   "text": "12. 寝る【ね・る】(ru-verb) - to sleep"
+  },
+  {
+   "type": "text",
+   "text": "If you're not familiar with the word 「だめ」 (駄目), though it can be used in many different ways it essentially means \"no good\". The other two key words in this section are 「いけない」 and 「ならない」 and they have essentially the same basic meaning as 「だめ」. However, while 「いけない」 can be used by itself, 「ならない」 must only be used in the grammar presented here. In addition, while 「い けない」 and 「ならない」 conjugate like i-adjectives they are not actual adjectives. Let's learn how to use these words to express things that must not be done."
+  },
+  {
+   "type": "text",
+   "text": "How to say: Must not [verb]"
+  },
+  {
+   "type": "text",
+   "text": "• Take the te-form of the verb, add the 「は」 (wa) particle and finally attach either 「だめ」、「い\nけない」、or 「ならない」."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Example"
+  },
+  {
+   "type": "text",
+   "text": "入る → 入って + は + だめ〜いけない〜ならない = 入ってはだめ〜入ってはいけない〜入っては ならない"
+  },
+  {
+   "type": "text",
+   "text": "1. ここに入ってはいけません。\nYou must not enter here."
+  },
+  {
+   "type": "text",
+   "text": "2. それを食べてはだめ。\nYou can't (must not) eat that!"
+  },
+  {
+   "type": "text",
+   "text": "3. 夜、遅くまで電話してはならない。\nYou must not use the phone until late at night."
+  },
+  {
+   "type": "text",
+   "text": "4. 早く寝てはなりませんでした。\nWasn't allowed to sleep early."
+  },
+  {
+   "type": "text",
+   "text": "The difference between 「だめ」、「いけない」、and 「ならない」 is that, first of all, 「だめ」 is casual. While 「いけない」 and 「ならない」 are basically identical, 「ならない」 is generally more for things that apply to more than one person like rules and policies."
+  }
+ ]
+}

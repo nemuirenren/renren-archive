@@ -1,0 +1,126 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 79,
+ "page_label": "79",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Adverbs and Sentence-ending particles"
+  },
+  {
+   "level": 3,
+   "title": "「ね」 sentence ending"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. この町は、最近大きく変わった。\nThis town had changed greatly lately."
+  },
+  {
+   "type": "text",
+   "text": "3. 図書館の中では、静かにする。\nWithin the library, [we] do things quietly."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Sentence-ending particles"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "2. 天気【てん・き】- weather"
+  },
+  {
+   "type": "text",
+   "text": "3. そう - (things are) that way"
+  },
+  {
+   "type": "text",
+   "text": "4. 面白い【おも・しろ・い】(i-adj) - interesting"
+  },
+  {
+   "type": "text",
+   "text": "5. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "6. 全然【ぜん・ぜん】- not at all (when used with negative)"
+  },
+  {
+   "type": "text",
+   "text": "7. 時間【じ・かん】- time"
+  },
+  {
+   "type": "text",
+   "text": "8. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "9. 大丈夫【だい・じょう・ぶ】(na-adj) - ok"
+  },
+  {
+   "type": "text",
+   "text": "10. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "11. うん - yes (casual)"
+  },
+  {
+   "type": "text",
+   "text": "12. でも - but"
+  },
+  {
+   "type": "text",
+   "text": "13. 明日【あした】- tomorrow"
+  },
+  {
+   "type": "text",
+   "text": "14. 雨【あめ】- rain"
+  },
+  {
+   "type": "text",
+   "text": "15. 降る【ふ・る】(u-verb) - to precipitate"
+  },
+  {
+   "type": "text",
+   "text": "16. 魚【さかな】- fish"
+  },
+  {
+   "type": "text",
+   "text": "17. 好き【す・き】(na-adj) - likable"
+  },
+  {
+   "type": "text",
+   "text": "Sentence-ending particles are particles that always come at the end of sentences to change the \"tone\" or \"feel\" of a sentence. In this section, we will cover the two most commonly used sentence-ending particles."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "「ね」 sentence ending"
+  },
+  {
+   "type": "text",
+   "text": "People usually add「ね」to the end of their sentence when they are looking for (and expecting) agreement to what they are saying. This is equivalent to saying, \"right?\" or \"isn't it?\" in English."
+  }
+ ]
+}

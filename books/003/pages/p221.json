@@ -1,0 +1,124 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 221,
+ "page_label": "221",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Causative and Passive Verbs"
+  },
+  {
+   "level": 3,
+   "title": "Causative-Passive Forms"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 立つ【た・つ】(u-verb) - to stand"
+  },
+  {
+   "type": "text",
+   "text": "3. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "4. 話す【はな・す】(u-verb) - to speak"
+  },
+  {
+   "type": "text",
+   "text": "5. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "6. 廊下【ろう・か】- hall, corridor"
+  },
+  {
+   "type": "text",
+   "text": "7. 日本【に・ほん】- Japan"
+  },
+  {
+   "type": "text",
+   "text": "8. お酒【お・さけ】- alcohol"
+  },
+  {
+   "type": "text",
+   "text": "9. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "10. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "11. 多い【おお・い】(i-adj) - numerous"
+  },
+  {
+   "type": "text",
+   "text": "12. あいつ - that guy (derogatory)"
+  },
+  {
+   "type": "text",
+   "text": "13. 〜時間【〜じ・かん】- counter for span of hour(s)"
+  },
+  {
+   "type": "text",
+   "text": "14. 待つ【ま・つ】(u-verb) - to wait"
+  },
+  {
+   "type": "text",
+   "text": "Going along with the shorter causative alternative, you can also use the same conjugation for the causativepassive form. I won't cover it in too much detail because the usefulness of this form is rather limited just like the shorter causative form itself. The idea is to simply used the shortened causative form instead of using the regular causative conjugation. The rest is the same as before."
+  },
+  {
+   "type": "text",
+   "text": "Shortened causative-passive form examples"
+  },
+  {
+   "type": "text",
+   "text": "First conjugate to the shortened causative form. Then conjugate to the passive form."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 行く → 行か → 行かす → 行かされる"
+  },
+  {
+   "type": "text",
+   "text": "2. 立つ → 立た → 立たす → 立たされる"
+  },
+  {
+   "type": "text",
+   "text": "This form cannot be used in cases where the shorter causative form ends in 「さす」, in other words, you can't have a 「さされる」 ending."
+  },
+  {
+   "type": "text",
+   "text": "Verbs that cannot be used in this form"
+  },
+  {
+   "type": "text",
+   "text": "Examples of verbs you can't use in this form."
+  },
+  {
+   "type": "text",
+   "text": "1. 食べる → 食べさす → 食べさされる"
+  },
+  {
+   "type": "text",
+   "text": "2. 話す → 話さす → 話さされる"
+  }
+ ]
+}

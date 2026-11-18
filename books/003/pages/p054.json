@@ -1,0 +1,118 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 54,
+ "page_label": "54",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Particles used with verbs 「を、に、へ、で」"
+  },
+  {
+   "level": 3,
+   "title": "The direct object 「を」 particle"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The direct object 「を」 particle"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 魚【さかな】- fish"
+  },
+  {
+   "type": "text",
+   "text": "2. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "3. ジュース - juice"
+  },
+  {
+   "type": "text",
+   "text": "4. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "5. 街【まち】- town"
+  },
+  {
+   "type": "text",
+   "text": "6. ぶらぶら - wandering; aimlessly"
+  },
+  {
+   "type": "text",
+   "text": "7. 歩く【ある・く】(u-verb) - to walk"
+  },
+  {
+   "type": "text",
+   "text": "8. 高速【こう・そく】- high-speed"
+  },
+  {
+   "type": "text",
+   "text": "9. 道路【どう・ろ】- route"
+  },
+  {
+   "type": "text",
+   "text": "10. 走る【はし・る】(u-verb) - to run"
+  },
+  {
+   "type": "text",
+   "text": "11. 毎日【まい・にち】- everyday"
+  },
+  {
+   "type": "text",
+   "text": "12. 日本語【に・ほん・ご】- Japanese (language)"
+  },
+  {
+   "type": "text",
+   "text": "13. 勉強【べん・きょう】- study"
+  },
+  {
+   "type": "text",
+   "text": "14. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "15. メールアドレス - email address"
+  },
+  {
+   "type": "text",
+   "text": "16. 登録【とう・ろく】- register"
+  },
+  {
+   "type": "text",
+   "text": "The first particle we will learn is the object particle because it is a very straightforward particle. The 「を」 character is attached to the end of a word to signify that that word is the direct object of the verb. This character is essentially never used anywhere else. That is why the katakana equivalent 「ヲ」 is almost never used since particles are always written in hiragana. The 「を」 character, while technically pronounced as /wo/ essentially sounds like /o/ in real speech. Here are some examples of the direct object particle in action."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 魚を食べる。\nEat fish."
+  },
+  {
+   "type": "text",
+   "text": "2. ジュースを飲んだ。\nDrank juice."
+  }
+ ]
+}

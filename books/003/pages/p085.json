@@ -1,0 +1,115 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 85,
+ "page_label": "85",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Polite Form and Verb Stems 「〜です、〜ます」"
+  },
+  {
+   "level": 3,
+   "title": "The stem of verbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "6. 鉄拳【てっ・けん】- fist"
+  },
+  {
+   "type": "text",
+   "text": "7. 休み【やす・み】- rest; vacation"
+  },
+  {
+   "type": "text",
+   "text": "8. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "9. 明日【あした】- tomorrow"
+  },
+  {
+   "type": "text",
+   "text": "10. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "11. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "12. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "13. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "14. 遊ぶ【あそ・ぶ】(u-verb) - to play"
+  },
+  {
+   "type": "text",
+   "text": "15. 楽しむ【たの・しむ】(u-verb) - to enjoy"
+  },
+  {
+   "type": "text",
+   "text": "16. 出す【だ・す】(u-verb) - to bring out"
+  },
+  {
+   "type": "text",
+   "text": "17. 走る【はし・る】(u-verb) - to run"
+  },
+  {
+   "type": "text",
+   "text": "18. 走り出す【はし・り・だ・す】(u-verb) - to break into a run"
+  },
+  {
+   "type": "text",
+   "text": "19. 着る【き・る】(ru-verb) - to wear"
+  },
+  {
+   "type": "text",
+   "text": "20. 替える【か・える】(ru-verb) - to switch"
+  },
+  {
+   "type": "text",
+   "text": "21. 着替える【き・が・える】(ru-verb) - to change (clothes)"
+  },
+  {
+   "type": "text",
+   "text": "22. 付ける【つ・ける】(ru-verb) - to attach"
+  },
+  {
+   "type": "text",
+   "text": "23. 加える【くわ・える】(ru-verb) - to add"
+  },
+  {
+   "type": "text",
+   "text": "24. 付け加える【つ・け・くわ・える】(ru-verb) - to add one thing to another"
+  },
+  {
+   "type": "text",
+   "text": "25. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "26. 言い出す【い・い・だ・す】(u-verb) - to start talking"
+  },
+  {
+   "type": "text",
+   "text": "In order to conjugate all u-verbs and ru-verbs into their respective polite forms, we will first learn about the stem of verbs. This is often called the masu-stem in Japanese textbooks but we will call it just the stem because it is used in many more conjugations than just its masu-form. The stem is really great because it's very easy to produce and is useful in many different types of grammar."
+  }
+ ]
+}

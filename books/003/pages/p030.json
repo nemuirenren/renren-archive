@@ -1,0 +1,85 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 30,
+ "page_label": "30",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Expressing State-of-Being"
+  },
+  {
+   "level": 3,
+   "title": "Declaring something is so and so using 「だ」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Declaring that something is so using 「だ」"
+  },
+  {
+   "type": "text",
+   "text": "• Attach 「だ」 to the noun or na-adjective\nExample: 人 + だ = 人だ"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 人だ。\nIs person."
+  },
+  {
+   "type": "text",
+   "text": "2. 学生だ。\nIs student."
+  },
+  {
+   "type": "text",
+   "text": "3. 元気だ。\nIs well."
+  },
+  {
+   "type": "text",
+   "text": "Seems easy enough. Here's the real kicker though."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Note"
+  },
+  {
+   "type": "text",
+   "text": "A state-of-being can be implied without using 「だ」!"
+  },
+  {
+   "type": "text",
+   "text": "You can say you're doing well or someone is a student without using 「だ」 at all. For example, below is an example of a very typical greeting among friends. Also notice how the subject isn't even specified when it's obvious from the context."
+  },
+  {
+   "type": "text",
+   "text": "Typical casual greeting"
+  },
+  {
+   "type": "text",
+   "text": "A：元気？ A: (Are you) well?"
+  },
+  {
+   "type": "text",
+   "text": "B：元気。 B: (I'm) well."
+  },
+  {
+   "type": "text",
+   "text": "So you may be wondering, \"What's the point of using 「だ」?\" Well, the main difference is that a declarative statement makes the sentence sound more emphatic and forceful in order to make it more... well declarative. Therefore, it is more common to hear men use 「だ」 at the end of sentences."
+  }
+ ]
+}

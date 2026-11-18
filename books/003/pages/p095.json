@@ -1,0 +1,104 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 95,
+ "page_label": "95",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Addressing People"
+  },
+  {
+   "level": 3,
+   "title": "Referring to family members"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Referring to family members"
+  },
+  {
+   "type": "text",
+   "text": "1. 母【はは】- mother"
+  },
+  {
+   "type": "text",
+   "text": "2. お母さん【お・かあ・さん】- mother (polite)"
+  },
+  {
+   "type": "text",
+   "text": "3. 両親【りょう・しん】- parents"
+  },
+  {
+   "type": "text",
+   "text": "4. 父【ちち】- father"
+  },
+  {
+   "type": "text",
+   "text": "5. お父さん【お・とう・さん】- father (polite)"
+  },
+  {
+   "type": "text",
+   "text": "6. 妻【つま】- wife"
+  },
+  {
+   "type": "text",
+   "text": "7. 奥さん【おく・さん】- wife (polite)"
+  },
+  {
+   "type": "text",
+   "text": "8. 夫【おっと】- husband"
+  },
+  {
+   "type": "text",
+   "text": "9. 主人【しゅ・じん】- husband"
+  },
+  {
+   "type": "text",
+   "text": "10. 姉【あね】- older sister"
+  },
+  {
+   "type": "text",
+   "text": "11. お姉さん【お・ねえ・さん】- older sister (polite)"
+  },
+  {
+   "type": "text",
+   "text": "12. 兄【あに】- older brother"
+  },
+  {
+   "type": "text",
+   "text": "13. お兄さん【お・にい・さん】- older brother (polite"
+  },
+  {
+   "type": "text",
+   "text": "14. 妹【いもうと】- younger sister"
+  },
+  {
+   "type": "text",
+   "text": "15. 弟【おとうと】- younger brother"
+  },
+  {
+   "type": "text",
+   "text": "16. 息子【むす・こ】- son"
+  },
+  {
+   "type": "text",
+   "text": "17. 娘【むすめ】- daughter"
+  },
+  {
+   "type": "text",
+   "text": "Referring to family members is a little more complicated than English. (It could be worse, try learning Korean!) For the purpose of brevity, (since this is a grammar guide and not a vocabulary guide) we will only go over the immediate family. In Japanese, you refer to members of other people's family more politely than your own. This is only when you are talking about members of your own family to others outside the family. For example, you would refer to your own mother as 「母」 to people outside your family but you might very well call her 「お母さん」 at home within your own family. There is also a distinction between older and younger siblings. The following chart list some of the most common terms for family members. There may also be other possibilities not covered in this chart."
+  }
+ ]
+}

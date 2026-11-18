@@ -1,0 +1,105 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 328,
+ "page_label": "328",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Tendencies 「〜がち、〜つつ、きらいがある」"
+  },
+  {
+   "level": 3,
+   "title": "Saying something is prone to occur using 「〜がち」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Using 「〜かねる」for things that cannot be done"
+  },
+  {
+   "type": "text",
+   "text": "• To say that something cannot be done using 「かねる」, change the verb to the stem and attach\n「かねる」."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 決める → 決めかねる 2. する → しかねる"
+  },
+  {
+   "type": "text",
+   "text": "• 「かねる」is a ru-verb so use the negative「かねない」to say that something (bad) might happen."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. なる → なりかねる → なりかねない 2. する → しかねる → しかねない"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. この場ではちょっと決めかねますので、また別途会議を設けましょう。\nSince making a decision here is impossible, let's set up a separate meeting again."
+  },
+  {
+   "type": "text",
+   "text": "2. このままでは、個人情報が漏洩しかねないので、速やかに対応をお願い致します。\nAt this rate, there is a possibility that personal information might leak so I request that this be dealt\nwith promptly."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Tendencies 「〜がち、〜つつ、きらいがある」"
+  },
+  {
+   "type": "text",
+   "text": "In this lesson, we will go over various types of grammar that deal with tendencies. Like much of the Advanced Section, all the grammar in this lesson are used mostly in written works and are generally not used in conversational Japanese."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Saying something is prone to occur using 「〜がち」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "2. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "3. 病気【びょう・き】- disease; sickness"
+  },
+  {
+   "type": "text",
+   "text": "4. 確定【かく・てい】- decision; settlement"
+  }
+ ]
+}

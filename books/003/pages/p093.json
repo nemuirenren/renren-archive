@@ -1,0 +1,86 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 93,
+ "page_label": "93",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Addressing People"
+  },
+  {
+   "level": 3,
+   "title": "Referring to others with \"you\""
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "1. 私の名前はキムです。\nMy name is Kim. (Neutral, polite)"
+  },
+  {
+   "type": "text",
+   "text": "2. 僕の名前はキムです。\nMy name is Kim. (Masculine, polite)"
+  },
+  {
+   "type": "text",
+   "text": "3. 僕の名前はボブだ。\nMy name is Bob. (Masculine, casual)"
+  },
+  {
+   "type": "text",
+   "text": "4. 俺の名前はボブだ。\nMy name is Bob. (Masculine, casual)"
+  },
+  {
+   "type": "text",
+   "text": "5. あたしの名前はアリス。\nMy name is Alice. (Feminine, casual)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Referring to others by name"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 社長【しゃ・ちょう】- company president"
+  },
+  {
+   "type": "text",
+   "text": "2. 課長【か・ちょう】- section manager"
+  },
+  {
+   "type": "text",
+   "text": "3. 先生【せん・せい】- teacher"
+  },
+  {
+   "type": "text",
+   "text": "4. 田中【た・なか】- Tanaka (last name)"
+  },
+  {
+   "type": "text",
+   "text": "Japanese does not require the use of \"you\" nearly as much as English does. I hope that the examples with Bob, Alice, and Jim have shown that people refer to other people by their names even when they are directly addressing that person. Another common way to address people is by their title such as 「社長」 、 「課長」 、 「先生」 , etc. The word 「先生」 is used to generally mean any person who has significant knowledge and expertise in something. For example, people usually use 「先生」 when directly addressing doctors or teachers (obviously). You can also include the person's last name such as 「田中先生」 (teacher Tanaka). In the case where your relationship with the person doesn't involve any title, you can use their name (usually their last name) attached with 「さん」 to show politeness. If calling them by their last name seems a little too polite and distant, the practice of attaching 「さん」 to their first name also exists. More endearing and colloquial versions of 「さん」 include 「くん」 and 「ちゃん」. 「くん」 is usually attached to the name of males who are of equal or lower social position. (For example, my boss sometimes calls me 「キムくん」). 「ちゃん」 is a very endearing way to refer to usually females of equal or lower social position."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Referring to others with \"you\""
+  },
+  {
+   "type": "text",
+   "text": "Please do not use 「あなた」 just like you would use the word \"you\" in English. In directly addressing people, there are three levels of politeness: 1) Using the person's name with the appropriate suffix, 2) Not using anything at all, 3) Using 「あなた」. In fact, by the time you get to three, you're dangerously in the area of being rude. Most of the time, you do not need to use anything at all because you are directly"
+  }
+ ]
+}

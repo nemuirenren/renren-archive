@@ -1,0 +1,149 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 70,
+ "page_label": "70",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Noun-related Particles 「と、や、とか、の」"
+  },
+  {
+   "level": 3,
+   "title": "The 「の」 particle"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The 「の」 particle"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 本【ほん】- book"
+  },
+  {
+   "type": "text",
+   "text": "2. アメリカ - America"
+  },
+  {
+   "type": "text",
+   "text": "3. 大学【だい・がく】- college"
+  },
+  {
+   "type": "text",
+   "text": "4. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "5. それ - that"
+  },
+  {
+   "type": "text",
+   "text": "6. その - abbreviation of 「それの」"
+  },
+  {
+   "type": "text",
+   "text": "7. シャツ - shirt"
+  },
+  {
+   "type": "text",
+   "text": "8. 誰【だれ】- who"
+  },
+  {
+   "type": "text",
+   "text": "9. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "10. この - abbreviation of 「これの」"
+  },
+  {
+   "type": "text",
+   "text": "11. あれ - that (over there)"
+  },
+  {
+   "type": "text",
+   "text": "12. あの - abbreviation of 「あれの」"
+  },
+  {
+   "type": "text",
+   "text": "13. 白い【し・ろい】(i-adj) - white"
+  },
+  {
+   "type": "text",
+   "text": "14. かわいい (i-adj) - cute"
+  },
+  {
+   "type": "text",
+   "text": "15. 授業【じゅ・ぎょう】- class"
+  },
+  {
+   "type": "text",
+   "text": "16. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "17. 忘れる【わす・れる】(ru-verb) - to forget"
+  },
+  {
+   "type": "text",
+   "text": "18. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "19. 毎日【まい・にち】- every day"
+  },
+  {
+   "type": "text",
+   "text": "20. 勉強【べん・きょう】- study"
+  },
+  {
+   "type": "text",
+   "text": "21. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "22. 大変【たい・へん】(na-adj) - tough, hard time"
+  },
+  {
+   "type": "text",
+   "text": "23. 同じ【おな・じ】- same"
+  },
+  {
+   "type": "text",
+   "text": "24. 物【もの】- object"
+  },
+  {
+   "type": "text",
+   "text": "25. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "26. 面白い【おも・し・ろい】(i-adj) - interesting"
+  },
+  {
+   "type": "text",
+   "text": "27. 静か【しず・か】(na-adj) - quiet"
+  },
+  {
+   "type": "text",
+   "text": "28. 部屋【へ・や】- room"
+  }
+ ]
+}

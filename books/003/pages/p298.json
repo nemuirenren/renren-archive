@@ -1,0 +1,109 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 298,
+ "page_label": "298",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Leaving something the way it is 「まま、っぱなし」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「っぱなし」 to leave something the way it is"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "8. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "9. 眠れる【ねむ・れる】(ru-verb) - to fall asleep"
+  },
+  {
+   "type": "text",
+   "text": "10. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "11. 結構【けっ・こう】- fairly, reasonably"
+  },
+  {
+   "type": "text",
+   "text": "12. いる (ru-verb) - to exist (animate)"
+  },
+  {
+   "type": "text",
+   "text": "13. 窓【まど】- window"
+  },
+  {
+   "type": "text",
+   "text": "14. 蚊【か】- mosquito"
+  },
+  {
+   "type": "text",
+   "text": "15. いっぱい - full"
+  },
+  {
+   "type": "text",
+   "text": "16. 入る【はい・る】(u-verb) - to enter"
+  },
+  {
+   "type": "text",
+   "text": "17. しまう (u-verb) - to do something by accident; to finish completely"
+  },
+  {
+   "type": "text",
+   "text": "The verb 「放す」 meaning \"to set loose\", can be used in various ways in regards to leaving something the way it is. For instance, a variation 「放っとく」 is used when you want to say \"Leave me alone\". For instance, you might use the command form of a request (くれる) and say, 「ほっといてくれ。」(Leave me alone!). Yet another variant 「ほったらかす」 means \"to neglect\"."
+  },
+  {
+   "type": "text",
+   "text": "The grammar I would like to discuss here is the 「っぱなし」 suffix variant. You can attach this suffix to the stem of any verb to describe the act of doing something and leaving it that way without changing it. You can treat the combination like a regular noun."
+  },
+  {
+   "type": "text",
+   "text": "Here's a link with more examples of this grammar. As you can see by the examples, this suffix carries a nuance that the thing left alone is due to oversight or neglect. Here are the (simple) conjugation rules for this grammar."
+  },
+  {
+   "type": "text",
+   "text": "Using 「っぱなし」to complete an action and leave it that way"
+  },
+  {
+   "type": "text",
+   "text": "Take the stem of the verb and attach 「っぱなし」."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 開ける → 開けっぱなし 2. 書く → 書き → 書きっぱなし"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. テレビをつけっぱなしにしなければ眠れない人は、結構いる。\nThere exists a fair number of people who cannot sleep unless they turn on the TV and leave it that\nway."
+  },
+  {
+   "type": "text",
+   "text": "2. 窓が開けっ放しだったので、蚊がいっぱい入ってしまった。\nThe window was left wide open so a lot of mosquitoes got in."
+  }
+ ]
+}

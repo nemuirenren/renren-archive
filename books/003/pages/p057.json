@@ -1,0 +1,109 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 57,
+ "page_label": "57",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Particles used with verbs 「を、に、へ、で」"
+  },
+  {
+   "level": 3,
+   "title": "The directional 「へ」 particle"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "1. 猫は部屋にいる。\nCat is in room."
+  },
+  {
+   "type": "text",
+   "text": "2. いすが台所にあった。\nChair was in the kitchen."
+  },
+  {
+   "type": "text",
+   "text": "3. いい友達に会った。\nMet good friend."
+  },
+  {
+   "type": "text",
+   "text": "4. ジムは医者になる。\nJim will become doctor."
+  },
+  {
+   "type": "text",
+   "text": "5. 先週に図書館に行った。\nWent to library last week."
+  },
+  {
+   "type": "text",
+   "text": "Note: Don't forget to use 「ある」 for inanimate objects such as the chair and 「いる」 for animate objects such as the cat."
+  },
+  {
+   "type": "text",
+   "text": "While the 「に」 particle is not always required to indicate time, there is a slight difference in meaning between using the target particle and not using anything at all. In the following examples, the target particle makes the date a specific target emphasizing that the friend will go to Japan at that time. Without the particle, there is no special emphasis."
+  },
+  {
+   "type": "text",
+   "text": "1. 友達は、来年、日本に行く。\nNext year, friend go to Japan."
+  },
+  {
+   "type": "text",
+   "text": "2. 友達は、来年に日本に行く。\nFriend go to Japan next year."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The directional 「へ」 particle"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 日本【に・ほん】- Japan"
+  },
+  {
+   "type": "text",
+   "text": "2. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "3. 家【1) うち; 2) いえ】- 1) one's own home; 2) house"
+  },
+  {
+   "type": "text",
+   "text": "4. 帰る【かえ・る】(u-verb) - to go home"
+  },
+  {
+   "type": "text",
+   "text": "5. 部屋【へ・や】- room"
+  },
+  {
+   "type": "text",
+   "text": "6. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "7. 医者【い・しゃ】- doctor"
+  },
+  {
+   "type": "text",
+   "text": "8. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "9. 勝ち【か・ち】- victory"
+  }
+ ]
+}

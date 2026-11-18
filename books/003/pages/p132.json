@@ -1,0 +1,95 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 132,
+ "page_label": "132",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Conditionals 「と、なら、ば、たら」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing natural consequence using 「と」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "3. 海外に行くことにした。\nI decided I will go abroad. (lit: I did toward the event of going abroad.)"
+  },
+  {
+   "type": "text",
+   "text": "4. 毎日、肉を食べるようにする。\nI will try to eat meat everyday. (lit: I will do toward the manner of eating meat everyday.)"
+  },
+  {
+   "type": "text",
+   "text": "You can modify a verb with「なる」or「する」by first making it into a noun clause and then treating it just like a regular noun. Pretty clever, huh? I hope the literal translations give you a sense of why the example sentences mean what they do. For instance, in the fourth example, 「〜ようにする」 translates into \"to make an effort toward...\" but in Japanese, it's really only a target towards acting in a certain manner."
+  },
+  {
+   "type": "text",
+   "text": "Since potential verbs describe a state of feasibility rather than an action (remember, that's why the 「を」 particle couldn't be used), it is often used in conjunction with 「〜ようになる」 to describe a change in manner to a state of feasibility. Let's take this opportunity to get some potential conjugation practice in."
+  },
+  {
+   "type": "text",
+   "text": "1. 日本に来て、寿司が食べられるようになった。\nAfter coming to Japan, I became able to eat sushi."
+  },
+  {
+   "type": "text",
+   "text": "2. 一年間練習したから、ピアノが弾けるようになった。\nBecause I practiced for one year, I became able to play the piano."
+  },
+  {
+   "type": "text",
+   "text": "3. 地下に入って、富士山が見えなくなった。\nAfter going underground, Fuji-san became not visible."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Conditionals 「と、なら、ば、たら」"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "How to say \"if\" in Japanese"
+  },
+  {
+   "type": "text",
+   "text": "This whole section is dedicated to learning how to say \"if\" in Japanese. Oh, if only it was as simple as English. In Japanese, there's four (count them, four) ways to say \"if\"! Thankfully, the conjugations are sparse and easy especially since you don't have to deal with tenses."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing natural consequence using 「と」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. ボール - ball"
+  },
+  {
+   "type": "text",
+   "text": "2. 落とす【お・とす】(u-verb) - to drop"
+  },
+  {
+   "type": "text",
+   "text": "3. 落ちる【お・ちる】(ru-verb) - to fall"
+  },
+  {
+   "type": "text",
+   "text": "4. 電気【でん・き】- electricity; (electric) light"
+  }
+ ]
+}

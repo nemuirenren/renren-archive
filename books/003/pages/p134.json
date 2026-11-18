@@ -1,0 +1,97 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 134,
+ "page_label": "134",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Conditionals 「と、なら、ば、たら」"
+  },
+  {
+   "level": 3,
+   "title": "Contextual conditionals using 「なら (ば)」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "1. 学校に行かないと友達と会えないよ。\nIf you don't go to school, you can't meet your friends."
+  },
+  {
+   "type": "text",
+   "text": "2. たくさん食べると太るよ。\nIf you eat a lot, you will get fat, for sure."
+  },
+  {
+   "type": "text",
+   "text": "3. 先生だと、きっと年上なんじゃないですか？\nIf he's a teacher, he must be older for sure, right?"
+  },
+  {
+   "type": "text",
+   "text": "The \"for sure\" part is the implied meaning supplied by the「と」. The speaker is saying that the following condition will occur in that situation, no matter what. As you can see from the last example, if the condition is a state-of-being, it must be expressed so explicitly using 「だ」 . This applies to all non-conjugated nouns and na-adjectives as I'm sure you're used to by now. This will also help prevent confusion with other types of 「と」."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Contextual conditionals using 「なら (ば)」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 皆【みんな】- everybody"
+  },
+  {
+   "type": "text",
+   "text": "2. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "3. 私【わたし】- me, myself, I"
+  },
+  {
+   "type": "text",
+   "text": "4. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "5. 問題【もん・だい】- problem"
+  },
+  {
+   "type": "text",
+   "text": "6. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "7. 図書館【と・しょ・かん】- library"
+  },
+  {
+   "type": "text",
+   "text": "8. あそこ - over there"
+  },
+  {
+   "type": "text",
+   "text": "Another relatively easy to understand type of \"if\" is the contextual conditional. You can use this particle to express what will happen given a certain context. For example, if you wanted to say, \"Well, if everybody's going, I'm going too\" you would use the 「なら」 conditional because you are saying that you will go in the context of everybody else going. The contextual conditional always requires a context in which the conditional occurs. For instance, you would use it for saying things like, \"If that's what you are talking about...\" or \"If that's the case, then...\""
+  },
+  {
+   "type": "text",
+   "text": "In a sense, you are explaining what would occur if you assume a certain condition is satisfied. In other words, you are saying \"if given a certain context, here is what will happen.\" You will see this reflected in the English translations as the phrase \"if given\" in the examples."
+  },
+  {
+   "type": "text",
+   "text": "The 「なら」 is attached to the context in which the conditional occurs. The format is the same as the 「と」 conditional, however, you must not attach the declarative 「だ」."
+  }
+ ]
+}

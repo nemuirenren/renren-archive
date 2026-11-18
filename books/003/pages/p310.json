@@ -1,0 +1,97 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 310,
+ "page_label": "310",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Things that should be a certain way 「はず、べき、べく、べからず」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「べく」 to describe what one tries to do"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "20. 充実【じゅう・じつ】- fulfilled"
+  },
+  {
+   "type": "text",
+   "text": "21. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "22. 努力【ど・りょく】- effort"
+  },
+  {
+   "type": "text",
+   "text": "23. 参る【まい・る】(u-verb) - to go; to come (humble)"
+  },
+  {
+   "type": "text",
+   "text": "Grammatically, 「べく」 is really a conjunctive form (連用形) of 「べき」, similar to what the te-form does to connect another phrase. However, what needs mentioning here is that by changing it into a conjunctive and adding a predicate, the meaning of 「べく」 changes from the ordinary meaning of 「べき」. While 「べき」 describes a strong suggestion, changing it to 「べく」 allows you to describe what one did in order to carry out that suggestion. Take a look that the following examples to see how the meaning changes."
+  },
+  {
+   "type": "text",
+   "text": "1. 早く帰るべき。\nShould go home early."
+  },
+  {
+   "type": "text",
+   "text": "2. 早く帰るべく、準備をし始めた。\nIn trying to go home early, started the preparations."
+  },
+  {
+   "type": "text",
+   "text": "As we can see in this example, adding the 「準備をし始めた」 tells us what the subject did in order to carry out the action he/she was supposed to do.In this way we can define 「べく」 as meaning, \"in order to\" or \"in an effort to\". Similarly, 「べく」 might mean the Japanese equivalent of 「しようと思って」 or 「できるように」. This is a very seldom-used old-fashioned expression and is merely presented here to completely cover all aspects of 「べき」."
+  },
+  {
+   "type": "text",
+   "text": "Using 「べく」for actions that are attempted to be done"
+  },
+  {
+   "type": "text",
+   "text": "Attach 「べく」 to the action that is attempted to be done"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 行う → 行うべく 2. する → するべく"
+  },
+  {
+   "type": "text",
+   "text": "Same as 「べき」, you can remove the 「る」 for the generic \"to do \" verb 「する」 only"
+  },
+  {
+   "type": "text",
+   "text": "Example: する + べく → すべく"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 試験に合格すべく、皆一生懸命に勉強している。\nEverybody is studying very hard in an effort to pass the exam."
+  },
+  {
+   "type": "text",
+   "text": "2. 今後もお客様との対話の窓口として、より充実していくべく努力してまいります\nWe are working from here in an effort to provide a enriched window for customer interaction."
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 145,
+ "page_label": "145",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Expressing \"must\" or \"have to\" 「〜だめ、〜いけない、〜ならない、〜ても」"
+  },
+  {
+   "level": 3,
+   "title": "Saying something is ok to do or not do"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Casual abbreviations for things that must not be done"
+  },
+  {
+   "type": "text",
+   "text": "1. Replace 「ては」 with 「ちゃ」"
+  },
+  {
+   "type": "text",
+   "text": "2. Replace 「では」 with 「じゃ」"
+  },
+  {
+   "type": "text",
+   "text": "1. ここに入っちゃだめだよ。\nYou can't enter here."
+  },
+  {
+   "type": "text",
+   "text": "2. 死んじゃだめだよ。- You can't die!"
+  },
+  {
+   "type": "text",
+   "text": "On a final note, in general, 「ちゃ」 sounds a bit cutesy or girly. You've already seen an example of this with the 「ちゃん」 suffix. Similarly, 「なくちゃ」 also sounds a bit cutesy or childish."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Saying something is ok to do or not do"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 全部【ぜん・ぶ】- everything"
+  },
+  {
+   "type": "text",
+   "text": "2. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "3. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "4. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "5. 大丈夫【だい・じょう・ぶ】(na-adj) - ok"
+  },
+  {
+   "type": "text",
+   "text": "6. 構う【かま・う】(u-verb) - to mind; to be concerned about"
+  },
+  {
+   "type": "text",
+   "text": "7. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "8. 帰る【かえ・る】(u-verb) - to go home"
+  },
+  {
+   "type": "text",
+   "text": "9. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "10. ちょっと - just a little"
+  },
+  {
+   "type": "text",
+   "text": "11. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "Now let's learn how to say either that it's ok to do or not do something. I decided to shove this section in here because in Japanese, this is essential how to say that you don't have to something (by saying it's ok to not do it). The grammar itself is also relatively easy to pick up and makes for a short section."
+  },
+  {
+   "type": "text",
+   "text": "By simply using the te-form and the 「も」 particle, you are essentially saying, \"even if you do X...\" Common words that come after this include 「いい」, 「大丈夫」, or 「構わない」. Some examples will come in handy."
+  }
+ ]
+}

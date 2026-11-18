@@ -1,0 +1,130 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 268,
+ "page_label": "268",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Using 方 and よる for comparisons and other functions"
+  },
+  {
+   "level": 3,
+   "title": "Using 「方」 for comparisons"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "5.8. USING 方 AND よる FOR COMPARISONS, ETC"
+  },
+  {
+   "type": "text",
+   "text": "2. みんなで、もう全部食べてしまったっぽいよ。\nIt appears that everybody ate everything already."
+  },
+  {
+   "type": "text",
+   "text": "3. 恭子は全然女っぽくないね。\nKyouko is not womanly at all, huh?"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Using 方 and よる for comparisons and other functions"
+  },
+  {
+   "type": "text",
+   "text": "「より、の方、stem + 方、によって、によると」"
+  },
+  {
+   "type": "text",
+   "text": "If you were wondering how to make comparison in Japanese, well wonder no more. We will learn how to use 「方」 and 「より」 to make comparisons between two things. We will also learn other uses of 「方」 and 「よる」 along the way."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「方」 for comparisons"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 方【1) ほう; 2) かた】- 1) direction; side; 2) person; way of doing"
+  },
+  {
+   "type": "text",
+   "text": "2. ご飯【ご・はん】- rice; meal"
+  },
+  {
+   "type": "text",
+   "text": "3. おいしい (i-adj) - tasty"
+  },
+  {
+   "type": "text",
+   "text": "4. 鈴木【すず・き】- Suzuki (last name)"
+  },
+  {
+   "type": "text",
+   "text": "5. 若い【わか・い】(i-adj) - young"
+  },
+  {
+   "type": "text",
+   "text": "6. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "7. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "8. 赤ちゃん【あか・ちゃん】- baby"
+  },
+  {
+   "type": "text",
+   "text": "9. 静か【しず・か】(na-adj) - quiet"
+  },
+  {
+   "type": "text",
+   "text": "10. 好き【す・き】(na-adj) - likable; desirable"
+  },
+  {
+   "type": "text",
+   "text": "11. ゆっくり - slowly"
+  },
+  {
+   "type": "text",
+   "text": "12. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "13. 健康【けん・こう】- health"
+  },
+  {
+   "type": "text",
+   "text": "14. こちら - this way"
+  },
+  {
+   "type": "text",
+   "text": "15. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "16. 早い【はや・い】(i-adj) - fast; early"
+  },
+  {
+   "type": "text",
+   "text": "17. 怖い【こわ・い】(i-adj) - scary"
+  }
+ ]
+}

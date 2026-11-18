@@ -1,0 +1,79 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 76,
+ "page_label": "76",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Noun-related Particles 「と、や、とか、の」"
+  },
+  {
+   "level": 3,
+   "title": "The 「の」 particle as explanation"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Example 3"
+  },
+  {
+   "type": "text",
+   "text": "アリス：今、授業がないんじゃない？ Alice: Isn't it that there isn't class now?"
+  },
+  {
+   "type": "text",
+   "text": "ボブ：ううん、ある。 Bob: No, there is."
+  },
+  {
+   "type": "text",
+   "text": "Alice: Don't you not have class now? (Expecting that there is no class) Bob: No, I do have class."
+  },
+  {
+   "type": "text",
+   "text": "Example 4"
+  },
+  {
+   "type": "text",
+   "text": "アリス：その人が買うんじゃなかったの？ Alice: Wasn't it that that person was the one to buy?"
+  },
+  {
+   "type": "text",
+   "text": "ボブ：ううん、先生が買うんだ。 Bob: No, it is that teacher is the one to buy."
+  },
+  {
+   "type": "text",
+   "text": "Alice: Wasn't that person going to buy? (Expecting that the person would buy) Bob: No, the teacher is going to. (Explanatory)"
+  },
+  {
+   "type": "text",
+   "text": "Example 5"
+  },
+  {
+   "type": "text",
+   "text": "アリス：朝ご飯を食べるんじゃなかった。 Alice: It is that breakfast wasn't to eat."
+  },
+  {
+   "type": "text",
+   "text": "ボブ：どうして？ Bob: Why?"
+  },
+  {
+   "type": "text",
+   "text": "Alice: Should not have eaten breakfast, you know. (Explaining that breakfast wasn't to be eaten) Bob: How come?"
+  },
+  {
+   "type": "text",
+   "text": "Don't worry if you are thoroughly confused by now, we will see many more examples along the way. Once you get the sense of how everything works, it's better to forget the English because the double and triple negatives can get quite confusing such as Example 3. However, in Japanese it is a perfectly normal expression, as you will begin to realize once you get accustomed to Japanese."
+  }
+ ]
+}

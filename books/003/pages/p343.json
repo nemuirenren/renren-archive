@@ -1,0 +1,115 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 343,
+ "page_label": "343",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Covered by something 「だらけ、まみれ、ずくめ」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「まみれ」 to describe a covering"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Using 「だらけ」to describe the state of being riddled everywhere by something"
+  },
+  {
+   "type": "text",
+   "text": "• Attach 「だらけ」 to the noun that is covering the object or place"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 間違い → 間違いだらけ (riddled with mistakes) 2. 埃 → 埃だらけ (riddled with dust)"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. このドキュメントは間違いだらけで、全然役に立たない。\nThis document is just riddled with mistakes and is not useful at all."
+  },
+  {
+   "type": "text",
+   "text": "2. 携帯を５年間使ってたら、傷だらけになった。\nAfter using cell phone for 2 years, it became covered with scratches."
+  },
+  {
+   "type": "text",
+   "text": "□ Notice how the 「の」 particle is used to modify since 「だらけ」 functions like a noun."
+  },
+  {
+   "type": "text",
+   "text": "1. この埃だらけのテレビをちゃんと拭いてくれない？\nCan you properly dust this TV completely covered in dust?"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「まみれ」 to describe a covering"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 間違い【ま・ちが・い】- mistake"
+  },
+  {
+   "type": "text",
+   "text": "2. 血 【ち】- blood"
+  },
+  {
+   "type": "text",
+   "text": "3. 油【あぶら】- oil"
+  },
+  {
+   "type": "text",
+   "text": "4. ゴミ - garbage"
+  },
+  {
+   "type": "text",
+   "text": "5. 彼【かれ】- he; boyfriend"
+  },
+  {
+   "type": "text",
+   "text": "6. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "7. 車【くるま】- car"
+  },
+  {
+   "type": "text",
+   "text": "8. 修理【しゅう・り】- repair"
+  },
+  {
+   "type": "text",
+   "text": "9. 頑張る【がん・ば・る】(u-verb) - to try one's best"
+  },
+  {
+   "type": "text",
+   "text": "10. たった - only, merely"
+  }
+ ]
+}

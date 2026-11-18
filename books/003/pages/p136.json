@@ -1,0 +1,122 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 136,
+ "page_label": "136",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Conditionals 「と、なら、ば、たら」"
+  },
+  {
+   "level": 3,
+   "title": "General conditionals using 「ば」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "5. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "6. 暇【ひま】- free (as in not busy)"
+  },
+  {
+   "type": "text",
+   "text": "7. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "8. 会う【あ・う】(u-verb) - to meet"
+  },
+  {
+   "type": "text",
+   "text": "9. 買い物【か・い・もの】- shopping"
+  },
+  {
+   "type": "text",
+   "text": "10. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "11. お金【お・かね】- money"
+  },
+  {
+   "type": "text",
+   "text": "12. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "13. 楽しい【たの・しい】(i-adj) - fun"
+  },
+  {
+   "type": "text",
+   "text": "14. 私【わたし】- me; myself; I"
+  },
+  {
+   "type": "text",
+   "text": "15. 病気【びょう・き】- disease; sickness"
+  },
+  {
+   "type": "text",
+   "text": "16. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "The next type of conditional just expresses a regular \"if\" condition without any assumptions or embedded meanings. The conjugation rules for the 「ば」 conditional is below. Note, the conjugation rule for nouns and na-adjectives is actually using the verb 「ある」 in 「である」, a formal expression we'll learn much later."
+  },
+  {
+   "type": "text",
+   "text": "Conjugation Rules for 「ば」"
+  },
+  {
+   "type": "text",
+   "text": "• For verbs: Change the last /u/ vowel sound to the equivalent /e/ vowel sound and attach 「ば」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 食べる → 食べれ → 食べれば 2. 待つ → 待て → 待てば"
+  },
+  {
+   "type": "text",
+   "text": "• For i-adjectives or negatives ending in 「ない」: Drop the last 「い」 and attach 「ければ」."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. おかしい → おかしければ 2. ない → なければ"
+  },
+  {
+   "type": "text",
+   "text": "• For nouns and na-adjectives: Attach 「であれば」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 学生 → 学生であれば 2. 暇 → 暇であれば"
+  }
+ ]
+}

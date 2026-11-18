@@ -1,0 +1,127 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 234,
+ "page_label": "234",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Things that happen unintentionally 「〜てしまう、 〜ちゃう〜〜じゃう」"
+  },
+  {
+   "level": 3,
+   "title": "Using the casual version of 「〜てしまう」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "3. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "4. 死ぬ【し・ぬ】(u-verb) - to die"
+  },
+  {
+   "type": "text",
+   "text": "5. 帰る【かえ・る】(u-verb) - to go home"
+  },
+  {
+   "type": "text",
+   "text": "6. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "7. 皆【みんな】- everybody"
+  },
+  {
+   "type": "text",
+   "text": "8. どっか - somewhere (abbr. of どこか)"
+  },
+  {
+   "type": "text",
+   "text": "9. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "10. そろそろ - gradually; soon"
+  },
+  {
+   "type": "text",
+   "text": "11. 遅い【おそ・い】(i-adj) - late"
+  },
+  {
+   "type": "text",
+   "text": "12. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "13. また - again"
+  },
+  {
+   "type": "text",
+   "text": "14. 遅刻【ち・こく】- tardiness"
+  },
+  {
+   "type": "text",
+   "text": "15. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "16. ごめん - sorry"
+  },
+  {
+   "type": "text",
+   "text": "17. つい - just (now); unintentionally"
+  },
+  {
+   "type": "text",
+   "text": "18. お前【お・まえ】- you (casual)"
+  },
+  {
+   "type": "text",
+   "text": "19. 呼ぶ【よ・ぶ】(u-verb) - to call"
+  },
+  {
+   "type": "text",
+   "text": "In casual speech, the 「〜てしまう」 is often substituted by 「〜ちゃう」 while 「〜でしまう」 is substituted by 「じゃう」. Both 「〜ちゃう」 and 「〜じゃう」 conjugate just like regular u-verbs."
+  },
+  {
+   "type": "text",
+   "text": "1. 金魚がもう死んじゃった。\nThe goldfish died already."
+  },
+  {
+   "type": "text",
+   "text": "2. もう帰っちゃっていい？\nIs it ok if I went home already?"
+  },
+  {
+   "type": "text",
+   "text": "3. みんな、どっか行っちゃったよ。\nEverybody went off somewhere."
+  },
+  {
+   "type": "text",
+   "text": "4. そろそろ遅くなっちゃうよ。\nIt'll gradually become late, you know."
+  },
+  {
+   "type": "text",
+   "text": "There is yet another very colloquial version of 「〜てしまう」 and 「〜でしまう」 where it is replaced by 「〜ちまう」 and 「〜じまう」 respectively. Unlike the cuter 「〜ちゃう」 and 「〜じゃう」 slang, this version conjures a image of rough and coarse middle-aged man."
+  },
+  {
+   "type": "text",
+   "text": "1. また遅刻しちまったよ。\nDarn, I'm late again."
+  },
+  {
+   "type": "text",
+   "text": "2. ごめん、ついお前を呼んじまった。\nSorry, I just ended up calling you unconsciously."
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 20,
+ "page_label": "20",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "The Writing System"
+  },
+  {
+   "level": 2,
+   "title": "Hiragana"
+  },
+  {
+   "level": 3,
+   "title": "The Long Vowel Sound"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The Small 「つ」"
+  },
+  {
+   "type": "text",
+   "text": "A small 「つ」 is inserted between two characters to carry the consonant sound of the second character to the end of the first. For example, if you inserted a small 「つ」 between 「び」 and 「く」 to make 「びっく」, the / k / consonant sound is carried back to the end of the first character to produce \"bikku\". Similarly, 「はっぱ」 becomes \"happa\", 「ろっく」 becomes \"rokku\" and so on and so forth."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. ざっし (zas-shi) - magazine"
+  },
+  {
+   "type": "text",
+   "text": "2. カップ (kap-pu) - cup"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Notes"
+  },
+  {
+   "type": "text",
+   "text": "1. A small 「つ」 is used to carry the consonant sound of the second character to the end of\nthe first. Ex: 「がっき」 = \"gakki\"."
+  },
+  {
+   "type": "text",
+   "text": "2. The addition of another consonant almost always creates the characteristic clipping sound.\nBut make sure you're clipping with the right consonant (the consonant of the second character)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The Long Vowel Sound"
+  },
+  {
+   "type": "text",
+   "text": "Whew! You're almost done. In this last portion, we will go over the long vowel sound which is simply extending the duration of a vowel sound. You can extend the vowel sound of a character by adding either 「あ」 、 「い」 、 or 「う」 depending on the vowel in accordance to the following chart."
+  },
+  {
+   "type": "text",
+   "text": "Extending Vowel Sounds Vowel Sound Extended by /a/ あ /i/e/ い /u/o/ う"
+  },
+  {
+   "type": "text",
+   "text": "For example, if you wanted to create an extended vowel sound from 「か」 , you would add 「あ」 to create 「かあ」. Other examples would include: 「き → きい」, 「く → くう」, 「け"
+  }
+ ]
+}

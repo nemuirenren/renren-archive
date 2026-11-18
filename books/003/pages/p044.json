@@ -1,0 +1,120 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 44,
+ "page_label": "44",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Verb Basics"
+  },
+  {
+   "level": 3,
+   "title": "Role of Verbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "8. 出る【で・る】(ru-verb) - to come out"
+  },
+  {
+   "type": "text",
+   "text": "9. いる (ru-verb) - to exist (animate)"
+  },
+  {
+   "type": "text",
+   "text": "10. 着る【き・る】(ru-verb) - to wear"
+  },
+  {
+   "type": "text",
+   "text": "11. 話す【はな・す】(u-verb) - to speak"
+  },
+  {
+   "type": "text",
+   "text": "12. 聞く【き・く】(u-verb) - to ask; to listen"
+  },
+  {
+   "type": "text",
+   "text": "13. 泳ぐ【およ・ぐ】(u-verb) - to swim"
+  },
+  {
+   "type": "text",
+   "text": "14. 遊ぶ【あそ・ぶ】(u-verb) - to play"
+  },
+  {
+   "type": "text",
+   "text": "15. 待つ【ま・つ】(u-verb) - to wait"
+  },
+  {
+   "type": "text",
+   "text": "16. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "17. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "18. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "19. 死ぬ【し・ぬ】(u-verb) - to die"
+  },
+  {
+   "type": "text",
+   "text": "20. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "21. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "22. お金【お・かね】- money"
+  },
+  {
+   "type": "text",
+   "text": "23. 私【わたし】- me, myself, I"
+  },
+  {
+   "type": "text",
+   "text": "24. 猫【ねこ】- cat"
+  },
+  {
+   "type": "text",
+   "text": "We've now learned how to describe nouns in various ways with other nouns and adjectives. This gives us quite a bit of expressive power. However, we still cannot express actions. This is where verbs come in. Verbs, in Japanese, always come at the end of clauses. Since we have not yet learned how to create more than one clause, for now it means that any sentence with a verb must end with the verb. We will now learn the three main categories of verbs, which will allow us to define conjugation rules. Before learning about verbs, there is one important thing to keep in mind."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Note"
+  },
+  {
+   "type": "text",
+   "text": "A grammatically complete sentence requires a verb only (including state-of-being)."
+  },
+  {
+   "type": "text",
+   "text": "Or to rephrase, unlike English, the only thing you need to make a grammatically complete sentence is a verb and nothing else! That's why even the simplest, most basic Japanese sentence cannot be translated into English!"
+  },
+  {
+   "type": "text",
+   "text": "A grammatically complete sentence:"
+  },
+  {
+   "type": "text",
+   "text": "• 食べる。\nEat. (possible translations include: I eat/she eats/they eat)"
+  }
+ ]
+}

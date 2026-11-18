@@ -1,0 +1,113 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 267,
+ "page_label": "267",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」"
+  },
+  {
+   "level": 3,
+   "title": "「っぽい」: Slang expression of similarity"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Example 2"
+  },
+  {
+   "type": "text",
+   "text": "A：あの人は何なの？ A: What is that person over there?"
+  },
+  {
+   "type": "text",
+   "text": "B：美由紀さんの友達らしいですよ。 B: Seems to be Miyuki-san's friend (based on what I heard)."
+  },
+  {
+   "type": "text",
+   "text": "Another way to use「らしい」is to indicate that a person seems to be a certain thing due to his behavior."
+  },
+  {
+   "type": "text",
+   "text": "1. あの子は子供らしくない。\nThat child does not act like a child."
+  },
+  {
+   "type": "text",
+   "text": "2. 大人らしくするつもりだったのに、大騒ぎしてしまった。\nDespite the fact that I planned to act like an adult, I ended up making a big ruckus."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "「っぽい」: Slang expression of similarity"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. あの - that (over there) (abbr. of あれの)"
+  },
+  {
+   "type": "text",
+   "text": "2. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "3. 韓国人【かん・こく・じん】- Korean person"
+  },
+  {
+   "type": "text",
+   "text": "4. 皆【みんな】- everybody"
+  },
+  {
+   "type": "text",
+   "text": "5. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "6. 全部【ぜん・ぶ】- everything"
+  },
+  {
+   "type": "text",
+   "text": "7. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "8. 恭子【きょう・こ】- Kyouko (first name)"
+  },
+  {
+   "type": "text",
+   "text": "9. 全然【ぜん・ぜん】- not at all (when used with negative)"
+  },
+  {
+   "type": "text",
+   "text": "10. 女【おんな】- woman; girl"
+  },
+  {
+   "type": "text",
+   "text": "A really casual way to express similarity is to attach 「っぽい」 to the word that reflects the resemblance. Because this is a very casual expression, you can use it as a casual version for all the different types of expression for similarity covered above."
+  },
+  {
+   "type": "text",
+   "text": "「っぽい」 conjugates just like an i-adjective, as seen by example 3 below."
+  },
+  {
+   "type": "text",
+   "text": "1. あの人はちょっと韓国人っぽいよね。\nThat person looks a little like Korean person, huh?"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 329,
+ "page_label": "329",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Tendencies 「〜がち、〜つつ、きらいがある」"
+  },
+  {
+   "level": 3,
+   "title": "Saying something is prone to occur using 「〜がち」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "5. 申告【しん・こく】- report; statement; filing a return"
+  },
+  {
+   "type": "text",
+   "text": "6. 確定申告【かく・てい・しん・こく】- final income tax return"
+  },
+  {
+   "type": "text",
+   "text": "7. 忘れる【わす・れる】(ru-verb) - to forget"
+  },
+  {
+   "type": "text",
+   "text": "8. 手続【て・つづき】- procedure, paperwork"
+  },
+  {
+   "type": "text",
+   "text": "9. 留守【るす】- being away from home"
+  },
+  {
+   "type": "text",
+   "text": "10. 家庭【か・てい】- household"
+  },
+  {
+   "type": "text",
+   "text": "11. 犬【いぬ】- dog"
+  },
+  {
+   "type": "text",
+   "text": "12. 猫【ねこ】- cat"
+  },
+  {
+   "type": "text",
+   "text": "13. 勧め【すす・め】- recommendation"
+  },
+  {
+   "type": "text",
+   "text": "14. 父親【ちち・おや】- father"
+  },
+  {
+   "type": "text",
+   "text": "15. 皆【みんな】- everybody"
+  },
+  {
+   "type": "text",
+   "text": "16. 心配【しん・ぱい】- worry; concern"
+  },
+  {
+   "type": "text",
+   "text": "17. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "This is arguably the most useful grammar in this lesson in terms of practically. By that, I mean that it's the only grammar here that you might actually hear in a regular conversation though again, it is far more common in a written context."
+  },
+  {
+   "type": "text",
+   "text": "With this grammar, you can say that something is likely to occur by simply attaching 「がち」 to the stem of the verb. While, 「がち」 is a suffix, it works in much same way as a noun or na-adjective. In other words, the result becomes a description of something as being likely. This means that we can do things like modifying nouns by attaching 「な」 and other things we're used to doing with na-adjectives. You can also say that something is prone to be something by attaching 「がち」 to the noun."
+  },
+  {
+   "type": "text",
+   "text": "As the word \"prone\" suggest, 「がち」 is usually used for tendencies that are bad or undesirable."
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 155,
+ "page_label": "155",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Performing an action on a relative clause 「と、って」"
+  },
+  {
+   "level": 3,
+   "title": "The interpreted quote"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "4.11. PERFORMING AN ACTION ON A RELATIVE CLAUSE"
+  },
+  {
+   "type": "text",
+   "text": "5. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "6. 日本語【に・ほん・ご】- Japanese (language)"
+  },
+  {
+   "type": "text",
+   "text": "7. 何【なに〜なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "8. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "9. 私【わたし】- me; myself; I"
+  },
+  {
+   "type": "text",
+   "text": "10. カレー- curry"
+  },
+  {
+   "type": "text",
+   "text": "11. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "12. 思う【おも・う】(u-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "13. 時間【じ・かん】- time"
+  },
+  {
+   "type": "text",
+   "text": "14. 今【いま】- now"
+  },
+  {
+   "type": "text",
+   "text": "15. どこ - where"
+  },
+  {
+   "type": "text",
+   "text": "16. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "17. 考える【かんが・える】(ru-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "18. 彼【かれ】- he; boyfriend"
+  },
+  {
+   "type": "text",
+   "text": "19. 高校生【こう・こう・せい】- high school student"
+  },
+  {
+   "type": "text",
+   "text": "20. 信じる【しん・じる】(ru-verb) - to believe"
+  },
+  {
+   "type": "text",
+   "text": "The second type of quote is the quote along the lines of what someone actually said. It's not a word-forword quote. Since this is not a direct quote, no quotations are needed. You can also express thoughts as an interpreted quote as well. By using this and the verb 「思う」 you can say you think that something is so-and-so. You will hear Japanese people use this all the time. You can also use the verb 「考える」 when you are considering something."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 先生から今日は授業がないと聞いたんだけど。\nI heard from the teacher that there is no class today."
+  },
+  {
+   "type": "text",
+   "text": "2. これは、日本語で何と言いますか。\nWhat do you call this in Japanese? (lit: About this, what do you say in Japanese?)"
+  },
+  {
+   "type": "text",
+   "text": "3. 私は、アリスと言います。\nI am called Alice. (lit: As for me, you say Alice.)"
+  },
+  {
+   "type": "text",
+   "text": "In an interpreted quote, the meaning of 「言う」 may change as you see in examples 2 and 3. Actually, as you can see from the literal translation, the meaning remains the same in Japanese but changes only when translated to normal English. (We'll learn more about various ways to use 「いう」 in the next lesson.)"
+  }
+ ]
+}

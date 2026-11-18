@@ -1,0 +1,80 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 80,
+ "page_label": "80",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Adverbs and Sentence-ending particles"
+  },
+  {
+   "level": 3,
+   "title": "「よ」 sentence ending"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "ボブ：いい天気だね。 Bob: Good weather, huh?"
+  },
+  {
+   "type": "text",
+   "text": "アリス：そうね。 Alice: That is so, isn't it?"
+  },
+  {
+   "type": "text",
+   "text": "The literal translation of 「そうね」 sounds a bit odd but it basically means something like, \"Sure is\". Males would probably say, 「そうだね」."
+  },
+  {
+   "type": "text",
+   "text": "Example 2"
+  },
+  {
+   "type": "text",
+   "text": "アリス：おもしろい映画だったね。 Alice: That was interesting movie, wasn't it?"
+  },
+  {
+   "type": "text",
+   "text": "ボブ：え？全然おもしろくなかった。 Bob: Huh? No, it wasn't interesting at all."
+  },
+  {
+   "type": "text",
+   "text": "Since Alice is expecting agreement that the movie was interesting Bob is surprised because he didn't find the movie interesting at all. (「え」 is a sound of surprise and confusion.)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "「よ」 sentence ending"
+  },
+  {
+   "type": "text",
+   "text": "When 「よ」 is attached to the end of a sentence, it means that the speaker is informing the listener of something new. In English, we might say this with a, \"You know...\" such as the sentence, \"You know, I'm actually a genius.\""
+  },
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "アリス：時間がないよ。 Alice: You know, there is no time."
+  },
+  {
+   "type": "text",
+   "text": "ボブ：大丈夫だよ。 Bob: It's ok, you know."
+  }
+ ]
+}

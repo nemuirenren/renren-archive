@@ -1,0 +1,98 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 148,
+ "page_label": "148",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Desire and Suggestions 「たい、 欲しい、 volitional、〜たらどう」"
+  },
+  {
+   "level": 3,
+   "title": "Indicating things you want or want done using 「欲しい」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "• ずっと一緒にいたい。\nI want to be together forever. (lit: Want to exist together for long time.)"
+  },
+  {
+   "type": "text",
+   "text": "Also, you can only use the「たい」form for the first-person because you cannot read other people's mind to see what they want to do. For referring to anyone beside yourself, it is normal to use expressions such as, \"I think he wants to...\" or \"She said that she wants to...\" We will learn how to say such expressions in a later lesson. Of course, if you're asking a question, you can just use the 「たい」 form because you're not presuming to know anything."
+  },
+  {
+   "type": "text",
+   "text": "• 犬と遊びたいですか。\nDo you want to play with dog?"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Indicating things you want or want done using 「欲しい」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 欲しい【ほ・しい】(i-adj) - wanted; desirable"
+  },
+  {
+   "type": "text",
+   "text": "2. 好き【す・き】(na-adj) - likable; desirable"
+  },
+  {
+   "type": "text",
+   "text": "3. 大きい【おお・きい】(i-adj) - big"
+  },
+  {
+   "type": "text",
+   "text": "4. 縫いぐるみ【ぬ・いぐるみ】- stuffed doll"
+  },
+  {
+   "type": "text",
+   "text": "5. 全部【ぜん・ぶ】- everything"
+  },
+  {
+   "type": "text",
+   "text": "6. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "7. 部屋【へ・や】- room"
+  },
+  {
+   "type": "text",
+   "text": "8. きれい (na-adj) - pretty; clean"
+  },
+  {
+   "type": "text",
+   "text": "In English, we employ a verb to say that we want something. In Japanese, \"to want\" is actually an iadjective and not a verb. We saw something similar with 「好き」 which is an adjective while \"to like\" in English is a verb. While I didn't get too much into the workings of 「好き」, I have dedicated a whole section to 「欲しい」 because it means, \"to want something done\" when combined with the te-form of a verb. We will learn a more polite and appropriate way to make requests in the \"Making Requests\" lesson instead of saying, \"I want this done.\""
+  },
+  {
+   "type": "text",
+   "text": "Though not a set rule, whenever words come attached to the te-form of a verb to serve a special grammatical function, it is customary to write it in hiragana. This is because kanji is already used for the verb and the attached word becomes part of that verb."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 大きい縫いぐるみが欲しい。\nI want a big stuffed doll!"
+  }
+ ]
+}

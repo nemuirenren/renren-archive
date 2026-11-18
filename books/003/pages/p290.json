@@ -1,0 +1,101 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 290,
+ "page_label": "290",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」"
+  },
+  {
+   "level": 3,
+   "title": "Express what occurred immediately after with 「とたん」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "3. 今、家に帰ったばかりです。\nI got back home just now."
+  },
+  {
+   "type": "text",
+   "text": "Here are some examples of the abbreviated version."
+  },
+  {
+   "type": "text",
+   "text": "1. 昼ご飯を食べたばっかなのに、もうお腹が空いた。\nDespite the fact that I just ate lunch, I'm hungry already."
+  },
+  {
+   "type": "text",
+   "text": "2. まさか、今起きたばっかなの？\nNo way, did you wake up just now?"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Express what occurred immediately after with 「とたん」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 開ける【あ・ける】(ru-verb) - to open"
+  },
+  {
+   "type": "text",
+   "text": "2. 取る【と・る】(u-verb) - to take"
+  },
+  {
+   "type": "text",
+   "text": "3. 窓【まど】- window"
+  },
+  {
+   "type": "text",
+   "text": "4. 猫【ねこ】- cat"
+  },
+  {
+   "type": "text",
+   "text": "5. 跳ぶ【と・ぶ】(u-verb) - to jump"
+  },
+  {
+   "type": "text",
+   "text": "6. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "7. 観る【み・る】(ru-verb) - to watch"
+  },
+  {
+   "type": "text",
+   "text": "8. トイレ - bathroom; toilet"
+  },
+  {
+   "type": "text",
+   "text": "9. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "10. 眠い【ねむ・い】(i-adj) - sleepy"
+  },
+  {
+   "type": "text",
+   "text": "11. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "Kind of as a supplement to 「ばかり」, we will cover one way to say something happened as soon as something else occurs. To use this grammar, add 「とたん」 to the past tense of the first action that happened. It is also common to add the 「に」 target particle to indicate that specific point in time."
+  }
+ ]
+}

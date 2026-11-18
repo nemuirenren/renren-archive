@@ -1,0 +1,64 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 17,
+ "page_label": "17",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "The Writing System"
+  },
+  {
+   "level": 2,
+   "title": "Hiragana"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Hiragana - Click for stroke order and sound"
+  },
+  {
+   "type": "table",
+   "text": "| | a | i | u | e | o |\n|---|---|---|---|---|---|\n| あ行 | あ | い | う | え | お |\n| か行 | か | き | く | け | こ |\n| さ行 | さ | し | す | せ | そ |\n| た行 | た | ち | つ | て | と |\n| な行 | な | に | ぬ | ね | の |\n| は行 | は | ひ | ふ | へ | ほ |\n| ま行 | ま | み | む | め | も |\n| や行 | や |  | ゆ |  | よ |\n| ら行 | ら | り | る | れ | ろ |\n| わ行 | わ | ゐ* |  | ゑ* | を |\n| ん | ん |  |  |  |  |"
+  },
+  {
+   "type": "text",
+   "text": "* = no longer used"
+  },
+  {
+   "type": "text",
+   "text": "You can listen to the pronunciation for each character by clicking on it in chart. If your browser doesn't support audio, you can also download them. There are also other free resources with audio samples."
+  },
+  {
+   "type": "text",
+   "text": "Hiragana is not too tough to master or teach and as a result, there are a variety of web sites and free programs that are already available on the web. I also suggest recording yourself and comparing the sounds to make sure you're getting it right."
+  },
+  {
+   "type": "text",
+   "text": "When practicing writing Hiragana by hand, the important thing to remember is that the stroke order and direction of the strokes matter. There, I underlined, italicized, bolded, and highlighted it to boot. Trust me, you'll eventually find out why when you read other people's hasty notes that are nothing more than chicken scrawls. The only thing that will help you is that everybody writes in the same order and so the \"flow\" of the characters is fairly consistent. I strongly recommend that you pay close attention to stroke order from the beginning starting with Hiragana to avoid falling into bad habits. While there are many tools online that aim to help you learn Hiragana, the best way to learn how to write it is the old fashioned way: a piece of paper and pen/pencil. Below are handy PDFs for Hiragana writing practice."
+  },
+  {
+   "type": "text",
+   "text": "• Hiragana trace sheets"
+  },
+  {
+   "type": "text",
+   "text": "• japanese-lesson.com"
+  },
+  {
+   "type": "text",
+   "text": "• Hiroshi & Sakura"
+  },
+  {
+   "type": "text",
+   "text": "□ As an aside, an old Japanese poem called「いろは」was often used as the base for ordering of Hiragana until recent times. The poem contains every single Hiragana character except for 「ん」 which probably did not exist at the time it was written. You can check out this poem for yourself in this wikipedia article. As the article mentions, this order is still sometimes used in ordering lists so you may want to spend some time checking it out."
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 137,
+ "page_label": "137",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Conditionals 「と、なら、ば、たら」"
+  },
+  {
+   "level": 3,
+   "title": "Past conditional using 「たら (ば)」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 友達に会えれば、買い物に行きます。\nIf I can meet with my friend, we will go shopping."
+  },
+  {
+   "type": "text",
+   "text": "2. お金があればいいね。\nIf I had money, it would be good, huh?"
+  },
+  {
+   "type": "text",
+   "text": "3. 楽しければ、私も行く。\nIf it's fun, I'll go too."
+  },
+  {
+   "type": "text",
+   "text": "4. 楽しくなければ、私も行かない。\nIf it's not fun, I'll also not go."
+  },
+  {
+   "type": "text",
+   "text": "5. 食べなければ病気になるよ。\nIf you don't eat, you will become sick."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Past conditional using 「たら (ば)」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 自動【じ・どう】- automatic"
+  },
+  {
+   "type": "text",
+   "text": "2. 待つ【ま・つ】(u-verb) - to wait"
+  },
+  {
+   "type": "text",
+   "text": "3. 読む【よ・む】(u-verb) - to read"
+  },
+  {
+   "type": "text",
+   "text": "4. 忙しい【いそが・しい】(i-adj) - busy"
+  },
+  {
+   "type": "text",
+   "text": "5. 暇【ひま】- free (as in not busy)"
+  },
+  {
+   "type": "text",
+   "text": "6. 遊ぶ【あそ・ぶ】(u-verb) - to play"
+  },
+  {
+   "type": "text",
+   "text": "7. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "8. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "9. 割引【わり・びき】- discount"
+  },
+  {
+   "type": "text",
+   "text": "10. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "11. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "12. 会う【あ・う】(u-verb) - to meet"
+  },
+  {
+   "type": "text",
+   "text": "13. 買い物【か・い・もの】- shopping"
+  },
+  {
+   "type": "text",
+   "text": "14. お金【お・かね】- money"
+  },
+  {
+   "type": "text",
+   "text": "15. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "16. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "17. 家【1) うち; 2) いえ】- 1) one's own home; 2) house"
+  }
+ ]
+}

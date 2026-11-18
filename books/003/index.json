@@ -1,0 +1,3884 @@
+{
+ "id": "003",
+ "title": "Tae Kim's Japanese Grammar Guide",
+ "lang": "en",
+ "pages": 353,
+ "outline": [
+  {
+   "level": 1,
+   "title": "Introduction",
+   "pages": [
+    11,
+    14
+   ]
+  },
+  {
+   "level": 1,
+   "title": "The Writing System",
+   "pages": [
+    15,
+    28
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Basic Grammar",
+   "pages": [
+    29,
+    82
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Essential Grammar",
+   "pages": [
+    83,
+    210
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Special Expressions",
+   "pages": [
+    211,
+    298
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Advanced Topics",
+   "pages": [
+    299,
+    353
+   ]
+  }
+ ],
+ "items": [
+  {
+   "page": 1,
+   "page_label": "1",
+   "kind": "cover",
+   "outline": [],
+   "first_heading": ""
+  },
+  {
+   "page": 2,
+   "page_label": "2",
+   "kind": "blank",
+   "outline": [],
+   "first_heading": ""
+  },
+  {
+   "page": 3,
+   "page_label": "3",
+   "kind": "toc",
+   "outline": [],
+   "first_heading": ""
+  },
+  {
+   "page": 4,
+   "page_label": "4",
+   "kind": "toc",
+   "outline": [],
+   "first_heading": ""
+  },
+  {
+   "page": 5,
+   "page_label": "5",
+   "kind": "toc",
+   "outline": [],
+   "first_heading": ""
+  },
+  {
+   "page": 6,
+   "page_label": "6",
+   "kind": "toc",
+   "outline": [],
+   "first_heading": ""
+  },
+  {
+   "page": 7,
+   "page_label": "7",
+   "kind": "toc",
+   "outline": [],
+   "first_heading": ""
+  },
+  {
+   "page": 8,
+   "page_label": "8",
+   "kind": "toc",
+   "outline": [],
+   "first_heading": ""
+  },
+  {
+   "page": 9,
+   "page_label": "9",
+   "kind": "toc",
+   "outline": [],
+   "first_heading": ""
+  },
+  {
+   "page": 10,
+   "page_label": "10",
+   "kind": "blank",
+   "outline": [],
+   "first_heading": ""
+  },
+  {
+   "page": 11,
+   "page_label": "11",
+   "kind": "content",
+   "outline": [
+    "Introduction",
+    "The problem with conventional textbooks"
+   ],
+   "first_heading": "Introduction"
+  },
+  {
+   "page": 12,
+   "page_label": "12",
+   "kind": "content",
+   "outline": [
+    "Introduction",
+    "A Japanese guide to learning Japanese grammar"
+   ],
+   "first_heading": "A Japanese guide to learning Japanese grammar"
+  },
+  {
+   "page": 13,
+   "page_label": "13",
+   "kind": "content",
+   "outline": [
+    "Introduction",
+    "Suggestions"
+   ],
+   "first_heading": "Suggestions"
+  },
+  {
+   "page": 14,
+   "page_label": "14",
+   "kind": "blank",
+   "outline": [
+    "Introduction",
+    "Suggestions"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 15,
+   "page_label": "15",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "The Scripts"
+   ],
+   "first_heading": "The Writing System"
+  },
+  {
+   "page": 16,
+   "page_label": "16",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Hiragana"
+   ],
+   "first_heading": "Intonation"
+  },
+  {
+   "page": 17,
+   "page_label": "17",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Hiragana"
+   ],
+   "first_heading": "Hiragana - Click for stroke order and sound"
+  },
+  {
+   "page": 18,
+   "page_label": "18",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Hiragana",
+    "The Muddied Sounds"
+   ],
+   "first_heading": "Notes"
+  },
+  {
+   "page": 19,
+   "page_label": "19",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Hiragana",
+    "The Small 「や」、「ゆ」、and 「よ」"
+   ],
+   "first_heading": "Voiced Hiragana - Click for Sound"
+  },
+  {
+   "page": 20,
+   "page_label": "20",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Hiragana",
+    "The Long Vowel Sound"
+   ],
+   "first_heading": "The Small 「つ」"
+  },
+  {
+   "page": 21,
+   "page_label": "21",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Katakana"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 22,
+   "page_label": "22",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Katakana"
+   ],
+   "first_heading": "Katakana - Click for stroke order and sound"
+  },
+  {
+   "page": 23,
+   "page_label": "23",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Katakana",
+    "The Long Vowel Sound"
+   ],
+   "first_heading": "Notes"
+  },
+  {
+   "page": 24,
+   "page_label": "24",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Katakana",
+    "The Small 「ア、イ、ウ、エ、オ」"
+   ],
+   "first_heading": "The Small 「ア、イ、ウ、エ、オ」"
+  },
+  {
+   "page": 25,
+   "page_label": "25",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Katakana",
+    "Some examples of words in Katakana"
+   ],
+   "first_heading": "Notes"
+  },
+  {
+   "page": 26,
+   "page_label": "26",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Kanji",
+    "Learning Kanji"
+   ],
+   "first_heading": "Kanji"
+  },
+  {
+   "page": 27,
+   "page_label": "27",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Kanji",
+    "Reading Kanji"
+   ],
+   "first_heading": "Reading Kanji"
+  },
+  {
+   "page": 28,
+   "page_label": "28",
+   "kind": "content",
+   "outline": [
+    "The Writing System",
+    "Kanji",
+    "Why Kanji?"
+   ],
+   "first_heading": "Why Kanji?"
+  },
+  {
+   "page": 29,
+   "page_label": "29",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Expressing State-of-Being",
+    "Declaring something is so and so using 「だ」"
+   ],
+   "first_heading": "Basic Grammar"
+  },
+  {
+   "page": 30,
+   "page_label": "30",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Expressing State-of-Being",
+    "Declaring something is so and so using 「だ」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 31,
+   "page_label": "31",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Expressing State-of-Being",
+    "Conjugating to the negative state-of-being"
+   ],
+   "first_heading": "Conjugating to the negative state-of-being"
+  },
+  {
+   "page": 32,
+   "page_label": "32",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Expressing State-of-Being",
+    "Conjugation summary"
+   ],
+   "first_heading": "Conjugating to the past state-of-being"
+  },
+  {
+   "page": 33,
+   "page_label": "33",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Introduction to Particles 「は、も、が」",
+    "The 「は」 topic particle"
+   ],
+   "first_heading": "Introduction to Particles 「は、も、が」"
+  },
+  {
+   "page": 34,
+   "page_label": "34",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Introduction to Particles 「は、も、が」",
+    "The 「は」 topic particle"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 35,
+   "page_label": "35",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Introduction to Particles 「は、も、が」",
+    "The 「も」 inclusive topic particle"
+   ],
+   "first_heading": "The 「も」 inclusive topic particle"
+  },
+  {
+   "page": 36,
+   "page_label": "36",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Introduction to Particles 「は、も、が」",
+    "The 「が」 identifier particle"
+   ],
+   "first_heading": "The 「が」 identifier particle"
+  },
+  {
+   "page": 37,
+   "page_label": "37",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Introduction to Particles 「は、も、が」",
+    "The 「が」 identifier particle"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 38,
+   "page_label": "38",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Adjectives",
+    "The na-adjective"
+   ],
+   "first_heading": "Adjectives"
+  },
+  {
+   "page": 39,
+   "page_label": "39",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Adjectives",
+    "The na-adjective"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 40,
+   "page_label": "40",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Adjectives",
+    "The i-adjective"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 41,
+   "page_label": "41",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Adjectives",
+    "The i-adjective"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 42,
+   "page_label": "42",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Adjectives",
+    "An annoying exception"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 43,
+   "page_label": "43",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Verb Basics",
+    "Role of Verbs"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 44,
+   "page_label": "44",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Verb Basics",
+    "Role of Verbs"
+   ],
+   "first_heading": "Note"
+  },
+  {
+   "page": 45,
+   "page_label": "45",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Verb Basics",
+    "Classifying verbs into ru-verbs and u-verbs"
+   ],
+   "first_heading": "Classifying verbs into ru-verbs and u-verbs"
+  },
+  {
+   "page": 46,
+   "page_label": "46",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Verb Basics",
+    "Appendix: iru/eru u-verbs"
+   ],
+   "first_heading": "Appendix: iru/eru u-verbs"
+  },
+  {
+   "page": 47,
+   "page_label": "47",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Negative Verbs",
+    "Conjugating verbs into the negative"
+   ],
+   "first_heading": "Negative Verbs"
+  },
+  {
+   "page": 48,
+   "page_label": "48",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Negative Verbs",
+    "Conjugating verbs into the negative"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 49,
+   "page_label": "49",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Negative Verbs",
+    "Conjugating verbs into the negative"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 50,
+   "page_label": "50",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Past Tense",
+    "Past tense for ru-verbs"
+   ],
+   "first_heading": "Past Tense"
+  },
+  {
+   "page": 51,
+   "page_label": "51",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Past Tense",
+    "Past tense for u-verbs"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 52,
+   "page_label": "52",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Past Tense",
+    "Past-negative tense for all verbs"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 53,
+   "page_label": "53",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Particles used with verbs 「を、に、へ、で」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 54,
+   "page_label": "54",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Particles used with verbs 「を、に、へ、で」",
+    "The direct object 「を」 particle"
+   ],
+   "first_heading": "The direct object 「を」 particle"
+  },
+  {
+   "page": 55,
+   "page_label": "55",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Particles used with verbs 「を、に、へ、で」",
+    "The target 「に」 particle"
+   ],
+   "first_heading": "The target 「に」 particle"
+  },
+  {
+   "page": 56,
+   "page_label": "56",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Particles used with verbs 「を、に、へ、で」",
+    "The target 「に」 particle"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 57,
+   "page_label": "57",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Particles used with verbs 「を、に、へ、で」",
+    "The directional 「へ」 particle"
+   ],
+   "first_heading": "The directional 「へ」 particle"
+  },
+  {
+   "page": 58,
+   "page_label": "58",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Particles used with verbs 「を、に、へ、で」",
+    "The contextual 「で」 particle"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 59,
+   "page_label": "59",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Particles used with verbs 「を、に、へ、で」",
+    "The contextual 「で」 particle"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 60,
+   "page_label": "60",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Particles used with verbs 「を、に、へ、で」",
+    "When location is the topic"
+   ],
+   "first_heading": "When location is the topic"
+  },
+  {
+   "page": 61,
+   "page_label": "61",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Particles used with verbs 「を、に、へ、で」",
+    "When direct object is the topic"
+   ],
+   "first_heading": "When direct object is the topic"
+  },
+  {
+   "page": 62,
+   "page_label": "62",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Transitive and Intransitive Verbs",
+    "Pay attention to particles!"
+   ],
+   "first_heading": "Transitive and Intransitive Verbs"
+  },
+  {
+   "page": 63,
+   "page_label": "63",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Relative Clauses and Sentence Order",
+    "Treating verbs and state-of-being like adjectives"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 64,
+   "page_label": "64",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Relative Clauses and Sentence Order",
+    "Using state-of-being clauses as adjectives"
+   ],
+   "first_heading": "Using state-of-being clauses as adjectives"
+  },
+  {
+   "page": 65,
+   "page_label": "65",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Relative Clauses and Sentence Order",
+    "Using relative verb clauses as adjectives"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 66,
+   "page_label": "66",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Relative Clauses and Sentence Order",
+    "Japanese Sentence Order"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 67,
+   "page_label": "67",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Relative Clauses and Sentence Order",
+    "Japanese Sentence Order"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 68,
+   "page_label": "68",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Noun-related Particles 「と、や、とか、の」",
+    "The Inclusive 「と」 particle"
+   ],
+   "first_heading": "Noun-related Particles 「と、や、とか、の」"
+  },
+  {
+   "page": 69,
+   "page_label": "69",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Noun-related Particles 「と、や、とか、の」",
+    "The Vague Listing 「や」 and 「とか」 particles"
+   ],
+   "first_heading": "The Vague Listing 「や」 and 「とか」 particles"
+  },
+  {
+   "page": 70,
+   "page_label": "70",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Noun-related Particles 「と、や、とか、の」",
+    "The 「の」 particle"
+   ],
+   "first_heading": "The 「の」 particle"
+  },
+  {
+   "page": 71,
+   "page_label": "71",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Noun-related Particles 「と、や、とか、の」",
+    "The 「の」 particle"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 72,
+   "page_label": "72",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Noun-related Particles 「と、や、とか、の」",
+    "The 「の」 particle"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 73,
+   "page_label": "73",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Noun-related Particles 「と、や、とか、の」",
+    "The 「の」 particle as explanation"
+   ],
+   "first_heading": "The 「の」 particle as explanation"
+  },
+  {
+   "page": 74,
+   "page_label": "74",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Noun-related Particles 「と、や、とか、の」",
+    "The 「の」 particle as explanation"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 75,
+   "page_label": "75",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Noun-related Particles 「と、や、とか、の」",
+    "The 「の」 particle as explanation"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 76,
+   "page_label": "76",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Noun-related Particles 「と、や、とか、の」",
+    "The 「の」 particle as explanation"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 77,
+   "page_label": "77",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Adverbs and Sentence-ending particles",
+    "Properties of Adverbs"
+   ],
+   "first_heading": "Adverbs and Sentence-ending particles"
+  },
+  {
+   "page": 78,
+   "page_label": "78",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Adverbs and Sentence-ending particles",
+    "Properties of Adverbs"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 79,
+   "page_label": "79",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Adverbs and Sentence-ending particles",
+    "「ね」 sentence ending"
+   ],
+   "first_heading": "Sentence-ending particles"
+  },
+  {
+   "page": 80,
+   "page_label": "80",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Adverbs and Sentence-ending particles",
+    "「よ」 sentence ending"
+   ],
+   "first_heading": "「よ」 sentence ending"
+  },
+  {
+   "page": 81,
+   "page_label": "81",
+   "kind": "content",
+   "outline": [
+    "Basic Grammar",
+    "Adverbs and Sentence-ending particles",
+    "Combining both to get 「よね」"
+   ],
+   "first_heading": "Combining both to get 「よね」"
+  },
+  {
+   "page": 82,
+   "page_label": "82",
+   "kind": "blank",
+   "outline": [
+    "Basic Grammar",
+    "Adverbs and Sentence-ending particles",
+    "Combining both to get 「よね」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 83,
+   "page_label": "83",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar"
+   ],
+   "first_heading": "Essential Grammar"
+  },
+  {
+   "page": 84,
+   "page_label": "84",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Polite Form and Verb Stems 「〜です、〜ます」",
+    "The stem of verbs"
+   ],
+   "first_heading": "Polite Form and Verb Stems 「〜です、〜ます」"
+  },
+  {
+   "page": 85,
+   "page_label": "85",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Polite Form and Verb Stems 「〜です、〜ます」",
+    "The stem of verbs"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 86,
+   "page_label": "86",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Polite Form and Verb Stems 「〜です、〜ます」",
+    "The stem of verbs"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 87,
+   "page_label": "87",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Polite Form and Verb Stems 「〜です、〜ます」",
+    "Using 「〜ます」 to make verbs polite"
+   ],
+   "first_heading": "Using 「〜ます」 to make verbs polite"
+  },
+  {
+   "page": 88,
+   "page_label": "88",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Polite Form and Verb Stems 「〜です、〜ます」",
+    "Using 「です」 for everything else"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 89,
+   "page_label": "89",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Polite Form and Verb Stems 「〜です、〜ます」",
+    "Using 「です」 for everything else"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 90,
+   "page_label": "90",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Polite Form and Verb Stems 「〜です、〜ます」",
+    "「です」 is NOT the same as 「だ」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 91,
+   "page_label": "91",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Polite Form and Verb Stems 「〜です、〜ます」",
+    "「です」 is NOT the same as 「だ」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 92,
+   "page_label": "92",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Addressing People",
+    "Referring to yourself"
+   ],
+   "first_heading": "Addressing People"
+  },
+  {
+   "page": 93,
+   "page_label": "93",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Addressing People",
+    "Referring to others with \"you\""
+   ],
+   "first_heading": "Referring to others by name"
+  },
+  {
+   "page": 94,
+   "page_label": "94",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Addressing People",
+    "Referring to others in third person"
+   ],
+   "first_heading": "Referring to others in third person"
+  },
+  {
+   "page": 95,
+   "page_label": "95",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Addressing People",
+    "Referring to family members"
+   ],
+   "first_heading": "Referring to family members"
+  },
+  {
+   "page": 96,
+   "page_label": "96",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "The Question Marker 「か」",
+    "Questions in polite form"
+   ],
+   "first_heading": "The Question Marker 「か」"
+  },
+  {
+   "page": 97,
+   "page_label": "97",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "The Question Marker 「か」",
+    "The question marker in casual speech"
+   ],
+   "first_heading": "The question marker in casual speech"
+  },
+  {
+   "page": 98,
+   "page_label": "98",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "The Question Marker 「か」",
+    "「か」 used in relative clauses"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 99,
+   "page_label": "99",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "The Question Marker 「か」",
+    "Using question words"
+   ],
+   "first_heading": "Using question words"
+  },
+  {
+   "page": 100,
+   "page_label": "100",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "The Question Marker 「か」",
+    "Using question words"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 101,
+   "page_label": "101",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "The Question Marker 「か」",
+    "Using question words"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 102,
+   "page_label": "102",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "The Question Marker 「か」",
+    "Using question words"
+   ],
+   "first_heading": "Vocabulary"
+  },
+  {
+   "page": 103,
+   "page_label": "103",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」",
+    "Expressing a sequence of states"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 104,
+   "page_label": "104",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」",
+    "Expressing a sequence of states"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 105,
+   "page_label": "105",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」",
+    "Expressing a sequence of verbs with the te-form"
+   ],
+   "first_heading": "Expressing a sequence of verbs with the te-form"
+  },
+  {
+   "page": 106,
+   "page_label": "106",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」",
+    "Expressing reason or causation using 「から」 and 「ので」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 107,
+   "page_label": "107",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」",
+    "Expressing reason or causation using 「から」 and 「ので」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 108,
+   "page_label": "108",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」",
+    "Expressing reason or causation using 「から」 and 「ので」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 109,
+   "page_label": "109",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」",
+    "Using 「のに」 to mean \"despite\""
+   ],
+   "first_heading": "Using 「のに」 to mean \"despite\""
+  },
+  {
+   "page": 110,
+   "page_label": "110",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」",
+    "Expressing contradiction using 「が」 and 「けど」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 111,
+   "page_label": "111",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」",
+    "Expressing contradiction using 「が」 and 「けど」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 112,
+   "page_label": "112",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」",
+    "Expressing multiple reasons using 「し」"
+   ],
+   "first_heading": "Expressing multiple reasons using 「し」"
+  },
+  {
+   "page": 113,
+   "page_label": "113",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」",
+    "Expressing multiple actions or states using 「〜たりする」"
+   ],
+   "first_heading": "Expressing multiple actions or states using 「〜たりする」"
+  },
+  {
+   "page": 114,
+   "page_label": "114",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」",
+    "Using 「〜ている」 for enduring states"
+   ],
+   "first_heading": "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」"
+  },
+  {
+   "page": 115,
+   "page_label": "115",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」",
+    "Using 「〜ている」 for enduring states"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 116,
+   "page_label": "116",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」",
+    "Using 「〜ている」 for enduring states"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 117,
+   "page_label": "117",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」",
+    "Enduring state-of-being vs enduring state of action"
+   ],
+   "first_heading": "Enduring state-of-being vs enduring state of action"
+  },
+  {
+   "page": 118,
+   "page_label": "118",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」",
+    "Enduring state-of-being vs enduring state of action"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 119,
+   "page_label": "119",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」",
+    "Using 「〜てある」 for resultant states"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 120,
+   "page_label": "120",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」",
+    "Using the 「〜ておく」 form as preparation for the future"
+   ],
+   "first_heading": "Using the 「〜ておく」 form as preparation for the future"
+  },
+  {
+   "page": 121,
+   "page_label": "121",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」",
+    "Using motion verbs (行く、来る) with the te-form"
+   ],
+   "first_heading": "Using motion verbs (行く、来る) with the te-form"
+  },
+  {
+   "page": 122,
+   "page_label": "122",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」",
+    "Using motion verbs (行く、来る) with the te-form"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 123,
+   "page_label": "123",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Potential Form",
+    "The Potential Form"
+   ],
+   "first_heading": "Potential Form"
+  },
+  {
+   "page": 124,
+   "page_label": "124",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Potential Form",
+    "The Potential Form"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 125,
+   "page_label": "125",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Potential Form",
+    "Potential forms do not have direct objects"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 126,
+   "page_label": "126",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Potential Form",
+    "Are 「見える」 and 「聞こえる」 exceptions?"
+   ],
+   "first_heading": "Are 「見える」 and 「聞こえる」 exceptions?"
+  },
+  {
+   "page": 127,
+   "page_label": "127",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Potential Form",
+    "「ある」, yet another exception"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 128,
+   "page_label": "128",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Using する and なる with the に particle 「〜 [よう]になる〜する」",
+    "Using 「なる」 and 「する」 for nouns and na-adjectives"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 129,
+   "page_label": "129",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Using する and なる with the に particle 「〜 [よう]になる〜する」",
+    "Using 「なる」 and 「する」 for nouns and na-adjectives"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 130,
+   "page_label": "130",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Using する and なる with the に particle 「〜 [よう]になる〜する」",
+    "Using 「なる」 with i-adjectives"
+   ],
+   "first_heading": "Using 「なる」 with i-adjectives"
+  },
+  {
+   "page": 131,
+   "page_label": "131",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Using する and なる with the に particle 「〜 [よう]になる〜する」",
+    "Using 「なる」 and 「する」 with verbs"
+   ],
+   "first_heading": "Using 「なる」 and 「する」 with verbs"
+  },
+  {
+   "page": 132,
+   "page_label": "132",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Conditionals 「と、なら、ば、たら」",
+    "Expressing natural consequence using 「と」"
+   ],
+   "first_heading": "Conditionals 「と、なら、ば、たら」"
+  },
+  {
+   "page": 133,
+   "page_label": "133",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Conditionals 「と、なら、ば、たら」",
+    "Expressing natural consequence using 「と」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 134,
+   "page_label": "134",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Conditionals 「と、なら、ば、たら」",
+    "Contextual conditionals using 「なら (ば)」"
+   ],
+   "first_heading": "Contextual conditionals using 「なら (ば)」"
+  },
+  {
+   "page": 135,
+   "page_label": "135",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Conditionals 「と、なら、ば、たら」",
+    "General conditionals using 「ば」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 136,
+   "page_label": "136",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Conditionals 「と、なら、ば、たら」",
+    "General conditionals using 「ば」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 137,
+   "page_label": "137",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Conditionals 「と、なら、ば、たら」",
+    "Past conditional using 「たら (ば)」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 138,
+   "page_label": "138",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Conditionals 「と、なら、ば、たら」",
+    "Past conditional using 「たら (ば)」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 139,
+   "page_label": "139",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Conditionals 「と、なら、ば、たら」",
+    "How does 「もし」 fit into all of this?"
+   ],
+   "first_heading": "How does 「もし」 fit into all of this?"
+  },
+  {
+   "page": 140,
+   "page_label": "140",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Expressing \"must\" or \"have to\" 「〜だめ、〜いけない、〜ならない、〜ても」",
+    "Using 「だめ」, 「いけない」, and 「ならない」 for things that must"
+   ],
+   "first_heading": "Expressing \"must\" or \"have to\" 「〜だめ、〜いけない、〜ならない、〜ても」"
+  },
+  {
+   "page": 141,
+   "page_label": "141",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Expressing \"must\" or \"have to\" 「〜だめ、〜いけない、〜ならない、〜ても」",
+    "Using 「だめ」, 「いけない」, and 「ならない」 for things that must"
+   ],
+   "first_heading": "Example"
+  },
+  {
+   "page": 142,
+   "page_label": "142",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Expressing \"must\" or \"have to\" 「〜だめ、〜いけない、〜ならない、〜ても」",
+    "Expressing things that must be done"
+   ],
+   "first_heading": "Expressing things that must be done"
+  },
+  {
+   "page": 143,
+   "page_label": "143",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Expressing \"must\" or \"have to\" 「〜だめ、〜いけない、〜ならない、〜ても」",
+    "Various short-cuts for the lazy"
+   ],
+   "first_heading": "Various short-cuts for the lazy"
+  },
+  {
+   "page": 144,
+   "page_label": "144",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Expressing \"must\" or \"have to\" 「〜だめ、〜いけない、〜ならない、〜ても」",
+    "Various short-cuts for the lazy"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 145,
+   "page_label": "145",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Expressing \"must\" or \"have to\" 「〜だめ、〜いけない、〜ならない、〜ても」",
+    "Saying something is ok to do or not do"
+   ],
+   "first_heading": "Saying something is ok to do or not do"
+  },
+  {
+   "page": 146,
+   "page_label": "146",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Desire and Suggestions 「たい、 欲しい、 volitional、〜たらどう」",
+    "Verbs you want to do with 「たい」"
+   ],
+   "first_heading": "Desire and Suggestions 「たい、 欲しい、 volitional、〜たらどう」"
+  },
+  {
+   "page": 147,
+   "page_label": "147",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Desire and Suggestions 「たい、 欲しい、 volitional、〜たらどう」",
+    "Verbs you want to do with 「たい」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 148,
+   "page_label": "148",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Desire and Suggestions 「たい、 欲しい、 volitional、〜たらどう」",
+    "Indicating things you want or want done using 「欲しい」"
+   ],
+   "first_heading": "Indicating things you want or want done using 「欲しい」"
+  },
+  {
+   "page": 149,
+   "page_label": "149",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Desire and Suggestions 「たい、 欲しい、 volitional、〜たらどう」",
+    "Making a motion to do something using the volitional form (casual)"
+   ],
+   "first_heading": "Making a motion to do something using the volitional form (casual)"
+  },
+  {
+   "page": 150,
+   "page_label": "150",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Desire and Suggestions 「たい、 欲しい、 volitional、〜たらどう」",
+    "Making a motion to do something using the volitional form (casual)"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 151,
+   "page_label": "151",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Desire and Suggestions 「たい、 欲しい、 volitional、〜たらどう」",
+    "Making a motion to do something using the volitional form (polite)"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 152,
+   "page_label": "152",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Desire and Suggestions 「たい、 欲しい、 volitional、〜たらどう」",
+    "Making Suggestions using the 「ば」 or 「たら」 conditional"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 153,
+   "page_label": "153",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Performing an action on a relative clause 「と、って」",
+    "The direct quote"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 154,
+   "page_label": "154",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Performing an action on a relative clause 「と、って」",
+    "The interpreted quote"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 155,
+   "page_label": "155",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Performing an action on a relative clause 「と、って」",
+    "The interpreted quote"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 156,
+   "page_label": "156",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Performing an action on a relative clause 「と、って」",
+    "Using 「って」 as a casual version of 「と」"
+   ],
+   "first_heading": "Using 「って」 as a casual version of 「と」"
+  },
+  {
+   "page": 157,
+   "page_label": "157",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Performing an action on a relative clause 「と、って」",
+    "Using 「って」 as a casual version of 「と」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 158,
+   "page_label": "158",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Defining and Describing 「という」",
+    "Using 「いう」 to define"
+   ],
+   "first_heading": "Defining and Describing 「という」"
+  },
+  {
+   "page": 159,
+   "page_label": "159",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Defining and Describing 「という」",
+    "Using 「いう」 to describe anything"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 160,
+   "page_label": "160",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Defining and Describing 「という」",
+    "Using 「いう」 to describe anything"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 161,
+   "page_label": "161",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Defining and Describing 「という」",
+    "Rephrasing and making conclusions with 「という」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 162,
+   "page_label": "162",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Defining and Describing 「という」",
+    "Rephrasing and making conclusions with 「という」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 163,
+   "page_label": "163",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Defining and Describing 「という」",
+    "Using 「って」 or 「て」 for 「という」"
+   ],
+   "first_heading": "Using 「って」 or 「て」 for 「という」"
+  },
+  {
+   "page": 164,
+   "page_label": "164",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Defining and Describing 「という」",
+    "Using 「って」 or 「て」 for 「という」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 165,
+   "page_label": "165",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Defining and Describing 「という」",
+    "Saying 「ゆう」 instead of 「いう」"
+   ],
+   "first_heading": "Saying 「ゆう」 instead of 「いう」"
+  },
+  {
+   "page": 166,
+   "page_label": "166",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Trying something out or attempting to do something",
+    "To try something out"
+   ],
+   "first_heading": "Trying something out or attempting to do something"
+  },
+  {
+   "page": 167,
+   "page_label": "167",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Trying something out or attempting to do something",
+    "To attempt to do something"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 168,
+   "page_label": "168",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Trying something out or attempting to do something",
+    "To attempt to do something"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 169,
+   "page_label": "169",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Giving and Receiving 「あげる、やる、くれる、もらう」",
+    "Japanese people like gifts"
+   ],
+   "first_heading": "Giving and Receiving 「あげる、やる、くれる、もらう」"
+  },
+  {
+   "page": 170,
+   "page_label": "170",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Giving and Receiving 「あげる、やる、くれる、もらう」",
+    "When to use 「あげる」"
+   ],
+   "first_heading": "When to use 「あげる」"
+  },
+  {
+   "page": 171,
+   "page_label": "171",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Giving and Receiving 「あげる、やる、くれる、もらう」",
+    "When to use 「くれる」"
+   ],
+   "first_heading": "Vocabulary"
+  },
+  {
+   "page": 172,
+   "page_label": "172",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Giving and Receiving 「あげる、やる、くれる、もらう」",
+    "When to use 「くれる」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 173,
+   "page_label": "173",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Giving and Receiving 「あげる、やる、くれる、もらう」",
+    "When to use 「くれる」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 174,
+   "page_label": "174",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Giving and Receiving 「あげる、やる、くれる、もらう」",
+    "When to use 「もらう」"
+   ],
+   "first_heading": "When to use 「もらう」"
+  },
+  {
+   "page": 175,
+   "page_label": "175",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Giving and Receiving 「あげる、やる、くれる、もらう」",
+    "Asking favors with 「くれる」 or 「もらえる」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 176,
+   "page_label": "176",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Giving and Receiving 「あげる、やる、くれる、もらう」",
+    "Asking favors with 「くれる」 or 「もらえる」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 177,
+   "page_label": "177",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」",
+    "「〜ください」 - a special conjugation of 「くださる」"
+   ],
+   "first_heading": "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」"
+  },
+  {
+   "page": 178,
+   "page_label": "178",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」",
+    "「〜ください」 - a special conjugation of 「くださる」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 179,
+   "page_label": "179",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」",
+    "Using 「〜ちょうだい」 as a casual request"
+   ],
+   "first_heading": "Using 「〜ちょうだい」 as a casual request"
+  },
+  {
+   "page": 180,
+   "page_label": "180",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」",
+    "Using 「〜なさい」 to make firm but polite requests"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 181,
+   "page_label": "181",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」",
+    "The Command Form"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 182,
+   "page_label": "182",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」",
+    "The Command Form"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 183,
+   "page_label": "183",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」",
+    "Negative Command"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 184,
+   "page_label": "184",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Numbers and Counting",
+    "The Number System"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 185,
+   "page_label": "185",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Numbers and Counting",
+    "The Number System"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 186,
+   "page_label": "186",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Numbers and Counting",
+    "The Number System"
+   ],
+   "first_heading": "Vocabulary"
+  },
+  {
+   "page": 187,
+   "page_label": "187",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Numbers and Counting",
+    "Counting and Counters"
+   ],
+   "first_heading": "Counting and Counters"
+  },
+  {
+   "page": 188,
+   "page_label": "188",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Numbers and Counting",
+    "Counting and Counters"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 189,
+   "page_label": "189",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Numbers and Counting",
+    "Counting and Counters"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 190,
+   "page_label": "190",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Numbers and Counting",
+    "Counting and Counters"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 191,
+   "page_label": "191",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Numbers and Counting",
+    "Counting and Counters"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 192,
+   "page_label": "192",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Casual Patterns and Slang",
+    "Basic Principles of Slang"
+   ],
+   "first_heading": "Using 「目」 to show order"
+  },
+  {
+   "page": 193,
+   "page_label": "193",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Casual Patterns and Slang",
+    "Basic Principles of Slang"
+   ],
+   "first_heading": "Note"
+  },
+  {
+   "page": 194,
+   "page_label": "194",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Casual Patterns and Slang",
+    "Sentence ordering and particles (or the lack thereof)"
+   ],
+   "first_heading": "Sentence ordering and particles (or the lack thereof)"
+  },
+  {
+   "page": 195,
+   "page_label": "195",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Casual Patterns and Slang",
+    "Using 「じゃん」 instead of 「じゃない」 to confirm"
+   ],
+   "first_heading": "Using 「じゃん」 instead of 「じゃない」 to confirm"
+  },
+  {
+   "page": 196,
+   "page_label": "196",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Casual Patterns and Slang",
+    "Using 「じゃん」 instead of 「じゃない」 to confirm"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 197,
+   "page_label": "197",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Casual Patterns and Slang",
+    "Using 「つ」 for 「という」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 198,
+   "page_label": "198",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Casual Patterns and Slang",
+    "Using 「つ」 for 「という」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 199,
+   "page_label": "199",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Casual Patterns and Slang",
+    "Using 「なんか」 just about everywhere"
+   ],
+   "first_heading": "Using 「ってば」 and 「ったら」to show exasperation"
+  },
+  {
+   "page": 200,
+   "page_label": "200",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Casual Patterns and Slang",
+    "Using 「なんか」 just about everywhere"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 201,
+   "page_label": "201",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "Casual Patterns and Slang",
+    "Showing contempt for an action with 「〜やがる」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 202,
+   "page_label": "202",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "More sentence-ending particles",
+    "「な」 and 「さ」 sentence-ending particles"
+   ],
+   "first_heading": "More sentence-ending particles"
+  },
+  {
+   "page": 203,
+   "page_label": "203",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "More sentence-ending particles",
+    "「な」 and 「さ」 sentence-ending particles"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 204,
+   "page_label": "204",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "More sentence-ending particles",
+    "「かい」 and 「だい」 sentence-ending particles"
+   ],
+   "first_heading": "「かい」 and 「だい」 sentence-ending particles"
+  },
+  {
+   "page": 205,
+   "page_label": "205",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "More sentence-ending particles",
+    "Gender-specific sentence-ending particles"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 206,
+   "page_label": "206",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "More sentence-ending particles",
+    "That's a wrap!"
+   ],
+   "first_heading": "That's a wrap!"
+  },
+  {
+   "page": 207,
+   "page_label": "207",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "More sentence-ending particles",
+    "That's a wrap!"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 208,
+   "page_label": "208",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "More sentence-ending particles",
+    "That's a wrap!"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 209,
+   "page_label": "209",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "More sentence-ending particles",
+    "That's a wrap!"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 210,
+   "page_label": "210",
+   "kind": "content",
+   "outline": [
+    "Essential Grammar",
+    "More sentence-ending particles",
+    "That's a wrap!"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 211,
+   "page_label": "211",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Causative and Passive Verbs",
+    "Causative Verbs"
+   ],
+   "first_heading": "Special Expressions"
+  },
+  {
+   "page": 212,
+   "page_label": "212",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Causative and Passive Verbs",
+    "Causative Verbs"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 213,
+   "page_label": "213",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Causative and Passive Verbs",
+    "Causative Verbs"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 214,
+   "page_label": "214",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Causative and Passive Verbs",
+    "Causative Verbs"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 215,
+   "page_label": "215",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Causative and Passive Verbs",
+    "Causative Verbs"
+   ],
+   "first_heading": "Example"
+  },
+  {
+   "page": 216,
+   "page_label": "216",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Causative and Passive Verbs",
+    "Passive Verbs"
+   ],
+   "first_heading": "Passive Verbs"
+  },
+  {
+   "page": 217,
+   "page_label": "217",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Causative and Passive Verbs",
+    "Passive Verbs"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 218,
+   "page_label": "218",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Causative and Passive Verbs",
+    "Using passive form to show politeness"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 219,
+   "page_label": "219",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Causative and Passive Verbs",
+    "Causative-Passive Forms"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 220,
+   "page_label": "220",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Causative and Passive Verbs",
+    "Causative-Passive Forms"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 221,
+   "page_label": "221",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Causative and Passive Verbs",
+    "Causative-Passive Forms"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 222,
+   "page_label": "222",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Honorific and Humble Forms",
+    "Set Expressions"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 223,
+   "page_label": "223",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Honorific and Humble Forms",
+    "Set Expressions"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 224,
+   "page_label": "224",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Honorific and Humble Forms",
+    "Set Expressions"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 225,
+   "page_label": "225",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Honorific and Humble Forms",
+    "Other substitutions"
+   ],
+   "first_heading": "Other substitutions"
+  },
+  {
+   "page": 226,
+   "page_label": "226",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Honorific and Humble Forms",
+    "Other substitutions"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 227,
+   "page_label": "227",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Honorific and Humble Forms",
+    "Honorific and Humble Conjugations"
+   ],
+   "first_heading": "Honorific and Humble Conjugations"
+  },
+  {
+   "page": 228,
+   "page_label": "228",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Honorific and Humble Forms",
+    "Honorific and Humble Conjugations"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 229,
+   "page_label": "229",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Honorific and Humble Forms",
+    "Honorific and Humble Conjugations"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 230,
+   "page_label": "230",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Honorific and Humble Forms",
+    "Making honorific requests"
+   ],
+   "first_heading": "Making honorific requests"
+  },
+  {
+   "page": 231,
+   "page_label": "231",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Honorific and Humble Forms",
+    "Making honorific requests"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 232,
+   "page_label": "232",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Things that happen unintentionally 「〜てしまう、 〜ちゃう〜〜じゃう」",
+    "Using 「しまう」 with other verbs"
+   ],
+   "first_heading": "Things that happen unintentionally 「〜てしまう、 〜ちゃう〜〜じゃう」"
+  },
+  {
+   "page": 233,
+   "page_label": "233",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Things that happen unintentionally 「〜てしまう、 〜ちゃう〜〜じゃう」",
+    "Using the casual version of 「〜てしまう」"
+   ],
+   "first_heading": "Using the casual version of 「〜てしまう」"
+  },
+  {
+   "page": 234,
+   "page_label": "234",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Things that happen unintentionally 「〜てしまう、 〜ちゃう〜〜じゃう」",
+    "Using the casual version of 「〜てしまう」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 235,
+   "page_label": "235",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Special expressions with generic nouns 「こと、ところ、もの」",
+    "Using 「こと」 to say whether something has happened"
+   ],
+   "first_heading": "Another meaning of 「しまう」"
+  },
+  {
+   "page": 236,
+   "page_label": "236",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Special expressions with generic nouns 「こと、ところ、もの」",
+    "Using 「こと」 to say whether something has happened"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 237,
+   "page_label": "237",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Special expressions with generic nouns 「こと、ところ、もの」",
+    "Using 「ところ」 as an abstract place"
+   ],
+   "first_heading": "Using 「ところ」 as an abstract place"
+  },
+  {
+   "page": 238,
+   "page_label": "238",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing various levels of certainty 「かもしれない、でしょう、だろう」"
+   ],
+   "first_heading": "Using 「もの」 as a casual feminine way to emphasize"
+  },
+  {
+   "page": 239,
+   "page_label": "239",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing various levels of certainty 「かもしれない、でしょう、だろう」",
+    "Using 「かもしれない」 to express uncertainty"
+   ],
+   "first_heading": "Using 「かもしれない」 to express uncertainty"
+  },
+  {
+   "page": 240,
+   "page_label": "240",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing various levels of certainty 「かもしれない、でしょう、だろう」",
+    "Using 「でしょう」 to express a fair amount of certainty (polite)"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 241,
+   "page_label": "241",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing various levels of certainty 「かもしれない、でしょう、だろう」",
+    "Using 「でしょう」 and 「だろう」 to express strong amount of"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 242,
+   "page_label": "242",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing various levels of certainty 「かもしれない、でしょう、だろう」",
+    "Using 「でしょう」 and 「だろう」 to express strong amount of"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 243,
+   "page_label": "243",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」"
+   ],
+   "first_heading": "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」"
+  },
+  {
+   "page": 244,
+   "page_label": "244",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Indicating that's all there is using 「だけ」"
+   ],
+   "first_heading": "Indicating that's all there is using 「だけ」"
+  },
+  {
+   "page": 245,
+   "page_label": "245",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Indicating that's all there is using 「だけ」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 246,
+   "page_label": "246",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Indication that there's nothing else using 「しか」"
+   ],
+   "first_heading": "Using 「のみ」 as a formal version of 「だけ」"
+  },
+  {
+   "page": 247,
+   "page_label": "247",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Indication that there's nothing else using 「しか」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 248,
+   "page_label": "248",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Indication that there's nothing else using 「しか」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 249,
+   "page_label": "249",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Expressing the opposite of 「だけ」 with 「ばかり」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 250,
+   "page_label": "250",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Saying there's too much of something using 「すぎる」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 251,
+   "page_label": "251",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Saying there's too much of something using 「すぎる」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 252,
+   "page_label": "252",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Saying there's too much of something using 「すぎる」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 253,
+   "page_label": "253",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Adding the 「も」 particle to express excessive amounts"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 254,
+   "page_label": "254",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Using 「ほど」 to express the extent of something"
+   ],
+   "first_heading": "Using 「ほど」 to express the extent of something"
+  },
+  {
+   "page": 255,
+   "page_label": "255",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Using 「ほど」 to express the extent of something"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 256,
+   "page_label": "256",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Using 「〜さ」 with adjectives to indicate an amount"
+   ],
+   "first_heading": "Using 「〜さ」 with adjectives to indicate an amount"
+  },
+  {
+   "page": 257,
+   "page_label": "257",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」",
+    "Using 「〜さ」 with adjectives to indicate an amount"
+   ],
+   "first_heading": "Example"
+  },
+  {
+   "page": 258,
+   "page_label": "258",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」",
+    "Expressing similarity with よう (様)"
+   ],
+   "first_heading": "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」"
+  },
+  {
+   "page": 259,
+   "page_label": "259",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」",
+    "Expressing similarity with よう (様)"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 260,
+   "page_label": "260",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」",
+    "Using 「みたい」 to say something looks like something else"
+   ],
+   "first_heading": "Using 「みたい」 to say something looks like something else"
+  },
+  {
+   "page": 261,
+   "page_label": "261",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」",
+    "Guessing at an outcome using 「〜そう」"
+   ],
+   "first_heading": "Guessing at an outcome using 「〜そう」"
+  },
+  {
+   "page": 262,
+   "page_label": "262",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」",
+    "Guessing at an outcome using 「〜そう」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 263,
+   "page_label": "263",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」",
+    "Guessing at an outcome using 「〜そう」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 264,
+   "page_label": "264",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」",
+    "Expressing hearsay using 「〜そうだ」"
+   ],
+   "first_heading": "Expressing hearsay using 「〜そうだ」"
+  },
+  {
+   "page": 265,
+   "page_label": "265",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」",
+    "Expressing hearsay using 「〜そうだ」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 266,
+   "page_label": "266",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」",
+    "Expressing hearsay or behavior using 「〜らしい」"
+   ],
+   "first_heading": "Expressing hearsay or behavior using 「〜らしい」"
+  },
+  {
+   "page": 267,
+   "page_label": "267",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」",
+    "「っぽい」: Slang expression of similarity"
+   ],
+   "first_heading": "「っぽい」: Slang expression of similarity"
+  },
+  {
+   "page": 268,
+   "page_label": "268",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Using 方 and よる for comparisons and other functions",
+    "Using 「方」 for comparisons"
+   ],
+   "first_heading": "Using 方 and よる for comparisons and other functions"
+  },
+  {
+   "page": 269,
+   "page_label": "269",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Using 方 and よる for comparisons and other functions",
+    "Using 「方」 for comparisons"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 270,
+   "page_label": "270",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Using 方 and よる for comparisons and other functions",
+    "Using 「より」 for comparisons"
+   ],
+   "first_heading": "Using 「より」 for comparisons"
+  },
+  {
+   "page": 271,
+   "page_label": "271",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Using 方 and よる for comparisons and other functions",
+    "Using 「より」 for comparisons"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 272,
+   "page_label": "272",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Using 方 and よる for comparisons and other functions",
+    "Using 「方」 to express a way to do something"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 273,
+   "page_label": "273",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Using 方 and よる for comparisons and other functions",
+    "Using 「によって」 to express dependency"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 274,
+   "page_label": "274",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Using 方 and よる for comparisons and other functions",
+    "Indicating a source of information using 「によると」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 275,
+   "page_label": "275",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Saying something is easy or difficult to do 「〜やすい、〜にくい」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 276,
+   "page_label": "276",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Saying something is easy or difficult to do 「〜やすい、〜にくい」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 277,
+   "page_label": "277",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Saying something is easy or difficult to do 「〜やすい、〜にくい」",
+    "Variations of 「〜にくい」 with 「〜がたい」 and 「〜づらい」"
+   ],
+   "first_heading": "Variations of 「〜にくい」 with 「〜がたい」 and 「〜づらい」"
+  },
+  {
+   "page": 278,
+   "page_label": "278",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "More negative verbs 「ないで、ず、〜ん、ぬ」",
+    "Doing something without doing something else"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 279,
+   "page_label": "279",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "More negative verbs 「ないで、ず、〜ん、ぬ」",
+    "Doing something without doing something else"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 280,
+   "page_label": "280",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "More negative verbs 「ないで、ず、〜ん、ぬ」",
+    "Doing something without doing something else"
+   ],
+   "first_heading": "Example"
+  },
+  {
+   "page": 281,
+   "page_label": "281",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "More negative verbs 「ないで、ず、〜ん、ぬ」",
+    "A casual masculine type of negative that ends in 「ん」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 282,
+   "page_label": "282",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "More negative verbs 「ないで、ず、〜ん、ぬ」",
+    "A classical negative verb that ends in 「ぬ」"
+   ],
+   "first_heading": "Example"
+  },
+  {
+   "page": 283,
+   "page_label": "283",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "More negative verbs 「ないで、ず、〜ん、ぬ」",
+    "A classical negative verb that ends in 「ぬ」"
+   ],
+   "first_heading": "Example"
+  },
+  {
+   "page": 284,
+   "page_label": "284",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Hypothesizing and Concluding 「わけ、〜とする」",
+    "Coming to a conclusion with 「わけ」"
+   ],
+   "first_heading": "Hypothesizing and Concluding 「わけ、〜とする」"
+  },
+  {
+   "page": 285,
+   "page_label": "285",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Hypothesizing and Concluding 「わけ、〜とする」",
+    "Coming to a conclusion with 「わけ」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 286,
+   "page_label": "286",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Hypothesizing and Concluding 「わけ、〜とする」",
+    "Making hypotheses with 「とする」"
+   ],
+   "first_heading": "Making hypotheses with 「とする」"
+  },
+  {
+   "page": 287,
+   "page_label": "287",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Hypothesizing and Concluding 「わけ、〜とする」",
+    "Making hypotheses with 「とする」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 288,
+   "page_label": "288",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」",
+    "Expressing what just happened with 「〜ばかり」"
+   ],
+   "first_heading": "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」"
+  },
+  {
+   "page": 289,
+   "page_label": "289",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」",
+    "Expressing what just happened with 「〜ばかり」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 290,
+   "page_label": "290",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」",
+    "Express what occurred immediately after with 「とたん」"
+   ],
+   "first_heading": "Express what occurred immediately after with 「とたん」"
+  },
+  {
+   "page": 291,
+   "page_label": "291",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」",
+    "Using 「ながら」 for two concurrent actions"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 292,
+   "page_label": "292",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」",
+    "Using 「ながら」 for two concurrent actions"
+   ],
+   "first_heading": "Example"
+  },
+  {
+   "page": 293,
+   "page_label": "293",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」",
+    "Using 「ながら」 with state-of-being"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 294,
+   "page_label": "294",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」",
+    "Using 「ながら」 with state-of-being"
+   ],
+   "first_heading": "Example"
+  },
+  {
+   "page": 295,
+   "page_label": "295",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」",
+    "To repeat something with reckless abandon using 「まくる」"
+   ],
+   "first_heading": "To repeat something with reckless abandon using 「まくる」"
+  },
+  {
+   "page": 296,
+   "page_label": "296",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Leaving something the way it is 「まま、っぱなし」",
+    "Using 「まま」 to express a lack of change"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 297,
+   "page_label": "297",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Leaving something the way it is 「まま、っぱなし」",
+    "Using 「っぱなし」 to leave something the way it is"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 298,
+   "page_label": "298",
+   "kind": "content",
+   "outline": [
+    "Special Expressions",
+    "Leaving something the way it is 「まま、っぱなし」",
+    "Using 「っぱなし」 to leave something the way it is"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 299,
+   "page_label": "299",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Formal Expressions 「である、ではない」",
+    "Using 「である」 for formal state-of-being"
+   ],
+   "first_heading": "Advanced Topics"
+  },
+  {
+   "page": 300,
+   "page_label": "300",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Formal Expressions 「である、ではない」",
+    "Using 「である」 for formal state-of-being"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 301,
+   "page_label": "301",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Formal Expressions 「である、ではない」",
+    "Negative of 「である」"
+   ],
+   "first_heading": "Negative of 「である」"
+  },
+  {
+   "page": 302,
+   "page_label": "302",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Formal Expressions 「である、ではない」",
+    "Sequential relative clauses in formal language"
+   ],
+   "first_heading": "Sequential relative clauses in formal language"
+  },
+  {
+   "page": 303,
+   "page_label": "303",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Formal Expressions 「である、ではない」",
+    "Sequential relative clauses in formal language"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 304,
+   "page_label": "304",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Things that should be a certain way 「はず、べき、べく、べからず」",
+    "Using 「はず」 to describe an expectation"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 305,
+   "page_label": "305",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Things that should be a certain way 「はず、べき、べく、べからず」",
+    "Using 「はず」 to describe an expectation"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 306,
+   "page_label": "306",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Things that should be a certain way 「はず、べき、べく、べからず」",
+    "Using 「べき」 to describe actions one should do"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 307,
+   "page_label": "307",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Things that should be a certain way 「はず、べき、べく、べからず」",
+    "Using 「べき」 to describe actions one should do"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 308,
+   "page_label": "308",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Things that should be a certain way 「はず、べき、べく、べからず」",
+    "Using 「べき」 to describe actions one should do"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 309,
+   "page_label": "309",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Things that should be a certain way 「はず、べき、べく、べからず」",
+    "Using 「べく」 to describe what one tries to do"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 310,
+   "page_label": "310",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Things that should be a certain way 「はず、べき、べく、べからず」",
+    "Using 「べく」 to describe what one tries to do"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 311,
+   "page_label": "311",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Things that should be a certain way 「はず、べき、べく、べからず」",
+    "Using 「べからず」 to describe things one must not do"
+   ],
+   "first_heading": "Using 「べからず」 to describe things one must not do"
+  },
+  {
+   "page": 312,
+   "page_label": "312",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Expressing the minimum expectation 「でさえ、ですら、おろか」",
+    "Using 「(で)さえ」 to describe the minimum requirement"
+   ],
+   "first_heading": "Expressing the minimum expectation 「でさえ、ですら、おろか」"
+  },
+  {
+   "page": 313,
+   "page_label": "313",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Expressing the minimum expectation 「でさえ、ですら、おろか」",
+    "Using 「(で)さえ」 to describe the minimum requirement"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 314,
+   "page_label": "314",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Expressing the minimum expectation 「でさえ、ですら、おろか」",
+    "「(で)すら」 - Older version of 「(で)さえ」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 315,
+   "page_label": "315",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Expressing the minimum expectation 「でさえ、ですら、おろか」",
+    "「(で)すら」 - Older version of 「(で)さえ」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 316,
+   "page_label": "316",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Expressing the minimum expectation 「でさえ、ですら、おろか」",
+    "「おろか」 - It's not even worth considering"
+   ],
+   "first_heading": "「おろか」 - It's not even worth considering"
+  },
+  {
+   "page": 317,
+   "page_label": "317",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Showing signs of something 「〜がる、ばかり、〜めく」",
+    "Showing outward signs of an emotion using 「〜がる」"
+   ],
+   "first_heading": "Showing signs of something 「〜がる、ばかり、〜めく」"
+  },
+  {
+   "page": 318,
+   "page_label": "318",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Showing signs of something 「〜がる、ばかり、〜めく」",
+    "Showing outward signs of an emotion using 「〜がる」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 319,
+   "page_label": "319",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Showing signs of something 「〜がる、ばかり、〜めく」",
+    "Showing outward signs of an emotion using 「〜がる」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 320,
+   "page_label": "320",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Showing signs of something 「〜がる、ばかり、〜めく」",
+    "Using 「ばかり」 to act as if one might do something"
+   ],
+   "first_heading": "Using 「ばかり」 to act as if one might do something"
+  },
+  {
+   "page": 321,
+   "page_label": "321",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Showing signs of something 「〜がる、ばかり、〜めく」",
+    "Using 「めく」 to indicate an atmosphere of a state"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 322,
+   "page_label": "322",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Showing signs of something 「〜がる、ばかり、〜めく」",
+    "Using 「めく」 to indicate an atmosphere of a state"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 323,
+   "page_label": "323",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Formal expressions of non-feasibility 「〜ざるを得ない、やむを得ない、〜かねる」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 324,
+   "page_label": "324",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Formal expressions of non-feasibility 「〜ざるを得ない、やむを得ない、〜かねる」",
+    "Expressing the inability to not do using 「〜ざるを得ない」"
+   ],
+   "first_heading": "Expressing the inability to not do using 「〜ざるを得ない」"
+  },
+  {
+   "page": 325,
+   "page_label": "325",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Formal expressions of non-feasibility 「〜ざるを得ない、やむを得ない、〜かねる」",
+    "Expressing the inability to stop doing something using 「やむを得ない」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 326,
+   "page_label": "326",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Formal expressions of non-feasibility 「〜ざるを得ない、やむを得ない、〜かねる」",
+    "Expressing the inability to stop doing something using 「やむを得ない」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 327,
+   "page_label": "327",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Formal expressions of non-feasibility 「〜ざるを得ない、やむを得ない、〜かねる」",
+    "Expressing what cannot be done with 「〜かねる」"
+   ],
+   "first_heading": "Expressing what cannot be done with 「〜かねる」"
+  },
+  {
+   "page": 328,
+   "page_label": "328",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Tendencies 「〜がち、〜つつ、きらいがある」",
+    "Saying something is prone to occur using 「〜がち」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 329,
+   "page_label": "329",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Tendencies 「〜がち、〜つつ、きらいがある」",
+    "Saying something is prone to occur using 「〜がち」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 330,
+   "page_label": "330",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Tendencies 「〜がち、〜つつ、きらいがある」",
+    "Describing an ongoing occurrence using 「〜つつ」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 331,
+   "page_label": "331",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Tendencies 「〜がち、〜つつ、きらいがある」",
+    "Describing an ongoing occurrence using 「〜つつ」"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 332,
+   "page_label": "332",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Tendencies 「〜がち、〜つつ、きらいがある」",
+    "Describing an ongoing occurrence using 「〜つつ」"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 333,
+   "page_label": "333",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Tendencies 「〜がち、〜つつ、きらいがある」",
+    "Describing a negative tendency using 「きらいがある」"
+   ],
+   "first_heading": "Describing a negative tendency using 「きらいがある」"
+  },
+  {
+   "page": 334,
+   "page_label": "334",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced Volitional 「まい、であろう、かろう」",
+    "Negative Volitional"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 335,
+   "page_label": "335",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced Volitional 「まい、であろう、かろう」",
+    "Negative Volitional"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 336,
+   "page_label": "336",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced Volitional 「まい、であろう、かろう」",
+    "Negative Volitional"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 337,
+   "page_label": "337",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced Volitional 「まい、であろう、かろう」",
+    "Using the volitional to express a lack of relation"
+   ],
+   "first_heading": "Using the volitional to express a lack of relation"
+  },
+  {
+   "page": 338,
+   "page_label": "338",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced Volitional 「まい、であろう、かろう」",
+    "Using 「であろう」 to express likelihood"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 339,
+   "page_label": "339",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced Volitional 「まい、であろう、かろう」",
+    "Using 「であろう」 to express likelihood"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 340,
+   "page_label": "340",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced Volitional 「まい、であろう、かろう」",
+    "Using 「かろう」 as volitional for 「い」 endings"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 341,
+   "page_label": "341",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced Volitional 「まい、であろう、かろう」",
+    "Using 「かろう」 as volitional for 「い」 endings"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 342,
+   "page_label": "342",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Covered by something 「だらけ、まみれ、ずくめ」",
+    "Using 「だらけ」 when an object is riddled everywhere with some-"
+   ],
+   "first_heading": "Covered by something 「だらけ、まみれ、ずくめ」"
+  },
+  {
+   "page": 343,
+   "page_label": "343",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Covered by something 「だらけ、まみれ、ずくめ」",
+    "Using 「まみれ」 to describe a covering"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 344,
+   "page_label": "344",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Covered by something 「だらけ、まみれ、ずくめ」",
+    "「ずくめ」 to express entirety"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 345,
+   "page_label": "345",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Covered by something 「だらけ、まみれ、ずくめ」",
+    "「ずくめ」 to express entirety"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 346,
+   "page_label": "346",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced proximity of actions 「が早いか、や否や、そばから」",
+    "Using 「が早いか」 to describe the instant something occurred"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 347,
+   "page_label": "347",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced proximity of actions 「が早いか、や否や、そばから」",
+    "Using 「や〜や否や」 to describe what happened right after"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 348,
+   "page_label": "348",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced proximity of actions 「が早いか、や否や、そばから」",
+    "Using 「や〜や否や」 to describe what happened right after"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 349,
+   "page_label": "349",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Advanced proximity of actions 「が早いか、や否や、そばから」",
+    "Using「そばから」to describe an event that repeatedly occurs soon"
+   ],
+   "first_heading": "Using「そばから」to describe an event that repeatedly occurs soon"
+  },
+  {
+   "page": 350,
+   "page_label": "350",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Others 「思いきや、がてら、あげく」",
+    "Using 「思いきや」 to describe something unexpected"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 351,
+   "page_label": "351",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Others 「思いきや、がてら、あげく」",
+    "Using 「〜がてら」 to do two things at one time"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 352,
+   "page_label": "352",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Others 「思いきや、がてら、あげく」",
+    "Using 「〜あげく (挙句)」 to describe a bad result"
+   ],
+   "first_heading": "Examples"
+  },
+  {
+   "page": 353,
+   "page_label": "353",
+   "kind": "content",
+   "outline": [
+    "Advanced Topics",
+    "Others 「思いきや、がてら、あげく」",
+    "Using 「〜あげく (挙句)」 to describe a bad result"
+   ],
+   "first_heading": "Examples"
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 163,
+ "page_label": "163",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Defining and Describing 「という」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「って」 or 「て」 for 「という」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Example Dialogue"
+  },
+  {
+   "type": "text",
+   "text": "A：みきちゃんが洋介と別れたんだって。 A: I heard that Miki-chan broke up with Yousuke."
+  },
+  {
+   "type": "text",
+   "text": "B：ということは、みきちゃんは、今彼氏がいないということ？ B: Does that mean Miki-chan doesn't have a boyfriend now?"
+  },
+  {
+   "type": "text",
+   "text": "A：そう。そういうこと。 A: That's right. That's what it means."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「って」 or 「て」 for 「という」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 来年【らい・ねん】- next year"
+  },
+  {
+   "type": "text",
+   "text": "2. 留学【りゅう・がく】- study abroad"
+  },
+  {
+   "type": "text",
+   "text": "3. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "4. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "5. 智子【とも・こ】- Tomoko (first name)"
+  },
+  {
+   "type": "text",
+   "text": "6. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "7. 駄目【だめ】- no good"
+  },
+  {
+   "type": "text",
+   "text": "8. 時間【じ・かん】- time"
+  },
+  {
+   "type": "text",
+   "text": "9. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "10. 出来る【で・き・る】(ru-verb) - to be able to do"
+  },
+  {
+   "type": "text",
+   "text": "11. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "12. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "13. 皆【みんな】- everybody"
+  },
+  {
+   "type": "text",
+   "text": "14. 私【わたし】- me; myself; I"
+  },
+  {
+   "type": "text",
+   "text": "15. 今【いま】- now"
+  },
+  {
+   "type": "text",
+   "text": "16. 彼氏【かれ・し】- boyfriend"
+  },
+  {
+   "type": "text",
+   "text": "17. いる (ru-verb) - to exist (animate)"
+  },
+  {
+   "type": "text",
+   "text": "18. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "19. 帰る【かえ・る】(u-verb) - to go home"
+  }
+ ]
+}

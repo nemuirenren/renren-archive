@@ -1,0 +1,102 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 297,
+ "page_label": "297",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Leaving something the way it is 「まま、っぱなし」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「っぱなし」 to leave something the way it is"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "• このままで宜しいですか？\nIs it ok just like this?"
+  },
+  {
+   "type": "text",
+   "text": "In other words, the clerk wants to know if you'll take it just like that or whether you want it in a small bag. 「宜しい」, in case I haven't gone over it yet, is simply a very polite version of 「いい」. Notice that 「ま ま」 grammatically works just like a regular noun which means, as usual, that you can modify it with verb phrases or adjectives."
+  },
+  {
+   "type": "text",
+   "text": "• 半分しか食べてないままで捨てちゃダメ。\nYou can't throw it out leaving it in that half-eaten condition!"
+  },
+  {
+   "type": "text",
+   "text": "Ok, the translation is very loose, but the idea is that it's in an unchanged state of being half-eaten and you can't just throw that out."
+  },
+  {
+   "type": "text",
+   "text": "Here's a good example I found googling around. Hint: The 「いさせる」 is the causative form of 「いる」 meaning \"let/make me exist\"."
+  },
+  {
+   "type": "text",
+   "text": "• 今日だけは悲しいままでいさせてほしい。\nFor only today, I want you to let me stay in this sad condition."
+  },
+  {
+   "type": "text",
+   "text": "Finally, just in case, here's an example of direct noun modification."
+  },
+  {
+   "type": "text",
+   "text": "• その格好のままでクラブに入れないよ。\nYou can't get in the club in that getup (without changing it)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「っぱなし」 to leave something the way it is"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 放す【はな・す】(u-verb) - to release; to set loose"
+  },
+  {
+   "type": "text",
+   "text": "2. くれる (ru-verb) - to give"
+  },
+  {
+   "type": "text",
+   "text": "3. ほったらかす (u-verb) - to neglect"
+  },
+  {
+   "type": "text",
+   "text": "4. テレビ - TV, television"
+  },
+  {
+   "type": "text",
+   "text": "5. 開ける【あ・ける】(ru-verb) - to open"
+  },
+  {
+   "type": "text",
+   "text": "6. 書く【か・く】(u-verb) - to write"
+  },
+  {
+   "type": "text",
+   "text": "7. つける (ru-verb) - to attach; to turn on"
+  }
+ ]
+}

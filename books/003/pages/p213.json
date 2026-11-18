@@ -1,0 +1,71 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 213,
+ "page_label": "213",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Causative and Passive Verbs"
+  },
+  {
+   "level": 3,
+   "title": "Causative Verbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "38. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "Verbs conjugated into the causative form are used to indicate an action that someone makes happen. Like Captain Picard so succinctly puts it, the causative verb means to \"make it so\". This verb is usually used in the context of making somebody do something. The really confusing thing about the causative verb is that it can also mean to let someone do something. Or maybe this is a different type of verb with the exact same conjugation rules. Whichever the case may be, a verb in the causative form can mean either making or letting someone do something. The only good news is that when the causative form is used with 「あげる」 and 「くれる」, it almost always means to \"let someone do\". Once you get used to it, surprisingly, it becomes quite clear which meaning is being used when."
+  },
+  {
+   "type": "text",
+   "text": "1. 全部食べさせた。\nMade/Let (someone) eat it all."
+  },
+  {
+   "type": "text",
+   "text": "2. 全部食べさせてくれた。\nLet (someone) eat it all."
+  },
+  {
+   "type": "text",
+   "text": "Causative Conjugation Rules"
+  },
+  {
+   "type": "text",
+   "text": "Here are the conjugation rules for the causative form. All causative verbs become ru-verbs."
+  },
+  {
+   "type": "text",
+   "text": "• For ru-verbs: Replace the last 「る」 with 「させる」."
+  },
+  {
+   "type": "text",
+   "text": "• For u-verbs: Change the last character as you would for negative verbs but attach「せる」instead\nof 「ない」."
+  },
+  {
+   "type": "text",
+   "text": "• Exception Verbs:"
+  },
+  {
+   "type": "text",
+   "text": "1. 「する」 becomes 「させる」 2. 「くる」 becomes 「こさせる」."
+  },
+  {
+   "type": "text",
+   "text": "Sample ru-verbs                      Sample u-verbs                     Exception Verbs\nPlain  Causative                     Plain Causative                   Positive Causative\n食べる 食べさせる                             話す    話させる                         する        させる\n着る      着させる                        聞く     聞かせる                        くる       こさせる\n信じる 信じさせる                            泳ぐ     泳がせる\n寝る      寝させる                        遊ぶ     遊ばせる\n起きる 起きさせる                            待つ     待たせる\n出る      出させる                        飲む     飲ませる\n掛ける 掛けさせる                            直る     直らせる\n捨てる 捨てさせる                            死ぬ     死なせる\n調べる 調べさせる                            買う     買わせる"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 188,
+ "page_label": "188",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Numbers and Counting"
+  },
+  {
+   "level": 3,
+   "title": "Counting and Counters"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Days of the month\nDay         Kanji            Reading\nWhat day      何日             なん・にち\n1st        一日               ついたち\n2nd        二日               ふつ・か\n3rd        三日               みっ・か\n4th        四日               よっ・か\n5th        五日               いつ・か\n6th        六日               むい・か\n7th        七日               なの・か\n8th        八日               よう・か\n9th        九日              ここの・か\n10th        十日               とお・か\n11th       十一日           じゅう・いち・にち\n12th       十二日            じゅう・に・にち\n13th       十三日           じゅう・さん・にち\n14th       十四日            じゅう・よっ・か\n15th       十五日            じゅう・ご・にち\n16th       十六日           じゅう・ろく・にち\n17th       十七日           じゅう・しち・にち\n18th       十八日           じゅう・はち・にち\n19th       十九日            じゅう・く・にち\n20th       二十日               はつ・か\n21st       二十一日       に・じゅう・いち・にち\n22nd       二十二日         に・じゅう・に・にち\n23rd       二十三日       に・じゅう・さん・にち\n24th       二十四日         に・じゅう・よっ・か\n25th       二十五日         に・じゅう・ご・にち\n26th       二十六日       に・じゅう・ろく・にち\n27th       二十七日       に・じゅう・しち・にち\n28th       二十八日       に・じゅう・はち・にち\n29th       二十九日         に・じゅう・く・にち\n30th       三十日           さん・じゅう・にち\n31st       三十一日 さん・じゅう・いち・にち"
+  },
+  {
+   "type": "text",
+   "text": "In Japan, the full format for dates follows the international date format and looks like: XXXX 年 YY 月 ZZ 日. For example, today's date would be: 2003 年 12 月 2 日"
+  },
+  {
+   "type": "text",
+   "text": "Time"
+  },
+  {
+   "type": "text",
+   "text": "Now, we'll learn how to tell time. The hour is given by saying the number and adding 「時」 which is pronounced here as 「じ」. Here is a chart of exceptions to look out for."
+  },
+  {
+   "type": "text",
+   "text": "英語         4 o'clock   7 o'clock   9 o'clock\n漢字           四時          七時          九時\nひらがな          よじ         しちじ          くじ"
+  }
+ ]
+}

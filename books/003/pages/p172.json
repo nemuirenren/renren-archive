@@ -1,0 +1,120 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 172,
+ "page_label": "172",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Giving and Receiving 「あげる、やる、くれる、もらう」"
+  },
+  {
+   "level": 3,
+   "title": "When to use 「くれる」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "4. プレゼント - present"
+  },
+  {
+   "type": "text",
+   "text": "5. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "6. 先生【せん・せい】- teacher"
+  },
+  {
+   "type": "text",
+   "text": "7. 車【くるま】- car"
+  },
+  {
+   "type": "text",
+   "text": "8. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "9. 代わり【か・わり】- substitute"
+  },
+  {
+   "type": "text",
+   "text": "10. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "11. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "12. 父【ちち】- father"
+  },
+  {
+   "type": "text",
+   "text": "13. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "14. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "15. 教える【おし・える】(ru-verb) - to teach; to inform"
+  },
+  {
+   "type": "text",
+   "text": "16. あげる (ru-verb) - to give; to raise"
+  },
+  {
+   "type": "text",
+   "text": "17. 全部【ぜん・ぶ】- everything"
+  },
+  {
+   "type": "text",
+   "text": "18. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "「くれる」 is also a verb meaning \"to give\" but unlike 「あげる」, it is from the receiver's point of view. You must use this verb when someone else is giving something or doing something for you (effectively the opposite of 「あげる」)."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 友達が私にプレゼントをくれた。\nFriend gave present to me."
+  },
+  {
+   "type": "text",
+   "text": "2. これは、先生がくれた。\nTeacher gave this to me."
+  },
+  {
+   "type": "text",
+   "text": "3. 車を買ってくれるの？\nYou'll give me the favor of buying a car for me?"
+  },
+  {
+   "type": "text",
+   "text": "4. 代わりに行ってくれる？\nWill you give me the favor of going in my place?"
+  },
+  {
+   "type": "text",
+   "text": "Similarly, when used in the third-person, the speaker is speaking from the receiver's point of view and not the giver."
+  },
+  {
+   "type": "text",
+   "text": "1. 先生がこれを学生にくれる。\nThe teacher give this to student. (looking at it from the student's point of view)"
+  }
+ ]
+}

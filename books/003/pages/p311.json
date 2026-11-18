@@ -1,0 +1,111 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 311,
+ "page_label": "311",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Things that should be a certain way 「はず、べき、べく、べからず」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「べからず」 to describe things one must not do"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「べからず」 to describe things one must not do"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 未然形【み・ぜん・けい】- imperfective form"
+  },
+  {
+   "type": "text",
+   "text": "2. 行う【おこな・う】(u-verb) - to conduct, to carry out"
+  },
+  {
+   "type": "text",
+   "text": "3. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "4. ゴミ - garbage"
+  },
+  {
+   "type": "text",
+   "text": "5. 捨てる【す・てる】(ru-verb) - to throw away"
+  },
+  {
+   "type": "text",
+   "text": "6. 安全【あん・ぜん】- safety"
+  },
+  {
+   "type": "text",
+   "text": "7. 措置【そ・ち】- measures"
+  },
+  {
+   "type": "text",
+   "text": "8. 忘れる【わす・れる】(ru-verb) - to forget"
+  },
+  {
+   "type": "text",
+   "text": "Moving on to yet another from of 「べき」 is 「べからず」 . This is undoubtedly related to the 「ず」 negative ending we learned in a previous section. However, it seems to be a conjugation of an old 未然 形 of 「べから」. I have no idea what that means and you don't have to either. The only thing we need to take away from this is that 「べからず」 expresses the opposite meaning of 「べき」 as an action that one must not do. I suppose the short and abrupt ending of the 「ず」 form makes this more useful for laying out rules. In fact, searching around on google comes up with a bunch of 「べし ・ ベからず」 or \"do's and don'ts\". (べし is an older form of べき, which I doubt you'll ever need.)"
+  },
+  {
+   "type": "text",
+   "text": "Using 「べからず」for actions that must not be done"
+  },
+  {
+   "type": "text",
+   "text": "Attach 「べからず」 to the action that must not be done"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 行う → 行うべからず 2. する → するべからず"
+  },
+  {
+   "type": "text",
+   "text": "Same as 「べき」, you can remove the 「る」 for the generic \"to do \" verb 「する」 only"
+  },
+  {
+   "type": "text",
+   "text": "Example: する + べからず → すべからず"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. ゴミ捨てるべからず。\nYou must not throw away trash."
+  },
+  {
+   "type": "text",
+   "text": "2. 安全措置を忘れるべからず。\nYou must not forget the safety measures."
+  }
+ ]
+}

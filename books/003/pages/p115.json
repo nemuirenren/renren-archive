@@ -1,0 +1,88 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 115,
+ "page_label": "115",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「〜ている」 for enduring states"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "9. 聞く【き・く】(u-verb) - to ask; to listen"
+  },
+  {
+   "type": "text",
+   "text": "10. ううん - casual word for \"no\" (nah, uh-uh)"
+  },
+  {
+   "type": "text",
+   "text": "We already know how to express a state-of-being using 「です」, 「だ」, etc. However, it only indicates a one-time thing; you are something or not. This grammar, however, describes a continuing state of an action verb. This usually translates to the progressive form in English except for a few exceptions, which we will examine later. We can make good use of the te-form we learned in the last section because the only thing left to do is add 「いる」! You can then treat the result as a regular ru-verb."
+  },
+  {
+   "type": "text",
+   "text": "This 「いる」 is the same ru-verb describing existence, first described in the negative verb section. However, in this case, you don't have to worry about whether the subject is animate or inanimate."
+  },
+  {
+   "type": "text",
+   "text": "Using 「〜ている」for enduring states"
+  },
+  {
+   "type": "text",
+   "text": "To describe a continuing action, first conjugate the verb to the te-form and then attach the verb「い る」. The entire result conjugates as a ru-verb."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 食べる → 食べて → 食べている 2. 読む → 読んで → 読んでいる"
+  },
+  {
+   "type": "text",
+   "text": "The result conjugates as a ru-verb regardless of what the original verb is Positive Negative Non-Past 読んでいる reading 読んでいないis not reading Past 読んでいた was reading 読んでいなかったwas not reading"
+  },
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "A：友達は何をしているの？ A: What is friend doing?"
+  },
+  {
+   "type": "text",
+   "text": "B：昼ご飯を食べている。 B: (Friend) is eating lunch."
+  },
+  {
+   "type": "text",
+   "text": "Note that once you've changed it into a regular ru-verb, you can do all the normal conjugations. The examples below show the masu-form and plain negative conjugations."
+  },
+  {
+   "type": "text",
+   "text": "Example 2"
+  },
+  {
+   "type": "text",
+   "text": "A：何を読んでいる？ A: What are you reading?"
+  }
+ ]
+}

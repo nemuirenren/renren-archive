@@ -1,0 +1,114 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 273,
+ "page_label": "273",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Using 方 and よる for comparisons and other functions"
+  },
+  {
+   "level": 3,
+   "title": "Using 「によって」 to express dependency"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "5.8. USING 方 AND よる FOR COMPARISONS, ETC"
+  },
+  {
+   "type": "text",
+   "text": "15. 使う【つか・う】(u-verb) - to use"
+  },
+  {
+   "type": "text",
+   "text": "16. 皆【みんな】- everybody"
+  },
+  {
+   "type": "text",
+   "text": "17. 知る【し・る】(u-verb) - to know"
+  },
+  {
+   "type": "text",
+   "text": "You can also attach 「方」 to the stem of verbs to express a way to do that verb. In this usage, 「方」 is read as 「かた」 and the result becomes a noun. For example, 「行き方」(いきかた) means, \"the way to go\" or 「食べ方」(たべかた)means, \"the way to eat\". This expression is probably what you want to use when you want to ask how to do something."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 新宿の行き方は分かりますか。\nDo you know the way to go to Shinjuku?"
+  },
+  {
+   "type": "text",
+   "text": "2. そういう食べ方は体によくないよ。\nEating in that way is not good for your body."
+  },
+  {
+   "type": "text",
+   "text": "3. 漢字の書き方を教えてくれますか？\nCan you teach me the way of writing kanji?"
+  },
+  {
+   "type": "text",
+   "text": "4. パソコンの使い方は、みんな知っているでしょう。\nProbably everybody knows the way to use PC's."
+  },
+  {
+   "type": "text",
+   "text": "When verbs are transformed to this form, the result becomes a noun clause. Sometimes, this requires a change of particles. For instance, while 「行く」 usually involves a target (the 「に」 or 「へ」 particle), since 「行き方」 is a noun clause, example 1 becomes 「新宿の行き方」 instead of the familiar 「新 宿に行く」."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「によって」 to express dependency"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "2. 話【はなし】- story"
+  },
+  {
+   "type": "text",
+   "text": "3. 違う【ちが・う】(u-verb) - to be different"
+  },
+  {
+   "type": "text",
+   "text": "4. 季節【き・せつ】- season"
+  },
+  {
+   "type": "text",
+   "text": "5. 果物【くだ・もの】- fruit"
+  },
+  {
+   "type": "text",
+   "text": "6. おいしい (i-adj) - tasty"
+  },
+  {
+   "type": "text",
+   "text": "7. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "8. まずい (i-adj) - unpleasant"
+  }
+ ]
+}

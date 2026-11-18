@@ -1,0 +1,26 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 1,
+ "page_label": "1",
+ "kind": "cover",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Japanese Grammar Guide"
+  },
+  {
+   "type": "text",
+   "text": "Tae Kim"
+  },
+  {
+   "type": "text",
+   "text": "November 21, 2012"
+  }
+ ]
+}

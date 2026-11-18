@@ -1,0 +1,126 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 258,
+ "page_label": "258",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing similarity with よう (様)"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」"
+  },
+  {
+   "type": "text",
+   "text": "In Japanese there are many different ways to express likeness or similarity depending on appearance, behavior, or outcome. When learning these expressions for the first time, it is difficult to understand what the differences are between them because they all translate to the same thing in English. This lesson is designed to study the differences between these expressions so that you can start to get a sense of which is appropriate for what you want to say."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing similarity with よう (様)"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. ここ - here"
+  },
+  {
+   "type": "text",
+   "text": "2. 誰【だれ】- who"
+  },
+  {
+   "type": "text",
+   "text": "3. いる (ru-verb) - to exist (animate)"
+  },
+  {
+   "type": "text",
+   "text": "4. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "5. 観る【み・る】(ru-verb) - to watch"
+  },
+  {
+   "type": "text",
+   "text": "6. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "7. 静か【しず・か】(na-adj) - quiet"
+  },
+  {
+   "type": "text",
+   "text": "8. あの - that (over there) (abbr. of あれの)"
+  },
+  {
+   "type": "text",
+   "text": "9. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "10. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "11. 気【き】- mood; intent"
+  },
+  {
+   "type": "text",
+   "text": "12. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "13. 彼【かれ】- he; boyfriend"
+  },
+  {
+   "type": "text",
+   "text": "14. 雰囲気【ふん・い・き】- atmosphere; mood"
+  },
+  {
+   "type": "text",
+   "text": "15. ちょっと - a little"
+  },
+  {
+   "type": "text",
+   "text": "16. 怒る【おこ・る】(u-verb) - to get angry"
+  },
+  {
+   "type": "text",
+   "text": "17. 聞こえる【き・こえる】(ru-verb) - to be audible"
+  },
+  {
+   "type": "text",
+   "text": "18. 何【なに〜なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "19. 起こる【おこ・る】(u-verb) - to happen"
+  },
+  {
+   "type": "text",
+   "text": "20. 言う【い・う】(u-verb) - to say"
+  }
+ ]
+}

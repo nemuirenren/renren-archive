@@ -1,0 +1,125 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 302,
+ "page_label": "302",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Formal Expressions 「である、ではない」"
+  },
+  {
+   "level": 3,
+   "title": "Sequential relative clauses in formal language"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Using 「である」to sound official"
+  },
+  {
+   "type": "text",
+   "text": "Attach 「である」 to the verb or adjective that the state-of-being applies to."
+  },
+  {
+   "type": "text",
+   "text": "Example: 学生 → 学生である"
+  },
+  {
+   "type": "text",
+   "text": "For the negative, attach 「ではない」 to the verb or adjective that the state-of-being applies to."
+  },
+  {
+   "type": "text",
+   "text": "Example: 学生 → 学生ではない"
+  },
+  {
+   "type": "text",
+   "text": "For the past tense state-of-being, apply the regular past tenses of 「ある」"
+  },
+  {
+   "type": "text",
+   "text": "Complete conjugation chart for 「である」 Positive Negative 学生である is student 学生ではないis not student 学生であった was student 学生ではなかったwas not student"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Sequential relative clauses in formal language"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 花火【はな・び】- fireworks"
+  },
+  {
+   "type": "text",
+   "text": "2. 火薬【か・やく】- gunpowder"
+  },
+  {
+   "type": "text",
+   "text": "3. 金属【きん・ぞく】- metal"
+  },
+  {
+   "type": "text",
+   "text": "4. 粉末【ふん・まつ】- fine powder"
+  },
+  {
+   "type": "text",
+   "text": "5. 混ぜる【ま・ぜる】(ru-verb) - to mix"
+  },
+  {
+   "type": "text",
+   "text": "6. 物【もの】- object"
+  },
+  {
+   "type": "text",
+   "text": "7. 火【ひ】- flame, light"
+  },
+  {
+   "type": "text",
+   "text": "8. 付ける【つ・ける】(ru-verb) - to attach"
+  },
+  {
+   "type": "text",
+   "text": "9. 燃焼時【ねん・しょう・じ】- at time of combustion"
+  },
+  {
+   "type": "text",
+   "text": "10. 火花【ひ・ばな】- spark"
+  },
+  {
+   "type": "text",
+   "text": "11. 楽しむ【たの・しむ】(u-verb) - to enjoy"
+  },
+  {
+   "type": "text",
+   "text": "12. ため - for the sake/benefit of"
+  },
+  {
+   "type": "text",
+   "text": "13. 企業内【き・ぎょう・ない】- company-internal"
+  },
+  {
+   "type": "text",
+   "text": "14. 顧客【こ・きゃく】- customer, client"
+  },
+  {
+   "type": "text",
+   "text": "15. データ - data"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 229,
+ "page_label": "229",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Honorific and Humble Forms"
+  },
+  {
+   "level": 3,
+   "title": "Honorific and Humble Conjugations"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Honorific Conjugation 1: お + stem + に + なる"
+  },
+  {
+   "type": "text",
+   "text": "This kind of makes sense if you think of it as a person becoming the honorific state of a verb. All subsequent conjugations follow the normal rules of conjugating the u-verb 「なる」. To be honest, this type of sentence formulation is rarely used."
+  },
+  {
+   "type": "text",
+   "text": "• 先生はお見えになりますか。\nHave you seen the teacher?"
+  },
+  {
+   "type": "text",
+   "text": "Honorific Conjugation 2: お + stem + です"
+  },
+  {
+   "type": "text",
+   "text": "1. もうお帰りですか。\nYou're going home already?"
+  },
+  {
+   "type": "text",
+   "text": "2. 店内でお召し上がりですか。\nWill you be dining in?"
+  },
+  {
+   "type": "text",
+   "text": "Service people want to be extra polite so they will often use this type of \"double honorific\" conjugation or 二重敬語 (in this case, the honorific 「召し上がる」 combined with the honorific conjugation). Whether it's necessary or grammatically proper is another story."
+  },
+  {
+   "type": "text",
+   "text": "Using 「ください」 with honorifics"
+  },
+  {
+   "type": "text",
+   "text": "You can also use 「下さい」 with a honorific verb by replacing 「になる」 with 「ください」. This is useful for when you want to ask somebody to do something but still use a honorific verb."
+  },
+  {
+   "type": "text",
+   "text": "Yet another often-used expression."
+  },
+  {
+   "type": "text",
+   "text": "• 少々お待ちください。- Please wait a moment."
+  },
+  {
+   "type": "text",
+   "text": "Similarly, with 「ご覧になる」, you simply replace 「になる」 with 「ください」."
+  },
+  {
+   "type": "text",
+   "text": "• こちらにご覧下さい。\nPlease look this way."
+  },
+  {
+   "type": "text",
+   "text": "This works for other nouns as well. For example, riding the trains..."
+  },
+  {
+   "type": "text",
+   "text": "• 閉まるドアにご注意下さい。\nPlease be careful of the closing doors."
+  }
+ ]
+}

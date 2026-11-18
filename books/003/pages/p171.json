@@ -1,0 +1,98 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 171,
+ "page_label": "171",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Giving and Receiving 「あげる、やる、くれる、もらう」"
+  },
+  {
+   "level": 3,
+   "title": "When to use 「くれる」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 代わりに行ってあげる。\nI'll give you the favor of going in your place."
+  },
+  {
+   "type": "text",
+   "text": "For third-person, this verb is used when the speaker is looking at it from the giver's point of view. We'll see the significance of this when we examine the verb 「くれる」 next."
+  },
+  {
+   "type": "text",
+   "text": "1. 学生がこれを先生にあげる。\nThe student give this to teacher. (looking at it from the student's point of view)"
+  },
+  {
+   "type": "text",
+   "text": "2. 友達が父にいいことを教えてあげた。\nFriend gave the favor of teaching something good to my dad. (looking at it from the friend's point\nof view)"
+  },
+  {
+   "type": "text",
+   "text": "Using 「やる」 to mean 「あげる」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 犬【いぬ】- dog"
+  },
+  {
+   "type": "text",
+   "text": "2. 餌【えさ】- food for animals"
+  },
+  {
+   "type": "text",
+   "text": "3. やる (u-verb) - to do"
+  },
+  {
+   "type": "text",
+   "text": "Usually used for pets, animals, and such, you can substitute 「やる」, which normally means \"to do\", for 「あげる」. You would normally never use this type of 「やる」 for people. I only included this so that you won't be confused by sentences like the following."
+  },
+  {
+   "type": "text",
+   "text": "• 犬に餌をやった？\nDid you give the dog food?"
+  },
+  {
+   "type": "text",
+   "text": "Here, 「やる」 does not mean \"to do\" but \"to give\". You can tell because \"doing food to dog\" doesn't make any sense."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "When to use 「くれる」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. くれる (ru-verb) - to give"
+  },
+  {
+   "type": "text",
+   "text": "2. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "3. 私【わたし】- me; myself; I"
+  }
+ ]
+}

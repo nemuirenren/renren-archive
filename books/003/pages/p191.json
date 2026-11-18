@@ -1,0 +1,55 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 191,
+ "page_label": "191",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Numbers and Counting"
+  },
+  {
+   "level": 3,
+   "title": "Counting and Counters"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Other Counters"
+  },
+  {
+   "type": "text",
+   "text": "We'll cover some of the most common counters so that you'll be familiar with how counters work. This will hopefully allow you to learn other counters on your own because there are too many to even consider covering them all. The important thing to remember is that using the wrong counter is grammatically incorrect. If you are counting people, you must use the people counter, etc. Sometimes, it is acceptable to use a more generic counter when a less commonly used counter applies. Here are some counters."
+  },
+  {
+   "type": "text",
+   "text": "日本語 When to Use 人 To count the number of people 本 To count long, cylindrical objects such as bottles or chopsticks 枚 To count thin objects such as paper or shirts 冊 To count bound objects usually books 匹 To count small animals like cats or dogs 歳 To count the age of a living creatures such as people 個 To count small (often round) objects 回 To count number of times ヶ所 (箇所) To count number of locations つ To count any generic object that has a rare or no counter"
+  },
+  {
+   "type": "text",
+   "text": "Counting 1 to 10 (some variations might exist)\n人        本          枚           冊              匹            歳             個     回     ヶ所 (箇所)  つ\n1     ひとり     いっぽん       いちまい       いっさつ          いっぴき          いっさい          いっこ     いっかい   いっかしょ   ひとつ\n2     ふたり      にほん        にまい        にさつ           にひき           にさい           にこ     にかい     にかしょ   ふたつ\n3    さんにん     さんぼん       さんまい       さんさつ          さんびき          さんさい          さんこ     さんかい    さんかしょ  みっつ\n4     よにん     よんほん       よんまい       よんさつ          よんひき          よんさい          よんこ     よんかい    よんかしょ  よっつ\n5     ごにん      ごほん        ごまい        ごさつ           ごひき           ごさい           ごこ     ごかい     ごかしょ   いつつ\n6    ろくにん     ろっぽん       ろくまい       ろくさつ          ろっぴき          ろくさい          ろっこ     ろっかい   ろっかしょ   むっつ\n7    しちにん     ななほん       ななまい       ななさつ          ななひき          ななさい          ななこ     ななかい    ななかしょ  ななつ\n8    はちにん     はちほん       はちまい       はっさつ          はっぴき          はっさい          はっこ     はちかい   はっかしょ   やっつ\n9    きゅうにん    きゅうほん      きゅうまい     きゅうさつ きゅうひき きゅうさい きゅうこ                            きゅうかい   きゅうかしょ ここのつ\n10   じゅうにん    じゅっぽん      じゅうまい      じゅっさつ じゅっぴき じゅっさい じゅっこ                           じゅっかい   じゅっかしょ  とお"
+  },
+  {
+   "type": "text",
+   "text": "The changed sounds have been highlighted. You don't count 0 because there is nothing to count. You can simply use 「ない」 or 「いない」. The chart has hiragana for pronunciation but, as before, it is usually written with either numbers or kanji plus the counter with the single exception of 「とお」 which is simply written as 「十」."
+  },
+  {
+   "type": "text",
+   "text": "For higher numbers, it's the same as before, you use the normal pronunciation for the higher digits and rotate around the same readings for 1 to 10 except for 「一人」 and 「二人」 which transforms to the normal 「いち」 and 「に」 once you get past the first two. So 「一人」 is 「ひとり」 while 「11 人」 is 「じゅういちにん」. Also, the generic counter 「〜つ」 only applies up to exactly ten items. Past that, you can just use regular plain numbers."
+  },
+  {
+   "type": "text",
+   "text": "Note: The counter for age is often sometimes written as 「才」 for those who don't have the time to write out the more complex kanji. Plus, age 20 is usually read as 「はたち」 and not 「にじゅっさい」."
+  }
+ ]
+}

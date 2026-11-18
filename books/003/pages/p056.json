@@ -1,0 +1,104 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 56,
+ "page_label": "56",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Particles used with verbs 「を、に、へ、で」"
+  },
+  {
+   "level": 3,
+   "title": "The target 「に」 particle"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "14. 台所【だい・どころ】- kitchen"
+  },
+  {
+   "type": "text",
+   "text": "15. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "16. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "17. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "18. 会う【あう】(u-verb) - to meet"
+  },
+  {
+   "type": "text",
+   "text": "19. 医者【い・しゃ】- doctor"
+  },
+  {
+   "type": "text",
+   "text": "20. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "21. 先週【せん・しゅう】- last week"
+  },
+  {
+   "type": "text",
+   "text": "22. 図書館【と・しょ・かん】- library"
+  },
+  {
+   "type": "text",
+   "text": "23. 来年【らい・ねん】- next year"
+  },
+  {
+   "type": "text",
+   "text": "The 「に」 particle can specify a target of a verb. This is different from the 「を」 particle in which the verb does something to the direct object. With the 「に」 particle, the verb does something toward the word associated with the 「に」 particle. For example, the target of any motion verb is specified by the 「に」 particle."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. ボブは日本に行った。\nBob went to Japan."
+  },
+  {
+   "type": "text",
+   "text": "2. 家に帰らない。\nNot go back home."
+  },
+  {
+   "type": "text",
+   "text": "3. 部屋にくる。\nCome to room."
+  },
+  {
+   "type": "text",
+   "text": "As you can see in the last example, the target particle always targets \"to\" rather than \"from\". If you wanted to say, \"come from\" for example, you would need to use 「から」, which means \"from\". If you used 「に」 , it would instead mean \"come to\". 「から」 is also often paired with 「まで」, which means \"up to\"."
+  },
+  {
+   "type": "text",
+   "text": "1. アリスは、アメリカからきた。\nAlice came from America."
+  },
+  {
+   "type": "text",
+   "text": "2. 宿題を今日から明日までする。\nWill do homework from today to tomorrow."
+  },
+  {
+   "type": "text",
+   "text": "The idea of a target in Japanese is very general and is not restricted to motion verbs. For example, the location of an object is defined as the target of the verb for existence (ある and いる). Time is also a common target. Here are some examples of non-motion verbs and their targets"
+  }
+ ]
+}

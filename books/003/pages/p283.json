@@ -1,0 +1,105 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 283,
+ "page_label": "283",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "More negative verbs 「ないで、ず、〜ん、ぬ」"
+  },
+  {
+   "level": 3,
+   "title": "A classical negative verb that ends in 「ぬ」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "8. 試験【し・けん】- exam"
+  },
+  {
+   "type": "text",
+   "text": "9. 何回【なん・かい】- how many times"
+  },
+  {
+   "type": "text",
+   "text": "10. 失敗【しっ・ぱい】- failure"
+  },
+  {
+   "type": "text",
+   "text": "11. 実際【じっ・さい】- actual"
+  },
+  {
+   "type": "text",
+   "text": "12. 受ける【う・ける】(ru-verb) - to receive"
+  },
+  {
+   "type": "text",
+   "text": "13. 思う【おも・う】(u-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "14. 結果【けっ・か】- result"
+  },
+  {
+   "type": "text",
+   "text": "15. 出る【で・る】(ru-verb) - to come out"
+  },
+  {
+   "type": "text",
+   "text": "There is yet another version of the negative verb conjugation and it uses 「ぬ」 instead of the 「ない」 that attaches to the end of the verb. While this version of the negative conjugation is old-fashioned and part of classical Japanese, you will still encounter it occasionally. In fact, I just saw this conjugation on a sign at the train station today, so it's not too uncommon."
+  },
+  {
+   "type": "text",
+   "text": "For any verb, you can replace 「ない」 with 「ぬ」 to get to an old-fashion sounding version of the negative. Similar to the last section, 「する」 becomes 「せぬ」 and 「くる」 becomes 「こぬ」. You may hear this grammar being used from older people or your friends if they want to bring back ye olde days."
+  },
+  {
+   "type": "text",
+   "text": "An old-fashioned way to say negative verbs"
+  },
+  {
+   "type": "text",
+   "text": "• An old-fashioned way to say a negative verb is to use 「ぬ」 instead of 「ない」."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Example"
+  },
+  {
+   "type": "text",
+   "text": "知る → 知らない → 知らぬ"
+  },
+  {
+   "type": "text",
+   "text": "• Exceptions:"
+  },
+  {
+   "type": "text",
+   "text": "1. する → せぬ 2. くる → こぬ"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 韓国人と結婚してはならぬ。\nYou must not marry a Korean!"
+  },
+  {
+   "type": "text",
+   "text": "2. 模擬試験に何回も失敗して、実際に受けてみたら思わぬ結果が出た。\nAfter having failed mock examination any number of times, a result I wouldn't have thought came\nout when I actually tried taking the test."
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 110,
+ "page_label": "110",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing contradiction using 「が」 and 「けど」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 毎日運動したのに、全然痩せなかった。\nDespite exercising every day, I didn't get thinner."
+  },
+  {
+   "type": "text",
+   "text": "2. 学生なのに、彼女は勉強しない。\nDespite being a student, she does not study."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing contradiction using 「が」 and 「けど」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. デパート - department store"
+  },
+  {
+   "type": "text",
+   "text": "2. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "3. 何【なに〜なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "4. 全然【ぜん・ぜん】- not at all (when used with negative)"
+  },
+  {
+   "type": "text",
+   "text": "5. 欲しい【ほ・しい】(i-adj) - desirable"
+  },
+  {
+   "type": "text",
+   "text": "6. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "7. 聞く【き・く】(u-verb) - to ask; to listen"
+  },
+  {
+   "type": "text",
+   "text": "8. 知る【し・る】(u-verb) - to know"
+  },
+  {
+   "type": "text",
+   "text": "9. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "10. 暇【ひま】- free (as in not busy)"
+  },
+  {
+   "type": "text",
+   "text": "11. 明日【あした】- tomorrow"
+  },
+  {
+   "type": "text",
+   "text": "12. 忙しい【いそが・しい】(i-adj) - busy"
+  },
+  {
+   "type": "text",
+   "text": "13. 彼【かれ】- he; boyfriend"
+  },
+  {
+   "type": "text",
+   "text": "14. まだ - yet"
+  },
+  {
+   "type": "text",
+   "text": "15. 好き【す・き】(na-adj) - likable; desirable"
+  },
+  {
+   "type": "text",
+   "text": "16. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "17. 物【もの】- object"
+  },
+  {
+   "type": "text",
+   "text": "18. たくさん - a lot (amount)"
+  },
+  {
+   "type": "text",
+   "text": "19. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "20. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "21. 面白い【おも・しろ・い】(i-adj) - interesting"
+  }
+ ]
+}

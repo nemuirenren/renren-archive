@@ -1,0 +1,127 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 166,
+ "page_label": "166",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Trying something out or attempting to do something"
+  },
+  {
+   "level": 3,
+   "title": "To try something out"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "4.13. TRYING SOMETHING OUT OR ATTEMPTING TO CHAPTER DO SOMETHING 4. ESSENTIAL GRAMMAR"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Trying something out or attempting to do something"
+  },
+  {
+   "type": "text",
+   "text": "「〜てみる、volitional+ とする」"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Let's try some stuff"
+  },
+  {
+   "type": "text",
+   "text": "In English, we use the word, \"try\" to mean both \"to try something out\" and \"to make an effort to do something\". In Japanese, these are separate grammatical expressions. For instance, \"I tried the cherry flavor\" and \"I tried to do homework\" mean quite different things and though English does not make a distinction, Japanese does."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "To try something out"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 見る【み・る】- to see; to watch"
+  },
+  {
+   "type": "text",
+   "text": "2. 切る【き・る】(u-verb) - to cut"
+  },
+  {
+   "type": "text",
+   "text": "3. お好み焼き【お・この・み・や・き】- okonomiyaki (Japanese-style pancake)"
+  },
+  {
+   "type": "text",
+   "text": "4. 初めて【はじ・めて】- for the first time"
+  },
+  {
+   "type": "text",
+   "text": "5. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "6. とても - very"
+  },
+  {
+   "type": "text",
+   "text": "7. おいしい (i-adj) - tasty"
+  },
+  {
+   "type": "text",
+   "text": "8. お酒【お・さけ】- alcohol"
+  },
+  {
+   "type": "text",
+   "text": "9. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "10. すごい (i-adj) - to a great extent"
+  },
+  {
+   "type": "text",
+   "text": "11. 眠い【ねむ・い】(i-adj) - sleepy"
+  },
+  {
+   "type": "text",
+   "text": "12. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "13. 新しい【あたら・しい】(i-adj) - new"
+  },
+  {
+   "type": "text",
+   "text": "14. デパート - department store"
+  },
+  {
+   "type": "text",
+   "text": "15. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "16. 広島【ひろ・しま】- Hiroshima"
+  },
+  {
+   "type": "text",
+   "text": "To try something out, you simply need to change the verb to the te-form and add 「みる」. If it helps you to remember, you can think of it as a sequence of an action and then seeing the result. In fact 「みる」"
+  }
+ ]
+}

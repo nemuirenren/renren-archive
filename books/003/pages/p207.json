@@ -1,0 +1,151 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 207,
+ "page_label": "207",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "More sentence-ending particles"
+  },
+  {
+   "level": 3,
+   "title": "That's a wrap!"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "14. 思う【おも・う】(u-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "15. ただし - however"
+  },
+  {
+   "type": "text",
+   "text": "16. 書く【か・く】(u-verb) - to write"
+  },
+  {
+   "type": "text",
+   "text": "17. 時【とき】- time"
+  },
+  {
+   "type": "text",
+   "text": "18. 他【ほか】- other"
+  },
+  {
+   "type": "text",
+   "text": "19. 表現【ひょう・げん】- expression"
+  },
+  {
+   "type": "text",
+   "text": "20. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "21. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "22. 覚える【おぼ・える】(ru-verb) - to memorize"
+  },
+  {
+   "type": "text",
+   "text": "23. 朝【あさ】- morning"
+  },
+  {
+   "type": "text",
+   "text": "24. おはよう - good morning"
+  },
+  {
+   "type": "text",
+   "text": "25. でも - but"
+  },
+  {
+   "type": "text",
+   "text": "26. 上【うえ】- above"
+  },
+  {
+   "type": "text",
+   "text": "27. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "28. おはようございます - good morning (polite)"
+  },
+  {
+   "type": "text",
+   "text": "29. 分かる【わ・かる】(u-verb) - to understand"
+  },
+  {
+   "type": "text",
+   "text": "30. 間違える【ま・ちが・える】(ru-verb) - to make a mistake"
+  },
+  {
+   "type": "text",
+   "text": "31. 勉強【べん・きょう】- study"
+  },
+  {
+   "type": "text",
+   "text": "32. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "33. 洋介【よう・すけ】- Yousuke (first name)"
+  },
+  {
+   "type": "text",
+   "text": "34. あのう〜あの - say; well; errr"
+  },
+  {
+   "type": "text",
+   "text": "35. 英語【えい・ご】- English (language)"
+  },
+  {
+   "type": "text",
+   "text": "36. 教える【おし・える】(ru-verb) - to teach; to inform"
+  },
+  {
+   "type": "text",
+   "text": "37. もらう (u-verb) - to receive"
+  },
+  {
+   "type": "text",
+   "text": "38. もし - if by any chance"
+  },
+  {
+   "type": "text",
+   "text": "39. 時間【じ・かん】- time"
+  },
+  {
+   "type": "text",
+   "text": "40. うん - yes (casual)"
+  },
+  {
+   "type": "text",
+   "text": "41. アメリカ - America"
+  },
+  {
+   "type": "text",
+   "text": "42. 留学【りゅう・がく】- study abroad"
+  },
+  {
+   "type": "text",
+   "text": "43. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "44. 去年【きょ・ねん】- last year"
+  }
+ ]
+}

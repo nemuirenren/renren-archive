@@ -1,0 +1,106 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 205,
+ "page_label": "205",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "More sentence-ending particles"
+  },
+  {
+   "level": 3,
+   "title": "Gender-specific sentence-ending particles"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "9. つもり - intention, plan"
+  },
+  {
+   "type": "text",
+   "text": "10. 俺【おれ】- me; myself; I (masculine)"
+  },
+  {
+   "type": "text",
+   "text": "11. 土曜日【ど・よう・び】- Saturday"
+  },
+  {
+   "type": "text",
+   "text": "12. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "13. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "14. 一緒【いっ・しょ】- together"
+  },
+  {
+   "type": "text",
+   "text": "「かい」 and 「だい」 are strongly masculine sentence endings for asking questions. 「かい」 is used for yes/no questions while 「だい」 is used for open-ended questions."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. おい、どこに行くんだい？\nHey, where are (you) going?"
+  },
+  {
+   "type": "text",
+   "text": "2. さきちゃんって呼んでもいいかい？\nCan (I) call you Saki-chan?"
+  },
+  {
+   "type": "text",
+   "text": "3. 一体何時に帰ってくるつもりだったんだい？\nWhat time were (you) planning on coming home exactly?"
+  },
+  {
+   "type": "text",
+   "text": "4. 俺は土曜日、映画を見に行くけど、一緒に行くかい？\nI'm going to see a movie Saturday, go together?"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Gender-specific sentence-ending particles"
+  },
+  {
+   "type": "text",
+   "text": "These sentence-ending particles are primarily used just to emphasize something and doesn't really have a meaning per se. However, they can make your statements sound much stronger and/or very genderspecific. Using 「わ」 is just like 「よ」 except it will make you sound very feminine (this is a different sound from the 「わ」 used in Kansai dialect). 「かしら」 is also a very feminine version of 「かな」 , which we just went over. 「ぞ」 and 「ぜ」 are identical to 「よ」 except that it makes you sound \"cool\" and manly, or at least, that is the intent. These examples may not be very helpful without actually hearing what they sound like."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "2. 時間【じ・かん】- time"
+  },
+  {
+   "type": "text",
+   "text": "3. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "4. おい - hey"
+  }
+ ]
+}

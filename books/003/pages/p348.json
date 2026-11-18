@@ -1,0 +1,113 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 348,
+ "page_label": "348",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Advanced proximity of actions 「が早いか、や否や、そばから」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「や〜や否や」 to describe what happened right after"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "6. 何【なに〜なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "7. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "8. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "9. 搭乗【とう・じょう】- boarding"
+  },
+  {
+   "type": "text",
+   "text": "10. アナウンス - announcement"
+  },
+  {
+   "type": "text",
+   "text": "11. 聞こえる【き・こえる】(ru-verb) - to be audible"
+  },
+  {
+   "type": "text",
+   "text": "12. 皆【みんな】- everybody"
+  },
+  {
+   "type": "text",
+   "text": "13. ゲート - gate"
+  },
+  {
+   "type": "text",
+   "text": "14. 方【ほう】- direction, way"
+  },
+  {
+   "type": "text",
+   "text": "15. 走り出す【はし・り・だ・す】(u-verb) - to break into a run"
+  },
+  {
+   "type": "text",
+   "text": "The 「や」 or 「や否や」(やいなや) phrase, when appended to a verb, is used to described something that happened right after that verb. Its meaning is essential the same as 「が早いか」. It is also another type of grammar that is not really used in regular conversational Japanese."
+  },
+  {
+   "type": "text",
+   "text": "「否」 (read here as 「いな」) is a Kanji meaning \"no\" used in words like 「否定」. The literal meaning of this grammar is \"whether the action was taken or not\". In order words, the second action is taken before you even take the time to determine whether the first event really happened or not."
+  },
+  {
+   "type": "text",
+   "text": "You can use this grammar by attaching 「や」 or 「や否や」 to the dictionary form of the first verb that occurred. Since this grammar is used for events that already have occurred, the second verb is usually in the past tense. However, you can use the dictionary tense to indicate that the events happen regularly."
+  },
+  {
+   "type": "text",
+   "text": "Using 「や〜や否や」to describe what happened right after"
+  },
+  {
+   "type": "text",
+   "text": "• Attach 「や」 or 「や否や」(やいなや) to the dictionary form of the first verb that occurred"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 見る → 見るや 2. 見る → 見るや否や"
+  },
+  {
+   "type": "text",
+   "text": "• This grammar is almost always used for events that actually happened (past tense)."
+  },
+  {
+   "type": "text",
+   "text": "• This grammar can be used with the present tense for regularly occurring events."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 私の顔を見るや、何か言おうとした。\n(He) tried to say something as soon as he saw my face."
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 280,
+ "page_label": "280",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "More negative verbs 「ないで、ず、〜ん、ぬ」"
+  },
+  {
+   "level": 3,
+   "title": "Doing something without doing something else"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Doing something without doing something else"
+  },
+  {
+   "type": "text",
+   "text": "To indicate an action that was done without doing another action, add 「で」 to the negative of the action that was not done."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Example"
+  },
+  {
+   "type": "text",
+   "text": "食べる → 食べない → 食べないで"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 何も食べないで寝ました。\nWent to sleep without eating anything."
+  },
+  {
+   "type": "text",
+   "text": "2. 歯を磨かないで、学校に行っちゃいました。\nWent to school without brushing teeth (by accident)."
+  },
+  {
+   "type": "text",
+   "text": "3. 宿題をしないで、授業に行くのは、やめた方がいいよ。\nIt's better to stop going to class without doing homework."
+  },
+  {
+   "type": "text",
+   "text": "4. 先生と相談しないで、この授業を取ることは出来ない。\nYou cannot take this class without consulting with teacher."
+  },
+  {
+   "type": "text",
+   "text": "Hopefully not too difficult. Another way to express the exact same thing is to replace the last 「ない」 part with 「ず」. However, the two exception verbs 「する」 and 「くる」 become 「せず」 and 「こ ず」 respectively. It is also common to see this grammar combined with the target 「に」 particle. This version is more formal than 「ないで」 and is not used as much in regular conversations."
+  },
+  {
+   "type": "text",
+   "text": "Doing something without doing something else"
+  },
+  {
+   "type": "text",
+   "text": "• Another way to indicate an action that was done without doing another action is to replace the 「な\nい」 part of the negative action that was not done with 「ず」."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 食べる → 食べない → 食べず 2. 行く → 行かない → 行かず"
+  },
+  {
+   "type": "text",
+   "text": "• Exceptions:"
+  },
+  {
+   "type": "text",
+   "text": "1. する → せず 2. くる → こず"
+  }
+ ]
+}

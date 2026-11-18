@@ -1,0 +1,93 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 256,
+ "page_label": "256",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「〜さ」 with adjectives to indicate an amount"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "• 韓国料理は食べれば食べるほど、おいしくなる。\nAbout Korean food, the more you eat the tastier it becomes."
+  },
+  {
+   "type": "text",
+   "text": "The literal translation is, \"About Korean food, if you eat, to the extent that you eat, it becomes tasty.\" which essentially means the same thing. The example uses the 「ば」 conditional form, but the 「たら」 conditional will work as well. Since this is a general statement, the contextual 「なら」 conditional will never work. The decided 「と」 conditional won't work very well here either since it may not always be true depending on the extent of the action."
+  },
+  {
+   "type": "text",
+   "text": "1. 歩いたら歩くほど、迷ってしまった。\nThe more I walked, the more I got lost."
+  },
+  {
+   "type": "text",
+   "text": "2. 勉強をすればするほど、頭がよくなるよ。\nThe more you study, the more you will become smarter."
+  },
+  {
+   "type": "text",
+   "text": "You can also use this grammar with i-adjectives by using the 「ば」 conditional."
+  },
+  {
+   "type": "text",
+   "text": "1. iPod は、ハードディスクの容量が大きければ大きいほどもっとたくさんの曲が保存できます。\nAbout iPod, the larger the hard disk capacity, the more songs you can save."
+  },
+  {
+   "type": "text",
+   "text": "2. 航空券は安ければ安いほどいいとは限らない。\nIt's not necessarily the case that the cheaper the ticket, the better it is."
+  },
+  {
+   "type": "text",
+   "text": "For na-adjectives, since you can't use the「ば」conditional you have to resort to the「なら」conditional. Because it sounds strange to use the 「なら」 conditional in this fashion, you will hardly ever see this grammar used with na-adjectives. Since 「ほど」 is treated as a noun, make sure you don't forget to use 「な」 to attach the noun to the na-adjective."
+  },
+  {
+   "type": "text",
+   "text": "• 文章は、短ければ短いほど、簡単なら簡単なほどよいです。\nThe shorter and simpler the sentences, the better it is."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「〜さ」 with adjectives to indicate an amount"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 高い【たか・い】(i-adj) - high; tall; expensive"
+  },
+  {
+   "type": "text",
+   "text": "2. 低い【ひく・い】(i-adj) - short"
+  },
+  {
+   "type": "text",
+   "text": "3. 穏やか【おだ・やか】(na-adj) - calm, peaceful"
+  },
+  {
+   "type": "text",
+   "text": "4. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "5. ビル - building"
+  }
+ ]
+}

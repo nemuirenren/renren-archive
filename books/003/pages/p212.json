@@ -1,0 +1,151 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 212,
+ "page_label": "212",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Causative and Passive Verbs"
+  },
+  {
+   "level": 3,
+   "title": "Causative Verbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "7. 寝る【ね・る】(ru-verb) - to sleep"
+  },
+  {
+   "type": "text",
+   "text": "8. 起きる【お・きる】(ru-verb) - to wake; to occur"
+  },
+  {
+   "type": "text",
+   "text": "9. 出る【で・る】(ru-verb) - to come out"
+  },
+  {
+   "type": "text",
+   "text": "10. 掛ける【か・ける】(ru-verb) - to hang"
+  },
+  {
+   "type": "text",
+   "text": "11. 捨てる【す・てる】(ru-verb) - to throw away"
+  },
+  {
+   "type": "text",
+   "text": "12. 調べる【しら・べる】(ru-verb) - to investigate"
+  },
+  {
+   "type": "text",
+   "text": "13. 話す【はな・す】(u-verb) - to speak"
+  },
+  {
+   "type": "text",
+   "text": "14. 聞く【き・く】(u-verb) - to ask; to listen"
+  },
+  {
+   "type": "text",
+   "text": "15. 泳ぐ【およ・ぐ】(u-verb) - to swim"
+  },
+  {
+   "type": "text",
+   "text": "16. 遊ぶ【あそ・ぶ】(u-verb) - to play"
+  },
+  {
+   "type": "text",
+   "text": "17. 待つ【ま・つ】(u-verb) - to wait"
+  },
+  {
+   "type": "text",
+   "text": "18. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "19. 直る【なお・る】(u-verb) - to be fixed"
+  },
+  {
+   "type": "text",
+   "text": "20. 死ぬ【し・ぬ】(u-verb) - to die"
+  },
+  {
+   "type": "text",
+   "text": "21. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "22. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "23. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "24. 先生【せん・せい】- teacher"
+  },
+  {
+   "type": "text",
+   "text": "25. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "26. 宿題【しゅく・だい】- homework"
+  },
+  {
+   "type": "text",
+   "text": "27. たくさん - a lot (amount)"
+  },
+  {
+   "type": "text",
+   "text": "28. 質問【しつ・もん】- question"
+  },
+  {
+   "type": "text",
+   "text": "29. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "30. 仕事【し・ごと】- job"
+  },
+  {
+   "type": "text",
+   "text": "31. 休む【やす・む】(u-verb) - to rest"
+  },
+  {
+   "type": "text",
+   "text": "32. その - abbreviation of 「それの」"
+  },
+  {
+   "type": "text",
+   "text": "33. 部長【ぶ・ちょう】- section manager"
+  },
+  {
+   "type": "text",
+   "text": "34. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "35. 長時間【ちょう・じ・かん】- long period of time"
+  },
+  {
+   "type": "text",
+   "text": "36. 働く【はたら・く】(u-verb) - to work"
+  },
+  {
+   "type": "text",
+   "text": "37. トイレ - bathroom; toilet"
+  }
+ ]
+}

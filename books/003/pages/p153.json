@@ -1,0 +1,95 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 153,
+ "page_label": "153",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Performing an action on a relative clause 「と、って」"
+  },
+  {
+   "level": 3,
+   "title": "The direct quote"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "4.11. PERFORMING AN ACTION ON A RELATIVE CLAUSE"
+  },
+  {
+   "type": "text",
+   "text": "3. たまに - once in a while"
+  },
+  {
+   "type": "text",
+   "text": "4. 両親【りょう・しん】- parents"
+  },
+  {
+   "type": "text",
+   "text": "5. 話す【はな・す】(u-verb) - to speak"
+  },
+  {
+   "type": "text",
+   "text": "You can make suggestions by using the 「ば」 or 「たら」 conditional and adding 「どう」. This literally means, \"If you do [X], how is it?\" In English, this would become, \"How about doing [X]?\" Grammatically, there's nothing new here but it is a commonly used set phrase."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 銀行に行ったらどうですか。\nHow about going to bank?"
+  },
+  {
+   "type": "text",
+   "text": "2. たまにご両親と話せばどう？\nHow about talking with your parents once in a while?"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Performing an action on a relative clause 「と、って」"
+  },
+  {
+   "type": "text",
+   "text": "In the section about modifying relative clauses, we learned how to treat a relative clause like an adjective to directly modify a noun. We will extend the functionality of relative clauses by learning how to perform an action on a relative clause. Obviously, we cannot simply attach the 「を」 particle to a relative clause because the「を」particle only applies to noun phrases. We need something to encapsulate the relative clause into a unit that we can perform actions on. This is done by making a quoted phrase."
+  },
+  {
+   "type": "text",
+   "text": "While in English, you can just add quotes and a comma to make a quotation, Japanese requires attaching 「と」 at the end of the quote. This is completely different from the 「と」 particle and the 「と」 conditional. Unlike quotes in English, we can perform many different types of actions on the quote besides the standard \"he said\", \"she said\", etc. For example, we can perform the action, \"to think\" or \"to hear\" to produce phrases such as, \"I think [clause]\" or \"I heard [clause]\" This is very important in Japanese because Japanese people seldom affirm definite statements. This also why we will have to eventually cover many other types of grammar to express uncertainty or probability."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The direct quote"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "2. 聞く【き・く】(u-verb) - to ask; to listen"
+  },
+  {
+   "type": "text",
+   "text": "3. 叫ぶ【さけ・ぶ】(u-verb) - to scream"
+  }
+ ]
+}

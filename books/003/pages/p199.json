@@ -1,0 +1,104 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 199,
+ "page_label": "199",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Casual Patterns and Slang"
+  },
+  {
+   "level": 3,
+   "title": "Using 「なんか」 just about everywhere"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "3. 明日は試験だぞ。つっても、勉強はしてないだろうな。\nYo, tomorrow's the test. Even if I say that, you probably didn't study anyway, huh?"
+  },
+  {
+   "type": "text",
+   "text": "4. だから、違うんだつうの。\nLike I said, you're wrong!"
+  },
+  {
+   "type": "text",
+   "text": "If you want even more emphasis, you can even add a small 「つ」. This usually means you are really at the brink of your patience."
+  },
+  {
+   "type": "text",
+   "text": "• だから、違うんだっつうの。\nLike I said, you're wrong!"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「ってば」 and 「ったら」to show exasperation"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "2. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "3. あなた - you"
+  },
+  {
+   "type": "text",
+   "text": "4. いつも - always"
+  },
+  {
+   "type": "text",
+   "text": "5. 忘れる【わす・れる】(ru-verb) - to forget"
+  },
+  {
+   "type": "text",
+   "text": "「ってば」and「ったら」is yet another type of abbreviation for「という」similar to「って」as discussed in the defining and describing section. In this case, it's an abbreviation of the conditional form of 「とい う」, which is 「といえば」 and 「といったら」. By using this abbreviation, you are essentially saying something along the lines of, \"If I told you once, I told you a million times!\" You can use this expression when you tired of repeating yourself or when you are exasperated with somebody for not listening to you."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. もう行くってば。\nI told you I'm going already!"
+  },
+  {
+   "type": "text",
+   "text": "2. あなたったら、いつも忘れるんだから。\nYou're always forgetting."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「なんか」 just about everywhere"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 何【なに〜なん】- what"
+  }
+ ]
+}

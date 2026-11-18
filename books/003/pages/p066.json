@@ -1,0 +1,114 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 66,
+ "page_label": "66",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Relative Clauses and Sentence Order"
+  },
+  {
+   "level": 3,
+   "title": "Japanese Sentence Order"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "10. ズボン - pants"
+  },
+  {
+   "type": "text",
+   "text": "11. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "12. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "13. 晩ご飯【ばん・ご・はん】- dinner"
+  },
+  {
+   "type": "text",
+   "text": "14. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "15. 銀行【ぎん・こう】- bank"
+  },
+  {
+   "type": "text",
+   "text": "Verbs clauses can also be used just like adjectives to modify nouns. The following examples show us how this will allow us to make quite detailed and complicated sentences. The verb clause is highlighted."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 先週に映画を見た人は誰？\nWho is person who watched movie last week?"
+  },
+  {
+   "type": "text",
+   "text": "2. ボブは、いつも勉強する人だ。\nBob is a person who always studies."
+  },
+  {
+   "type": "text",
+   "text": "3. 赤いズボンを買う友達はボブだ。\nFriend who buy red pants is Bob."
+  },
+  {
+   "type": "text",
+   "text": "4. 晩ご飯を食べなかった人は、映画で見た銀行に行った。\nPerson who did not eat dinner went to the bank she saw at movie."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Japanese Sentence Order"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 私【わたし】- me; myself; I"
+  },
+  {
+   "type": "text",
+   "text": "2. 公園【こう・えん】- (public) park"
+  },
+  {
+   "type": "text",
+   "text": "3. お弁当【お・べん・とう】- box lunch"
+  },
+  {
+   "type": "text",
+   "text": "4. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "5. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "6. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "Now that we've learned the concept of relative clauses and how they are used as building blocks to make sentences, I can go over how Japanese sentence ordering works. There's this myth that keeps floating around about Japanese sentence order that continues to plague many hapless beginners to Japanese. Here's how it goes."
+  }
+ ]
+}

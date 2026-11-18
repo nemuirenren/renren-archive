@@ -1,0 +1,138 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 64,
+ "page_label": "64",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Relative Clauses and Sentence Order"
+  },
+  {
+   "level": 3,
+   "title": "Using state-of-being clauses as adjectives"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using state-of-being clauses as adjectives"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 国際【こく・さい】- international"
+  },
+  {
+   "type": "text",
+   "text": "2. 教育【きょう・いく】- education"
+  },
+  {
+   "type": "text",
+   "text": "3. センター- center"
+  },
+  {
+   "type": "text",
+   "text": "4. 登場【とう・じょう】- entry (on stage)"
+  },
+  {
+   "type": "text",
+   "text": "5. 人物【じん・ぶつ】- character"
+  },
+  {
+   "type": "text",
+   "text": "6. 立入【たち・いり】- entering"
+  },
+  {
+   "type": "text",
+   "text": "7. 禁止【きん・し】- prohibition, ban"
+  },
+  {
+   "type": "text",
+   "text": "8. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "9. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "10. 学校【がっ・こう】- school"
+  },
+  {
+   "type": "text",
+   "text": "11. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "12. 子供【こ・ども】- child"
+  },
+  {
+   "type": "text",
+   "text": "13. 立派【りっ・ぱ】(na-adj) - fine, elegant"
+  },
+  {
+   "type": "text",
+   "text": "14. 大人【おとな】- adult"
+  },
+  {
+   "type": "text",
+   "text": "15. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "16. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "17. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "18. 先週【せん・しゅう】- last week"
+  },
+  {
+   "type": "text",
+   "text": "19. 医者【い・しゃ】- doctor"
+  },
+  {
+   "type": "text",
+   "text": "20. 仕事【し・ごと】- job"
+  },
+  {
+   "type": "text",
+   "text": "21. 辞める【や・める】(ru-verb) - to quit"
+  },
+  {
+   "type": "text",
+   "text": "The negative, past, and negative past conjugations of verbs can be used just like adjectives to directly modify nouns. However, we cannot do this with the plain non-past state-of-being using 「だ」 . (I told you this was a pain in the butt.) The language has particles for this purpose, which will be covered in the next section."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Note"
+  },
+  {
+   "type": "text",
+   "text": "You cannot use 「だ」 to directly modify a noun with a noun like you can with 「だった」、「じゃ ない」、and 「じゃなかった」."
+  },
+  {
+   "type": "text",
+   "text": "You can, however, have a string of nouns placed together when they're not meant to modify each other."
+  }
+ ]
+}

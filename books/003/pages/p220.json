@@ -1,0 +1,110 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 220,
+ "page_label": "220",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Causative and Passive Verbs"
+  },
+  {
+   "level": 3,
+   "title": "Causative-Passive Forms"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "9. あいつ - that guy (derogatory)"
+  },
+  {
+   "type": "text",
+   "text": "10. 〜時間【〜じ・かん】- counter for span of hour(s)"
+  },
+  {
+   "type": "text",
+   "text": "11. 待つ【ま・つ】(u-verb) - to wait"
+  },
+  {
+   "type": "text",
+   "text": "12. 親【おや】- parent"
+  },
+  {
+   "type": "text",
+   "text": "13. 宿題【しゅく・だい】- homework"
+  },
+  {
+   "type": "text",
+   "text": "14. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "The causative-passive form is simply the combination of causative and passive conjugations to mean that the action of making someone do something was done to that person. This would effectively translate into, \"[someone] is made to do [something]\". The important thing to remember is the order of conjugation. The verb is first conjugated to the causative and then passive, never the other way around."
+  },
+  {
+   "type": "text",
+   "text": "Causative-Passive Conjugation Form"
+  },
+  {
+   "type": "text",
+   "text": "The causative-passive verb is formed by first conjugating to the causative form and then by conjugating the result to the passive form."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 食べる → 食べさせる → 食べさせられる"
+  },
+  {
+   "type": "text",
+   "text": "2. 行く → 行かせる → 行かせられる"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 朝ご飯は食べたくなかったのに、食べさせられた。\nDespite not wanting to eat breakfast, I was made to eat it."
+  },
+  {
+   "type": "text",
+   "text": "2. 日本では、お酒を飲ませられることが多い。\nIn Japan, the event of being made to drink is numerous."
+  },
+  {
+   "type": "text",
+   "text": "3. あいつに二時間も待たせられた。\nI was made to wait 2 hours by that guy."
+  },
+  {
+   "type": "text",
+   "text": "4. 親に毎日宿題をさせられる。\nI am made to do homework everyday by my parent(s)."
+  },
+  {
+   "type": "text",
+   "text": "A Shorter Alternative"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 行く【い・く】(u-verb) - to go"
+  }
+ ]
+}

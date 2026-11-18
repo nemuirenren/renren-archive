@@ -1,0 +1,79 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 184,
+ "page_label": "184",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Numbers and Counting"
+  },
+  {
+   "level": 3,
+   "title": "The Number System"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Using the negative command form"
+  },
+  {
+   "type": "text",
+   "text": "Attach 「な」 to the verb"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 行く → 行くな 2. する → するな"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. それを食べるな。\nDon't eat that!"
+  },
+  {
+   "type": "text",
+   "text": "2. 変なことを言うな。\nDon't say such weird things!"
+  },
+  {
+   "type": "text",
+   "text": "This is not to be confused with the shortened version of 「〜なさい」 we just learned in the last section. The most obvious difference (besides the clear difference in tone) is that in 「〜なさい」, the verb is first converted to the stem while the negative command has no conjugation. For example, for 「する」, 「し な」 would be the short version of 「しなさい」 while 「するな」 would be a negative command."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Numbers and Counting"
+  },
+  {
+   "type": "text",
+   "text": "Numbers and counting in Japanese are difficult enough to require its own section. First of all, the number system is in units of four instead of three, which can make converting into English quite difficult. Also, there are things called counters, which are required to count different types of objects, animals, or people. We will learn the most generic and widely used counters to get you started so that you can learn more on your own. To be honest, counters might be the only thing that'll make you want to quit learning Japanese, it's that bad. I recommend you digest only a little bit of this section at a time because it's an awful lot of things to memorize."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The Number System"
+  },
+  {
+   "type": "text",
+   "text": "The Japanese number system is spread into units of four. So a number such as 10,000,000 is actually split up as 1000,0000. However, thanks to the strong influence of the Western world and the standardization of numbers, when numbers are actually written, the split-off is three digits. Here are the first ten numbers."
+  }
+ ]
+}

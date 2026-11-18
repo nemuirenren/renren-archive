@@ -1,0 +1,82 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 45,
+ "page_label": "45",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Verb Basics"
+  },
+  {
+   "level": 3,
+   "title": "Classifying verbs into ru-verbs and u-verbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Classifying verbs into ru-verbs and u-verbs"
+  },
+  {
+   "type": "text",
+   "text": "Before we can learn any verb conjugations, we first need to learn how verbs are categorized. With the exception of only two exception verbs, all verbs fall into the category of ru-verb or u-verb."
+  },
+  {
+   "type": "text",
+   "text": "All ru-verbs end in 「る」 while u-verbs can end in a number of u-vowel sounds including 「る」 . Therefore, if a verb does not end in 「る」, it will always be an u-verb. For verbs ending in 「る」, if the vowel sound preceding the 「る」 is an /a/, /u/ or /o/ vowel sound, it will always be an u-verb. Otherwise, if the preceding sound is an /i/ or /e/ vowel sound, it will be a ru-verb in most cases. A list of common exceptions are at the end of this section."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 食べる - 「べ」 is an e-vowel sound so it is a ru-verb"
+  },
+  {
+   "type": "text",
+   "text": "2. 分かる - 「か」 is an a-vowel sound so it is an u-verb"
+  },
+  {
+   "type": "text",
+   "text": "If you're unsure which category a verb falls in, you can verify which kind it is with most dictionaries. There are only two exception verbs that are neither ru-verbs nor u-verbs as shown in the table below."
+  },
+  {
+   "type": "text",
+   "text": "Examples of different verb types\nru-verb u-verb      exception\n見る      話す            する\n食べる      聞く            来る\n寝る      泳ぐ\n起きる      遊ぶ\n考える      待つ\n教える      飲む\n出る      買う\nいる      ある\n着る      死ぬ"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "Here are some example sentences using ru-verbs, u-verbs, and exception verbs."
+  },
+  {
+   "type": "text",
+   "text": "1. アリスは食べる。\nAs for Alice, eat."
+  },
+  {
+   "type": "text",
+   "text": "2. ジムが来る。\nJim is the one that comes."
+  },
+  {
+   "type": "text",
+   "text": "3. ボブもする。\nBob also do."
+  }
+ ]
+}

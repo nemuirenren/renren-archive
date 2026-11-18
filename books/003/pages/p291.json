@@ -1,0 +1,107 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 291,
+ "page_label": "291",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「ながら」 for two concurrent actions"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Using 「とたん」to describe what happened immediately after"
+  },
+  {
+   "type": "text",
+   "text": "Change the verb that happened first to the past tense and attach 「とたん」 or 「とたんに」."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 開ける → 開けた → 開けたとたん (に) 2. 取る → 取った → 取ったとたん (に)"
+  },
+  {
+   "type": "text",
+   "text": "□ Note: You can only use this grammar for things that happen outside your control."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 窓を開けたとたんに、猫が跳んでいった。\nAs soon as I opened window, cat jumped out."
+  },
+  {
+   "type": "text",
+   "text": "For many more examples, check these examples sentences from our old trusty WWWJDIC."
+  },
+  {
+   "type": "text",
+   "text": "An important thing to realize is that you can only use this grammar for things that occur immediately after something else and not for an action that you, yourself carry out. For instance, compare the following two sentences."
+  },
+  {
+   "type": "text",
+   "text": "• 映画を観たとたんに、トイレに行きました。\n(You carried out the action of going to the bathroom so this is not correct.)"
+  },
+  {
+   "type": "text",
+   "text": "• 映画を観たとたんに、眠くなりました。\n(Since becoming sleepy is something that happened outside your control, this sentence is ok.)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「ながら」 for two concurrent actions"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 走る【はし・る】(u-verb) - to run"
+  },
+  {
+   "type": "text",
+   "text": "2. テレビ - TV, television"
+  },
+  {
+   "type": "text",
+   "text": "3. 観る【み・る】(ru-verb) - to watch"
+  },
+  {
+   "type": "text",
+   "text": "4. 宿題【しゅく・だい】- homework"
+  },
+  {
+   "type": "text",
+   "text": "5. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "6. 音楽【おん・がく】- music"
+  }
+ ]
+}

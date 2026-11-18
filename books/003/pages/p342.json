@@ -1,0 +1,118 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 342,
+ "page_label": "342",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Covered by something 「だらけ、まみれ、ずくめ」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「だらけ」 when an object is riddled everywhere with some-"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Covered by something 「だらけ、まみれ、ずくめ」"
+  },
+  {
+   "type": "text",
+   "text": "This is a short lesson to cover several specialized expressions that describe the state of being covered by something. Mostly, we will focus on the differences between 「だらけ」、「まみれ」 and 「ずくめ」."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「だらけ」 when an object is riddled everywhere with some-"
+  },
+  {
+   "type": "text",
+   "text": "thing"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 間違い【ま・ちが・い】- mistake"
+  },
+  {
+   "type": "text",
+   "text": "2. ゴミ - garbage"
+  },
+  {
+   "type": "text",
+   "text": "3. 埃【ほこり】- dust"
+  },
+  {
+   "type": "text",
+   "text": "4. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "5. ドキュメント - document"
+  },
+  {
+   "type": "text",
+   "text": "6. 全然【ぜん・ぜん】- not at all (when used with negative)"
+  },
+  {
+   "type": "text",
+   "text": "7. 役に立つ【やく・に・たつ】(u-verb) - to be useful"
+  },
+  {
+   "type": "text",
+   "text": "8. 携帯【けい・たい】- handheld (phone)"
+  },
+  {
+   "type": "text",
+   "text": "9. 〜年【〜ねん】- counter for year"
+  },
+  {
+   "type": "text",
+   "text": "10. 使う【つか・う】(u-verb) - to use"
+  },
+  {
+   "type": "text",
+   "text": "11. 傷【き・ず】- injury; scratch; scrape"
+  },
+  {
+   "type": "text",
+   "text": "12. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "13. テレビ - TV, television"
+  },
+  {
+   "type": "text",
+   "text": "14. ちゃんと - properly"
+  },
+  {
+   "type": "text",
+   "text": "15. 拭く【ふ・く】(u-verb) - to wipe; to dry"
+  },
+  {
+   "type": "text",
+   "text": "16. くれる (ru-verb) - to give"
+  },
+  {
+   "type": "text",
+   "text": "「だらけ」 is usually used when something is riddled everywhere. It generally carries a negative connotation. As a result, you'll often see 「だらけ」 used with expressions like 「間違いだらけ」, 「ゴ ミだらけ」, or 「埃だらけ」. There is no conjugation rule to cover here, all you need to do is attach 「だ らけ」 to the noun that is just all over the place. You should treat the result just like you would a regular noun."
+  }
+ ]
+}

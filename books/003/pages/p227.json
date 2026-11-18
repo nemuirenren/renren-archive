@@ -1,0 +1,129 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 227,
+ "page_label": "227",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Honorific and Humble Forms"
+  },
+  {
+   "level": 3,
+   "title": "Honorific and Humble Conjugations"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "1. ごめん。"
+  },
+  {
+   "type": "text",
+   "text": "2. ごめんなさい。"
+  },
+  {
+   "type": "text",
+   "text": "3. すみません。"
+  },
+  {
+   "type": "text",
+   "text": "4. 申し訳ありません。(申し訳 is the humble form of 言い訳)"
+  },
+  {
+   "type": "text",
+   "text": "5. 恐れ入ります。"
+  },
+  {
+   "type": "text",
+   "text": "6. 恐縮です。"
+  },
+  {
+   "type": "text",
+   "text": "In addition, the politest suffix for names is 「様」, one level above 「さん」. You won't be using this suffix too often in actual speech even if you speak to that person in honorific/humble speech. However, expect to use it when writing letters even to people you are somewhat familiar with. Also, service people such as cashiers or waitresses/waiters will normally refer to the customer as 「お客様」. Of course, royalty and deities are always accompanied by 「様」 such as 「神様」."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Honorific and Humble Conjugations"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. お酒【お・さけ】- alcohol"
+  },
+  {
+   "type": "text",
+   "text": "2. お茶【お・ちゃ】- tea"
+  },
+  {
+   "type": "text",
+   "text": "3. お金【お・かね】- money"
+  },
+  {
+   "type": "text",
+   "text": "4. 音読み【おん・よ・み】- Chinese reading"
+  },
+  {
+   "type": "text",
+   "text": "5. 意見【い・けん】- opinion"
+  },
+  {
+   "type": "text",
+   "text": "6. ご飯【ご・はん】- rice; meal"
+  },
+  {
+   "type": "text",
+   "text": "7. 訓読み【くん・よ・み】- Japanese reading"
+  },
+  {
+   "type": "text",
+   "text": "8. 仕事【し・ごと】- job"
+  },
+  {
+   "type": "text",
+   "text": "9. お好み焼き【お・この・み・や・き】- okonomiyaki (Japanese-style pancake)"
+  },
+  {
+   "type": "text",
+   "text": "10. お土産【お・みやげ】- souvenir"
+  },
+  {
+   "type": "text",
+   "text": "11. 返事【へん・じ】- reply"
+  },
+  {
+   "type": "text",
+   "text": "12. 先生【せん・せい】- teacher"
+  },
+  {
+   "type": "text",
+   "text": "13. 見える【み・える】(ru-verb) - to be visible"
+  },
+  {
+   "type": "text",
+   "text": "14. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "15. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "16. 帰る【かえ・る】(u-verb) - to go home"
+  }
+ ]
+}

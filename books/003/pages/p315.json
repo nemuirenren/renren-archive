@@ -1,0 +1,109 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 315,
+ "page_label": "315",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Expressing the minimum expectation 「でさえ、ですら、おろか」"
+  },
+  {
+   "level": 3,
+   "title": "「(で)すら」 - Older version of 「(で)さえ」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "6. 緊張【きん・ちょう】- nervousness"
+  },
+  {
+   "type": "text",
+   "text": "7. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "8. ちらっと - a peek"
+  },
+  {
+   "type": "text",
+   "text": "9. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "10. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "11. 出来る【で・き・る】(ru-verb) - to be able to do"
+  },
+  {
+   "type": "text",
+   "text": "12. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "13. 漢字【かん・じ】- Kanji"
+  },
+  {
+   "type": "text",
+   "text": "14. 知る【し・る】(u-verb) - to know"
+  },
+  {
+   "type": "text",
+   "text": "15. 生徒【せい・と】- student"
+  },
+  {
+   "type": "text",
+   "text": "16. いる (ru-verb) - to exist (animate)"
+  },
+  {
+   "type": "text",
+   "text": "「(で)すら」 is a older variation of 「(で)さえ」 that is not as commonly used. It is essentially interchangeable with 「(で)さえ」 except that it is generally used only with nouns."
+  },
+  {
+   "type": "text",
+   "text": "「(で)すら」is used in the same way as 「(で)さえ」for nouns"
+  },
+  {
+   "type": "text",
+   "text": "For nouns: Attach 「すら」 or 「ですら」 to the minimum requirement."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 私すら - Even me 2. 子供ですら - Even children"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. この天才の私ですらわからなかった。\nEven a genius such as myself couldn't solve it."
+  },
+  {
+   "type": "text",
+   "text": "2. 私は緊張しすぎて、ちらっと見ることすら出来ませんでした。\nI was so nervous that I couldn't even take a quick peek."
+  },
+  {
+   "type": "text",
+   "text": "3. 「人」の漢字すら知らない生徒は、いないでしょ。\nThere are no students that don't even know the 「人」 Kanji!"
+  }
+ ]
+}

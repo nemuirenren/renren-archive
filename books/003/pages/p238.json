@@ -1,0 +1,87 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 238,
+ "page_label": "238",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing various levels of certainty 「かもしれない、でしょう、だろう」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「もの」 as a casual feminine way to emphasize"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 物【もの】- object"
+  },
+  {
+   "type": "text",
+   "text": "2. どうして - why"
+  },
+  {
+   "type": "text",
+   "text": "3. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "4. 授業【じゅ・ぎょう】- class"
+  },
+  {
+   "type": "text",
+   "text": "5. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "The generic object noun 「もの」 can be used as a casual and feminine way of emphasizing something. This is identical to the explanatory feminine emphasis expressed by the 「の」 particle. Just like the explanatory 「の」 particle, the 「の」 is often changed into 「ん」 resulting in 「もん」. Using 「もん」 sounds very feminine and a little cheeky (in a cute way)."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "• どうしてこなかったの？\nWhy didn't (you) come?"
+  },
+  {
+   "type": "text",
+   "text": "1. 授業があったの。\n(I) had class. [feminine explanatory]"
+  },
+  {
+   "type": "text",
+   "text": "2. 授業があったもの。\n(I) had class. [feminine explanatory]"
+  },
+  {
+   "type": "text",
+   "text": "3. 授業があったもん。\n(I) had class, so there. [feminine explanatory]"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Expressing various levels of certainty 「かもしれない、でしょう、だろう」"
+  },
+  {
+   "type": "text",
+   "text": "In general, Japanese people don't assert themselves of something unless they are absolutely sure that it is correct. This accounts for the incredibly frequent use of 「〜と思う」 and the various grammatical expressions used to express specific levels of certainty. We will go over these expressions starting from the less certain to the most certain."
+  }
+ ]
+}

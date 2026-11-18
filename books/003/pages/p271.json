@@ -1,0 +1,109 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 271,
+ "page_label": "271",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Using 方 and よる for comparisons and other functions"
+  },
+  {
+   "level": 3,
+   "title": "Using 「より」 for comparisons"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "5.8. USING 方 AND よる FOR COMPARISONS, ETC"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 花より団子。\nDango rather than flowers. (This is a very famous saying.)"
+  },
+  {
+   "type": "text",
+   "text": "2. ご飯の方が、パンよりおいしい。\nRice tastes better than bread. (lit: The rice way is tasty as opposed to bread.)"
+  },
+  {
+   "type": "text",
+   "text": "3. キムさんより鈴木さんの方が若い。\nSuzuki-san is younger than Kim-san. (lit: The way of Suzuki is young as opposed to Kim-san.)"
+  },
+  {
+   "type": "text",
+   "text": "For those curious about the meaning of the proverb, dango is a sweet doughy treat usually sold at festivals. The proverb is saying that people prefer this treat to watching the flowers, referring to the 「花見」 event where people go out to see the cherry blossoms (and get smashed). The deeper meaning of the proverb, like all good proverbs, depends on how you apply it."
+  },
+  {
+   "type": "text",
+   "text": "Of course, there is no rule that 「より」 must be used with 「方」 . The other way of things can be gleaned from context."
+  },
+  {
+   "type": "text",
+   "text": "鈴木：毎日仕事に行くのが嫌だ。 Suzuki: I don't like going to work everyday."
+  },
+  {
+   "type": "text",
+   "text": "スミス：仕事がないよりましだよ。 Smith: It's not as bad as opposed to not having a job."
+  },
+  {
+   "type": "text",
+   "text": "Words associated with 「より」 do not need any tense. Notice in the following sentence that 「食べる」 in front of 「より」 is present tense even though 「食べる」 in front of 「方」 is past tense."
+  },
+  {
+   "type": "text",
+   "text": "• ゆっくり食べた方が早く食べるよりいい。\nIt is better to eat slowly as opposed to eating quickly."
+  },
+  {
+   "type": "text",
+   "text": "Using 「より」 as a superlative"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 誰【だれ】- who"
+  },
+  {
+   "type": "text",
+   "text": "2. 何【なに】- what"
+  },
+  {
+   "type": "text",
+   "text": "3. どこ - where"
+  },
+  {
+   "type": "text",
+   "text": "4. 商品【しょう・ひん】- product"
+  },
+  {
+   "type": "text",
+   "text": "5. 品質【ひん・しつ】- quality of a good"
+  },
+  {
+   "type": "text",
+   "text": "6. 大切【たい・せつ】(na-adj) - important"
+  },
+  {
+   "type": "text",
+   "text": "7. する (exception) - to do"
+  }
+ ]
+}

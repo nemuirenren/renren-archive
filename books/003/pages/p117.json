@@ -1,0 +1,97 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 117,
+ "page_label": "117",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」"
+  },
+  {
+   "level": 3,
+   "title": "Enduring state-of-being vs enduring state of action"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "away with casual abbreviations. You will be amazed at the extensive types of abbreviations that exist in casual speech. (You may also be amazed at how long everything gets in super polite speech.) Basically, you will get the abbreviations if you just act lazy and slur everything together. Particles also get punted off left and right."
+  },
+  {
+   "type": "text",
+   "text": "For example:"
+  },
+  {
+   "type": "text",
+   "text": "1. 何をしているの？(Those particles are such a pain to say all the time...)"
+  },
+  {
+   "type": "text",
+   "text": "2. 何しているの？(Ugh, I hate having to spell out all the vowels.)"
+  },
+  {
+   "type": "text",
+   "text": "3. 何してんの？(Ah, perfect.)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Enduring state-of-being vs enduring state of action"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 知る【し・る】(u-verb) - to know"
+  },
+  {
+   "type": "text",
+   "text": "2. 分かる【わ・かる】(u-verb) - to understand"
+  },
+  {
+   "type": "text",
+   "text": "3. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "4. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "5. 歌【うた】- song"
+  },
+  {
+   "type": "text",
+   "text": "6. 道【みち】- road"
+  },
+  {
+   "type": "text",
+   "text": "7. はい - yes (polite)"
+  },
+  {
+   "type": "text",
+   "text": "There are certain cases where an enduring state doesn't translate into the progressive form. In fact, there is an ambiguity in whether one is in a state of doing an action versus being in a state that resulted from some action. This is usually decided by context and common practices. For example, although 「結婚 している」 can technically mean someone is in a chapel currently getting married, it is usually used to refer to someone who is already married and is currently in that married state. We'll now discuss some common verbs that often cause this type of confusion for learners of Japanese."
+  },
+  {
+   "type": "text",
+   "text": "「知る」"
+  },
+  {
+   "type": "text",
+   "text": "「知る」 means \"to know\". English is weird in that \"know\" is supposed to be a verb but is actually describing a state of having knowledge. Japanese is more consistent and 「知る」 is just a regular action verb. In other words, I \"knowed\" (action) something and so now I know it (state). That's why the English word \"to know\" is really a continuing state in Japanese, namely: 「知っている」."
+  }
+ ]
+}

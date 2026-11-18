@@ -1,0 +1,102 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 9,
+ "page_label": "9",
+ "kind": "toc",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "6.5.3 Expressing what cannot be done with 「〜かねる」 . . . . . . . . . . . . 327"
+  },
+  {
+   "type": "text",
+   "text": "6.6 Tendencies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 328"
+  },
+  {
+   "type": "text",
+   "text": "6.6.1 Saying something is prone to occur using 「〜がち」 . . . . . . . . . . . 328"
+  },
+  {
+   "type": "text",
+   "text": "6.6.2 Describing an ongoing occurrence using 「〜つつ」 . . . . . . . . . . . . 330"
+  },
+  {
+   "type": "text",
+   "text": "6.6.3 Describing a negative tendency using 「きらいがある」 . . . . . . . . . 333"
+  },
+  {
+   "type": "text",
+   "text": "6.7 Advanced Volitional . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 334"
+  },
+  {
+   "type": "text",
+   "text": "6.7.1 Negative Volitional . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 334"
+  },
+  {
+   "type": "text",
+   "text": "6.7.2 Using the volitional to express a lack of relation . . . . . . . . . . . . . . . 337"
+  },
+  {
+   "type": "text",
+   "text": "6.7.3 Using 「であろう」 to express likelihood . . . . . . . . . . . . . . . . . . 338"
+  },
+  {
+   "type": "text",
+   "text": "6.7.4 Using 「かろう」 as volitional for 「い」 endings . . . . . . . . . . . . . 340"
+  },
+  {
+   "type": "text",
+   "text": "6.8 Covered by something . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 342"
+  },
+  {
+   "type": "text",
+   "text": "6.8.1 Using 「だらけ」 when an object is riddled everywhere with something . 342"
+  },
+  {
+   "type": "text",
+   "text": "6.8.2 Using 「まみれ」 to describe a covering . . . . . . . . . . . . . . . . . . 343"
+  },
+  {
+   "type": "text",
+   "text": "6.8.3 「ずくめ」 to express entirety . . . . . . . . . . . . . . . . . . . . . . . . 344"
+  },
+  {
+   "type": "text",
+   "text": "6.9 Advanced proximity of actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 346"
+  },
+  {
+   "type": "text",
+   "text": "6.9.1 Using 「が早いか」 to describe the instant something occurred . . . . . . 346"
+  },
+  {
+   "type": "text",
+   "text": "6.9.2 Using 「や〜や否や」 to describe what happened right after . . . . . . . 347"
+  },
+  {
+   "type": "text",
+   "text": "6.9.3 Using 「そばから」 to describe an event that repeatedly occurs soon after 349"
+  },
+  {
+   "type": "text",
+   "text": "6.10 Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 350"
+  },
+  {
+   "type": "text",
+   "text": "6.10.1 Using 「思いきや」 to describe something unexpected . . . . . . . . . . 350"
+  },
+  {
+   "type": "text",
+   "text": "6.10.2 Using 「〜がてら」 to do two things at one time . . . . . . . . . . . . . . 351"
+  },
+  {
+   "type": "text",
+   "text": "6.10.3 Using 「〜あげく (挙句)」 to describe a bad result . . . . . . . . . . . . . 352"
+  }
+ ]
+}

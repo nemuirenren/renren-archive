@@ -1,0 +1,125 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 333,
+ "page_label": "333",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Tendencies 「〜がち、〜つつ、きらいがある」"
+  },
+  {
+   "level": 3,
+   "title": "Describing a negative tendency using 「きらいがある」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "4. 今の日本では、終身雇用や年功序列という雇用慣行が崩れつつある。\nIn today's Japan, hiring practices like life-time employment and age-based ranking are tending to\nbreak down."
+  },
+  {
+   "type": "text",
+   "text": "For more examples, check out the WWWJDIC examples."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Describing a negative tendency using 「きらいがある」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 嫌い【きら・い】(na-adj) - distasteful, hateful"
+  },
+  {
+   "type": "text",
+   "text": "2. 依存症【い・ぞん・しょう】- dependence; addiction"
+  },
+  {
+   "type": "text",
+   "text": "3. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "4. 多い【おお・い】(i-adj) - numerous"
+  },
+  {
+   "type": "text",
+   "text": "5. 大学生【だい・がく・せい】- college student"
+  },
+  {
+   "type": "text",
+   "text": "6. 締切日【しめ・きり・び】- closing day; deadline"
+  },
+  {
+   "type": "text",
+   "text": "7. ぎりぎり - at the last moment; just barely"
+  },
+  {
+   "type": "text",
+   "text": "8. 宿題【しゅく・だい】- homework"
+  },
+  {
+   "type": "text",
+   "text": "9. やる (u-verb) - to do"
+  },
+  {
+   "type": "text",
+   "text": "10. コーディング - coding"
+  },
+  {
+   "type": "text",
+   "text": "11. 好き【す・き】(na-adj) - likable; desirable"
+  },
+  {
+   "type": "text",
+   "text": "12. 開発者【かい・はつ・しゃ】- developer"
+  },
+  {
+   "type": "text",
+   "text": "13. ちゃんと - properly"
+  },
+  {
+   "type": "text",
+   "text": "14. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "15. ドキュメント - document"
+  },
+  {
+   "type": "text",
+   "text": "16. 作成【さく・せい】- creation"
+  },
+  {
+   "type": "text",
+   "text": "17. 十分【じゅう・ぶん】- sufficient, adequate"
+  },
+  {
+   "type": "text",
+   "text": "18. テスト - test"
+  },
+  {
+   "type": "text",
+   "text": "19. 怠る【おこた・る】(u-verb) - to shirk"
+  },
+  {
+   "type": "text",
+   "text": "「きらいがある」 is a fixed expression used to describe a bad tendency or habit. I suspect that 「きら い」 here might have something to do with the word for hateful: 「嫌い」. However, unlike 「嫌い」, which is a na-adjective, the 「きらい」 in this grammar functions as a noun. This is made plain by the"
+  }
+ ]
+}

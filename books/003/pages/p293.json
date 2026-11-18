@@ -1,0 +1,106 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 293,
+ "page_label": "293",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「ながら」 with state-of-being"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. テレビを観ながら、宿題をする。\nDo homework while watching TV."
+  },
+  {
+   "type": "text",
+   "text": "2. 音楽を聴きながら、学校へ歩くのが好き。\nLike to walk to school while listening to music."
+  },
+  {
+   "type": "text",
+   "text": "3. 相手に何も言わないながら、自分の気持ちをわかってほしいのは単なるわがままだと思わない？\nDon't you think that wanting the other person to understand one's feelings while not saying anything\nis just simply selfishness?"
+  },
+  {
+   "type": "text",
+   "text": "Notice that the sentence ends with the main verb just like it always does. This means that the main action of the sentence is the verb that ends the clause. The 「ながら」 simply describes another action that is also taking place. For example, if we switched the verbs in the first example to say, 「宿題をしながら、 テレビを観る。」, this changes the sentence to say, \"Watch TV while doing homework.\" In other words, the main action, in this case, becomes watching TV and the action of doing homework is describing an action that is taking place at the same time."
+  },
+  {
+   "type": "text",
+   "text": "The tense is controlled by the main verb so the verb used with 「ながら」 cannot have a tense."
+  },
+  {
+   "type": "text",
+   "text": "1. ポップコーンを食べながら、映画を観る。\nWatch movie while eating popcorn."
+  },
+  {
+   "type": "text",
+   "text": "2. ポップコーンを食べながら、映画を観た。\nWatched movie while eating popcorn."
+  },
+  {
+   "type": "text",
+   "text": "3. 口笛をしながら、手紙を書いていた。\nWas writing letter while whistling."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「ながら」 with state-of-being"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 残念【ざん・ねん】(na-adj) - unfortunate"
+  },
+  {
+   "type": "text",
+   "text": "2. 貧乏【びん・ぼう】(na-adj) - poor"
+  },
+  {
+   "type": "text",
+   "text": "3. 仕事【し・ごと】- job"
+  },
+  {
+   "type": "text",
+   "text": "4. いっぱい - full"
+  },
+  {
+   "type": "text",
+   "text": "5. 入る【はい・る】(u-verb) - to enter"
+  },
+  {
+   "type": "text",
+   "text": "6. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "7. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "8. なる (u-verb) - to become"
+  }
+ ]
+}

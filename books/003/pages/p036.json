@@ -1,0 +1,85 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 36,
+ "page_label": "36",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Introduction to Particles 「は、も、が」"
+  },
+  {
+   "level": 3,
+   "title": "The 「が」 identifier particle"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Example 3"
+  },
+  {
+   "type": "text",
+   "text": "ボブ：アリスは学生？ Bob: Is Alice (you) student?"
+  },
+  {
+   "type": "text",
+   "text": "アリス：ううん、トムも学生じゃない。 Alice: No, and Tom is also not student."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The 「が」 identifier particle"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 誰【だれ】- who"
+  },
+  {
+   "type": "text",
+   "text": "2. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "3. 私【わたし】- me; myself; I"
+  },
+  {
+   "type": "text",
+   "text": "Ok, so we can make a topic using the 「は」 and 「も」 particle. But what if we donʼt know what the topic is? What if I wanted to ask, “Who is the student?”What I need is some kind of identifier because I don't know who the student is. If I use the topic particle, the question would become, “Is who the student?”and that doesn't make any sense because \"who\" is not an actual person."
+  },
+  {
+   "type": "text",
+   "text": "This is where the 「が」 particle comes into play. It is also referred to as the subject particle but I hate that name since \"subject\" means something completely different in English grammar. Instead, I call it the identifier particle because the particle indicates that the speaker wants to identify something unspecified."
+  },
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "ボブ：誰が学生？ Bob: Who is the one that is student?"
+  },
+  {
+   "type": "text",
+   "text": "アリス：ジョンが学生。 Alice: John is the one who is student."
+  },
+  {
+   "type": "text",
+   "text": "Bob wants to identify who among all the possible candidates is a student. Alice responds that John is the one. Notice, Alice could also have answered with the topic particle to indicate that, speaking of John, she knows that he is a student (maybe not the student). You can see the difference in the next example."
+  }
+ ]
+}

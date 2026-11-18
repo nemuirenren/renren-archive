@@ -1,0 +1,116 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 345,
+ "page_label": "345",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Covered by something 「だらけ、まみれ、ずくめ」"
+  },
+  {
+   "level": 3,
+   "title": "「ずくめ」 to express entirety"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 白【しろ】- white"
+  },
+  {
+   "type": "text",
+   "text": "3. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "4. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "5. 団体【だん・たい】- group"
+  },
+  {
+   "type": "text",
+   "text": "6. 去年【きょ・ねん】- last year"
+  },
+  {
+   "type": "text",
+   "text": "7. ニュース - news"
+  },
+  {
+   "type": "text",
+   "text": "8. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "9. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "10. シェーク - shake"
+  },
+  {
+   "type": "text",
+   "text": "11. おいしい (i-adj) - tasty"
+  },
+  {
+   "type": "text",
+   "text": "12. 栄養【えい・よう】- nutrition"
+  },
+  {
+   "type": "text",
+   "text": "13. たっぷり - filled with"
+  },
+  {
+   "type": "text",
+   "text": "14. 体【からだ】- body"
+  },
+  {
+   "type": "text",
+   "text": "The 「大辞林」 dictionary describes exactly what 「ずくめ」 means very well."
+  },
+  {
+   "type": "text",
+   "text": "名詞およびそれに準ずる語句に付いて、何から何まで、そればかりであることを表す。すべて…であ る。 「うそ ― の言いわけ」「いいこと ―」「黑 ― の服装」「結構 ―」"
+  },
+  {
+   "type": "text",
+   "text": "In other words, 「ずくめ」 describes something that applies to the whole thing. For instance, if we were talking about the human body, the expression \"is [X] from head to toe\" might be close to what 「ずくめ」 means."
+  },
+  {
+   "type": "text",
+   "text": "In actuality, 「ずくめ」 is an expression that is rarely used and usually with a color to describe people completely dressed in that color. For example, you can see what 「黑ずくめ」 looks like via Google Images."
+  },
+  {
+   "type": "text",
+   "text": "Grammatically, 「ずくめ」 works in exactly the same ways as 「だらけ」 and 「まみれ」."
+  },
+  {
+   "type": "text",
+   "text": "Using 「ずくめ」to describe something that applies to the whole thing"
+  },
+  {
+   "type": "text",
+   "text": "• Attach 「ずくめ」 to the noun that applies to the whole thing."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 白 → 白ずくめ 2. いいこと → いいことずくめ"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 323,
+ "page_label": "323",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Formal expressions of non-feasibility 「〜ざるを得ない、やむを得ない、〜かねる」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Using 「めく」to indicate that one seems to want to do something"
+  },
+  {
+   "type": "text",
+   "text": "Attach 「めく」 to the noun or na-adjective. The result then becomes a regular u-verb."
+  },
+  {
+   "type": "text",
+   "text": "Example: 謎 → 謎めく"
+  },
+  {
+   "type": "text",
+   "text": "Summary of basic conjugations\nPositive               Negative\nNon-Past            謎めく                 * 謎めかない\npuzzling atmosphere not puzzling atmosphere\nPast            謎めいた               * 謎めかなかった\npuzzled atmosphere not puzzled atmosphere"
+  },
+  {
+   "type": "text",
+   "text": "*The negatives conjugations are theoretically possible but are not likely used. The most common usage is the past tense."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 紅葉が始まり、すっかり秋めいた空気になってきた。\nWith the leaves starting to change color, the air came to become quite autumn like."
+  },
+  {
+   "type": "text",
+   "text": "2. そんな謎めいた顔をされても、うまく説明できないよ。\nEven having that kind of puzzled look done to me, I can't explain it very well, you know."
+  },
+  {
+   "type": "text",
+   "text": "3. いつも皮肉めいた言い方をしたら、みんなを嫌がらせるよ。\nYou'll make everyone dislike you if you keep speaking with that ironic tone, you know."
+  },
+  {
+   "type": "text",
+   "text": "For a whole slew of additional real world examples, check out the jeKai entry. It states that the grammar can be used for adverbs and other parts of speech but none of the numerous examples show this and even assuming it's possible, it's probably not practiced in reality."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Formal expressions of non-feasibility 「〜ざるを得ない、やむを得ない、〜かねる」"
+  },
+  {
+   "type": "text",
+   "text": "We learned how to express feasibility in the section on the potential form quite a while ways back. In this section, we'll learn some advanced and specialized ways to express certain types of feasibility or the lack thereof. Like much of the grammar in the Advanced Section, the grammar covered here is mostly used for written works and rarely used in regular speech."
+  }
+ ]
+}

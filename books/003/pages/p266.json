@@ -1,0 +1,109 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 266,
+ "page_label": "266",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing hearsay or behavior using 「〜らしい」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing hearsay or behavior using 「〜らしい」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "2. 田中【た・なか】- Tanaka (last name)"
+  },
+  {
+   "type": "text",
+   "text": "3. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "4. あの - that (over there) (abbr. of あれの)"
+  },
+  {
+   "type": "text",
+   "text": "5. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "6. 何【なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "7. 美由紀【み・ゆ・き】- Miyuki (first name)"
+  },
+  {
+   "type": "text",
+   "text": "8. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "9. 子【こ】- child"
+  },
+  {
+   "type": "text",
+   "text": "10. 子供【こ・ども】- child"
+  },
+  {
+   "type": "text",
+   "text": "11. 大人【おとな】- adult"
+  },
+  {
+   "type": "text",
+   "text": "12. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "13. つもり - intention, plan"
+  },
+  {
+   "type": "text",
+   "text": "14. 大騒ぎ【おお・さわ・ぎ】- big commotion"
+  },
+  {
+   "type": "text",
+   "text": "「らしい」 can be directly attached to nouns, adjectives, or verbs to show that things appear to be a certain way due to what you've heard. This is different from 「〜そうだ」because 「〜そうだ」 indicates something you heard about specifically while 「らしい」 means things seem to be a certain way based on some things you heard about the subject. 「らしい」 conjugates like a normal i-adjective."
+  },
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "A：今日、田中さんはこないの？ A: Is Tanaka-san not coming today?"
+  },
+  {
+   "type": "text",
+   "text": "B：こないらしい。 B: Seems like it (based on what I heard)."
+  }
+ ]
+}

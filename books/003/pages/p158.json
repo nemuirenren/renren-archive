@@ -1,0 +1,111 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 158,
+ "page_label": "158",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Defining and Describing 「という」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「いう」 to define"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Defining and Describing 「という」"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The various uses of 「いう」"
+  },
+  {
+   "type": "text",
+   "text": "In the previous lesson, we learned how to quote a relative clause by encasing it with 「と」. This allowed us to talk about things that people have said, heard, thought, and more. We also took a look at some examples sentences that used 「と」 and 「言う」 to describe how to say something in Japanese and even what to call oneself. In this section, we will learn that with 「と」, we can use 「いう」 in a similar fashion to define, describe, and generally just talk about the thing itself. We'll also see how to do the same thing with the casual 「って」 version we first learned about in the last lesson."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「いう」 to define"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "2. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "3. 何【なに〜なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "4. 魚【さかな】- fish"
+  },
+  {
+   "type": "text",
+   "text": "5. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "6. 鯛【たい】- tai (type of fish)"
+  },
+  {
+   "type": "text",
+   "text": "7. デパート - department store"
+  },
+  {
+   "type": "text",
+   "text": "8. どこ - where"
+  },
+  {
+   "type": "text",
+   "text": "9. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "10. 知る【し・る】(u-verb) - to know"
+  },
+  {
+   "type": "text",
+   "text": "11. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "12. 英語【えい・ご】- English (language)"
+  },
+  {
+   "type": "text",
+   "text": "13. 意味【い・み】- meaning"
+  },
+  {
+   "type": "text",
+   "text": "In the last lesson, we briefly looked at how to introduce ourselves by using 「と」 and 「いう」 . For instance, we had the following example, which Alice used to introduce herself."
+  },
+  {
+   "type": "text",
+   "text": "• 私はアリスといいます。\nI am called Alice. (lit: As for me, you say Alice.)"
+  }
+ ]
+}

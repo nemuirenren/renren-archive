@@ -1,0 +1,101 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 261,
+ "page_label": "261",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」"
+  },
+  {
+   "level": 3,
+   "title": "Guessing at an outcome using 「〜そう」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 制服を着ている姿をみると、学生みたいです。\nLooking at the uniform-wearing figure, (person) looks like a student."
+  },
+  {
+   "type": "text",
+   "text": "The implied meaning here is the person wearing the uniform is not really a student because he/she only looks like a student. This is different from example 3 from the previous 「よう」 section which implied that the person appears to be (but might not be) a student. Again, we also can't say 「おいしいみた い」 to say that something looks tasty because it implies that, in actuality, the food might not be so good. Similarly, you would never say 「かわいいみたい」 to say that something looks cute."
+  },
+  {
+   "type": "text",
+   "text": "Don't forget that 「みたい」 does not conjugate like the 「〜たい」 form or i-adjectives."
+  },
+  {
+   "type": "text",
+   "text": "• このピザはお好み焼きみたくない？\n(みたい conjugates like a na-adjective.)"
+  },
+  {
+   "type": "text",
+   "text": "• このピザはお好み焼きみたいじゃない？\nDoesn't this pizza looks like okonomiyaki?"
+  },
+  {
+   "type": "text",
+   "text": "「みたい」 is a grammar used mostly for conversational Japanese. Do not use it in essays, articles, or anything that needs to sound authoritative. You can use 「よう」 instead in the following fashion."
+  },
+  {
+   "type": "text",
+   "text": "1. もう売り切れのようだ。\nIt appears that it is sold-out already."
+  },
+  {
+   "type": "text",
+   "text": "2. このピザはお好み焼きのように見える。\nThis pizza looks like okonomiyaki."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Guessing at an outcome using 「〜そう」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "2. バランス - balance"
+  },
+  {
+   "type": "text",
+   "text": "3. 崩れる【くず・れる】(ru-verb) - to collapse; to crumble"
+  },
+  {
+   "type": "text",
+   "text": "4. 一瞬【いっ・しゅん】- an instant"
+  },
+  {
+   "type": "text",
+   "text": "5. 倒れる【たお・れる】(ru-verb) - to collapse; to fall"
+  },
+  {
+   "type": "text",
+   "text": "6. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "7. 辺り【あた・り】- vicinity"
+  },
+  {
+   "type": "text",
+   "text": "8. ある (u-verb) - to exist (inanimate)"
+  }
+ ]
+}

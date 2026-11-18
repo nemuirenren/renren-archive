@@ -1,0 +1,101 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 100,
+ "page_label": "100",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "The Question Marker 「か」"
+  },
+  {
+   "level": 3,
+   "title": "Using question words"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "7. 知る【し・る】(u-verb) - to know"
+  },
+  {
+   "type": "text",
+   "text": "8. 犯人【はん・にん】- criminal"
+  },
+  {
+   "type": "text",
+   "text": "9. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "10. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "11. 中【なか】- inside"
+  },
+  {
+   "type": "text",
+   "text": "12. 〜から (particle) - from 〜"
+  },
+  {
+   "type": "text",
+   "text": "13. 選ぶ【えら・ぶ】(u-verb) - to select"
+  },
+  {
+   "type": "text",
+   "text": "While we're on the topic of questions, this is a good time to go over question words (where, who, what, etc.) and what they mean in various contexts. Take a look at what adding the question marker does to the meaning of the words."
+  },
+  {
+   "type": "text",
+   "text": "Question Words Word+Question Marker Meaning 誰か Someone 何か Something いつか Sometime どこか Somewhere どれか A certain one from many"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "As you can see by the following examples, you can treat these words just like any regular nouns."
+  },
+  {
+   "type": "text",
+   "text": "1. 誰かがおいしいクッキーを全部食べた。\nSomeone ate all the delicious cookies."
+  },
+  {
+   "type": "text",
+   "text": "2. 誰が盗んだのか、誰か知りませんか。\nDoesn't anybody know who stole it?"
+  },
+  {
+   "type": "text",
+   "text": "3. 犯人をどこかで見ましたか。\nDid you see the criminal somewhere?"
+  },
+  {
+   "type": "text",
+   "text": "4. この中からどれかを選ぶの。\n(Explaining) You are to select a certain one from inside this (selection)."
+  },
+  {
+   "type": "text",
+   "text": "Question words with inclusive meaning"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 全部【ぜん・ぶ】- everything"
+  }
+ ]
+}

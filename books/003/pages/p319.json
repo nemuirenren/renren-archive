@@ -1,0 +1,85 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 319,
+ "page_label": "319",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Showing signs of something 「〜がる、ばかり、〜めく」"
+  },
+  {
+   "level": 3,
+   "title": "Showing outward signs of an emotion using 「〜がる」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Using 「〜がる」for observing the emotions or feelings of others"
+  },
+  {
+   "type": "text",
+   "text": "For i-adjectives: Remove the last 「い」 from the i-adjective and then attach 「がる」"
+  },
+  {
+   "type": "text",
+   "text": "Example: 怖い → 怖がる"
+  },
+  {
+   "type": "text",
+   "text": "For na-adjectives: Attach 「がる」 to the end of the na-adjective"
+  },
+  {
+   "type": "text",
+   "text": "Example: 嫌 → 嫌がる"
+  },
+  {
+   "type": "text",
+   "text": "All adjectives that are conjugated with 「〜がる」 become an u-verb\nPositive                    Negative\nNon-Past         怖がる                        怖がらない\nact scared                 not act scared\nPast         怖がった                     怖がらなかった\nacted scared                didn't act scared"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 早くきてよ。何を恥ずかしがっているの？\nHurry up and come here. What are you acting all embarrassed for?"
+  },
+  {
+   "type": "text",
+   "text": "2. 彼女は朝早く起こされるのを嫌がるタイプです。\nMy girlfriend is the type to show dislike towards getting woken up early in the morning."
+  },
+  {
+   "type": "text",
+   "text": "3. うちの子供はプールに入るのを理由もなく怖がる。\nOur child acts afraid about entering a pool without any reason."
+  },
+  {
+   "type": "text",
+   "text": "This grammar is also used to observe very frankly on what you think someone other than yourself wants. This involves the adjective 「欲しい」 for things one wants or the 「〜たい」 conjugation for actions one wants to do, which is essentially a verb conjugated to an i-adjective. This type of grammar is more suited for things like narration in a story and is rarely used in this fashion for normal conversations because of its impersonal style of observation. For casual conversations, it is more common to use 「でしょう」 such as in, 「カレーを食べたいでしょう。」 . For polite conversations, it is normal to not make any assumptions at all or to use the 「よね」 sentence ending such as in 「カレーを食べたいですか。」 or 「カレーを食べたいですよね。」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 家に帰ったら、すぐパソコンを使いたがる。\n(He) soon acts like wanting to use computer as soon as (he) gets home."
+  },
+  {
+   "type": "text",
+   "text": "2. みんなイタリアに行きたがってるんだけど、私の予算で行けるかどうかはとても怪しい。\nEverybody is acting like they want to go to Italy but it's suspicious whether I can go or not going by\nmy budget."
+  }
+ ]
+}

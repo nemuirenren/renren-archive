@@ -1,0 +1,114 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 241,
+ "page_label": "241",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing various levels of certainty 「かもしれない、でしょう、だろう」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「でしょう」 and 「だろう」 to express strong amount of"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 明日【あした】- tomorrow"
+  },
+  {
+   "type": "text",
+   "text": "3. 雨【あめ】- rain"
+  },
+  {
+   "type": "text",
+   "text": "4. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "5. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "6. どこ - where"
+  },
+  {
+   "type": "text",
+   "text": "7. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "8. 休む【やす・む】(u-verb) - to rest"
+  },
+  {
+   "type": "text",
+   "text": "9. いただく (u-verb) - to receive; to eat; to drink (humble)"
+  },
+  {
+   "type": "text",
+   "text": "「でしょう」 is used to express a level of some certainty and is close in meaning to 「多分」 . Just like 「〜です〜〜ます」 , it must come at the end of a complete sentence. It does not have any other conjugations. You can also replace 「〜ですか」 with 「〜でしょうか」 to make the question sound slightly more polite and less assuming by adding a slight level of uncertainty."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 明日も雨でしょう。\nProbably rain tomorrow too."
+  },
+  {
+   "type": "text",
+   "text": "2. 学生さんでしょうか。\nAre (you) student?"
+  },
+  {
+   "type": "text",
+   "text": "3. これからどこへ行くんでしょうか？\nWhere (are you) going from here?"
+  },
+  {
+   "type": "text",
+   "text": "If you want to sound really, really polite, you can even add 「〜でしょうか」 to the end of a 「〜ます」 ending."
+  },
+  {
+   "type": "text",
+   "text": "• 休ませていただけますでしょうか。- May I receive the favor of resting, possibly?"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「でしょう」 and 「だろう」 to express strong amount of"
+  },
+  {
+   "type": "text",
+   "text": "certainty (casual)"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 遅刻【ち・こく】- tardiness"
+  },
+  {
+   "type": "text",
+   "text": "2. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "3. 時間【じ・かん】- time"
+  }
+ ]
+}

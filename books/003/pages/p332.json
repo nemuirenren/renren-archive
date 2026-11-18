@@ -1,0 +1,85 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 332,
+ "page_label": "332",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Tendencies 「〜がち、〜つつ、きらいがある」"
+  },
+  {
+   "level": 3,
+   "title": "Describing an ongoing occurrence using 「〜つつ」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "「つつ」 is a verb modifier that can be attached to the stem of verbs to express an ongoing occurrence. Though the meaning stays essentially the same, there are essentially two ways to use this grammar. The first is almost identical to the 「〜ながら」 grammar. You can use 「つつ」 to describe an action that is taking place while another action is ongoing. However, there are several major differences between 「つつ」 and 「〜ながら」. First, the tone of 「つつ」 is very different from that of 「〜ながら」 and you would rarely, if ever, use it for regular everyday occurences. To go along with this, 「つつ」 is more appropriate for more literary or abstract actions such as those involving emotions or thoughts. Second, 「〜ながら」 is used to describe an auxiliary action that takes place while the main action is going on. However, with 「つつ」, both actions have equal weight."
+  },
+  {
+   "type": "text",
+   "text": "For example, it would sound very strange to say the following."
+  },
+  {
+   "type": "text",
+   "text": "• テレビを見つつ、寝ちゃダメよ。\n(Sounds unnatural)"
+  },
+  {
+   "type": "text",
+   "text": "• テレビを見ながら、寝ちゃダメよ。\nDon't watch TV while sleeping!"
+  },
+  {
+   "type": "text",
+   "text": "The second way to use this grammar is to express the existence of a continuing process by using 「あ る」, the verb for existence. Everything is the same as before except that you attach 「ある」 to 「つつ」 to produce 「〜つつある」. This is often used in magazine or newspaper articles to describe a certain trend or tide."
+  },
+  {
+   "type": "text",
+   "text": "Using 「〜つつ」to describe a repetitive occurrence"
+  },
+  {
+   "type": "text",
+   "text": "• To describe an ongoing action, attach 「つつ」 to the stem of the verb."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 見る → 見つつ 2. 思う → 思い → 思いつつ"
+  },
+  {
+   "type": "text",
+   "text": "• To show the existence of a trend or tide, add 「ある」 to 「つつ」\nExample: なる → なり → なりつつ → なりつつある"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 二日酔いで痛む頭を押さえつつ、トイレに入った。\nWent into the bathroom while holding an aching head from a hangover."
+  },
+  {
+   "type": "text",
+   "text": "2. 体によくないと思いつつ、最近は全然運動してない。\nWhile thinking it's bad for body, haven't exercised at all recently."
+  },
+  {
+   "type": "text",
+   "text": "3. 電気製品の発展につれて、ハードディスクの容量はますます大きくなりつつある。\nLead by the advancement of electronic products, hard disk drive capacities are becoming ever\nlarger."
+  }
+ ]
+}

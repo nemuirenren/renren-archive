@@ -1,0 +1,113 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 73,
+ "page_label": "73",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Noun-related Particles 「と、や、とか、の」"
+  },
+  {
+   "level": 3,
+   "title": "The 「の」 particle as explanation"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "*Warning: This may make things seem like you can replace any arbitrary nouns with 「の」 but this is not so. It is important to realize that the sentence must be about the clause and not the noun that was replaced. For example, in the last section we had the sentence, 「学生じゃない人は、 学校に行かな い」. You may think that you can just replace 「人」 with 「の」 to produce 「学生じゃないのは、学 校に行かない」 . But in fact, this makes no sense because the sentence is now about the clause \"Is not student\". The sentence becomes, \"The thing of not being student does not go to school\" which is complete gibberish because not being a student is a state and it doesn't make sense for a state to go anywhere much less school."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The 「の」 particle as explanation"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 今【いま】- now"
+  },
+  {
+   "type": "text",
+   "text": "2. 忙しい【いそが・しい】(i-adj) - busy"
+  },
+  {
+   "type": "text",
+   "text": "3. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "4. 飲む【のむ】- to drink"
+  },
+  {
+   "type": "text",
+   "text": "5. どこ - where"
+  },
+  {
+   "type": "text",
+   "text": "6. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "7. 授業【じゅ・ぎょう】- class"
+  },
+  {
+   "type": "text",
+   "text": "8. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "9. ううん - casual word for \"no\" (nah, uh-uh)"
+  },
+  {
+   "type": "text",
+   "text": "10. その - that (abbr. of それの)"
+  },
+  {
+   "type": "text",
+   "text": "11. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "12. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "13. 先生【せん・せい】- teacher"
+  },
+  {
+   "type": "text",
+   "text": "14. 朝ご飯【あさ・ご・はん】- breakfast"
+  },
+  {
+   "type": "text",
+   "text": "15. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "16. どうして - why"
+  },
+  {
+   "type": "text",
+   "text": "The 「の」 particle attached at the end of the last clause of a sentence can also convey an explanatory tone to your sentence. For example, if someone asked you if you have time, you might respond, \"The thing is I'm kind of busy right now.\" The abstract generic noun of \"the thing is...\" can also be expressed with the 「の」 particle. This type of sentence has an embedded meaning that explains the reason(s) for something else."
+  },
+  {
+   "type": "text",
+   "text": "The sentence would be expressed like so:"
+  }
+ ]
+}

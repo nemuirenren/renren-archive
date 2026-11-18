@@ -1,0 +1,112 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 162,
+ "page_label": "162",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Defining and Describing 「という」"
+  },
+  {
+   "level": 3,
+   "title": "Rephrasing and making conclusions with 「という」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "13. お金【お・かね】- money"
+  },
+  {
+   "type": "text",
+   "text": "14. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "15. 帰る【かえ・る】(u-verb) - to go home"
+  },
+  {
+   "type": "text",
+   "text": "16. 駄目【だめ】- no good"
+  },
+  {
+   "type": "text",
+   "text": "17. 洋介【よう・すけ】- Yousuke (first name)"
+  },
+  {
+   "type": "text",
+   "text": "18. 別れる【わか・れる】(ru-verb) - to separate; to break up"
+  },
+  {
+   "type": "text",
+   "text": "19. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "20. 今【いま】- now"
+  },
+  {
+   "type": "text",
+   "text": "21. 彼氏【かれ・し】- boyfriend"
+  },
+  {
+   "type": "text",
+   "text": "22. いる (ru-verb) - to exist (animate)"
+  },
+  {
+   "type": "text",
+   "text": "23. そう - (things are) that way"
+  },
+  {
+   "type": "text",
+   "text": "We can attach the question marker 「か」 to 「という」 in order to add a questioning element. This construction is used when you want to rephrase or redefine something such as the following dialogue."
+  },
+  {
+   "type": "text",
+   "text": "Example Dialogue"
+  },
+  {
+   "type": "text",
+   "text": "A：みきちゃんは、あんたの彼女でしょう？ A: Miki-chan is your girlfriend, right?"
+  },
+  {
+   "type": "text",
+   "text": "B：う〜ん、彼女というか、友達というか、なんというか・・・ B:Um, you might say girlfriend, or friend, or something…"
+  },
+  {
+   "type": "text",
+   "text": "This construction is used all the time, particularly in casual conversations. It can be used to correct something, come to a different conclusion, or even as an interjection."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. お酒は好きというか、ないと生きていけない。\nI like alcohol or rather, can't live on without it."
+  },
+  {
+   "type": "text",
+   "text": "2. 多分行かないと思う。というか、お金がないから、行けない。\nDon't think I'll go. Or rather, can't because there's no money."
+  },
+  {
+   "type": "text",
+   "text": "3. というか、もう帰らないとだめですけど。\nRather than that, I have to go home already."
+  },
+  {
+   "type": "text",
+   "text": "Rather than using「か」to rephrase a conclusion, we can also simply use「こと」to sum up something without rephrasing anything."
+  }
+ ]
+}

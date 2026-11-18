@@ -1,0 +1,141 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 292,
+ "page_label": "292",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「ながら」 for two concurrent actions"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "7. 聴く【き・く】(u-verb) - to listen (e.g. to music);"
+  },
+  {
+   "type": "text",
+   "text": "8. 学校【がっ・こう】- school"
+  },
+  {
+   "type": "text",
+   "text": "9. 歩く【ある・く】(u-verb) - to walk"
+  },
+  {
+   "type": "text",
+   "text": "10. 好き【す・き】(na-adj) - likable"
+  },
+  {
+   "type": "text",
+   "text": "11. 相手【あい・て】- other party"
+  },
+  {
+   "type": "text",
+   "text": "12. 何【なに〜なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "13. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "14. 自分【じ・ぶん】- oneself"
+  },
+  {
+   "type": "text",
+   "text": "15. 気持ち【き・も・ち】- feeling"
+  },
+  {
+   "type": "text",
+   "text": "16. 分かる【わ・かる】(u-verb) - to understand"
+  },
+  {
+   "type": "text",
+   "text": "17. 欲しい【ほ・しい】(i-adj) - desirable"
+  },
+  {
+   "type": "text",
+   "text": "18. 単なる【たん・なる】- simply"
+  },
+  {
+   "type": "text",
+   "text": "19. わがまま (na-adj) - selfish"
+  },
+  {
+   "type": "text",
+   "text": "20. 思う【おも・う】(u-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "21. ポップコーン - popcorn"
+  },
+  {
+   "type": "text",
+   "text": "22. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "23. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "24. 口笛【くち・ぶえ】- whistle"
+  },
+  {
+   "type": "text",
+   "text": "25. 手紙【て・がみ】- letter"
+  },
+  {
+   "type": "text",
+   "text": "26. 書く【か・く】(u-verb) - to write"
+  },
+  {
+   "type": "text",
+   "text": "You can use 「ながら」 to express that one action is taking place in conjunction with another action. To use 「ながら」, you must change the first verb to the stem and append 「ながら」. Though probably rare, you can also attach 「ながら」 to the negative of the verb to express the negative. This grammar has no tense since it is determined by the second verb."
+  },
+  {
+   "type": "text",
+   "text": "Using 「ながら」for concurrent actions"
+  },
+  {
+   "type": "text",
+   "text": "• Change the first verb to the stem and append 「ながら」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Example"
+  },
+  {
+   "type": "text",
+   "text": "走る → 走り → 走りながら"
+  },
+  {
+   "type": "text",
+   "text": "• For the negative, attach 「ながら」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Example"
+  },
+  {
+   "type": "text",
+   "text": "走る → 走らない → 走らないながら"
+  }
+ ]
+}

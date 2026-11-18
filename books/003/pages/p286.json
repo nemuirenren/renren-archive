@@ -1,0 +1,89 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 286,
+ "page_label": "286",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Hypothesizing and Concluding 「わけ、〜とする」"
+  },
+  {
+   "level": 3,
+   "title": "Making hypotheses with 「とする」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Example 2"
+  },
+  {
+   "type": "text",
+   "text": "直子：広子の家に行ったことある？ Naoko: Have you ever gone to Hiroko's house?"
+  },
+  {
+   "type": "text",
+   "text": "一郎：あるわけないでしょう。 Ichirou: There's no way I would have ever gone to her house, right?"
+  },
+  {
+   "type": "text",
+   "text": "Example 3"
+  },
+  {
+   "type": "text",
+   "text": "直子：微積分は分かる？ Naoko: Do you understand (differential and integral) calculus?"
+  },
+  {
+   "type": "text",
+   "text": "一郎：分かるわけないよ。 Ichirou: There's no way I would understand!"
+  },
+  {
+   "type": "text",
+   "text": "There is one thing to be careful of because 「わけない」 can also mean that something is very easy (lit: requires no explanation). You can easily tell when this meaning is intended however, because it is used in the same manner as an adjective."
+  },
+  {
+   "type": "text",
+   "text": "• ここの試験に合格するのはわけない。\nIt's easy to pass the tests here."
+  },
+  {
+   "type": "text",
+   "text": "Finally, although not as common, 「わけ」 can also be used as a formal expression for saying that something must or must not be done at all costs. This is simply a stronger and more formal version of 「〜てはいけない」 . This grammar is created by simply attaching 「わけにはいかない」 . The 「は」 is the topic particle and is pronounced 「わ」. The reason 「いけない」 changes to 「いかない」 is probably related to intransitive and transitive verbs but I don't want to get too caught up in the logistics of it. Just take note that it's 「いかない」 in this case and not 「いけない」."
+  },
+  {
+   "type": "text",
+   "text": "1. 今度は負けるわけにはいかない。\nThis time, I must not lose at all costs."
+  },
+  {
+   "type": "text",
+   "text": "2. ここまできて、あきらめるわけにはいかない。\nAfter coming this far, I must not give up."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Making hypotheses with 「とする」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "2. 明日【あした】- tomorrow"
+  }
+ ]
+}

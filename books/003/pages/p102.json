@@ -1,0 +1,100 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 102,
+ "page_label": "102",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "The Question Marker 「か」"
+  },
+  {
+   "level": 3,
+   "title": "Using question words"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 友達はいつも遅れる。\nFriend is always late."
+  },
+  {
+   "type": "text",
+   "text": "3. ここにあるレストランはどれもおいしくない。\nAny and all restaurants that are here are not tasty."
+  },
+  {
+   "type": "text",
+   "text": "4. 今週末は、どこにも行かなかった。\nWent nowhere this weekend."
+  },
+  {
+   "type": "text",
+   "text": "(Grammatically, this 「も」 is the same as the topic particle 「も」 so the target particle 「に」 must go before the topic particle 「も」 in ordering.)"
+  },
+  {
+   "type": "text",
+   "text": "Question words to mean \"any\""
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "2. 質問【しつ・もん】- question"
+  },
+  {
+   "type": "text",
+   "text": "3. 答え【こた・え】- answer"
+  },
+  {
+   "type": "text",
+   "text": "4. 分かる【わ・かる】(u-verb) - to understand"
+  },
+  {
+   "type": "text",
+   "text": "5. 昼ご飯【ひる・ご・はん】- lunch"
+  },
+  {
+   "type": "text",
+   "text": "6. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "7. あの - that (over there) (abbr. of あれの)"
+  },
+  {
+   "type": "text",
+   "text": "8. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "9. 本当【ほん・とう】- real"
+  },
+  {
+   "type": "text",
+   "text": "10. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "The same question words combined with 「でも」 can be used to mean \"any\". One thing to be careful about is that 「何でも」 is read as 「なんでも」 and not 「なにでも」"
+  },
+  {
+   "type": "text",
+   "text": "Words for \"Any\" Word+ でも Meaning 誰でも Anybody 何でも Anything いつでも Anytime どこでも Anywhere どれでも Whichever"
+  }
+ ]
+}

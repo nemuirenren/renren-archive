@@ -1,0 +1,134 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 317,
+ "page_label": "317",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Showing signs of something 「〜がる、ばかり、〜めく」"
+  },
+  {
+   "level": 3,
+   "title": "Showing outward signs of an emotion using 「〜がる」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Showing signs of something 「〜がる、ばかり、〜めく」"
+  },
+  {
+   "type": "text",
+   "text": "In this lesson, we'll learn various expressions involving how to describe people who are expressing themselves without words. For example, we'll learn how to say expressions in Japanese such as \"They acted as if they were saying goodbye,\" \"He acted disgusted,\" and \"She acts like she wants to go.\""
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Showing outward signs of an emotion using 「〜がる」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 嫌【いや】(na-adj) disagreeable; unpleasant"
+  },
+  {
+   "type": "text",
+   "text": "2. 怖い【こわ・い】(i-adj) - scary"
+  },
+  {
+   "type": "text",
+   "text": "3. 嬉しい【うれ・しい】(i-adj) - happy"
+  },
+  {
+   "type": "text",
+   "text": "4. 恥ずかしい【は・ずかしい】(i-adj) - embarrassing"
+  },
+  {
+   "type": "text",
+   "text": "5. 早い【はや・い】(i-adj) - fast; early"
+  },
+  {
+   "type": "text",
+   "text": "6. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "7. 何【なに〜なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "8. いる (ru-verb) - to exist (animate)"
+  },
+  {
+   "type": "text",
+   "text": "9. 彼女【かの・じょ】- she; girlfriend"
+  },
+  {
+   "type": "text",
+   "text": "10. 朝【あさ】- morning"
+  },
+  {
+   "type": "text",
+   "text": "11. 起こす【お・こす】(u-verb) - to cause, to wake someone"
+  },
+  {
+   "type": "text",
+   "text": "12. タイプ - type"
+  },
+  {
+   "type": "text",
+   "text": "13. うち - referring to one's in-group, i.e. company, etc."
+  },
+  {
+   "type": "text",
+   "text": "14. 子供【こ・ども】- child"
+  },
+  {
+   "type": "text",
+   "text": "15. プール - pool"
+  },
+  {
+   "type": "text",
+   "text": "16. 入る【はい・る】(u-verb) - to enter"
+  },
+  {
+   "type": "text",
+   "text": "17. 理由【り・ゆう】- reason"
+  },
+  {
+   "type": "text",
+   "text": "18. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "19. 欲しい【ほ・しい】(i-adj) - desirable"
+  },
+  {
+   "type": "text",
+   "text": "20. カレー- curry"
+  },
+  {
+   "type": "text",
+   "text": "21. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "22. 家【1) うち; 2) いえ】- 1) one's own home; 2) house"
+  }
+ ]
+}

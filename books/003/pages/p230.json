@@ -1,0 +1,113 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 230,
+ "page_label": "230",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Honorific and Humble Forms"
+  },
+  {
+   "level": 3,
+   "title": "Making honorific requests"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Humble Form"
+  },
+  {
+   "type": "text",
+   "text": "Humble verbs are formed in the following fashion."
+  },
+  {
+   "type": "text",
+   "text": "Humble Conjugation: お + stem + する"
+  },
+  {
+   "type": "text",
+   "text": "You've probably already heard the first example many times before but now you know exactly where it comes from."
+  },
+  {
+   "type": "text",
+   "text": "1. よろしくお願いします。\nI properly make request."
+  },
+  {
+   "type": "text",
+   "text": "2. 先生、お聞きしたいことがありますが。\nTeacher, there's something I want to ask you."
+  },
+  {
+   "type": "text",
+   "text": "3. すみません、お待たせしました。\nSorry, I made you wait (causative form)."
+  },
+  {
+   "type": "text",
+   "text": "4. 千円からお預かりいたします。\nWe'll be holding on [from?] your 1000 yen."
+  },
+  {
+   "type": "text",
+   "text": "You'll hear something like example 4 when, for example, you need to get change after paying 1000 yen. Again, the 二重敬語 where 「する」 has been converted to the humble 「致す」 form when it's already in the お +stem+ する humble form. Some Japanese people complain that this makes no sense and that 「から」 should really be 「を」."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Making honorific requests"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 下さる【くだ・さる】- to give (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "2. いらっしゃる - to be; to go; to come (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "3. なさる - to do (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "4. おっしゃる - to say (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "5. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "6. いらっしゃいませ - please come in (formal)"
+  },
+  {
+   "type": "text",
+   "text": "7. いらっしゃい - please come in"
+  },
+  {
+   "type": "text",
+   "text": "8. ありがとうございました - thank you (polite)"
+  },
+  {
+   "type": "text",
+   "text": "9. また - again"
+  },
+  {
+   "type": "text",
+   "text": "10. 越す【こ・す】- to go over"
+  }
+ ]
+}

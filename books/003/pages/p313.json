@@ -1,0 +1,125 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 313,
+ "page_label": "313",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Expressing the minimum expectation 「でさえ、ですら、おろか」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「(で)さえ」 to describe the minimum requirement"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "22. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "23. 自分【じ・ぶん】- oneself"
+  },
+  {
+   "type": "text",
+   "text": "24. 過ち【あやま・ち】- fault, error"
+  },
+  {
+   "type": "text",
+   "text": "25. 認める【みと・める】(ru-verb) - to recognize, to acknowledge"
+  },
+  {
+   "type": "text",
+   "text": "26. 問題【もん・だい】- problem"
+  },
+  {
+   "type": "text",
+   "text": "27. 解決【かい・けつ】- resolution"
+  },
+  {
+   "type": "text",
+   "text": "28. 教科書【きょう・か・しょ】- textbook"
+  },
+  {
+   "type": "text",
+   "text": "29. もっと - more"
+  },
+  {
+   "type": "text",
+   "text": "30. ちゃんと - properly"
+  },
+  {
+   "type": "text",
+   "text": "31. いる (ru-verb) - to exist (animate)"
+  },
+  {
+   "type": "text",
+   "text": "32. 合格【ごう・かく】- pass (as in an exam)"
+  },
+  {
+   "type": "text",
+   "text": "33. 一言【ひと・こと】- a few words"
+  },
+  {
+   "type": "text",
+   "text": "34. くれる (ru-verb) - to give"
+  },
+  {
+   "type": "text",
+   "text": "35. こんな - this sort of"
+  },
+  {
+   "type": "text",
+   "text": "36. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "37. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "In English, we might say, \"not even close\" to show that not even the minimum expectation has been met. In Japanese, we can express this by attaching 「さえ」 to the object or verb that miserably failed to reach what one would consider to be a bare minimum requirement. Conversely, you can also use the same grammar in a positive sense to express something is all you need."
+  },
+  {
+   "type": "text",
+   "text": "Using 「(で)さえ」to describe the minimum requirement"
+  },
+  {
+   "type": "text",
+   "text": "For nouns: Attach 「さえ」 or 「でさえ」 to the minimum requirement."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 私さえ - even me 2. 子供でさえ - even children"
+  },
+  {
+   "type": "text",
+   "text": "For verbs: Change the verb to the stem and attach 「さえ」. For verbs in te-form, attach 「さえ」 to 「て〜で」."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 食べる → 食べさえ 2. 行く → 行き → 行きさえ 3. 言ってくれる → 言ってさえくれる 4. 読んでいる → 読んでさえいる"
+  }
+ ]
+}

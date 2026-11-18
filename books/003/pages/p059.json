@@ -1,0 +1,96 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 59,
+ "page_label": "59",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Particles used with verbs 「を、に、へ、で」"
+  },
+  {
+   "level": 3,
+   "title": "The contextual 「で」 particle"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "3. バス - bus"
+  },
+  {
+   "type": "text",
+   "text": "4. 帰る【かえ・る】(u-verb) - to go home"
+  },
+  {
+   "type": "text",
+   "text": "5. レストラン - restaurant"
+  },
+  {
+   "type": "text",
+   "text": "6. 昼ご飯【ひる・ご・はん】- lunch"
+  },
+  {
+   "type": "text",
+   "text": "7. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "8. 何【なに〜なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "9. 暇【ひま】- free (as in not busy)"
+  },
+  {
+   "type": "text",
+   "text": "The 「で」 particle will allow us to specify the context in which the action is performed. For example, if a person ate a fish, where did he eat it? If a person went to school, by what means did she go? With what will you eat the soup? All of these questions can be answered with the 「で」 particle. Here are some examples."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 映画館で見た。\nSaw at movie theater."
+  },
+  {
+   "type": "text",
+   "text": "2. バスで帰る。\nGo home by bus."
+  },
+  {
+   "type": "text",
+   "text": "3. レストランで昼ご飯を食べた。\nAte lunch at restaurant."
+  },
+  {
+   "type": "text",
+   "text": "It may help to think of 「で」 as meaning \"by way of\". This way, the same meaning will kind of translate into what the sentence means. The examples will then read: \"Saw by way of movie theater\", \"Go home by way of bus\", and \"Ate lunch by way of restaurant.\""
+  },
+  {
+   "type": "text",
+   "text": "Using 「で」 with 「何」"
+  },
+  {
+   "type": "text",
+   "text": "The word for \"what\" (何) is quite annoying because while it's usually read as 「なに」, sometimes it is read as 「なん」 depending on how it's used. And since it's always written in Kanji, you can't tell which it is. I would suggest sticking with 「なに」 until someone corrects you for when it should be 「なん」. With the 「で」 particle, it is read as 「なに」 as well. (Hold the mouse cursor over the word to check the reading.)"
+  },
+  {
+   "type": "text",
+   "text": "1. 何できた？\nCame by the way of what?"
+  },
+  {
+   "type": "text",
+   "text": "2. バスできた。\nCame by the way of bus."
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 63,
+ "page_label": "63",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Relative Clauses and Sentence Order"
+  },
+  {
+   "level": 3,
+   "title": "Treating verbs and state-of-being like adjectives"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 私が電気をつけた。\nI am the one that turned on the lights."
+  },
+  {
+   "type": "text",
+   "text": "2. 電気がついた。\nThe lights turned on."
+  },
+  {
+   "type": "text",
+   "text": "3. 電気を消す。\nTurn off the lights."
+  },
+  {
+   "type": "text",
+   "text": "4. 電気が消える。\nLights turn off."
+  },
+  {
+   "type": "text",
+   "text": "5. 誰が窓を開けた？\nWho opened the window?"
+  },
+  {
+   "type": "text",
+   "text": "6. 窓がどうして開いた？\nWhy has the window opened?"
+  },
+  {
+   "type": "text",
+   "text": "The important thing to remember is that intransitive verbs cannot have a direct object because there is no direct acting agent. The following sentences are grammatically incorrect."
+  },
+  {
+   "type": "text",
+   "text": "1. 電気をついた。\n(「を」 should be replaced with 「が」 or 「は」)"
+  },
+  {
+   "type": "text",
+   "text": "2. 電気を消える。\n(「を」 should be replaced with 「が」 or 「は」)"
+  },
+  {
+   "type": "text",
+   "text": "3. どうして窓を開いた？\n(「を」 should be replaced with 「が」 or 「は」)"
+  },
+  {
+   "type": "text",
+   "text": "The only time you can use the 「を」 particle for intransitive verbs is when a location is the direct object of a motion verb as briefly described in the previous section."
+  },
+  {
+   "type": "text",
+   "text": "1. 部屋を出た。\nI left room."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Relative Clauses and Sentence Order"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Treating verbs and state-of-being like adjectives"
+  },
+  {
+   "type": "text",
+   "text": "Have you noticed how, many forms of verbs and the state-of-being conjugate in a similar manner to iadjectives? Well, that is because, in a sense, they are adjectives. For example, consider the sentence: \"The person who did not eat went to bank.\" The \"did not eat\" describes the person and in Japanese, you can directly modify the noun 'person' with the clause 'did not eat' just like a regular adjective. This very simple realization will allow us to modify a noun with any arbitrary verb phrase!"
+  }
+ ]
+}

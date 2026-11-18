@@ -1,0 +1,95 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 325,
+ "page_label": "325",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Formal expressions of non-feasibility 「〜ざるを得ない、やむを得ない、〜かねる」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing the inability to stop doing something using 「やむを得ない」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "This grammar uses an archaic negative form of verbs that ends in 「〜ざる」 . It is really not used in modern Japanese with the exception of this grammar and some expressions such as 「意図せざる」. The rules for conjugation are the same as the negative verbs, except this grammar attaches 「ざる」 instead. To reiterate, all you have to do is conjugate the verb to the negative form and then replace the 「ない」 with 「ざる」. The two exception verbs are 「する」 which becomes 「せざる」 and 「くる」 which becomes 「こざる」. Finally, all that's left to be done is to attach 「を得ない」 to the verb. It is also not uncommon to use Hiragana instead of the Kanji."
+  },
+  {
+   "type": "text",
+   "text": "Using 「〜ざるを得ない」for actions that must be done"
+  },
+  {
+   "type": "text",
+   "text": "• To say that you can't not do something replace the 「ない」 part of the negative verb with 「ざる」\n, then attach 「を得ない」 to the end of the verb."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 食る → 食べない → 食べざる → 食べざるを得ない 2. 行く → 行かない → 行かざる → 行かざるを得ない"
+  },
+  {
+   "type": "text",
+   "text": "• Exceptions:"
+  },
+  {
+   "type": "text",
+   "text": "1. する → せざる → せざるをえない 2. くる → こざる → こざるをえない"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. このテレビがこれ以上壊れたら、新しいのを買わざるを得ないな。\nIf this TV breaks even more, there's no choice but to buy a new one."
+  },
+  {
+   "type": "text",
+   "text": "2. ずっと我慢してきたが、この状態だと歯医者さんに行かざるを得ない。\nI tolerated it all this time but in this situation, I can't not go to the dentist."
+  },
+  {
+   "type": "text",
+   "text": "3. 上司の話を聞くと、どうしても海外に出張をせざるを得ないようです。\nHearing the story from the boss, it seems like I can't not go on a business trip overseas no matter\nwhat."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing the inability to stop doing something using 「やむを得ない」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 止む【や・む】(u-verb) - to stop"
+  },
+  {
+   "type": "text",
+   "text": "2. 仕方【し・かた】- way, method"
+  },
+  {
+   "type": "text",
+   "text": "3. ある (u-verb) - to exist (inanimate)"
+  }
+ ]
+}

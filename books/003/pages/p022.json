@@ -1,0 +1,56 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 22,
+ "page_label": "22",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "The Writing System"
+  },
+  {
+   "level": 2,
+   "title": "Katakana"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Katakana - Click for stroke order and sound"
+  },
+  {
+   "type": "table",
+   "text": "| | a | i | u | e | o |\n|---|---|---|---|---|---|\n| ア行 | ア | イ | ウ | エ | オ |\n| カ行 | カ | キ | ク | ケ | コ |\n| サ行 | サ | シ | ス | セ | ソ |\n| タ行 | タ | チ | ツ | テ | ト |\n| ナ行 | ナ | ニ | ヌ | ネ | ノ |\n| ハ行 | ハ | ヒ | フ | ヘ | ホ |\n| マ行 | マ | ミ | ム | メ | モ |\n| ヤ行 | ヤ |  | ユ |  | ヨ |\n| ラ行 | ラ | リ | ル | レ | ロ |\n| ワ行 | ワ | ヰ* |  | ヱ* | ヲ* |\n| ン | ン |  |  |  |  |"
+  },
+  {
+   "type": "text",
+   "text": "* = obsolete or rarely used"
+  },
+  {
+   "type": "text",
+   "text": "Katakana is significantly tougher to master compared to Hiragana because it is only used for certain words and you don't get nearly as much practice as you do with Hiragana. To learn the proper stroke order (and yes, you need to), here are links to practice sheets for Katakana."
+  },
+  {
+   "type": "text",
+   "text": "• Katakana trace sheets"
+  },
+  {
+   "type": "text",
+   "text": "• japanese-lesson.com"
+  },
+  {
+   "type": "text",
+   "text": "• Hiroshi & Sakura"
+  },
+  {
+   "type": "text",
+   "text": "Also, since Japanese doesn't have any spaces, sometimes the symbol 「・」 is used to show the spaces like 「ロック・アンド・ロール」 for \"rock and roll\". Using the symbol is completely optional so sometimes nothing will be used at all."
+  }
+ ]
+}

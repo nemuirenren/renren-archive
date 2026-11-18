@@ -1,0 +1,72 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 89,
+ "page_label": "89",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Polite Form and Verb Stems 「〜です、〜ます」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「です」 for everything else"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "i-adjective (だ cannot be used)\nCasual                Polite\nPlain           かわいい                かわいいです\nNegative        かわいくない              かわいくないです\nPast          かわいかった              かわいかったです\nPast-Neg     かわいくなかった かわいくなかったです"
+  },
+  {
+   "type": "text",
+   "text": "na-adjective/noun (might have to remove だ)\nCasual                 Polite\nPlain          静か (だ)                静かです\nNegative      静かじゃない              静かじゃないです\nPast          静かだった                □ 静かでした\nPast-Neg 静かじゃなかった 静かじゃなかったです"
+  },
+  {
+   "type": "text",
+   "text": "□ Notice in the case of noun/na-adjective only, the past tense becomes 「でした」 . A very common mistake is to do the same for i-adjectives. Remember 「かわいいでした」 is wrong!"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 子犬はとても好きです。\nAbout puppies, like very much. (The most natural translation is that someone likes puppies very\nmuch but there is not enough context to rule out that the puppies like something very much.)"
+  },
+  {
+   "type": "text",
+   "text": "2. 昨日、時間がなかったんです。\nIt was that there was no time yesterday."
+  },
+  {
+   "type": "text",
+   "text": "3. その部屋はあまり静かじゃないです。\nThat room is not very quiet."
+  },
+  {
+   "type": "text",
+   "text": "4. 先週に見た映画は、とても面白かったです。\nMovie saw last week was very interesting."
+  },
+  {
+   "type": "text",
+   "text": "□ Reality Check"
+  },
+  {
+   "type": "text",
+   "text": "I have heard on a number of occasions that the negative non-past conjugation as given here is not an \"officially\" correct conjugation. Instead what's considered to be a more \"correct\" conjugation is to actually replace the 「ないです」 part with 「ありません」. The reasoning is that the polite negative form of the verb 「ある」 is not 「ないです」 but 「ありません」. Therefore, 「かわいくない」 actually becomes 「かわいくありません」 and 「静かじゃない」 becomes 「静かじゃありません」."
+  },
+  {
+   "type": "text",
+   "text": "The reality of today's Japanese is that what's supposed to be the \"official\" conjugation sounds rather stiff and formal. In normal everyday conversations, the conjugation presented here will be used almost every time. While you should use the more formal conjugations for written works using the polite form, you'll rarely hear it in actual speech. In conclusion, I recommend studying and becoming familiar with both types of conjugations."
+  }
+ ]
+}

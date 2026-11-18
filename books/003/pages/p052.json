@@ -1,0 +1,102 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 52,
+ "page_label": "52",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Past Tense"
+  },
+  {
+   "level": 3,
+   "title": "Past-negative tense for all verbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Past tense conjugations for u-verbs            Exceptions\nEnding Non-Past changes to...          Past     Non-Past    Past\nす         話す        す → した          話した         する        した\nく         書く        く → いた          書いた         くる        きた\nぐ         泳ぐ        ぐ → いだ          泳いだ         行く      行った*\nむ         飲む        む → んだ          飲んだ\nぬ         死ぬ        ぬ → んだ          死んだ\nぶ         遊ぶ        ぶ → んだ          遊んだ\nる         切る         る →った          切った\nつ         持つ         つ →った          持った\nう         買う         う →った          買った"
+  },
+  {
+   "type": "text",
+   "text": "* exceptions particular to this conjugation"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 今日は、走った。\nAs for today, ran."
+  },
+  {
+   "type": "text",
+   "text": "2. 友達が来た。\nFriend is the one that came."
+  },
+  {
+   "type": "text",
+   "text": "3. 私も遊んだ。\nI also played."
+  },
+  {
+   "type": "text",
+   "text": "4. 勉強は、した。\nAbout study, did it."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Past-negative tense for all verbs"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 捨てる【す・てる】(ru-verb) - to throw away"
+  },
+  {
+   "type": "text",
+   "text": "2. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "3. 食べる【たべ・る】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "4. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "5. お金【お・かね】- money"
+  },
+  {
+   "type": "text",
+   "text": "6. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "7. 私【わたし】- me, myself, I"
+  },
+  {
+   "type": "text",
+   "text": "8. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "9. 猫 【ねこ】- cat"
+  }
+ ]
+}

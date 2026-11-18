@@ -1,0 +1,100 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 269,
+ "page_label": "269",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Using 方 and よる for comparisons and other functions"
+  },
+  {
+   "level": 3,
+   "title": "Using 「方」 for comparisons"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "5.8. USING 方 AND よる FOR COMPARISONS, ETC"
+  },
+  {
+   "type": "text",
+   "text": "18. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "19. 観る【み・る】(ru-verb) - to watch"
+  },
+  {
+   "type": "text",
+   "text": "20. そんな - that sort of"
+  },
+  {
+   "type": "text",
+   "text": "21. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "The noun 「方」 is read as 「ほう」 when it is used to mean a direction or orientation. As an aside, it can also be read as 「かた」 when it is used as a politer version of 「人」."
+  },
+  {
+   "type": "text",
+   "text": "When we use 「方」 to mean direction, we can use it for comparison by saying one way of things is better, worse, etc., than the other way. Grammatically, it works just like any other regular nouns."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "Use it with nouns by utilizing the 「の」 particle."
+  },
+  {
+   "type": "text",
+   "text": "1. ご飯の方がおいしい\nRice is tastier. (lit: The way of rice is tasty.)"
+  },
+  {
+   "type": "text",
+   "text": "2. 鈴木さんの方が若い。\nSuzuki-san is younger. (lit: The way of Suzuki is young.)"
+  },
+  {
+   "type": "text",
+   "text": "Grammatically, it's no different from a regular noun."
+  },
+  {
+   "type": "text",
+   "text": "1. 学生じゃない方がいいよ。\nIt's better to not be a student. (lit: The way of not being student is good.)"
+  },
+  {
+   "type": "text",
+   "text": "2. 赤ちゃんは、静かな方が好き。\nLike quiet babies more. (lit: About babies, the quiet way is desirable.)"
+  },
+  {
+   "type": "text",
+   "text": "For non-negative verbs, you can also use the past tense to add more certainty and confidence, particularly when making suggestions."
+  },
+  {
+   "type": "text",
+   "text": "1. ゆっくり食べた方が健康にいいよ。\nIt's better for your health to eat slowly."
+  },
+  {
+   "type": "text",
+   "text": "2. こちらから行った方が早かった。\nIt was faster to go from this way."
+  },
+  {
+   "type": "text",
+   "text": "The same thing does not apply for negative verbs."
+  }
+ ]
+}

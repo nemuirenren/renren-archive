@@ -1,0 +1,123 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 339,
+ "page_label": "339",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Advanced Volitional 「まい、であろう、かろう」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「であろう」 to express likelihood"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "13. はかる (u-verb) - to plan, to devise"
+  },
+  {
+   "type": "text",
+   "text": "14. その - that (abbr. of それの)"
+  },
+  {
+   "type": "text",
+   "text": "15. ノウハウ - know-how"
+  },
+  {
+   "type": "text",
+   "text": "16. 次【つぎ】- next"
+  },
+  {
+   "type": "text",
+   "text": "17. 産業【さん・ぎょう】- industry"
+  },
+  {
+   "type": "text",
+   "text": "18. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "19. シナリオ - scenario"
+  },
+  {
+   "type": "text",
+   "text": "20. 考える【かんが・える】(ru-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "21. もちろん - of course"
+  },
+  {
+   "type": "text",
+   "text": "22. 生徒数【せい・と・すう】- number of students"
+  },
+  {
+   "type": "text",
+   "text": "23. 減少【げん・しょう】- decline, reduction"
+  },
+  {
+   "type": "text",
+   "text": "24. 現在【げん・ざい】- present time"
+  },
+  {
+   "type": "text",
+   "text": "25. 学科【がっ・か】- course of study"
+  },
+  {
+   "type": "text",
+   "text": "26. 新設【しん・せつ】- newly organized or established"
+  },
+  {
+   "type": "text",
+   "text": "27. 職業科【しょく・ぎょう・か】- occupational studies"
+  },
+  {
+   "type": "text",
+   "text": "28. 統廃合【とう・はい・ごう】- reorganization"
+  },
+  {
+   "type": "text",
+   "text": "29. 科内【か・ない】- within study course"
+  },
+  {
+   "type": "text",
+   "text": "30. コース - course"
+  },
+  {
+   "type": "text",
+   "text": "31. 改編【かい・へん】- reorganization"
+  },
+  {
+   "type": "text",
+   "text": "32. 時代【じ・だい】- period, era"
+  },
+  {
+   "type": "text",
+   "text": "33. 合う【あ・う】(u-verb) - to match"
+  },
+  {
+   "type": "text",
+   "text": "34. 変革【へん・かく】- reform"
+  },
+  {
+   "type": "text",
+   "text": "35. 求める【もと・める】(ru-verb) - to request; to seek"
+  },
+  {
+   "type": "text",
+   "text": "We already found out that the negative volitional can be used as kind of a formal version of 「でしょう」 and 「だろう」. You may wonder, how would you do the same thing for the volitional? The answer is to conjugate the verb 「ある」 from the formal state-of-being 「である」 to the volitional to produce 「であ ろう」. Remember 「でしょう」 can already be used as a polite form, so this form is even a step above that in formality. We'll see what kind of language uses this form in the examples."
+  }
+ ]
+}

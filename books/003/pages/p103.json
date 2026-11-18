@@ -1,0 +1,115 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 103,
+ "page_label": "103",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing a sequence of states"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. この質問の答えは、誰でも分かる。\nAnybody understands the answer of this question."
+  },
+  {
+   "type": "text",
+   "text": "2. 昼ご飯は、どこでもいいです。\nAbout lunch, anywhere is good."
+  },
+  {
+   "type": "text",
+   "text": "3. あの人は、本当に何でも食べる。\nThat person really eats anything."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」"
+  },
+  {
+   "type": "text",
+   "text": "In this section, we will learn various ways to combine multiple simple sentences into one complex sentence. For example, we will learn how to chain separate sentences together to express multiple actions or states. In other words, if we have two simple sentences with the same subject, \"I ran\" and \"I ate\", we will learn how to group them together to mean, \"I ran and ate.\" We will also learn how to do this with adjectives and nouns. (Ex: He is rich, handsome, and charming.)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing a sequence of states"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 一般的【いっ・ぱん・てき】- in general"
+  },
+  {
+   "type": "text",
+   "text": "2. 静か【しず・か】(na-adj) - quiet"
+  },
+  {
+   "type": "text",
+   "text": "3. 狭い【せま・い】(i-adj) - narrow"
+  },
+  {
+   "type": "text",
+   "text": "4. 彼女【かの・じょ】- she; girlfriend"
+  },
+  {
+   "type": "text",
+   "text": "5. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "6. 私【わたし】- me; myself; I"
+  },
+  {
+   "type": "text",
+   "text": "7. 部屋【へ・や】- room"
+  },
+  {
+   "type": "text",
+   "text": "8. きれい (na-adj) - pretty; clean"
+  },
+  {
+   "type": "text",
+   "text": "9. とても - very"
+  },
+  {
+   "type": "text",
+   "text": "10. 好き【す・き】(na-adj) - likable; desirable"
+  },
+  {
+   "type": "text",
+   "text": "11. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "12. 先生【せん・せい】- teacher"
+  },
+  {
+   "type": "text",
+   "text": "13. 田中【た・なか】- Tanaka (last name)"
+  }
+ ]
+}

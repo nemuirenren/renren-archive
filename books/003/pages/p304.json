@@ -1,0 +1,95 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 304,
+ "page_label": "304",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Things that should be a certain way 「はず、べき、べく、べからず」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「はず」 to describe an expectation"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 花火 (はなび)は、火薬と金属の粉末を混ぜたものに火を付け、燃焼時の火花を楽しむためのもの。\n(Wikipedia - 花火, August 2004)\nFireworks are for the enjoyment of sparks created from combustion created by lighting up a mixture\nof gunpowder and metal powder."
+  },
+  {
+   "type": "text",
+   "text": "2. 企業内の顧客データを利用し、彼の行方を調べることが出来た。\nWas able to investigate his whereabouts using the company's internal customer data."
+  },
+  {
+   "type": "text",
+   "text": "For the 「〜ている」 forms, the stem becomes 「〜てい」 but because that doesn't fit very well into the middle of a sentence, it is common to use the humble form of 「いる」 which you will remember is 「お る」. This is simply so you can employ 「おり」 to connect relative clauses instead of just 「い」. It has nothing to do with the humble aspect of 「おる」"
+  },
+  {
+   "type": "text",
+   "text": "1. 封筒には写真が数枚入っており、手紙が添えられていた。\nSeveral photos were inside the envelope, and a letter was attached."
+  },
+  {
+   "type": "text",
+   "text": "2. このファイルにはパスワードが設定されており、開く際にはそれを入力する必要がある。\nA password has been set on this file, and it needs to entered when opening."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Things that should be a certain way 「はず、べき、べく、べからず」"
+  },
+  {
+   "type": "text",
+   "text": "In this lesson, we'll learn how to express the way things are supposed depending on what we mean by \"supposed\". While the first two grammar points 「はず」 and 「べき」 come up often and are quite useful, you'll rarely ever encounter 「べく」 or 「べからず」. You can safely skip those lessons unless you are studying for the JLPT."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「はず」 to describe an expectation"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "2. 日曜日【にち・よう・び】- Sunday"
+  },
+  {
+   "type": "text",
+   "text": "3. 可能【か・のう】(na-adj) - possible"
+  },
+  {
+   "type": "text",
+   "text": "4. おいしい (i-adj) - tasty"
+  },
+  {
+   "type": "text",
+   "text": "5. 帰る【かえ・る】(u-verb) - to go home"
+  },
+  {
+   "type": "text",
+   "text": "6. 彼【かれ】- he; boyfriend"
+  }
+ ]
+}

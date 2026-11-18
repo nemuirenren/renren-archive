@@ -1,0 +1,105 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 69,
+ "page_label": "69",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Noun-related Particles 「と、や、とか、の」"
+  },
+  {
+   "level": 3,
+   "title": "The Vague Listing 「や」 and 「とか」 particles"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 本と雑誌と葉書を買った。\nBought book, magazine, and post card."
+  },
+  {
+   "type": "text",
+   "text": "Another similar use of the 「と」 particle is to show an action that was done together with someone or something else."
+  },
+  {
+   "type": "text",
+   "text": "1. 友達と話した。\nTalked with friend."
+  },
+  {
+   "type": "text",
+   "text": "2. 先生と会った。\nMet with teacher."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The Vague Listing 「や」 and 「とか」 particles"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 飲み物【の・み・もの】- beverage"
+  },
+  {
+   "type": "text",
+   "text": "2. カップ - cup"
+  },
+  {
+   "type": "text",
+   "text": "3. ナプキン - napkin"
+  },
+  {
+   "type": "text",
+   "text": "4. いる (u-verb) - to need"
+  },
+  {
+   "type": "text",
+   "text": "5. 靴【くつ】- shoes"
+  },
+  {
+   "type": "text",
+   "text": "6. シャツ - shirt"
+  },
+  {
+   "type": "text",
+   "text": "7. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "The 「や」 particle, just like the 「と」 particle, is used to list one or more nouns except that it is much more vague than the 「と」 particle. It implies that there may be other things that are unlisted and that not all items in the list may apply. In English, you might think of this as an \"and/or, etc.\" type of listing."
+  },
+  {
+   "type": "text",
+   "text": "1. 飲み物やカップやナプキンは、いらない？\nYou don't need (things like) drink, cup, or napkin, etc.?"
+  },
+  {
+   "type": "text",
+   "text": "2. 靴やシャツを買う。\nBuy (things like) shoes and shirt, etc..."
+  },
+  {
+   "type": "text",
+   "text": "「とか」 also has the same meaning as 「や」 but is a slightly more colloquial expression."
+  },
+  {
+   "type": "text",
+   "text": "1. 飲み物とかカップとかナプキンは、いらない？\nYou don't need (things like) drink, cup, or napkin, etc.?"
+  },
+  {
+   "type": "text",
+   "text": "2. 靴とかシャツを買う。\nBuy (things like) shoes and shirt, etc..."
+  }
+ ]
+}

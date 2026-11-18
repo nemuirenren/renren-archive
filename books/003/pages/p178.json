@@ -1,0 +1,95 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 178,
+ "page_label": "178",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」"
+  },
+  {
+   "level": 3,
+   "title": "「〜ください」 - a special conjugation of 「くださる」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "12. 所【ところ】- place"
+  },
+  {
+   "type": "text",
+   "text": "13. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "14. お父さん【お・とう・さん】- father (polite)"
+  },
+  {
+   "type": "text",
+   "text": "15. 時計【と・けい】- watch; clock"
+  },
+  {
+   "type": "text",
+   "text": "16. 壊れる【こわ・れる】(ru-verb) - to break"
+  },
+  {
+   "type": "text",
+   "text": "17. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "「ください」 is a special conjugation of 「くださる」, which is the honorific form of 「くれる」. We will learn more about honorific and humble forms in the beginning of the next major section. We are going over 「ください」 here because it has a slight difference in meaning from the normal 「くれる」 and the honorific 「くださる」. 「ください」 is different from 「くれる」 in the following fashion:"
+  },
+  {
+   "type": "text",
+   "text": "1. それをください。\nPlease give me that."
+  },
+  {
+   "type": "text",
+   "text": "2. それをくれる？\nCan you give me that?"
+  },
+  {
+   "type": "text",
+   "text": "As you can see 「ください」 is a direct request for something while 「くれる」 is used as a question asking for someone to give something. However, it is similar to「くれる」in that you can make a request for an action by simply attaching it to the te-form of the verb."
+  },
+  {
+   "type": "text",
+   "text": "1. 漢字で書いてください。\nPlease write it in kanji."
+  },
+  {
+   "type": "text",
+   "text": "2. ゆっくり話してください。\nPlease speak slowly."
+  },
+  {
+   "type": "text",
+   "text": "The rules for negative requests are same as the rules for 「くれる」 as well."
+  },
+  {
+   "type": "text",
+   "text": "1. 落書きを書かないでください。\nPlease don't write graffiti."
+  },
+  {
+   "type": "text",
+   "text": "2. ここにこないでください。\nPlease don't come here."
+  },
+  {
+   "type": "text",
+   "text": "In casual speech, it is often common to simply drop the 「ください」 part."
+  },
+  {
+   "type": "text",
+   "text": "1. 日本語で話して。\nPlease speak in Japanese."
+  }
+ ]
+}

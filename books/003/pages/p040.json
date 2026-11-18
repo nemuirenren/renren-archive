@@ -1,0 +1,110 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 40,
+ "page_label": "40",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Adjectives"
+  },
+  {
+   "level": 3,
+   "title": "The i-adjective"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 魚が好きじゃない人。\nPerson that does not like fish."
+  },
+  {
+   "type": "text",
+   "text": "3. 魚が好きだった人。\nPerson that liked fish."
+  },
+  {
+   "type": "text",
+   "text": "4. 魚が好きじゃなかった人。\nPerson that did not like fish."
+  },
+  {
+   "type": "text",
+   "text": "Here, the entire clause 「魚が好き」、「魚が好きじゃない」、etc. is modifying \"person\" to talk about people that like or dislike fish. You can see why this type of sentence is useful because 「人は魚が好 きだ」 would mean \"People like fish\", which isn't always the case."
+  },
+  {
+   "type": "text",
+   "text": "We can even treat the whole descriptive noun clause as we would a single noun. For instance, we can make the whole clause a topic like the following example."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 魚が好きじゃない人は、肉が好きだ。\nPerson who does not like fish like meat."
+  },
+  {
+   "type": "text",
+   "text": "2. 魚が好きな人は、野菜も好きだ。\nPerson who likes fish also like vegetables."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The i-adjective"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 嫌い【きら・い】(na-adj) - distasteful, hateful"
+  },
+  {
+   "type": "text",
+   "text": "2. 食べ物【た・べ・もの】- food"
+  },
+  {
+   "type": "text",
+   "text": "3. おいしい (i-adj) - tasty"
+  },
+  {
+   "type": "text",
+   "text": "4. 高い【たか・い】(i-adj) - high; tall; expensive"
+  },
+  {
+   "type": "text",
+   "text": "5. ビル - building"
+  },
+  {
+   "type": "text",
+   "text": "6. 値段【ね・だん】- price"
+  },
+  {
+   "type": "text",
+   "text": "7. レストラン - restaurant"
+  },
+  {
+   "type": "text",
+   "text": "8. あまり〜あんまり - not very (when used with negative)"
+  },
+  {
+   "type": "text",
+   "text": "9. 好き【す・き】(na-adj) - likable; desirable"
+  },
+  {
+   "type": "text",
+   "text": "10. いい (i-adj) - good"
+  }
+ ]
+}

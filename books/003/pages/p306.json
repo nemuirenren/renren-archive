@@ -1,0 +1,107 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 306,
+ "page_label": "306",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Things that should be a certain way 「はず、べき、べく、べからず」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「べき」 to describe actions one should do"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Using 「はず」to describe an expectation"
+  },
+  {
+   "type": "text",
+   "text": "Use 「はず」 just like a regular noun to modify the expected thing"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 日曜日のはず (noun) 2. 可能なはず (na-adjective) 3. おいしいはず (i-adjective) 4. 帰るはず (verb)"
+  },
+  {
+   "type": "text",
+   "text": "For the case where you expect the negative, use the 「ない」 verb for nonexistence"
+  },
+  {
+   "type": "text",
+   "text": "Example: 帰るはず → 帰るはずがない"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 彼は漫画マニアだから、これらをもう全部読んだはずだよ。\nHe has a mania for comic book(s) so I expect he read all these already."
+  },
+  {
+   "type": "text",
+   "text": "2. この料理はおいしいはずだったが、焦げちゃって、まずくなった。\nThis dish was expected to be tasty but it burned and became distasteful."
+  },
+  {
+   "type": "text",
+   "text": "3. 色々予定してあるから、今年は楽しいクリスマスのはず。\nBecause various things have been planned out, I expect a fun Christmas this year."
+  },
+  {
+   "type": "text",
+   "text": "4. そう簡単に直せるはずがないよ。\nIt's not supposed to be that easy to fix."
+  },
+  {
+   "type": "text",
+   "text": "5. 打合せは毎週５時から始まるはずじゃないですか？\nThis meeting is supposed to start every week at 2 o'clock, isn't it?"
+  },
+  {
+   "type": "text",
+   "text": "Here are more examples from the WWWJDIC. You may also want to check out the jeKai entry."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「べき」 to describe actions one should do"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 絶対【ぜっ・たい】(na-adj) - absolutely, unconditionally"
+  },
+  {
+   "type": "text",
+   "text": "2. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "3. 強い【つよ・い】(i-adj) - strong"
+  },
+  {
+   "type": "text",
+   "text": "4. 推奨【すい・しょう】- recommendation"
+  }
+ ]
+}

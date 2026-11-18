@@ -1,0 +1,94 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 218,
+ "page_label": "218",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Causative and Passive Verbs"
+  },
+  {
+   "level": 3,
+   "title": "Using passive form to show politeness"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Sample ru-verbs                Sample u-verbs            Exception Verbs\nPlain    Passive                Plain Passive            Positive Passive\n食べる 食べられる                        話す 話される                   する       される\n着る       着られる                   聞く 聞かれる                   くる      こられる\n信じる 信じられる                       泳ぐ 泳がれる\n寝る       寝られる                   遊ぶ 遊ばれる\n起きる 起きられる                       待つ 待たれる\n出る       出られる                   飲む 飲まれる\n掛ける 掛けられる                       直る 直られる\n捨てる 捨てられる                       死ぬ 死なれる\n調べる 調べられる                       買う 買われる"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. ポリッジが誰かに食べられた。\nThe porridge was eaten by somebody!"
+  },
+  {
+   "type": "text",
+   "text": "2. みんなに変だと言われます。\nI am told by everybody that (I'm) strange."
+  },
+  {
+   "type": "text",
+   "text": "3. 光の速さを超えるのは、不可能だと思われる。\nExceeding the speed of light is thought to be impossible."
+  },
+  {
+   "type": "text",
+   "text": "4. この教科書は多くの人に読まれている。\nThis textbook is being read by a large number of people."
+  },
+  {
+   "type": "text",
+   "text": "5. 外国人に質問を聞かれたが、答えられなかった。\nI was asked a question by a foreigner but I couldn't answer."
+  },
+  {
+   "type": "text",
+   "text": "6. このパッケージには、あらゆるものが含まれている。\nEverything is included in this package."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using passive form to show politeness"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. どう - how"
+  },
+  {
+   "type": "text",
+   "text": "2. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "3. 領収証【りょう・しゅう・しょう】- receipt"
+  },
+  {
+   "type": "text",
+   "text": "4. 明日【あした】- tomorrow"
+  },
+  {
+   "type": "text",
+   "text": "5. 会議【かい・ぎ】- meeting"
+  },
+  {
+   "type": "text",
+   "text": "6. 行く【い・く】(u-verb) - to go"
+  }
+ ]
+}

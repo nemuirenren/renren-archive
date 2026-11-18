@@ -1,0 +1,130 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 309,
+ "page_label": "309",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Things that should be a certain way 「はず、べき、べく、べからず」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「べく」 to describe what one tries to do"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 何かを買う前に本当に必要かどうかをよく考えるべきだ。\nBefore buying something, one should think well on whether it's really necessary or not."
+  },
+  {
+   "type": "text",
+   "text": "2. 例え国のためであっても、国民を騙すべきではないと思う。\nEven if it is, for example, for the country, I don't think the country's citizens should be deceived."
+  },
+  {
+   "type": "text",
+   "text": "3. 預金者が大手銀行を相手取って訴訟を起こすケースも出ており、金融庁は被害者の救済を優先さ\nせて、金融機関に犯罪防止対策の強化を促すべきだと判断。(朝日新聞)\nWith cases coming out of depositors suing large banks, the Financial Services Agency decided it\nshould prioritize relief for victims and urge banks to strengthen measures for crime prevention."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「べく」 to describe what one tries to do"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 連用形【れん・よう・けい】- conjunctive form"
+  },
+  {
+   "type": "text",
+   "text": "2. 早い【はや・い】(i-adj) - fast; early"
+  },
+  {
+   "type": "text",
+   "text": "3. 帰る【かえ・る】(u-verb) - to go home"
+  },
+  {
+   "type": "text",
+   "text": "4. 準備【じゅん・び】- preparations"
+  },
+  {
+   "type": "text",
+   "text": "5. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "6. 始める【はじ・める】(ru-verb) - to begin"
+  },
+  {
+   "type": "text",
+   "text": "7. 思う【おも・う】(u-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "8. 出来る【で・き・る】(ru-verb) - to be able to do"
+  },
+  {
+   "type": "text",
+   "text": "9. 行う【おこな・う】(u-verb) - to conduct, to carry out"
+  },
+  {
+   "type": "text",
+   "text": "10. 試験【し・けん】- exam"
+  },
+  {
+   "type": "text",
+   "text": "11. 合格【ごう・かく】- pass (as in an exam)"
+  },
+  {
+   "type": "text",
+   "text": "12. 皆【みんな】- everybody"
+  },
+  {
+   "type": "text",
+   "text": "13. 一生懸命【いっ・しょう・けん・めい】- with utmost effort"
+  },
+  {
+   "type": "text",
+   "text": "14. 勉強【べん・きょう】- study"
+  },
+  {
+   "type": "text",
+   "text": "15. 今後【こん・ご】- from now on"
+  },
+  {
+   "type": "text",
+   "text": "16. お客様【お・きゃく・さま】- guest, customer"
+  },
+  {
+   "type": "text",
+   "text": "17. 対話【たい・わ】- interaction"
+  },
+  {
+   "type": "text",
+   "text": "18. 窓口【まど・ぐち】- teller window, counter; point of contact"
+  },
+  {
+   "type": "text",
+   "text": "19. より - more"
+  }
+ ]
+}

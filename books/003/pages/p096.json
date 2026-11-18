@@ -1,0 +1,102 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 96,
+ "page_label": "96",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "The Question Marker 「か」"
+  },
+  {
+   "level": 3,
+   "title": "Questions in polite form"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Family member chart\nOne's own family Someone else's family\nParents              両親               ご両親\nMother                母              お母さん\nFather                父              お父さん\nWife                 妻               奥さん\nHusband                夫               ご主人\nOlder Sister            姉              お姉さん\nOlder Brother            兄              お兄さん\nYounger Sister           妹               妹さん\nYounger Brother           弟               弟さん\nSon                 息子              息子さん\nDaughter               娘               娘さん"
+  },
+  {
+   "type": "text",
+   "text": "Another word for wife,「家内」is often considered politically incorrect because the kanji used are \"house\" and \"inside\" which implies that wives belong in the home. Amen. (Just kidding)"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "The Question Marker 「か」"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Questions in polite form"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 田中【た・なか】- Tanaka (last name)"
+  },
+  {
+   "type": "text",
+   "text": "2. お母さん【お・かあ・さん】- mother (polite)"
+  },
+  {
+   "type": "text",
+   "text": "3. どこ - where"
+  },
+  {
+   "type": "text",
+   "text": "4. 鈴木【すず・き】- Suzuki (last name)"
+  },
+  {
+   "type": "text",
+   "text": "5. 母【はは】- mother"
+  },
+  {
+   "type": "text",
+   "text": "6. 買い物【か・い・もの】- shopping"
+  },
+  {
+   "type": "text",
+   "text": "7. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "8. イタリア - Italy"
+  },
+  {
+   "type": "text",
+   "text": "9. 料理【りょう・り】- cooking; cuisine; dish"
+  },
+  {
+   "type": "text",
+   "text": "10. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "11. すみません - sorry (polite)"
+  },
+  {
+   "type": "text",
+   "text": "12. ちょっと - a little"
+  },
+  {
+   "type": "text",
+   "text": "13. お腹【お・なか】- stomach"
+  }
+ ]
+}

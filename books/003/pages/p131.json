@@ -1,0 +1,125 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 131,
+ "page_label": "131",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Using する and なる with the に particle 「〜 [よう]になる〜する」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「なる」 and 「する」 with verbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「なる」 and 「する」 with verbs"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 海外【かい・がい】- overseas"
+  },
+  {
+   "type": "text",
+   "text": "2. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "3. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "4. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "5. 毎日【まい・にち】- everyday"
+  },
+  {
+   "type": "text",
+   "text": "6. 肉【にく】- meat"
+  },
+  {
+   "type": "text",
+   "text": "7. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "8. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "9. 日本【に・ほん】- Japan"
+  },
+  {
+   "type": "text",
+   "text": "10. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "11. 寿司【すし】- sushi"
+  },
+  {
+   "type": "text",
+   "text": "12. 一年間【いち・ねん・かん】- span of 1 year"
+  },
+  {
+   "type": "text",
+   "text": "13. 練習【れん・しゅう】- practice"
+  },
+  {
+   "type": "text",
+   "text": "14. ピアノ - piano"
+  },
+  {
+   "type": "text",
+   "text": "15. 弾く【ひ・く】(u-verb) - to play (piano, guitar)"
+  },
+  {
+   "type": "text",
+   "text": "16. 地下【ち・か】- underground"
+  },
+  {
+   "type": "text",
+   "text": "17. 入る【はい・る】(u-verb) - to enter"
+  },
+  {
+   "type": "text",
+   "text": "18. 富士山【ふ・じ・さん】- Mt. Fuji"
+  },
+  {
+   "type": "text",
+   "text": "19. 見える【み・える】(ru-verb) - to be visible"
+  },
+  {
+   "type": "text",
+   "text": "You may be wondering how to use 「なる」 and 「する」 with verbs since there's no way to directly modify a verb with another verb. The simple solution is to add a generic noun such as a generic event: こと (事) or an appearance/manner: よう (様). These nouns don't refer to anything specific and are used to describe something else. In this case, they allow us to describe verbs in the same manner as nouns. Here are some examples of how to use these generic nouns with 「する」 and 「なる」."
+  },
+  {
+   "type": "text",
+   "text": "1. 海外に行くことになった。\nIt's been decided that I will go abroad. (lit: It became the event of going abroad.)"
+  },
+  {
+   "type": "text",
+   "text": "2. 毎日、肉を食べるようになった。\nIt became so that I eat meat everyday. (lit: It became the appearance of eating meat everyday.)"
+  }
+ ]
+}

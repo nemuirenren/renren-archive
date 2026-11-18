@@ -1,0 +1,95 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 203,
+ "page_label": "203",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "More sentence-ending particles"
+  },
+  {
+   "level": 3,
+   "title": "「な」 and 「さ」 sentence-ending particles"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "22. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "23. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "24. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "25. 雨【あめ】- rain"
+  },
+  {
+   "type": "text",
+   "text": "26. 降る【ふ・る】(u-verb) - to precipitate"
+  },
+  {
+   "type": "text",
+   "text": "27. 大学【だい・がく】- college"
+  },
+  {
+   "type": "text",
+   "text": "After the 「よ」 and 「ね」 , 「さ」 and 「な」 are the next most commonly used sentence-ending particles."
+  },
+  {
+   "type": "text",
+   "text": "「さ」, which is basically a very casual form of 「よ」, is similar to the English \"like\" in that some people throw it in at the end of almost every single phrase. Of course, that doesn't mean it's necessarily a very sophisticated manner of speech but just like using \"like\" all the time, I cannot deny that it is an easy habit to fall into. In that sense, due to its over-use, it has almost lost any specific meaning. You may overhear a conversation like the following:"
+  },
+  {
+   "type": "text",
+   "text": "A：あのさ・・・ A: Hey..."
+  },
+  {
+   "type": "text",
+   "text": "B：うん。 B: Yeah."
+  },
+  {
+   "type": "text",
+   "text": "A：この間さ・・・ A: This one time..."
+  },
+  {
+   "type": "text",
+   "text": "B：うん。 B: Yeah."
+  },
+  {
+   "type": "text",
+   "text": "A：ディズニーランドに行ったんだけどさ、なんかさ、すごい込んでて・・・ A: I went to Disney Land and it was really crowded..."
+  },
+  {
+   "type": "text",
+   "text": "B：うん B: Uh huh."
+  },
+  {
+   "type": "text",
+   "text": "A：何もできなくてさ・・・ A: Couldn't do anything, you know..."
+  },
+  {
+   "type": "text",
+   "text": "And it goes on like this, sometimes the other person might break in to say something related to the topic."
+  },
+  {
+   "type": "text",
+   "text": "You can use 「な」 in place of 「ね」 when it sounds too soft and reserved for what you want to say or for the audience you are speaking to. Its rough sound generally applies to the male gender but is not necessarily restricted to only males."
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 55,
+ "page_label": "55",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Particles used with verbs 「を、に、へ、で」"
+  },
+  {
+   "level": 3,
+   "title": "The target 「に」 particle"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Unlike the direct object we're familiar with in English, places can also be the direct object of motion verbs such as 「歩く」 and 「走る」 . Since the motion verb is done to the location, the concept of direct object is the same in Japanese. However, as you can see by the next examples, it often translates to something different in English due to the slight difference of the concept of direct object."
+  },
+  {
+   "type": "text",
+   "text": "1. 街をぶらぶら歩く。\nAimlessly walk through town. (Lit: Aimlessly walk town)"
+  },
+  {
+   "type": "text",
+   "text": "2. 高速道路を走る。\nRun through expressway. (Lit: Run expressway)"
+  },
+  {
+   "type": "text",
+   "text": "When you use 「する」 with a noun, the 「を」 particle is optional and you can treat the whole [noun+ する] as one verb."
+  },
+  {
+   "type": "text",
+   "text": "1. 毎日、日本語を勉強する。\nStudy Japanese everyday."
+  },
+  {
+   "type": "text",
+   "text": "2. メールアドレスを登録した。\nRegistered email address."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The target 「に」 particle"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 日本【に・ほん】- Japan"
+  },
+  {
+   "type": "text",
+   "text": "2. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "3. 家【1) うち; 2) いえ】- 1) one's own home; 2) house"
+  },
+  {
+   "type": "text",
+   "text": "4. 帰る【かえ・る】(u-verb) - to go home"
+  },
+  {
+   "type": "text",
+   "text": "5. 部屋【へ・や】- room"
+  },
+  {
+   "type": "text",
+   "text": "6. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "7. アメリカ - America"
+  },
+  {
+   "type": "text",
+   "text": "8. 宿題【しゅく・だい】- homework"
+  },
+  {
+   "type": "text",
+   "text": "9. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "10. 明日【あした】- tomorrow"
+  },
+  {
+   "type": "text",
+   "text": "11. 猫【ねこ】- cat"
+  },
+  {
+   "type": "text",
+   "text": "12. いる (ru-verb) - to exist (animate)"
+  },
+  {
+   "type": "text",
+   "text": "13. いす - chair"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 31,
+ "page_label": "31",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Expressing State-of-Being"
+  },
+  {
+   "level": 3,
+   "title": "Conjugating to the negative state-of-being"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "The declarative 「だ」 is also needed in various grammatical structures where a state-of-being must be explicitly declared. There are also times when you cannot attach it. It's all quite a pain in the butt really but you don't have to worry about it yet."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Conjugating to the negative state-of-being"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "2. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "3. 元気【げん・き】- healthy; lively\n＊ Used as a greeting to indicate whether one is well"
+  },
+  {
+   "type": "text",
+   "text": "In Japanese, negative and past tense are all expressed by conjugation. We can conjugate a noun or adjective to either its negative or past tense to say that something is not [X] or that something was [X]. This may be a bit hard to grasp at first but none of these state-of-being conjugations make anything declarative like 「だ」 does. We'll learn how to make these tenses declarative by attaching 「だ」 to the end of the sentence in a later lesson."
+  },
+  {
+   "type": "text",
+   "text": "First, for the negative, attach 「じゃない」 to the noun or na-adjective."
+  },
+  {
+   "type": "text",
+   "text": "Conjugation rules for the negative state-of-being"
+  },
+  {
+   "type": "text",
+   "text": "• Attach 「じゃない」 to the noun or na-adjective\nExample: 学生 + じゃない = 学生じゃない"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 学生じゃない。\nIs not student."
+  },
+  {
+   "type": "text",
+   "text": "2. 友達じゃない。\nIs not friend."
+  },
+  {
+   "type": "text",
+   "text": "3. 元気じゃない。\nIs not well."
+  }
+ ]
+}

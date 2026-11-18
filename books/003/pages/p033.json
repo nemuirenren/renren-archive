@@ -1,0 +1,83 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 33,
+ "page_label": "33",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Introduction to Particles 「は、も、が」"
+  },
+  {
+   "level": 3,
+   "title": "The 「は」 topic particle"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Summary of state-of-being Positive Negative Non-Past 学生 (だ) Is student 学生じゃない Is not student Past 学生だった Was student 学生じゃなかった Was not student"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Introduction to Particles 「は、も、が」"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Defining grammatical functions with particles"
+  },
+  {
+   "type": "text",
+   "text": "We want to now make good use of what we learned in the last lesson by associating a noun with another noun. This is done with something called particles. Particles are one or more Hiragana characters that attach to the end of a word to define the grammatical function of that word in the sentence. Using the correct particles is very important because the meaning of a sentence can completely change just by changing the particles. For example, the sentence \"Eat fish.\" can become \"The fish eats.\" simply by changing one particle."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The 「は」 topic particle"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "2. うん - yes (casual)"
+  },
+  {
+   "type": "text",
+   "text": "3. 明日【あした】- tomorrow"
+  },
+  {
+   "type": "text",
+   "text": "4. ううん - no (casual)"
+  },
+  {
+   "type": "text",
+   "text": "5. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "6. 試験【しけん】- exam"
+  },
+  {
+   "type": "text",
+   "text": "The first particle we will learn is the topic particle. The topic particle identifies what it is that you're talking about, essentially the topic of your sentence. Let's say a person says, \"Not student.\" This is a perfectly valid sentence in Japanese but it doesn't tell us much without knowing what the person is talking about. The topic particle will allow us to express what our sentences are about. The topic particle is the character 「は」. Now, while this character is normally pronounced as /ha/, it is pronounced /wa/ only when it is being used as the topic particle."
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 260,
+ "page_label": "260",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「みたい」 to say something looks like something else"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「みたい」 to say something looks like something else"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "2. 犬【いぬ】- dog"
+  },
+  {
+   "type": "text",
+   "text": "3. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "4. 売り切れ【う・り・き・れ】- sold out"
+  },
+  {
+   "type": "text",
+   "text": "5. 制服【せい・ふく】- uniform"
+  },
+  {
+   "type": "text",
+   "text": "6. 着る【き・る】(ru-verb) - to wear"
+  },
+  {
+   "type": "text",
+   "text": "7. 姿【すがた】- figure"
+  },
+  {
+   "type": "text",
+   "text": "8. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "9. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "10. ピザ - pizza"
+  },
+  {
+   "type": "text",
+   "text": "11. お好み焼き【お・この・み・や・き】- okonomiyaki (Japanese-style pancake)"
+  },
+  {
+   "type": "text",
+   "text": "12. 見える【み・える】(ru-verb) - to be visible"
+  },
+  {
+   "type": "text",
+   "text": "Another way to express similarity which is considered more casual is by using「みたい」. Do not confuse this with the「たい」conjugation of「見る」. The main difference is that this「みたい」can be attached directly to nouns, adjectives, and verbs just like particles which i-adjectives like 「〜たい」 obviously can't do."
+  },
+  {
+   "type": "text",
+   "text": "Using 「みたい」to say something looks like something else"
+  },
+  {
+   "type": "text",
+   "text": "Attach 「みたい」 to the noun that bears the resemblance. 「みたい」 conjugates like a noun or na-adjective and not an i-adjective."
+  },
+  {
+   "type": "text",
+   "text": "Conjugation Example with 「犬」 Positive Negative Non-Past 犬みたい 犬じゃないみたい looks like a dog doesn't look like a dog Past 犬だったみたい 犬じゃなかったみたい looked like a dog didn't look like a dog"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. もう売り切れみたい。\nLooks like it's sold out already."
+  }
+ ]
+}

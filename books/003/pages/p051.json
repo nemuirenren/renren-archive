@@ -1,0 +1,122 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 51,
+ "page_label": "51",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Past Tense"
+  },
+  {
+   "level": 3,
+   "title": "Past tense for u-verbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. ご飯は、食べた。\nAs for meal, ate."
+  },
+  {
+   "type": "text",
+   "text": "2. 映画は、全部見た。\nAs for movie, saw them all."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Past tense for u-verbs"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 話す【はな・す】(u-verb) - to speak"
+  },
+  {
+   "type": "text",
+   "text": "2. 書く【か・く】(u-verb) - to write"
+  },
+  {
+   "type": "text",
+   "text": "3. 泳ぐ【およ・ぐ】(u-verb) - to swim"
+  },
+  {
+   "type": "text",
+   "text": "4. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "5. 遊ぶ【あそ・ぶ】(u-verb) - to play"
+  },
+  {
+   "type": "text",
+   "text": "6. 死ぬ【し・ぬ】(u-verb) - to die"
+  },
+  {
+   "type": "text",
+   "text": "7. 切る【き・る】(u-verb) - to cut"
+  },
+  {
+   "type": "text",
+   "text": "8. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "9. 持つ【も・つ】(u-verb) - to hold"
+  },
+  {
+   "type": "text",
+   "text": "10. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "11. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "12. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "13. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "14. 走る【はし・る】(u-verb) - to run"
+  },
+  {
+   "type": "text",
+   "text": "15. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "16. 私【わたし】- me, myself, I"
+  },
+  {
+   "type": "text",
+   "text": "17. 勉強【べん・きょう】- study"
+  },
+  {
+   "type": "text",
+   "text": "Changing a u-verb from dictionary form to the past tense is difficult because we must break up u-verbs into four additional categories. These four categories depend on the last character of the verb. The table below illustrates the different sub-categories. In addition, there is one exception to the rules, which is the verb 「行く」. I've bundled it with the regular exception verbs 「する」 and 「来る」 even though 「行 く」 is a regular u-verb in all other conjugations."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 243,
+ "page_label": "243",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Example 3"
+  },
+  {
+   "type": "text",
+   "text": "A：掃除、手伝ってくれるでしょう。 A: You're going to help me clean, right?"
+  },
+  {
+   "type": "text",
+   "text": "B：え？そうなの？ B: Huh? Is that so?"
+  },
+  {
+   "type": "text",
+   "text": "「だろう」 means essentially the same thing as 「でしょう」 except that it sounds more masculine and is used mostly by males."
+  },
+  {
+   "type": "text",
+   "text": "Example 4"
+  },
+  {
+   "type": "text",
+   "text": "A：アリスはどこだ？ A: Where is Alice?"
+  },
+  {
+   "type": "text",
+   "text": "B：もう寝ているだろう。 B: Probably sleeping already."
+  },
+  {
+   "type": "text",
+   "text": "Example 5"
+  },
+  {
+   "type": "text",
+   "text": "A：もう家に帰るんだろう。 A: You're going home already, right?"
+  },
+  {
+   "type": "text",
+   "text": "B：そうよ。 B: That's right."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」"
+  },
+  {
+   "type": "text",
+   "text": "This lesson will cover various expressions used to express various degrees of amounts. For example, sentences like, \"I only ate one\", \"That was all that was left\", \"There's just old people here\", or \"I ate too much\" all indicate whether there's a lot or little of something. Most of these expressions are made with particles and not as separate words as you see in English."
+  }
+ ]
+}

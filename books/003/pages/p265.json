@@ -1,0 +1,99 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 265,
+ "page_label": "265",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing hearsay using 「〜そうだ」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 雨【あめ】- rain"
+  },
+  {
+   "type": "text",
+   "text": "3. 降る【ふ・る】(u-verb) - to precipitate"
+  },
+  {
+   "type": "text",
+   "text": "4. 毎日【まい・にち】- everyday"
+  },
+  {
+   "type": "text",
+   "text": "5. 会う【あ・う】(u-verb) - to meet"
+  },
+  {
+   "type": "text",
+   "text": "6. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "7. 彼【かれ】- he; boyfriend"
+  },
+  {
+   "type": "text",
+   "text": "8. 高校生【こう・こう・せい】- high school student"
+  },
+  {
+   "type": "text",
+   "text": "9. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "10. 田中【た・なか】- Tanaka (last name)"
+  },
+  {
+   "type": "text",
+   "text": "11. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "The reason that there are so many annoying rules to using 「〜そう」 is to distinguish it from this next grammar we will learn. This is a useful grammar for talking about things you heard that doesn't necessary have anything to do with how you yourself, think or feel. Unlike the last grammar we learned, you can simply attach 「そうだ」 to verbs and i-adjectives. For na-adjectives and nouns, you must indicate the state-of-being by adding 「だ」 to the noun/na-adjective. Also, notice that 「そう」 itself must always end in 「だ」、「です」、or 「でございます」. These differences are what distinguishes this grammar from the one we learned in the last section. There are no tenses for this grammar."
+  },
+  {
+   "type": "text",
+   "text": "1. 明日、雨が降るそうだ。\nI hear that it's going to rain tomorrow."
+  },
+  {
+   "type": "text",
+   "text": "2. 毎日会いに行ったそうです。\nI heard he went to meet everyday."
+  },
+  {
+   "type": "text",
+   "text": "Don't forget to add 「だ」 for nouns or na-adjectives."
+  },
+  {
+   "type": "text",
+   "text": "• 彼は、高校生だそうです。\nI hear that he is a high school student."
+  },
+  {
+   "type": "text",
+   "text": "When starting the sentence with this grammar, you also need to add 「だ」 just like you do with 「だか ら」"
+  },
+  {
+   "type": "text",
+   "text": "A：今日、田中さんはこないの？ A: Is Tanaka-san not coming today?"
+  },
+  {
+   "type": "text",
+   "text": "B：だそうです。 B: So I hear."
+  }
+ ]
+}

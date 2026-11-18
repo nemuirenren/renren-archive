@@ -1,0 +1,111 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 222,
+ "page_label": "222",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Honorific and Humble Forms"
+  },
+  {
+   "level": 3,
+   "title": "Set Expressions"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 学生が廊下に立たされた。\nThe student was made to stand in the hall."
+  },
+  {
+   "type": "text",
+   "text": "2. 日本では、お酒を飲まされることが多い。\nIn Japan, the event of being made to drink is numerous."
+  },
+  {
+   "type": "text",
+   "text": "3. あいつに二時間も待たされた。\nI was made to wait 2 hours by that guy."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Honorific and Humble Forms"
+  },
+  {
+   "type": "text",
+   "text": "Japanese can be roughly separated into three levels of politeness: casual, polite, and honorific/humble. So far, we have already gone over the polite forms using 「〜です」 and 「〜ます」. We will now cover the next level of politeness using honorific and humble forms. You will often hear this type of language in any customer/consumer type situations such as fast food counters, restaurants, etc. For now, the first thing to remember is that the speaker always considers himself/herself to be at the lowest level. So any actions performed by oneself are in humble form while actions performed by anyone else seen from the view of the speaker uses the honorific form."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Set Expressions"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "2. なさる - to do (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "3. 致す【いた・す】(u-verb) - to do (humble)"
+  },
+  {
+   "type": "text",
+   "text": "4. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "5. いらっしゃる - to be; to go; to come (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "6. おいでになる - to be; to go; to come (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "7. 参る【まい・る】(u-verb) - to go; to come (humble)"
+  },
+  {
+   "type": "text",
+   "text": "8. いる (ru-verb) - to exist (animate)"
+  },
+  {
+   "type": "text",
+   "text": "9. おる (ru-verb) - to exist (animate) (humble)"
+  },
+  {
+   "type": "text",
+   "text": "10. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "11. ご覧になる【ご・らん・になる】- to see (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "12. 拝見する【はい・けん・する】- to see (humble)"
+  }
+ ]
+}

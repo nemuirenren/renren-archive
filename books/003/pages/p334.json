@@ -1,0 +1,99 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 334,
+ "page_label": "334",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Advanced Volitional 「まい、であろう、かろう」"
+  },
+  {
+   "level": 3,
+   "title": "Negative Volitional"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "fact that the 「が」 particle comes right after 「きらい」, which is not allowed for adjectives. The rest of the phrase is simply expressing the fact that the negative tendency exists."
+  },
+  {
+   "type": "text",
+   "text": "Using 「きらいがある」to describe a negative tendency"
+  },
+  {
+   "type": "text",
+   "text": "• The 「きらい」 in this grammar functions as a noun. 「ある」 is simply the existence verb for\ninanimate objects.\nExample: 依存症のきらいがある。"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 多くの大学生は、締切日ぎりぎりまで、宿題をやらないきらいがある。\nA lot of college students have a bad tendency of not doing their homework until just barely it's due\ndate."
+  },
+  {
+   "type": "text",
+   "text": "2. コーディングが好きな開発者は、ちゃんとしたドキュメント作成と十分なテストを怠るきらいが\nある。\nDevelopers that like coding have a bad tendency to neglect proper documents and adequate testing."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Advanced Volitional 「まい、であろう、かろう」"
+  },
+  {
+   "type": "text",
+   "text": "We learned in a previous lesson that the volitional form is used when one is set out to do something. In this section, we're going to cover some other ways in which the volitional form is used, most notably, the negative volitional form."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Negative Volitional"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "2. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "3. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "4. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "5. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "6. 相手【あい・て】- other party"
+  },
+  {
+   "type": "text",
+   "text": "7. 剣【けん】- sword"
+  }
+ ]
+}

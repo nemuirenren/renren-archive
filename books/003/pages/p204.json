@@ -1,0 +1,109 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 204,
+ "page_label": "204",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "More sentence-ending particles"
+  },
+  {
+   "level": 3,
+   "title": "「かい」 and 「だい」 sentence-ending particles"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "洋介：今、図書館に行くんだよな。 Yousuke: You are going to the library now huh? (seeking explanation)"
+  },
+  {
+   "type": "text",
+   "text": "智子：うん、なんで？ Tomoko: Yeah, why?"
+  },
+  {
+   "type": "text",
+   "text": "Example 2"
+  },
+  {
+   "type": "text",
+   "text": "ボブ：日本語は、たくさん勉強したけどな。まだ全然わからない。 Bob: I studied Japanese a lot, right? But, I still don't get it at all."
+  },
+  {
+   "type": "text",
+   "text": "アリス：大丈夫よ。きっとわかるようになるからさ。 Alice: No problem. You'll become able to understand for sure, you know?"
+  },
+  {
+   "type": "text",
+   "text": "ボブ：ならいいけどな。 Bob: If so, it would be good."
+  },
+  {
+   "type": "text",
+   "text": "The 「な」 sentence-ending particle is often used with the question marker 「か」 to indicate that the speaker is considering something."
+  },
+  {
+   "type": "text",
+   "text": "1. 今日は雨が降るかな？\nI wonder if it'll rain today."
+  },
+  {
+   "type": "text",
+   "text": "2. いい大学に行けるかな？\nI wonder if I can go to a good college."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "「かい」 and 「だい」 sentence-ending particles"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. おい - hey"
+  },
+  {
+   "type": "text",
+   "text": "2. どこ - where"
+  },
+  {
+   "type": "text",
+   "text": "3. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "4. 呼ぶ【よ・ぶ】(u-verb) - to call"
+  },
+  {
+   "type": "text",
+   "text": "5. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "6. 一体【いったい】- forms an emphatic question (e.g. \"why on earth?\")"
+  },
+  {
+   "type": "text",
+   "text": "7. 何時【なん・じ】- what time"
+  },
+  {
+   "type": "text",
+   "text": "8. 帰る【かえ・る】(u-verb) - to go home"
+  }
+ ]
+}

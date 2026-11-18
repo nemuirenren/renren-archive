@@ -1,0 +1,111 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 200,
+ "page_label": "200",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Casual Patterns and Slang"
+  },
+  {
+   "level": 3,
+   "title": "Using 「なんか」 just about everywhere"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 食べる【たべ・る】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "3. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "4. 忙しい【いそが・しい】(i-adj) - busy"
+  },
+  {
+   "type": "text",
+   "text": "5. 風呂【ふ・ろ】- bath"
+  },
+  {
+   "type": "text",
+   "text": "6. 超【ちょう】- super"
+  },
+  {
+   "type": "text",
+   "text": "7. 気持ち【き・も・ち】- feeling"
+  },
+  {
+   "type": "text",
+   "text": "8. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "9. お母さん【お・かあ・さん】- mother (polite)"
+  },
+  {
+   "type": "text",
+   "text": "10. 明日【あした】- tomorrow"
+  },
+  {
+   "type": "text",
+   "text": "11. 戻る【もど・る】(u-verb) - to return"
+  },
+  {
+   "type": "text",
+   "text": "12. 私【わたし】- me; myself; I"
+  },
+  {
+   "type": "text",
+   "text": "13. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "14. 本当【ほん・とう】- real"
+  },
+  {
+   "type": "text",
+   "text": "15. 好き【す・き】(na-adj) - likable; desirable"
+  },
+  {
+   "type": "text",
+   "text": "By now, you're probably aware that 「何」 can be either read as 「なに」 or 「なん」 depending on what comes after it such as 「何色」(なにいろ) versus 「何人」(なんにん). In the case of 「何か」, while 「なにか」 is the correct reading, it is often contracted to just 「なんか」 in casual speech."
+  },
+  {
+   "type": "text",
+   "text": "• なにか食べる？\nEat something?\n• なんか食べる？\nEat something?"
+  },
+  {
+   "type": "text",
+   "text": "However, 「なんか」 also has a function similar to the word \"like\" in English. By \"like\", I'm not talking about the actual word but the kind that has no meaning and some people use just about anywhere in the sentence. Similarly, 「なんか」 can also be used as a filler without any actual meaning. For instance, take a look at the example below."
+  },
+  {
+   "type": "text",
+   "text": "• 今日は、なんか忙しいみたいよ。\nI guess he's like busy today."
+  },
+  {
+   "type": "text",
+   "text": "While 「なんか」 is a shorter version of 「なにか」, only 「なんか」 can be used in this way as a filler."
+  },
+  {
+   "type": "text",
+   "text": "• 今日は、なにか忙しいみたいよ。\n(「なにか」 cannot be used as a filler word.)"
+  },
+  {
+   "type": "text",
+   "text": "Let's take a look at a few more examples."
+  }
+ ]
+}

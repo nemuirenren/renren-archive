@@ -1,0 +1,115 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 282,
+ "page_label": "282",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "More negative verbs 「ないで、ず、〜ん、ぬ」"
+  },
+  {
+   "level": 3,
+   "title": "A classical negative verb that ends in 「ぬ」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "A shorter way to say negative verbs"
+  },
+  {
+   "type": "text",
+   "text": "• A shorter way to say a negative verb is to use 「ん」 instead of 「ない」."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Example"
+  },
+  {
+   "type": "text",
+   "text": "知る → 知らない → 知らん"
+  },
+  {
+   "type": "text",
+   "text": "• Exceptions:"
+  },
+  {
+   "type": "text",
+   "text": "1. する → せん 2. くる → こん"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. すまん。\nSorry."
+  },
+  {
+   "type": "text",
+   "text": "2. 韓国人と結婚しなくてはならん。\nYou must marry a Korean!"
+  },
+  {
+   "type": "text",
+   "text": "3. そんなことはさせん。\nI won't let you do such a thing!"
+  },
+  {
+   "type": "text",
+   "text": "You can even use this slang for past tense verbs by adding 「かった」."
+  },
+  {
+   "type": "text",
+   "text": "• 皆、今日行くって、知らんかったよ。\nI didn't know everybody was going today."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "A classical negative verb that ends in 「ぬ」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "2. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "3. 知る【し・る】(u-verb) - to know"
+  },
+  {
+   "type": "text",
+   "text": "4. 韓国人【かん・こく・じん】- Korean person"
+  },
+  {
+   "type": "text",
+   "text": "5. 結婚【けっ・こん】- marriage"
+  },
+  {
+   "type": "text",
+   "text": "6. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "7. 模擬【も・ぎ】- mock"
+  }
+ ]
+}

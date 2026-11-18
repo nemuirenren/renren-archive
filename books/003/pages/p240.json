@@ -1,0 +1,113 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 240,
+ "page_label": "240",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing various levels of certainty 「かもしれない、でしょう、だろう」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「でしょう」 to express a fair amount of certainty (polite)"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "In casual speech, it can be abbreviated to just 「かも」. There is also a very masculine version 「かも しれん」, which is simply a different type of negative verb."
+  },
+  {
+   "type": "text",
+   "text": "Expressing uncertainty with 「かもしれない」"
+  },
+  {
+   "type": "text",
+   "text": "• Simply attach 「かもしれない」 or 「かも知れない」 to the clause"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 映画を観たかもしれない 2. 彼は学生かもしれない 3. それは面白いかもしれない"
+  },
+  {
+   "type": "text",
+   "text": "• Noun and na-adjective clauses must not use the declarative 「だ」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 先生だかもしれない → 先生かもしれない 2. 退屈だかもしれない → 退屈かもしれない"
+  },
+  {
+   "type": "text",
+   "text": "• It can be abbreviated to just 「かも」 in casual speech"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Example"
+  },
+  {
+   "type": "text",
+   "text": "1. 面白いかもしれない → 面白いかも"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. スミスさんは食堂に行ったかもしれません。\nSmith-san may have gone to the cafeteria."
+  },
+  {
+   "type": "text",
+   "text": "2. 雨で試合は中止になるかもしれないね。\nThe game may become canceled by rain, huh?"
+  },
+  {
+   "type": "text",
+   "text": "3. この映画は一回観たことあるかも。\nI might have already seen this movie once."
+  },
+  {
+   "type": "text",
+   "text": "4. あそこが代々木公園かもしれない。\nThat might be Yoyogi park over there."
+  },
+  {
+   "type": "text",
+   "text": "5. もう逃げられないかもしれんぞ。\nMight not be able to escape anymore, you know."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「でしょう」 to express a fair amount of certainty (polite)"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 多分【た・ぶん】- perhaps; probably"
+  }
+ ]
+}

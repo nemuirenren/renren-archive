@@ -1,0 +1,126 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 77,
+ "page_label": "77",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Adverbs and Sentence-ending particles"
+  },
+  {
+   "level": 3,
+   "title": "Properties of Adverbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Adverbs and Sentence-ending particles"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Properties of Adverbs"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 早い【はや・い】(i-adj) - fast; early"
+  },
+  {
+   "type": "text",
+   "text": "2. きれい (na-adj) - pretty; clean"
+  },
+  {
+   "type": "text",
+   "text": "3. 朝ご飯【あさ・ご・はん】- breakfast"
+  },
+  {
+   "type": "text",
+   "text": "4. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "5. 自分【じ・ぶん】- oneself"
+  },
+  {
+   "type": "text",
+   "text": "6. 部屋【へ・や】- room"
+  },
+  {
+   "type": "text",
+   "text": "7. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "8. たくさん - a lot (amount)"
+  },
+  {
+   "type": "text",
+   "text": "9. 見る【み・る】- to see; to watch"
+  },
+  {
+   "type": "text",
+   "text": "10. 最近【さい・きん】- recent; lately"
+  },
+  {
+   "type": "text",
+   "text": "11. 全然【ぜん・ぜん】- not at all (when used with negative)"
+  },
+  {
+   "type": "text",
+   "text": "12. 声【こえ】- voice"
+  },
+  {
+   "type": "text",
+   "text": "13. 結構【けっ・こう】- fairly, reasonably"
+  },
+  {
+   "type": "text",
+   "text": "14. 大きい【おお・きい】(i-adj) - big"
+  },
+  {
+   "type": "text",
+   "text": "15. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "16. 町【まち】- town"
+  },
+  {
+   "type": "text",
+   "text": "17. 変わる【か・わる】(u-verb) - to change"
+  },
+  {
+   "type": "text",
+   "text": "18. 図書館【と・しょ・かん】- library"
+  },
+  {
+   "type": "text",
+   "text": "19. 中【なか】- inside"
+  },
+  {
+   "type": "text",
+   "text": "20. 静か【しず・か】(na-adj) - quiet"
+  },
+  {
+   "type": "text",
+   "text": "Unlike English, changing adjectives to adverbs is a very simple and straightforward process. In addition, since the system of particles make sentence ordering flexible, adverbs can be placed anywhere in the clause that it applies to as long as it comes before the verb that it refers to. As usual, we have two separate rules: one for i-adjectives, and one for na-adjectives."
+  }
+ ]
+}

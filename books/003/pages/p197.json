@@ -1,0 +1,98 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 197,
+ "page_label": "197",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Casual Patterns and Slang"
+  },
+  {
+   "level": 3,
+   "title": "Using 「つ」 for 「という」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Summary"
+  },
+  {
+   "type": "text",
+   "text": "• Though derived from 「じゃない」, 「じゃん」 is always used to confirm the positive."
+  },
+  {
+   "type": "text",
+   "text": "• It can be attached to the end of any sentence regardless of whether it ends in a noun, adjective,\nverb, or adverb."
+  },
+  {
+   "type": "text",
+   "text": "Finally, letʼs get to the examples. Hopefully, you can see that 「じゃん」 is basically saying something along the lines of, “See, Iʼm right, arenʼt I?”"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. ほら、やっぱりレポートを書かないとだめじゃん。\nSee, as I thought, you have to write the report."
+  },
+  {
+   "type": "text",
+   "text": "2. 誰もいないからここで着替えてもいいじゃん。\nSince there's nobody, itʼs probably fine to change here."
+  },
+  {
+   "type": "text",
+   "text": "A：たかし君は、ここにいる？ A: Is Takashi here?"
+  },
+  {
+   "type": "text",
+   "text": "B：知らない。 B: Dunno."
+  },
+  {
+   "type": "text",
+   "text": "A：あっ。やっぱ、いるじゃん。 A: Ah! See, he is here!"
+  },
+  {
+   "type": "text",
+   "text": "Thereʼs also another variation, which attaches the question marker as well. The meaning is mostly the same but it adds more to the questioning, confirming tone."
+  },
+  {
+   "type": "text",
+   "text": "A：駅の近くにカラオケがあるじゃんか。 A: There's a karaoke place near the station, right?"
+  },
+  {
+   "type": "text",
+   "text": "B：うん。 B: Yeah."
+  },
+  {
+   "type": "text",
+   "text": "A：あそこのすぐ隣だ。 A: It's right next to there."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「つ」 for 「という」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 言う【い・う】(u-verb) - to say"
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 262,
+ "page_label": "262",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」"
+  },
+  {
+   "level": 3,
+   "title": "Guessing at an outcome using 「〜そう」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "9. 漬物【つけ・もの】- pickled vegetable"
+  },
+  {
+   "type": "text",
+   "text": "10. おいしい (i-adj) - tasty"
+  },
+  {
+   "type": "text",
+   "text": "11. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "12. 結構【けっ・こう】- fairly, reasonably"
+  },
+  {
+   "type": "text",
+   "text": "13. やはり〜やっぱり - as I thought"
+  },
+  {
+   "type": "text",
+   "text": "14. 高い【たか・い】(i-adj) - high; tall; expensive"
+  },
+  {
+   "type": "text",
+   "text": "15. お前【お・まえ】- you (casual)"
+  },
+  {
+   "type": "text",
+   "text": "16. 金髪【きん・ぱつ】- blond hair"
+  },
+  {
+   "type": "text",
+   "text": "17. 女【おんな】- woman; girl"
+  },
+  {
+   "type": "text",
+   "text": "18. 好き【す・き】(na-adj) - likable; desirable"
+  },
+  {
+   "type": "text",
+   "text": "19. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "20. 〜時【〜じ】- counter for hours"
+  },
+  {
+   "type": "text",
+   "text": "21. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "22. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "23. ただ - free of charge; only"
+  },
+  {
+   "type": "text",
+   "text": "24. 試合【し・あい】- match, game"
+  },
+  {
+   "type": "text",
+   "text": "25. その - that (abbr. of それの)"
+  },
+  {
+   "type": "text",
+   "text": "26. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "27. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "28. かわいい (i-adj) - cute"
+  },
+  {
+   "type": "text",
+   "text": "29. かわいそう (i-adj) - pitiable"
+  },
+  {
+   "type": "text",
+   "text": "30. 犬【いぬ】- dog"
+  },
+  {
+   "type": "text",
+   "text": "The problem with English is that the expression, \"seems like\" has too many meanings. It can mean similarity in appearance, similarity in behavior or even that current evidence points to a likely outcome. We will now learn how to say the third meaning: how to indicate a likely outcome given the situation."
+  },
+  {
+   "type": "text",
+   "text": "Just like the grammar we have learned so far in this lesson, we can use this grammar by simply attaching 「そう」 to the end of verbs, and adjectives. However, there are four important different cases. Actually, I just noticed this but the conjugation rules are exactly the same as the 「〜すぎる」 grammar we learned in the last section. The only difference is that for the adjective 「いい」, you need to change it to 「よさ」 before attaching 「そう」 to create 「よさそう」."
+  }
+ ]
+}

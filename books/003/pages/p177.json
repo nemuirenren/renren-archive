@@ -1,0 +1,107 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 177,
+ "page_label": "177",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」"
+  },
+  {
+   "level": 3,
+   "title": "「〜ください」 - a special conjugation of 「くださる」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "In order to request that someone not do something, you simply attach 「で」 to the negative form of the verb and proceed as before."
+  },
+  {
+   "type": "text",
+   "text": "1. 全部食べないでくれますか。\nCan you not eat it all?"
+  },
+  {
+   "type": "text",
+   "text": "2. 高い物を買わないでくれる？\nCan you not buy expensive thing(s)?"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Politely (and not so politely) making requests"
+  },
+  {
+   "type": "text",
+   "text": "Similar to asking for favors, which we learned in the last lesson, there are also various ways to make requests in Japanese. This is effectively the Japanese way of saying, \"please do X\". We'll first learn the most common way to make requests using a special conjugation of the verb 「くださる」 and the firmer 「なさる」. Finally, we'll learn the rarely used excessively strong command form for the sake of completeness. You can safely skip the last part unless you're an avid reader of manga."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "「〜ください」 - a special conjugation of 「くださる」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. それ - that"
+  },
+  {
+   "type": "text",
+   "text": "2. くれる (ru-verb) - to give"
+  },
+  {
+   "type": "text",
+   "text": "3. 漢字【かん・じ】- Kanji"
+  },
+  {
+   "type": "text",
+   "text": "4. 書く【か・く】(u-verb) - to write"
+  },
+  {
+   "type": "text",
+   "text": "5. ここ - here"
+  },
+  {
+   "type": "text",
+   "text": "6. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "7. 日本語【に・ほん・ご】- Japanese (language)"
+  },
+  {
+   "type": "text",
+   "text": "8. 話す【はな・す】(u-verb) - to speak"
+  },
+  {
+   "type": "text",
+   "text": "9. 消しゴム【け・し・ごむ】- eraser"
+  },
+  {
+   "type": "text",
+   "text": "10. 貸す【か・す】(u-verb) - lend"
+  },
+  {
+   "type": "text",
+   "text": "11. 遠い【とお・い】(i-adj) - far"
+  }
+ ]
+}

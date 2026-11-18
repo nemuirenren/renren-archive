@@ -1,0 +1,101 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 341,
+ "page_label": "341",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Advanced Volitional 「まい、であろう、かろう」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「かろう」 as volitional for 「い」 endings"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "12. 始める【はじ・める】(ru-verb) - to begin"
+  },
+  {
+   "type": "text",
+   "text": "13. 遅い【おそ・い】(i-adj) - late"
+  },
+  {
+   "type": "text",
+   "text": "14. 健康【けん・こう】- health"
+  },
+  {
+   "type": "text",
+   "text": "15. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "16. 変わる【か・わる】(u-verb) - to change"
+  },
+  {
+   "type": "text",
+   "text": "17. 休日【きゅう・じつ】- holiday, day off"
+  },
+  {
+   "type": "text",
+   "text": "18. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "19. 関係【かん・けい】- relation, relationship"
+  },
+  {
+   "type": "text",
+   "text": "We learned in the lesson about formal grammar that 「ではない」 was the negative of 「である」. So how would we say something like 「であろう」 but for the negative? The answer is to use yet another type of volitional for negatives and i-adjectives used only in formal and literary contexts. You can think of this grammar as a very old-fashioned version for i-adjectives and negative 「い」 endings."
+  },
+  {
+   "type": "text",
+   "text": "The conjugation rule is simple: remove the last「い」and attach「かろう」. You can use it for negatives and i-adjectives just like the 「かった」 past conjugation form."
+  },
+  {
+   "type": "text",
+   "text": "Using 「かろう」to express volition for 「い」endings"
+  },
+  {
+   "type": "text",
+   "text": "• Drop the last 「い」 and attach 「かろう」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. ではない → ではなかろう 2. 早い → 早かろう"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. どんな商品でもネットで販売するだけで売上が伸びるというものではなかろう。\nIt's not necessarily the case that sales go up just by selling any type of product on the net."
+  },
+  {
+   "type": "text",
+   "text": "2. 運動を始めるのが早かろうが遅かろうが、健康にいいというのは変わりません。\nWhether you start exercising early or late, the fact that it's good for your health doesn't change."
+  },
+  {
+   "type": "text",
+   "text": "3. 休日であろうが、なかろうが、この仕事では関係ないみたい。\nWhether it's a holiday or not, it looks like it doesn't matter for this job."
+  }
+ ]
+}

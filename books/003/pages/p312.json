@@ -1,0 +1,130 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 312,
+ "page_label": "312",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Expressing the minimum expectation 「でさえ、ですら、おろか」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「(で)さえ」 to describe the minimum requirement"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Expressing the minimum expectation 「でさえ、ですら、おろか」"
+  },
+  {
+   "type": "text",
+   "text": "In this section, we'll learn various ways to express the minimum expectation. This grammar is not used as often as you might think as there are many situations where a simpler expression would sound more natural, but you should still become familiar with it."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「(で)さえ」 to describe the minimum requirement"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 私【わたし】- me; myself; I"
+  },
+  {
+   "type": "text",
+   "text": "2. 子供【こ・ども】- child"
+  },
+  {
+   "type": "text",
+   "text": "3. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "4. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "5. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "6. 読む【よ・む】(u-verb) - to read"
+  },
+  {
+   "type": "text",
+   "text": "7. 宿題【しゅく・だい】- homework"
+  },
+  {
+   "type": "text",
+   "text": "8. 多い【おお・い】(i-adj) - numerous"
+  },
+  {
+   "type": "text",
+   "text": "9. トイレ - bathroom; toilet"
+  },
+  {
+   "type": "text",
+   "text": "10. 時間【じ・かん】- time"
+  },
+  {
+   "type": "text",
+   "text": "11. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "12. お金【お・かね】- money"
+  },
+  {
+   "type": "text",
+   "text": "13. 何【なに〜なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "14. 出来る【で・き・る】(ru-verb) - to be able to do"
+  },
+  {
+   "type": "text",
+   "text": "15. お弁当【お・べん・とう】- box lunch"
+  },
+  {
+   "type": "text",
+   "text": "16. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "17. あんた - you (slang)"
+  },
+  {
+   "type": "text",
+   "text": "18. 楽ちん【らく・ちん】(na-adj) - easy"
+  },
+  {
+   "type": "text",
+   "text": "19. ビタミン - vitamin"
+  },
+  {
+   "type": "text",
+   "text": "20. 健康【けん・こう】- health"
+  },
+  {
+   "type": "text",
+   "text": "21. 保証【ほ・しょう】- guarantee"
+  }
+ ]
+}

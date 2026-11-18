@@ -1,0 +1,113 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 174,
+ "page_label": "174",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Giving and Receiving 「あげる、やる、くれる、もらう」"
+  },
+  {
+   "level": 3,
+   "title": "When to use 「もらう」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "• 私が全部食べてくれました。\n「くれる」 is being used as giving done by the speaker. (Wrong)"
+  },
+  {
+   "type": "text",
+   "text": "• 私が全部食べてあげました。\nI gave favor of eating it all. (Correct)"
+  },
+  {
+   "type": "text",
+   "text": "• 友達がプレゼントを私にあげた。\n「あげる」 is being used as giving to the speaker. (Wrong)"
+  },
+  {
+   "type": "text",
+   "text": "• 友達がプレゼントを私にくれた。- Friend gave present to me. (Correct)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "When to use 「もらう」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 私【わたし】- me; myself; I"
+  },
+  {
+   "type": "text",
+   "text": "2. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "3. プレゼント - present"
+  },
+  {
+   "type": "text",
+   "text": "4. もらう (u-verb) - to receive"
+  },
+  {
+   "type": "text",
+   "text": "5. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "6. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "7. 宿題【しゅく・だい】- homework"
+  },
+  {
+   "type": "text",
+   "text": "8. チェック - check"
+  },
+  {
+   "type": "text",
+   "text": "9. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "10. 時間【じ・かん】- time"
+  },
+  {
+   "type": "text",
+   "text": "11. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "12. 無理【む・り】- impossible"
+  },
+  {
+   "type": "text",
+   "text": "13. その - that (abbr. of それの)"
+  },
+  {
+   "type": "text",
+   "text": "14. 時計【と・けい】- watch; clock"
+  },
+  {
+   "type": "text",
+   "text": "「もらう」 meaning, \"to receive\" has only one version unlike 「あげる〜くれる」 so there's very little to explain. One thing to point out is that since you receive from someone, 「から」 is also appropriate in addition to the 「に」 target particle."
+  }
+ ]
+}

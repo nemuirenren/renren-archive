@@ -1,0 +1,97 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 97,
+ "page_label": "97",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "The Question Marker 「か」"
+  },
+  {
+   "level": 3,
+   "title": "The question marker in casual speech"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "14. いっぱい - full"
+  },
+  {
+   "type": "text",
+   "text": "15. ごめんなさい - sorry (polite)"
+  },
+  {
+   "type": "text",
+   "text": "16. ごめん - sorry"
+  },
+  {
+   "type": "text",
+   "text": "The question marker is covered here because it is primarily used to clearly indicate a question in polite sentences. While it is entirely possible to express a question even in polite form using just intonation, the question marker is often attached to the very end of the sentence to indicate a question. The question marker is simply the hiragana character「か」and you don't need to add a question mark. For previously explained reasons, you must not use the declarative 「だ」 with the question marker."
+  },
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "田中さん：お母さんはどこですか。 Tanaka-san: Where is (your) mother?"
+  },
+  {
+   "type": "text",
+   "text": "鈴木さん：母は買い物に行きました。 Suzuki-san: (My) mother went shopping."
+  },
+  {
+   "type": "text",
+   "text": "Example 2"
+  },
+  {
+   "type": "text",
+   "text": "キムさん：イタリア料理を食べに行きませんか。 Kim-san: Go to eat Italian food?"
+  },
+  {
+   "type": "text",
+   "text": "鈴木さん：すみません。ちょっと、お腹がいっぱいです。 Suzuki-san: Sorry. (My) stomach is a little full."
+  },
+  {
+   "type": "text",
+   "text": "Here the question is actually being used as an invitation just like how in English we say, \"Won't you come in for a drink?\" 「すみません」 is a polite way of apologizing. Slightly less formal is 「ごめんなさい」 while the casual version is simply 「ごめん」."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The question marker in casual speech"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. こんな - this sort of"
+  },
+  {
+   "type": "text",
+   "text": "2. 本当【ほん・とう】- real"
+  },
+  {
+   "type": "text",
+   "text": "3. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "4. そんな - that sort of"
+  }
+ ]
+}

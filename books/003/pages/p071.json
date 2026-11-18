@@ -1,0 +1,83 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 71,
+ "page_label": "71",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Noun-related Particles 「と、や、とか、の」"
+  },
+  {
+   "level": 3,
+   "title": "The 「の」 particle"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "29. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "30. 学校【がっ・こう】- school"
+  },
+  {
+   "type": "text",
+   "text": "The 「の」 particle has many uses and it is a very powerful particle. It is introduced here because like the 「と」 and 「や」 particle, it can be used to connect one or more nouns. Let's look at a few examples."
+  },
+  {
+   "type": "text",
+   "text": "1. ボブの本。\nBook of Bob."
+  },
+  {
+   "type": "text",
+   "text": "2. 本のボブ。\nBob of book."
+  },
+  {
+   "type": "text",
+   "text": "The first sentence essentially means, \"Bob's book.\" (not a lost bible chapter). The second sentence means, \"Book's Bob\" which is probably a mistake. I've translated the first example as \"book of Bob\" because the 「の」 particle doesn't always imply possession as the next example shows."
+  },
+  {
+   "type": "text",
+   "text": "1. ボブは、アメリカの大学の学生だ。\nBob is student of college of America."
+  },
+  {
+   "type": "text",
+   "text": "In normal English, this would translate to, \"Bob is a student of an American college.\" The order of modification is backwards so Bob is a student of a college that is American. 「学生の大学のアメリカ」 means \"America of college of student\" which is probably an error and makes little sense. (America of student's college?)"
+  },
+  {
+   "type": "text",
+   "text": "The noun that is being modified can be omitted if the context clearly indicates what is being omitted. The following highlighted redundant words can be omitted."
+  },
+  {
+   "type": "text",
+   "text": "1. そのシャツは誰のシャツ？\nWhose shirt is that shirt?"
+  },
+  {
+   "type": "text",
+   "text": "2. ボブのシャツだ。\nIt is shirt of Bob."
+  },
+  {
+   "type": "text",
+   "text": "to become:"
+  },
+  {
+   "type": "text",
+   "text": "1. そのシャツは誰の？\nWhose shirt is that?"
+  },
+  {
+   "type": "text",
+   "text": "2. ボブのだ。\nIt is of Bob."
+  }
+ ]
+}

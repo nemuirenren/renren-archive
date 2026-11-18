@@ -1,0 +1,97 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 87,
+ "page_label": "87",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Polite Form and Verb Stems 「〜です、〜ます」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「〜ます」 to make verbs polite"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Other verbs are also sometimes attached to the stem to create new verbs. For example, when 「出す」 is attached to the stem of 「走る」, which is 「走り」, you get 「走り出す」 meaning \"to break out into a run\". Other examples include 「切り替える」, which means \"to switch over to something else\", and 「付 け加える」, which means \"to add something by attaching it\". You can see how the separate meanings of the two verbs are combined to create the new combined verb. For example, 「言い出す」 means \"to start talking\", combining the meaning, \"to speak\" and \"to bring out\". There are no general rules here, you need to just memorize these combined verbs as separate verbs in their own right."
+  },
+  {
+   "type": "text",
+   "text": "Things that are written in a formal context such as newspaper articles also use the stem as a conjunctive verb. We will come back to this later in the formal expression lesson."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「〜ます」 to make verbs polite"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 明日【あした】- tomorrow"
+  },
+  {
+   "type": "text",
+   "text": "2. 大学【だい・がく】- college"
+  },
+  {
+   "type": "text",
+   "text": "3. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "4. 先週【せん・しゅう】- last week"
+  },
+  {
+   "type": "text",
+   "text": "5. 会う【あ・う】(u-verb) - to meet"
+  },
+  {
+   "type": "text",
+   "text": "6. 晩ご飯【ばん・ご・はん】- dinner"
+  },
+  {
+   "type": "text",
+   "text": "7. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "8. 面白い【おも・しろ・い】(i-adj) - interesting"
+  },
+  {
+   "type": "text",
+   "text": "9. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "10. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "Of course, the reason I introduced the verb stem is to learn how to conjugate verbs into their polite form... the masu-form! The masu-form must always come at the end of a complete sentence and never inside a modifying relative clause. When we learn compound sentences, we will see that each sub-sentence of the compound sentence can end in masu-form as well."
+  },
+  {
+   "type": "text",
+   "text": "To conjugate verbs into the masu-form, you attach different conjugations of「ます」to the stem depending on the tense. Here is a chart."
+  },
+  {
+   "type": "text",
+   "text": "A conjugation chart with sample stem 「遊び」\nます conjugations          Stem+ ます\nPlain            ます                遊びます\nNegative          ません                遊びません\nPast            ました                遊びました\nPast-Neg      ませんでした             遊びませんでした"
+  }
+ ]
+}

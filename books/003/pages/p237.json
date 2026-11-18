@@ -1,0 +1,126 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 237,
+ "page_label": "237",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Special expressions with generic nouns 「こと、ところ、もの」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「ところ」 as an abstract place"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "5. そういうのを見たことがなかった。\nI had never seen anything like that."
+  },
+  {
+   "type": "text",
+   "text": "6. 一度行ったこともないんです。\nI've never gone, not even once."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「ところ」 as an abstract place"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 所【ところ】- place"
+  },
+  {
+   "type": "text",
+   "text": "2. 早い【はや・い】(i-adj) - fast; early"
+  },
+  {
+   "type": "text",
+   "text": "3. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "4. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "5. 今【いま】- now"
+  },
+  {
+   "type": "text",
+   "text": "6. ちょうど - just right; exactly"
+  },
+  {
+   "type": "text",
+   "text": "7. いい - good"
+  },
+  {
+   "type": "text",
+   "text": "8. 彼【かれ】- he; boyfriend"
+  },
+  {
+   "type": "text",
+   "text": "9. 優しい【やさ・しい】(i-adj) - gentle; kind"
+  },
+  {
+   "type": "text",
+   "text": "10. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "11. 授業【じゅ・ぎょう】- class"
+  },
+  {
+   "type": "text",
+   "text": "12. 終わる【お・わる】(u-verb) - to end"
+  },
+  {
+   "type": "text",
+   "text": "13. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "14. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "「ところ」(所) is usually used to indicate a generic physical location. However, it can also hold a much broader meaning ranging from a characteristic to a place in time."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 早くきて。映画は今ちょうどいいところだよ。\nCome quickly. We're at the good part of the movie."
+  },
+  {
+   "type": "text",
+   "text": "2. 彼は優しいところもあるよ。\nHis personality has some gentle parts too."
+  },
+  {
+   "type": "text",
+   "text": "3. 今は授業が終ったところです。\nClass has ended just now."
+  },
+  {
+   "type": "text",
+   "text": "4. これから行くところでした。\nI was just about to go from now."
+  }
+ ]
+}

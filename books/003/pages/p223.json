@@ -1,0 +1,143 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 223,
+ "page_label": "223",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Honorific and Humble Forms"
+  },
+  {
+   "level": 3,
+   "title": "Set Expressions"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "13. 聞く【き・く】(u-verb) - to ask; to listen"
+  },
+  {
+   "type": "text",
+   "text": "14. 伺う【うかが・う】(u-verb) - to ask; to listen (humble)"
+  },
+  {
+   "type": "text",
+   "text": "15. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "16. おっしゃる - to say (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "17. 申す【もう・す】(u-verb) - to say (humble)"
+  },
+  {
+   "type": "text",
+   "text": "18. 申し上げる【もう・し・あ・げる】(u-verb) - to say (humble)"
+  },
+  {
+   "type": "text",
+   "text": "19. あげる (ru-verb) - to give; to raise"
+  },
+  {
+   "type": "text",
+   "text": "20. 差し上げる【さ・し・あ・げる】(ru-verb) - to give; to raise (humble)"
+  },
+  {
+   "type": "text",
+   "text": "21. くれる (ru-verb) - to give"
+  },
+  {
+   "type": "text",
+   "text": "22. 下さる【くだ・さる】- to give (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "23. もらう (u-verb) - to receive"
+  },
+  {
+   "type": "text",
+   "text": "24. いただく (u-verb) - to receive; to eat; to drink (humble)"
+  },
+  {
+   "type": "text",
+   "text": "25. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "26. 召し上がる【め・し・あ・がる】(ru-verb) - to eat; to drink (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "27. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "28. 知る【し・る】(u-verb) - to know"
+  },
+  {
+   "type": "text",
+   "text": "29. ご存じ【ご・ぞん・じ】- knowing (honorific)"
+  },
+  {
+   "type": "text",
+   "text": "30. 存じる【ぞん・じる】(ru-verb) - to know (humble)"
+  },
+  {
+   "type": "text",
+   "text": "31. ござる - to be (formal)"
+  },
+  {
+   "type": "text",
+   "text": "32. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "33. 仕事【し・ごと】- job"
+  },
+  {
+   "type": "text",
+   "text": "34. 何【なに〜なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "35. 推薦状【すい・せん・じょう】- letter of recommendation"
+  },
+  {
+   "type": "text",
+   "text": "36. 書く【か・く】(u-verb) - to write"
+  },
+  {
+   "type": "text",
+   "text": "37. どちら - which way"
+  },
+  {
+   "type": "text",
+   "text": "38. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "39. 私【わたし】- me; myself; I"
+  },
+  {
+   "type": "text",
+   "text": "40. レポート - report"
+  },
+  {
+   "type": "text",
+   "text": "41. 失礼【しつ・れい】- discourtesy"
+  }
+ ]
+}

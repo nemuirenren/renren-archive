@@ -1,0 +1,102 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 231,
+ "page_label": "231",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Honorific and Humble Forms"
+  },
+  {
+   "level": 3,
+   "title": "Making honorific requests"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "11. どうぞ - please"
+  },
+  {
+   "type": "text",
+   "text": "12. ゆっくり - slowly"
+  },
+  {
+   "type": "text",
+   "text": "We learned how to make polite requests using 「〜ください」 in a previous section and we just looked at how to use honorific verbs with requests as well. However, there is yet another way to make requests using honorific verbs. This grammar only applies to the honorific verbs with special 「〜ます」 conjugations that we just covered. This includes 「下さる」、「いらっしゃる」、「なさる」、and 「おっしゃ る」. I've never actually seen this used with 「おっしゃる」, but it is grammatically possible."
+  },
+  {
+   "type": "text",
+   "text": "Making requests for honorific actions"
+  },
+  {
+   "type": "text",
+   "text": "• Conjugate the honorific verb to the special masu-conjugation and replace the last「す」with「せ」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 下さる → 下さいます → 下さいませ 2. いらっしゃる → いらっしゃいます → いらっしゃいませ"
+  },
+  {
+   "type": "text",
+   "text": "• An abbreviated and less formal version of this is to simply remove the 「ます」 after conjugating\nto the special masu-form"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 下さる → 下さいます → 下さい 2. いらっしゃる → いらっしゃいます → いらっしゃい"
+  },
+  {
+   "type": "text",
+   "text": "Now you finally know where grammar such as 「しなさい」 and 「してください」 actually came from. Let's look at a few quick examples."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "You'll probably hear this one a million times every time you enter some kind of store in Japan."
+  },
+  {
+   "type": "text",
+   "text": "• いらっしゃいませ。\nPlease come in!"
+  },
+  {
+   "type": "text",
+   "text": "However, a middle-aged sushi chef will probably use the abbreviated version."
+  },
+  {
+   "type": "text",
+   "text": "• いらっしゃい。\nPlease come in!"
+  },
+  {
+   "type": "text",
+   "text": "Some more examples..."
+  },
+  {
+   "type": "text",
+   "text": "1. ありがとうございました。またお越しくださいませ。\nThank you very much. Please come again."
+  }
+ ]
+}

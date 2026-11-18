@@ -1,0 +1,83 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 190,
+ "page_label": "190",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Numbers and Counting"
+  },
+  {
+   "level": 3,
+   "title": "Counting and Counters"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 二十日間 (はつかかん)\n20 days"
+  },
+  {
+   "type": "text",
+   "text": "3. 十五日間 (じゅうごにちかん)\n15 days"
+  },
+  {
+   "type": "text",
+   "text": "4. 二年間 (にねんかん)\ntwo years"
+  },
+  {
+   "type": "text",
+   "text": "5. 三週間 (さんしゅうかん)\nthree weeks"
+  },
+  {
+   "type": "text",
+   "text": "6. 一日 (いちにち)\n1 day"
+  },
+  {
+   "type": "text",
+   "text": "As mentioned before, a period of one day is 「一日」 (いちにち) which is different from the 1st of the month: 「ついたち」."
+  },
+  {
+   "type": "text",
+   "text": "Pronunciations to watch out for when counting weeks is one week: 「一週間」 (いっしゅうかん) and 8 weeks: 「八週間」 (はっしゅうかん)."
+  },
+  {
+   "type": "text",
+   "text": "To count the number of months, you simple take a regular number and add 「か」 and 「月」 which is pronounced here as 「げつ」 and not 「がつ」. The 「か」 used in this counter is usually written as a small katakana 「ヶ」 which is confusing because it's still pronounced as 「か」 and not 「け」. The small 「ヶ」 is actually totally different from the katakana 「ケ」 and is really an abbreviation for the kanji 「箇」, the original kanji for the counter. This small 「ヶ」 is also used in some place names such as 「千 駄ヶ谷」 and other counters, such as the counter for location described in the \"Other Counters\" section below."
+  },
+  {
+   "type": "text",
+   "text": "In counting months, you should watch out for the following sound changes:"
+  },
+  {
+   "type": "text",
+   "text": "英語         1 month      6 months       10 months\n漢字          一ヶ月          六ヶ月             十ヶ月\nひらがな       いっかげつ         ろっかげつ         じゅっかげつ"
+  },
+  {
+   "type": "text",
+   "text": "Just like minutes, the high numbers rotate back using the same sounds for 1 to 10."
+  },
+  {
+   "type": "text",
+   "text": "1. 十一ヶ月 (じゅういっかげつ)\nEleven months"
+  },
+  {
+   "type": "text",
+   "text": "2. 二十ヶ月 (にじゅっかげつ)\nTwenty months"
+  },
+  {
+   "type": "text",
+   "text": "3. 三十三ヶ月 (さんじゅうさんかげつ)\nThirty three months"
+  }
+ ]
+}

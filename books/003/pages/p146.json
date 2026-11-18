@@ -1,0 +1,99 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 146,
+ "page_label": "146",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Desire and Suggestions 「たい、 欲しい、 volitional、〜たらどう」"
+  },
+  {
+   "level": 3,
+   "title": "Verbs you want to do with 「たい」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "1. 全部食べてもいいよ。\nYou can go ahead and eat it all. (lit: Even if you eat it all, it's good, you know.)"
+  },
+  {
+   "type": "text",
+   "text": "2. 全部食べなくてもいいよ。\nYou don't have to eat it all. (lit: Even if you don't eat it all, it's good, you know.)"
+  },
+  {
+   "type": "text",
+   "text": "3. 全部飲んでも大丈夫だよ。\nIt's ok if you drink it all. (lit: Even if you drink it all, it's OK, you know.)"
+  },
+  {
+   "type": "text",
+   "text": "4. 全部飲んでも構わないよ。\nI don't mind if you drink it all. (lit: Even if you drink it all, I don't mind, you know.)"
+  },
+  {
+   "type": "text",
+   "text": "In casual speech, 「〜てもいい」sometimes get shortened to just「〜ていい」(or「〜でいい」instead of 「〜でもいい」 )."
+  },
+  {
+   "type": "text",
+   "text": "1. もう帰っていい？\nCan I go home already?"
+  },
+  {
+   "type": "text",
+   "text": "2. これ、ちょっと見ていい？\nCan I take a quick look at this?"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Desire and Suggestions 「たい、 欲しい、 volitional、〜たらどう」"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "How to get your way in Japan"
+  },
+  {
+   "type": "text",
+   "text": "We will now learn how to say what you want either by just coming out and saying it or by making discreet suggestions. The major topics we will cover will be the 「たい」 conjugation and the volitional form. We will also learn specialized uses of the 「たら」 and 「ば」 conditionals to offer advice."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Verbs you want to do with 「たい」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "2. 何【なに】- what"
+  },
+  {
+   "type": "text",
+   "text": "3. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "4. 温泉【おん・せん】- hotspring"
+  },
+  {
+   "type": "text",
+   "text": "5. ケーキ - cake"
+  }
+ ]
+}

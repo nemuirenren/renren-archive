@@ -1,0 +1,93 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 264,
+ "page_label": "264",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing hearsay using 「〜そうだ」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "3. For all negatives, the 「い」 must be replaced with 「さ」."
+  },
+  {
+   "type": "text",
+   "text": "The negative of 「来る」 is 「こない」 so when used with 「〜そう」, it becomes 「こなさそう」."
+  },
+  {
+   "type": "text",
+   "text": "1. もう 10 時になったから、来なさそうだね。\nSince it already became 10:00, it's likely that (person) won't come."
+  },
+  {
+   "type": "text",
+   "text": "2. これはただの試合じゃなさそうだ。\nThis isn't likely to be an ordinary match."
+  },
+  {
+   "type": "text",
+   "text": "Identical to the 「〜すぎる」 grammar, i-adjectives that are derived from the negative 「〜ない」 like 「もったいない」 or 「情けない」 also follow this rule as well (which would be 「もったいなさそ う」 and 「情けなさそう」 in this case)."
+  },
+  {
+   "type": "text",
+   "text": "4. This grammar does not work with plain nouns."
+  },
+  {
+   "type": "text",
+   "text": "• その人は学生そう。"
+  },
+  {
+   "type": "text",
+   "text": "There are other grammar we have already covered that can be used to indicate that something is likely to be something else."
+  },
+  {
+   "type": "text",
+   "text": "1. その人は学生でしょう。\nThat person is probably student."
+  },
+  {
+   "type": "text",
+   "text": "2. その人は学生だろう。\nThat person is probably student."
+  },
+  {
+   "type": "text",
+   "text": "Be careful never to use 「かわいい」 with this grammar. 「かわいそう」 is a completely different word used when you feel sorry for something or someone. 「かわいい」 means, \"to look cute\" already so you never need to use any of the grammar in this lesson to say something looks cute."
+  },
+  {
+   "type": "text",
+   "text": "1. この犬はかわいそう。\nOh, this poor dog."
+  },
+  {
+   "type": "text",
+   "text": "2. この犬はかわいい。\nThis dog is cute."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing hearsay using 「〜そうだ」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 明日【あした】- tomorrow"
+  }
+ ]
+}

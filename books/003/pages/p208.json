@@ -1,0 +1,103 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 208,
+ "page_label": "208",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "More sentence-ending particles"
+  },
+  {
+   "level": 3,
+   "title": "That's a wrap!"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "45. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "46. お金【お・かね】- money"
+  },
+  {
+   "type": "text",
+   "text": "47. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "48. いつ - when"
+  },
+  {
+   "type": "text",
+   "text": "49. 欲しい【ほ・しい】(i-adj) - wanted; desirable"
+  },
+  {
+   "type": "text",
+   "text": "50. 来週【らい・しゅう】- next week"
+  },
+  {
+   "type": "text",
+   "text": "51. 木曜日【もく・よう・び】- Thursday"
+  },
+  {
+   "type": "text",
+   "text": "52. ありがとう - thank you"
+  },
+  {
+   "type": "text",
+   "text": "53. 怠ける【なま・ける】(ru-verb) - to neglect, to be lazy about"
+  },
+  {
+   "type": "text",
+   "text": "54. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "55. そんな - that sort of"
+  },
+  {
+   "type": "text",
+   "text": "56. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "We learned quite a lot of things in this section. Let's try to put it all together by seeing how different kinds of conjugations are used in different combinations. This is of course by no means an exhaustive list but merely an illustration of how we can use what we learned in various combinations to create a lot of useful expressions."
+  },
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "アリス：加賀先生、ちょっと質問を聞いてもいいですか？ 加賀先生：はい、いいですよ。 アリス：「Hello」を日本語で何と言えばいいですか。 何と言えば = quoted sub-clause + if conditional of 言う"
+  },
+  {
+   "type": "text",
+   "text": "加賀先生：そうね。大体、「こんにちは」と言うと思いますよ。ただし、書く時は「こんにちわ」じゃ なくて、「こんにちは」と書かなくてはなりません。 「と言うと思います」 = quoted sub-clause + quoted sub-clause 「じゃなくて」 = negative sequence of states"
+  },
+  {
+   "type": "text",
+   "text": "アリス：そうですか。他に何かいい表現はありますか。"
+  },
+  {
+   "type": "text",
+   "text": "加賀先生：これも覚えといてね。朝は、「おはよう」と言うの。でも、上の人には「おはようございま す」と言ってください。 「覚えといて」 - 覚える + abbreviated form of 〜ておく + casual 〜てください with ください dropped."
+  },
+  {
+   "type": "text",
+   "text": "アリス：はい、分かりました。間違えないようにします。いい勉強になりました。"
+  }
+ ]
+}

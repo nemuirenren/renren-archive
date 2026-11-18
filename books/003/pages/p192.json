@@ -1,0 +1,70 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 192,
+ "page_label": "192",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Casual Patterns and Slang"
+  },
+  {
+   "level": 3,
+   "title": "Basic Principles of Slang"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「目」 to show order"
+  },
+  {
+   "type": "text",
+   "text": "You can attach 「目」 (read as 「め」 ) to various counters to indicate the order. The most common example is the 「番」 counter. For example, 「一番」 which means \"number one\" becomes \"the first\" when you add 「目」 (一番目). Similarly, 「一回目」 is the first time, 「二回目」 is the second time, 「四 人目」 is the fourth person, and so on."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Casual Patterns and Slang"
+  },
+  {
+   "type": "text",
+   "text": "So far, for every grammar we have covered, we also went over all the casual variations as well. However, even though we have already covered all the casual forms, truly mastering casual speech in Japanese requires far more than just learning the various casual forms. There are countless numbers of ways in which wordings and pronunciations change as well as differences between male and female speech. Understanding slang also requires knowing various vocabulary that is also growing with every new generation. Many adults would be hard-pressed to understand the kind of slang being used by kids today."
+  },
+  {
+   "type": "text",
+   "text": "While comprehensively covering slang and relevant vocabulary would require a book in and of itself (a book that would soon become out of date), I'll instead cover some broad patterns and common phenomenon which will at least help you get started in understanding the most common aspects of Japanese slang. There is no particular order in the material presented here and I expect this page to grow continuously as I find different things to cover."
+  },
+  {
+   "type": "text",
+   "text": "Please note that slang is also heavily influenced by local dialects. Although all the material presented here is valid for the greater Tokyo area, your mileage may vary depending on where you are located."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Basic Principles of Slang"
+  },
+  {
+   "type": "text",
+   "text": "In the world of slang, anything goes and rules that apply to written Japanese are often broken. The most difficult part is that, of course, you can't just say whatever you want. When you break the rules, you have to break it the correct way. Taking what you learned from textbooks or Japanese classes and applying it to the real world is not so easy because it is impossible to teach all the possible ways things can get jumbled up in the spoken language. Learning how to speak naturally with all the correct idiosyncrasies and inconsistencies in a language is something that requires practice with real people in real-world situations. In this section, we'll look at some common patterns and themes that will at least help you get an idea of where the majority of slang originates from."
+  },
+  {
+   "type": "text",
+   "text": "One thing you'll soon realize when you first start talking to Japanese people in real life is that many sounds are slurred together. This is especially true for males. The fact is voices in instructional material such as language tapes often exaggerate the pronunciation of each letter in order to make aural comprehension easier. In reality, not all the sounds are pronounced as clearly as it should be and things end up sounding different from how it's written on paper."
+  },
+  {
+   "type": "text",
+   "text": "There is one major driving factor behind the majority of slang in Japanese. The primary goal of most"
+  }
+ ]
+}

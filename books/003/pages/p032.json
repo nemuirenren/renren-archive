@@ -1,0 +1,95 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 32,
+ "page_label": "32",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Expressing State-of-Being"
+  },
+  {
+   "level": 3,
+   "title": "Conjugation summary"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Conjugating to the past state-of-being"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "2. 友達【とも・だち】- friend"
+  },
+  {
+   "type": "text",
+   "text": "3. 元気【げん・き】- healthy; lively\n＊ Used as a greeting to indicate whether one is well"
+  },
+  {
+   "type": "text",
+   "text": "We will now learn the past tense of the state-of-being. To say something was something, attach 「だった」 to the noun or na-adjective."
+  },
+  {
+   "type": "text",
+   "text": "In order to say the negative past (was not), conjugate the negative to the negative past tense by dropping the 「い」 from 「じゃない」 and adding 「かった」."
+  },
+  {
+   "type": "text",
+   "text": "Conjugation rules for the past state-of-being"
+  },
+  {
+   "type": "text",
+   "text": "1. Past state-of-being: Attach 「だった」 to the noun or na-adjective Example: 友達 + だっ\nた = 友達だった"
+  },
+  {
+   "type": "text",
+   "text": "2. Negative past state-of-being: Conjugate the noun or na-adjective to the negative first\nand then replace the 「い」 of 「じゃない」 with 「かった」\nExample: 友達じゃない → 友達じゃなかった = 友達じゃなかった"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 学生だった。\nWas student."
+  },
+  {
+   "type": "text",
+   "text": "2. 友達じゃなかった。\nWas not friend."
+  },
+  {
+   "type": "text",
+   "text": "3. 元気じゃなかった。\nWas not well."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Conjugation summary"
+  },
+  {
+   "type": "text",
+   "text": "We've now learned how to express state-of-being in all four tenses. Next we will learn some particles, which will allow us assign roles to words. Here is a summary chart of the conjugations we learned in this section."
+  }
+ ]
+}

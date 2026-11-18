@@ -1,0 +1,122 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 249,
+ "page_label": "249",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing amounts 「だけ、のみ、しか、ばかり、すぎる、Amount+ も、ほど、さ」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing the opposite of 「だけ」 with 「ばかり」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "3. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "4. こう - (things are) this way"
+  },
+  {
+   "type": "text",
+   "text": "5. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "6. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "7. やる (u-verb) - to do"
+  },
+  {
+   "type": "text",
+   "text": "「っきゃ」 is another version of 「しか」 that means essentially the same thing and works exactly the same way. Just substitute 「しか」 with 「っきゃ」 and you're good to go. This version is a bit stronger than 「しか」 in emphasis but it's not used nearly as often so I wouldn't worry about it too much. I briefly cover it here just in case you do run into this expression."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. これは買うっきゃない。\nThere's nothing but to buy this!"
+  },
+  {
+   "type": "text",
+   "text": "2. こうなったら、もうやるっきゃない。\nIf things turn out like this, there nothing to do but to just do it!"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing the opposite of 「だけ」 with 「ばかり」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 何【なに〜なん】- what"
+  },
+  {
+   "type": "text",
+   "text": "2. おばさん - middle-aged lady"
+  },
+  {
+   "type": "text",
+   "text": "3. 嫌【いや】(na-adj) disagreeable; unpleasant"
+  },
+  {
+   "type": "text",
+   "text": "4. 崇【たかし】- Takashi (first name)"
+  },
+  {
+   "type": "text",
+   "text": "5. 〜君【〜くん】- name suffix"
+  },
+  {
+   "type": "text",
+   "text": "6. 漫画【まん・が】- comic book"
+  },
+  {
+   "type": "text",
+   "text": "7. 読む【よ・む】(u-verb) - to read"
+  },
+  {
+   "type": "text",
+   "text": "8. かっこ悪い【かっこ・わる・い】(i-adj) - unattractive; uncool"
+  },
+  {
+   "type": "text",
+   "text": "9. 彼【かれ】- he; boyfriend"
+  },
+  {
+   "type": "text",
+   "text": "10. 麻雀【マー・ジャン】- mahjong"
+  },
+  {
+   "type": "text",
+   "text": "11. 直美【なお・み】- Naomi (first name)"
+  },
+  {
+   "type": "text",
+   "text": "12. 遊ぶ【あそ・ぶ】(u-verb) - to play"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 154,
+ "page_label": "154",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Performing an action on a relative clause 「と、って」"
+  },
+  {
+   "level": 3,
+   "title": "The interpreted quote"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "4.11. PERFORMING AN ACTION ON A RELATIVE CLAUSE"
+  },
+  {
+   "type": "text",
+   "text": "4. 呼ぶ【よ・ぶ】(u-verb) - to call"
+  },
+  {
+   "type": "text",
+   "text": "5. 呟く【つぶや・く】(u-verb) - to mutter"
+  },
+  {
+   "type": "text",
+   "text": "6. 寒い【さむ・い】(i-adj) - cold"
+  },
+  {
+   "type": "text",
+   "text": "7. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "8. 授業【じゅ・ぎょう】- class"
+  },
+  {
+   "type": "text",
+   "text": "9. 先生【せん・せい】- teacher"
+  },
+  {
+   "type": "text",
+   "text": "10. 田中【た・なか】- Tanaka (last name)"
+  },
+  {
+   "type": "text",
+   "text": "We'll learn the simplest type of quoted phrase, which is the direct quote. Basically, you are directly quoting something that was said. This is done by simply enclosing the statement in quotes, adding 「と」 and then inserting the appropriate verb. The most common verbs associated with a direct quote would be 「言う」 and 「聞く」 but you may use any verbs related to direct quotation such as: 「叫ぶ」, 「呼ぶ」 , 「呟く」, etc. This type of quotation is often used for dialogue in novels and other narrative works."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. アリスが、「寒い」と言った。\nAlice said, \"Cold\"."
+  },
+  {
+   "type": "text",
+   "text": "2. 「今日は授業がない」と先生から聞いたんだけど。\nIt is that I heard from the teacher, \"There is no class today.\""
+  },
+  {
+   "type": "text",
+   "text": "The verb does not need to be directly connected to the relative clause. As long as the verb that applies to the relative clause comes before any other verb, you can have any number of adjectives, adverbs or nouns in between."
+  },
+  {
+   "type": "text",
+   "text": "• 「寒い」とアリスが田中に言った。\n\"Cold,\" Alice said to Tanaka."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The interpreted quote"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 先生【せん・せい】- teacher"
+  },
+  {
+   "type": "text",
+   "text": "2. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "3. 授業【じゅ・ぎょう】- class"
+  },
+  {
+   "type": "text",
+   "text": "4. 聞く【き・く】(u-verb) - to ask; to listen"
+  }
+ ]
+}

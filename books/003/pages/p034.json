@@ -1,0 +1,83 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 34,
+ "page_label": "34",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Introduction to Particles 「は、も、が」"
+  },
+  {
+   "level": 3,
+   "title": "The 「は」 topic particle"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "ボブ：アリスは学生？ Bob: Is Alice (you) student?"
+  },
+  {
+   "type": "text",
+   "text": "アリス：うん、学生。 Alice: Yeah, (I) am."
+  },
+  {
+   "type": "text",
+   "text": "Here, Bob is indicating that his question is about Alice. Notice that once the topic is established, Alice does not have to repeat the topic to answer the question about herself."
+  },
+  {
+   "type": "text",
+   "text": "Example 2"
+  },
+  {
+   "type": "text",
+   "text": "ボブ：ジョンは明日？ Bob: John is tomorrow?"
+  },
+  {
+   "type": "text",
+   "text": "アリス：ううん、明日じゃない。 Alice: No, not tomorrow."
+  },
+  {
+   "type": "text",
+   "text": "Since we have no context, we don't have enough information to make any sense of this conversation. It obviously makes no sense for John to actually be tomorrow. Given a context, as long as the sentence has something to do with John and tomorrow, it can mean anything. For instance, they could be talking about when John is taking an exam."
+  },
+  {
+   "type": "text",
+   "text": "Example 3"
+  },
+  {
+   "type": "text",
+   "text": "アリス：今日は試験だ。 Alice: Today is exam."
+  },
+  {
+   "type": "text",
+   "text": "ボブ：ジョンは？ Bob: What about John?"
+  },
+  {
+   "type": "text",
+   "text": "アリス：ジョンは明日。 Alice: John is tomorrow. (As for John, the exam is tomorrow.)"
+  },
+  {
+   "type": "text",
+   "text": "The last example shows how generic the topic of a sentence is. A topic can be referring to any action or object from anywhere even including other sentences. For example, in the last sentence from the previous example, even though the sentence is about when the exam is for John, the word \"exam\" doesn't appear anywhere in the sentence!"
+  },
+  {
+   "type": "text",
+   "text": "We'll see a more specific particle that ties more closely into the sentence at the end of this lesson with the identifier particle."
+  }
+ ]
+}

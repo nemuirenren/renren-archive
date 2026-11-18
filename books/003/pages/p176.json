@@ -1,0 +1,101 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 176,
+ "page_label": "176",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Giving and Receiving 「あげる、やる、くれる、もらう」"
+  },
+  {
+   "level": 3,
+   "title": "Asking favors with 「くれる」 or 「もらえる」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 千円を貸してくれる？\nWill you give me the favor of lending 1000 yen?"
+  },
+  {
+   "type": "text",
+   "text": "2. 千円を貸してもらえる？\nCan I receive the favor of you lending 1000 yen?"
+  },
+  {
+   "type": "text",
+   "text": "Notice that the two sentences essentially mean the same thing. This is because the giver and receiver has been omitted because it is obvious from the context. If we were to write out the full sentence, it would look like this:"
+  },
+  {
+   "type": "text",
+   "text": "1. あなたが、私に千円を貸してくれる？\nWill you give me the favor of lending 1000 yen?"
+  },
+  {
+   "type": "text",
+   "text": "2. 私が、あなたに千円を貸してもらえる？\nCan I receive the favor of you lending 1000 yen?"
+  },
+  {
+   "type": "text",
+   "text": "It is not normal to explicitly include the subject and target like this when directly addressing someone but is provided here to illustrate the change of subject and target depending on the verb 「くれる」 and 「も らえる」."
+  },
+  {
+   "type": "text",
+   "text": "You can use the negative to make the request a little softer. You'll see that this is true in many other types of grammar."
+  },
+  {
+   "type": "text",
+   "text": "1. ちょっと静かにしてくれない？\nWon't you be a little quieter?"
+  },
+  {
+   "type": "text",
+   "text": "2. 漢字で書いてもらえませんか。\nCan you write this in kanji for me?"
+  },
+  {
+   "type": "text",
+   "text": "Asking someone to not do something"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 全部【ぜん・ぶ】- everything"
+  },
+  {
+   "type": "text",
+   "text": "2. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "3. くれる (ru-verb) - to give"
+  },
+  {
+   "type": "text",
+   "text": "4. 高い【たか・い】(i-adj) - high; tall; expensive"
+  },
+  {
+   "type": "text",
+   "text": "5. 物【もの】- object"
+  },
+  {
+   "type": "text",
+   "text": "6. 買う【か・う】(u-verb) - to buy"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 201,
+ "page_label": "201",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Casual Patterns and Slang"
+  },
+  {
+   "level": 3,
+   "title": "Showing contempt for an action with 「〜やがる」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. なんかね。お風呂って超気持ちいいよね。\nLike, baths feel really good, huh?"
+  },
+  {
+   "type": "text",
+   "text": "2. お母さんが、なんか明日まで戻らないんだってよ。\nMom said she's not coming back until like tomorrow."
+  },
+  {
+   "type": "text",
+   "text": "3. なんかさ。ボブは、私のことなんか本当に好きかな？\n-Hey like, do you really think that Bob likes somebody like me?"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Showing contempt for an action with 「〜やがる」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. あんな - that sort of"
+  },
+  {
+   "type": "text",
+   "text": "2. 奴【やつ】- guy (derogatory)"
+  },
+  {
+   "type": "text",
+   "text": "3. 負ける【ま・ける】(ru-verb) - to lose"
+  },
+  {
+   "type": "text",
+   "text": "4. どう - how"
+  },
+  {
+   "type": "text",
+   "text": "5. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "6. やる (u-verb) - to do"
+  },
+  {
+   "type": "text",
+   "text": "7. 気【き】- mood; intent"
+  },
+  {
+   "type": "text",
+   "text": "8. さっさと - quickly"
+  },
+  {
+   "type": "text",
+   "text": "9. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "「やがる」 is a verb suffix used to indicate hatred or contempt for the person doing the action. Unlike the rest of the slang covered here, this extremely strong language is not used in normal, everyday conversations. You will probably never hear this expression outside of movies, comic books, games, and the like. However, it is covered here so that you can understand when it is used in those mediums."
+  },
+  {
+   "type": "text",
+   "text": "In order to use「やがる」, you simply attach it to the stem of the verb. After that,「やがる」is conjugated just like a regular u-verb."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. あんなやつに負けやがって。じゃ、どうすんだよ？\nLosing to a guy like that. Well, what are you going to do?"
+  },
+  {
+   "type": "text",
+   "text": "2. やる気か？だったらさっさと来やがれ。\nYou want to fight? If so, then hurry up and come on!"
+  }
+ ]
+}

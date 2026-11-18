@@ -1,0 +1,198 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 7,
+ "page_label": "7",
+ "kind": "toc",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "4.17.6 Using 「なんか」 just about everywhere . . . . . . . . . . . . . . . . . .              199"
+  },
+  {
+   "type": "text",
+   "text": "4.17.7 Showing contempt for an action with 「〜やがる」 . . . . . . . . . . . . .               201"
+  },
+  {
+   "type": "text",
+   "text": "4.18 More sentence-ending particles . . . . . . . . . . . . . . . . . . . . . . . . . . . .    202"
+  },
+  {
+   "type": "text",
+   "text": "4.18.1 「な」 and 「さ」 sentence-ending particles . . . . . . . . . . . . . . . .              202"
+  },
+  {
+   "type": "text",
+   "text": "4.18.2 「かい」 and 「だい」 sentence-ending particles . . . . . . . . . . . . .                  204"
+  },
+  {
+   "type": "text",
+   "text": "4.18.3 Gender-specific sentence-ending particles . . . . . . . . . . . . . . . . .        205"
+  },
+  {
+   "type": "text",
+   "text": "4.18.4 That's a wrap! . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   206"
+  },
+  {
+   "type": "text",
+   "text": "5 Special Expressions                                                                          211"
+  },
+  {
+   "type": "text",
+   "text": "5.1 Causative and Passive Verbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211"
+  },
+  {
+   "type": "text",
+   "text": "5.1.1 Causative Verbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211"
+  },
+  {
+   "type": "text",
+   "text": "5.1.2 Passive Verbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 216"
+  },
+  {
+   "type": "text",
+   "text": "5.1.3 Using passive form to show politeness . . . . . . . . . . . . . . . . . . . . 218"
+  },
+  {
+   "type": "text",
+   "text": "5.1.4 Causative-Passive Forms . . . . . . . . . . . . . . . . . . . . . . . . . . . 219"
+  },
+  {
+   "type": "text",
+   "text": "5.2 Honorific and Humble Forms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 222"
+  },
+  {
+   "type": "text",
+   "text": "5.2.1 Set Expressions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 222"
+  },
+  {
+   "type": "text",
+   "text": "5.2.2 Other substitutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 225"
+  },
+  {
+   "type": "text",
+   "text": "5.2.3 Honorific and Humble Conjugations . . . . . . . . . . . . . . . . . . . . . 227"
+  },
+  {
+   "type": "text",
+   "text": "5.2.4 Making honorific requests . . . . . . . . . . . . . . . . . . . . . . . . . . . 230"
+  },
+  {
+   "type": "text",
+   "text": "5.3 Things that happen unintentionally . . . . . . . . . . . . . . . . . . . . . . . . . . 232"
+  },
+  {
+   "type": "text",
+   "text": "5.3.1 Using 「しまう」 with other verbs . . . . . . . . . . . . . . . . . . . . . . 232"
+  },
+  {
+   "type": "text",
+   "text": "5.3.2 Using the casual version of 「〜てしまう」 . . . . . . . . . . . . . . . . . 233"
+  },
+  {
+   "type": "text",
+   "text": "5.3.3 Another meaning of 「しまう」 . . . . . . . . . . . . . . . . . . . . . . . 235"
+  },
+  {
+   "type": "text",
+   "text": "5.4 Expressions with generic nouns . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235"
+  },
+  {
+   "type": "text",
+   "text": "5.4.1 Using 「こと」 to say whether something has happened . . . . . . . . . 235"
+  },
+  {
+   "type": "text",
+   "text": "5.4.2 Using 「ところ」 as an abstract place . . . . . . . . . . . . . . . . . . . . 237"
+  },
+  {
+   "type": "text",
+   "text": "5.4.3 Using 「もの」 as a casual feminine way to emphasize . . . . . . . . . . 238"
+  },
+  {
+   "type": "text",
+   "text": "5.5 Expressing levels of certainty . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238"
+  },
+  {
+   "type": "text",
+   "text": "5.5.1 Using 「かもしれない」 to express uncertainty . . . . . . . . . . . . . . . 239"
+  },
+  {
+   "type": "text",
+   "text": "5.5.2 Using 「でしょう」 to express a fair amount of certainty . . . . . . . . . 240"
+  },
+  {
+   "type": "text",
+   "text": "5.5.3 Using 「でしょう」 and 「だろう」 to express strong amount of certainty 241"
+  },
+  {
+   "type": "text",
+   "text": "5.6 Expressing amounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243"
+  },
+  {
+   "type": "text",
+   "text": "5.6.1 Indicating that's all there is using 「だけ」 . . . . . . . . . . . . . . . . . 244"
+  },
+  {
+   "type": "text",
+   "text": "5.6.2 Using 「のみ」 as a formal version of 「だけ」 . . . . . . . . . . . . . . . 246"
+  },
+  {
+   "type": "text",
+   "text": "5.6.3 Indication that there's nothing else using 「しか」 . . . . . . . . . . . . . 246"
+  },
+  {
+   "type": "text",
+   "text": "5.6.4 Expressing the opposite of 「だけ」 with 「ばかり」 . . . . . . . . . . . 249"
+  },
+  {
+   "type": "text",
+   "text": "5.6.5 Saying there's too much of something using 「すぎる」 . . . . . . . . . . 250"
+  },
+  {
+   "type": "text",
+   "text": "5.6.6 Adding the 「も」 particle to express excessive amounts . . . . . . . . . 253"
+  },
+  {
+   "type": "text",
+   "text": "5.6.7 Using 「ほど」 to express the extent of something . . . . . . . . . . . . . 254"
+  },
+  {
+   "type": "text",
+   "text": "5.6.8 Using 「〜さ」 with adjectives to indicate an amount . . . . . . . . . . . 256"
+  },
+  {
+   "type": "text",
+   "text": "5.7 Express similarity and hearsay . . . . . . . . . . . . . . . . . . . . . . . . . . . . 258"
+  },
+  {
+   "type": "text",
+   "text": "5.7.1 Expressing similarity with よう . . . . . . . . . . . . . . . . . . . . . . . . 258"
+  },
+  {
+   "type": "text",
+   "text": "5.7.2 Using 「みたい」 to say something looks like something else . . . . . . . 260"
+  },
+  {
+   "type": "text",
+   "text": "5.7.3 Guessing at an outcome using 「〜そう」 . . . . . . . . . . . . . . . . . 261"
+  },
+  {
+   "type": "text",
+   "text": "5.7.4 Expressing hearsay using 「〜そうだ」 . . . . . . . . . . . . . . . . . . . 264"
+  },
+  {
+   "type": "text",
+   "text": "5.7.5 Expressing hearsay or behavior using 「〜らしい」 . . . . . . . . . . . . 266"
+  },
+  {
+   "type": "text",
+   "text": "5.7.6 「っぽい」: Slang expression of similarity . . . . . . . . . . . . . . . . . . 267"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 113,
+ "page_label": "113",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing multiple actions or states using 「〜たりする」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing multiple actions or states using 「〜たりする」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "2. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "3. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "4. 簡単【かん・たん】(na-adj) - simple"
+  },
+  {
+   "type": "text",
+   "text": "5. 難しい【むずか・しい】(i-adj) - difficult"
+  },
+  {
+   "type": "text",
+   "text": "6. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "7. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "8. 本【ほん】- book"
+  },
+  {
+   "type": "text",
+   "text": "9. 読む【よ・む】(u-verb) - to read"
+  },
+  {
+   "type": "text",
+   "text": "10. 昼寝【ひる・ね】- afternoon nap"
+  },
+  {
+   "type": "text",
+   "text": "11. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "12. 大学【だい・がく】- college"
+  },
+  {
+   "type": "text",
+   "text": "13. 授業【じゅ・ぎょう】- class"
+  },
+  {
+   "type": "text",
+   "text": "This is the verb version of the 「や」 particle. You can make an example list of verbs among a possible larger list by conjugating each verb into the past tense and adding 「り」. At the end, you need to attach the verb 「する」. Just like the 「や」 particle, the tense is determined by the last verb, which in this case will always be 「する」 (since you have to attach it at the end)."
+  },
+  {
+   "type": "text",
+   "text": "You can also use this with the state-of-being to say that you are a number of things at various random times among a larger list. Similar to regular verbs, you just take the noun or adjective for each state-ofbeing and conjugate it to the past state-of-being and then attach 「り」. Then finally, attach 「する」 at the end."
+  },
+  {
+   "type": "text",
+   "text": "Rules for stating a list of verbs among a larger list using 「〜たりする」"
+  },
+  {
+   "type": "text",
+   "text": "• For verbs: Conjugate each verb to the past tense and add 「り」. Finally, add 「する」 at the\nvery end."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Example"
+  },
+  {
+   "type": "text",
+   "text": "食べる、飲む → 食べた、飲んだ → 食べたり、飲んだり → 食べたり、飲んだりする"
+  },
+  {
+   "type": "text",
+   "text": "• For state-of-being: Conjugate the noun or adjective for each state-of-being to the past tense and\nadd 「り」. Finally, add 「する」 at the very end."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Example"
+  },
+  {
+   "type": "text",
+   "text": "簡単、難しい → 簡単だった、難しかった → 簡単だったり、難しかったり → 簡単だったり、難 しかったりする"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 180,
+ "page_label": "180",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「〜なさい」 to make firm but polite requests"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "A casual alternative of 「ください」 is 「ちょうだい」. While it can be used by anyone, it has a slightly feminine and childish nuance and is always written in Hiragana. Written in Kanji, it is usually used in a very formal expression such as 「頂戴致します」 . Grammatically, it's used exactly the same way as 「ください」."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. スプーンをちょうだい。\nPlease give me the spoon."
+  },
+  {
+   "type": "text",
+   "text": "2. ここに名前を書いてちょうだい。\nPlease write your name here."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「〜なさい」 to make firm but polite requests"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 食べる【たべ・る】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "2. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "3. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "4. いい (i-adj) - good"
+  },
+  {
+   "type": "text",
+   "text": "5. 聞く【き・く】(u-verb) - to ask; to listen"
+  },
+  {
+   "type": "text",
+   "text": "6. ここ - here"
+  },
+  {
+   "type": "text",
+   "text": "7. 座る【すわ・る】(ru-verb) - to sit"
+  },
+  {
+   "type": "text",
+   "text": "8. まだ - yet"
+  },
+  {
+   "type": "text",
+   "text": "9. いっぱい - full"
+  },
+  {
+   "type": "text",
+   "text": "10. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "11. たくさん - a lot (amount)"
+  },
+  {
+   "type": "text",
+   "text": "12. それ - that"
+  },
+  {
+   "type": "text",
+   "text": "13. 思う【おも・う】(u-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "14. そう - (things are) that way"
+  },
+  {
+   "type": "text",
+   "text": "「なさい」 is a special honorific conjugation of 「する」. It is a soft yet firm way of issuing a command. It is used, for example, when a mother is scolding her child or when a teacher wants a delinquent student to pay attention. Unlike 「ください」, 「なさい」 only applies to positive verbs and uses the stem of the verb instead of the te-form. It also cannot be used by itself but must be attached to another verb."
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 242,
+ "page_label": "242",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing various levels of certainty 「かもしれない、でしょう、だろう」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「でしょう」 and 「だろう」 to express strong amount of"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "4. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "5. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "6. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "7. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "8. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "9. 掃除【そう・じ】- cleaning"
+  },
+  {
+   "type": "text",
+   "text": "10. 手伝う【て・つだ・う】(u-verb) - to help, to assist"
+  },
+  {
+   "type": "text",
+   "text": "11. くれる (ru-verb) - to give"
+  },
+  {
+   "type": "text",
+   "text": "12. そう - (things are) that way"
+  },
+  {
+   "type": "text",
+   "text": "13. どこ - where"
+  },
+  {
+   "type": "text",
+   "text": "14. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "15. 寝る【ね・る】(ru-verb) - to sleep"
+  },
+  {
+   "type": "text",
+   "text": "16. 家【1) うち; 2) いえ】- 1) one's own home; 2) house"
+  },
+  {
+   "type": "text",
+   "text": "17. 帰る【かえ・る】(u-verb) - to go home"
+  },
+  {
+   "type": "text",
+   "text": "The casual equivalent of 「でしょう」 is surprisingly enough 「でしょう」 . However, when you are speaking in a polite manner, the 「でしょう」 is enunciated flatly while in casual speech, it has a rising intonation and can be shortened to 「でしょ」 . In addition, since people tend to be more assertive in casual situations, the casual version has a much stronger flavor often sounding more like, \"See, I told you so!\""
+  },
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "A：あっ。遅刻しちゃう。 A: Ah! We're going to be late!"
+  },
+  {
+   "type": "text",
+   "text": "B：だから、時間がないって言ったでしょう。 B: That's why I told you there was no time!"
+  },
+  {
+   "type": "text",
+   "text": "Example 2"
+  },
+  {
+   "type": "text",
+   "text": "A：これから食べに行くんでしょ。 A: You're going to eat from now aren't you?"
+  },
+  {
+   "type": "text",
+   "text": "B：だったら？ B: So what if I am?"
+  }
+ ]
+}

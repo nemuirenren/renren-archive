@@ -1,0 +1,104 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 289,
+ "page_label": "289",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing what just happened with 「〜ばかり」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "7. 走る【はし・る】(u-verb) - to run"
+  },
+  {
+   "type": "text",
+   "text": "8. 凄い【すご・い】(i-adj) - to a great extent"
+  },
+  {
+   "type": "text",
+   "text": "9. 疲れる【つか・れる】(ru-verb) - to get tired"
+  },
+  {
+   "type": "text",
+   "text": "10. 家【1) うち; 2) いえ】- 1) one's own home; 2) house"
+  },
+  {
+   "type": "text",
+   "text": "11. 帰る【かえ・る】(u-verb) - to go home"
+  },
+  {
+   "type": "text",
+   "text": "12. 昼ご飯【ひる・ご・はん】- lunch"
+  },
+  {
+   "type": "text",
+   "text": "13. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "14. 空く【す・く】(u-verb) - to become empty"
+  },
+  {
+   "type": "text",
+   "text": "15. まさか - no way, you can't mean to say"
+  },
+  {
+   "type": "text",
+   "text": "16. 起きる【お・きる】(ru-verb) - to wake; to occur"
+  },
+  {
+   "type": "text",
+   "text": "This is a very useful grammar that is used to indicate that one has just finished doing something. For instance, the first time I really wished I knew how to say something like this was when I wanted to politely decline an invitation to eat because I had just eaten. To do this, take the past tense of verb that you want to indicate as just being completed and add 「ばかり」. This is used with only the past tense of verbs and is not to be confused with the 「ばかり」 used with nouns to express amounts."
+  },
+  {
+   "type": "text",
+   "text": "Just like the other type of 「ばかり」 we have covered before, in slang, you can hear people use 「ばっ か」 instead of 「ばかり」."
+  },
+  {
+   "type": "text",
+   "text": "Using 「ばかり」for actions just completed"
+  },
+  {
+   "type": "text",
+   "text": "• To indicate that an action has ended just recently, take the past tense of the verb and add 「ばか\nり」.\nExample: 食べる → 食べた → 食べたばかり"
+  },
+  {
+   "type": "text",
+   "text": "• For casual speech, you can abbreviate 「ばかり」 to just 「ばっか」\nExample: 食べたばかり → 食べたばっか"
+  },
+  {
+   "type": "text",
+   "text": "You can treat the result as you would with any noun. Positive Negative 食べたばかり (だ) Just ate 食べたばかりじゃない Didn't just eat"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. すみません、今食べたばかりなので、お腹がいっぱいです。\nSorry, but I'm full having just eaten."
+  },
+  {
+   "type": "text",
+   "text": "2. 10 キロを走ったばかりで、凄く疲れた。\nI just ran 10 kilometers and am really tired."
+  }
+ ]
+}

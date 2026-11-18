@@ -1,0 +1,122 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 167,
+ "page_label": "167",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Trying something out or attempting to do something"
+  },
+  {
+   "level": 3,
+   "title": "To attempt to do something"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "4.13. TRYING GRAMMAR SOMETHING OUT OR ATTEMPTING TO DO SOMETHING"
+  },
+  {
+   "type": "text",
+   "text": "conjugates just like 「見る」. However, just like the 「〜てほしい」 grammar we learned, this is a set phrase and 「みる」 is usually written in hiragana."
+  },
+  {
+   "type": "text",
+   "text": "To try something out"
+  },
+  {
+   "type": "text",
+   "text": "Conjugate the verb to the te-form and add 「みる」."
+  },
+  {
+   "type": "text",
+   "text": "Example: 切る → 切って → 切ってみる"
+  },
+  {
+   "type": "text",
+   "text": "You can treat the whole result as a regular verb just as you would with 「見る」."
+  },
+  {
+   "type": "text",
+   "text": "Example: 切ってみる、切ってみた、切ってみない、切ってみなかった"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. お好み焼きを初めて食べてみたけど、とてもおいしかった。\nI tried eating okonomiyaki for the first time and it was very tasty!"
+  },
+  {
+   "type": "text",
+   "text": "2. お酒を飲んでみましたが、すごく眠くなりました。\nI tried drinking alcohol and I became extremely sleepy."
+  },
+  {
+   "type": "text",
+   "text": "3. 新しいデパートに行ってみる。\nI'm going to check out the new department store."
+  },
+  {
+   "type": "text",
+   "text": "4. 広島のお好み焼きを食べてみたい。\nI want to try eating Hiroshima okonomiyaki!"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "To attempt to do something"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "2. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "3. 思う【おも・う】(u-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "4. 考える【かんが・える】(ru-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "5. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "6. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "7. 毎日【まい・にち】- everyday"
+  },
+  {
+   "type": "text",
+   "text": "8. 勉強【べん・きょう】- study"
+  },
+  {
+   "type": "text",
+   "text": "9. 避ける【さ・ける】(ru-verb) - to avoid"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 120,
+ "page_label": "120",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Other uses of the te-form 「〜ている、〜てある、〜ておく、〜ていく、〜てくる」"
+  },
+  {
+   "level": 3,
+   "title": "Using the 「〜ておく」 form as preparation for the future"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "A：準備はどうですか。 A: How are the preparations?"
+  },
+  {
+   "type": "text",
+   "text": "B：準備は、もうしてあるよ。 B: The preparations are already done."
+  },
+  {
+   "type": "text",
+   "text": "Example 2"
+  },
+  {
+   "type": "text",
+   "text": "A：旅行の計画は終わった？ A: Are the plans for the trip complete?"
+  },
+  {
+   "type": "text",
+   "text": "B：うん、切符を買ったし、ホテルの予約もしてある。 B: Uh huh, not only did I buy the ticket, I also took care of the hotel reservations."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using the 「〜ておく」 form as preparation for the future"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 晩ご飯【ばん・ご・はん】- dinner"
+  },
+  {
+   "type": "text",
+   "text": "2. 作る【つく・る】(u-verb) - to make"
+  },
+  {
+   "type": "text",
+   "text": "3. 電池【でん・ち】- battery"
+  },
+  {
+   "type": "text",
+   "text": "4. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "While 「〜てある」 carries a nuance of a completed action in preparation for something else, 「〜てお く」 explicitly states that the action is done (or will be done) with the future in mind. Imagine this: you have made a delicious pie and you're going to place it on the window sill for it to cool so that you can eat it later. This image might help explain why the verb 「おく」 (置く), meaning \"to place\", can be used to describe a preparation for the future. (It's just too bad that pies on window sills always seem to go through some kind of mishap especially in cartoons.) While 「置く」 by itself is written in kanji, it is customary to use hiragana when it comes attached to a conjugated verb (such as the te-form)."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 晩ご飯を作っておく。\nMake dinner (in advance for the future)."
+  },
+  {
+   "type": "text",
+   "text": "2. 電池を買っておきます。\nI'll buy batteries (in advance for the future)."
+  }
+ ]
+}

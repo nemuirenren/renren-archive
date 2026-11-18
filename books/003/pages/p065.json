@@ -1,0 +1,102 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 65,
+ "page_label": "65",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Relative Clauses and Sentence Order"
+  },
+  {
+   "level": 3,
+   "title": "Using relative verb clauses as adjectives"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "For example, in a phrase such as \"International Education Center\" you can see that it is just a string of nouns without any grammatical modifications between them. It's not an \"Education Center that is International\" or a \"Center for International Education\", etc., it's just \"International Education Center\". In Japanese, you can express this as simply 「国際教育センタ」 (or 「センター」 ). You will see this chaining of nouns in many combinations. Sometimes a certain combination is so commonly used that it has almost become a separate word and is even listed as a separate entry in some dictionaries. Some examples include: 「登場人物」、 「立入禁止」、or 「通勤手当」. If you have difficulties in figuring out where to separate the words, you can paste them into the WWWJDICs Translate Words in Japanese Text function and it'll parse the words for you (most of the time)."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "Here are some examples of direct noun modifications with a conjugated noun clause. The noun clause has been highlighted."
+  },
+  {
+   "type": "text",
+   "text": "1. 学生じゃない人は、学校に行かない。\nPerson who is not student do not go to school."
+  },
+  {
+   "type": "text",
+   "text": "2. 子供だったアリスが立派な大人になった。\nThe Alice that was a child became a fine adult."
+  },
+  {
+   "type": "text",
+   "text": "3. 友達じゃなかったアリスは、いい友達になった。\nAlice who was not a friend, became a good friend."
+  },
+  {
+   "type": "text",
+   "text": "4. 先週医者だったボブは、仕事を辞めた。\nBob who was a doctor last week quit his job."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using relative verb clauses as adjectives"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 先週【せん・しゅう】- last week"
+  },
+  {
+   "type": "text",
+   "text": "2. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "3. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "4. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "5. 誰【だれ】- who"
+  },
+  {
+   "type": "text",
+   "text": "6. いつも - always"
+  },
+  {
+   "type": "text",
+   "text": "7. 勉強【べん・きょう】- study"
+  },
+  {
+   "type": "text",
+   "text": "8. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "9. 赤い【あか・い】(i-adj) - red"
+  }
+ ]
+}

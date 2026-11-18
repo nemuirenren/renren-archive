@@ -20,6 +20,16 @@
       "source": "Minna No Nihongo 1 (Indonesia).pdf",
       "path": "books/002/",
       "index": "books/002/index.json"
+    },
+    {
+      "id": "003",
+      "slug": "tae-kim-grammar",
+      "title": "Tae Kim's Japanese Grammar Guide",
+      "lang": "en",
+      "pages": 353,
+      "source": "Tae Kim Japanese Grammar Guide.pdf",
+      "path": "books/003/",
+      "index": "books/003/index.json"
     }
   ]
 }

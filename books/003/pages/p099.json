@@ -1,0 +1,105 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 99,
+ "page_label": "99",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "The Question Marker 「か」"
+  },
+  {
+   "level": 3,
+   "title": "Using question words"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "10. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "11. 教える【おし・える】(ru-verb) - to teach; to inform"
+  },
+  {
+   "type": "text",
+   "text": "12. どう - how"
+  },
+  {
+   "type": "text",
+   "text": "13. 知る【し・る】(u-verb) - to know"
+  },
+  {
+   "type": "text",
+   "text": "Another use of the question marker is simply grammatical and has nothing to do with the politeness. A question marker attached to the end of a relative clause makes a mini-question inside a larger sentence. This allows the speaker to talk about the question. For example, you can talk about the question, \"What did I eat today?\" In the following examples, the question that is being considered is in red."
+  },
+  {
+   "type": "text",
+   "text": "1. 昨日何を食べたか忘れた。\nForgot what I ate yesterday."
+  },
+  {
+   "type": "text",
+   "text": "2. 彼は何を言ったか分からない。\nDon't understand what he said."
+  },
+  {
+   "type": "text",
+   "text": "3. 先生が学校に行ったか教えない？\nWon't you inform me whether teacher went to school?"
+  },
+  {
+   "type": "text",
+   "text": "In sentences like example 3 where the question being considered has a yes/no answer, it is common (but not necessary) to attach 「どうか」 . This is roughly equivalent to saying, \"whether or not\" in English. You can also include the alternative as well to mean the same thing."
+  },
+  {
+   "type": "text",
+   "text": "1. 先生が学校に行ったかどうか知らない。\nDon't know whether or not teacher went to school."
+  },
+  {
+   "type": "text",
+   "text": "2. 先生が学校に行ったか行かなかったか知らない。\nDon't know whether teacher went to school or didn't."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using question words"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. おいしい (i-adj) - tasty"
+  },
+  {
+   "type": "text",
+   "text": "2. クッキー- cookie"
+  },
+  {
+   "type": "text",
+   "text": "3. 全部【ぜん・ぶ】- everything"
+  },
+  {
+   "type": "text",
+   "text": "4. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "5. 誰【だれ】- who"
+  },
+  {
+   "type": "text",
+   "text": "6. 盗む【ぬす・む】(u-verb) - to steal"
+  }
+ ]
+}

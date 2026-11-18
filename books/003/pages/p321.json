@@ -1,0 +1,94 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 321,
+ "page_label": "321",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Showing signs of something 「〜がる、ばかり、〜めく」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「めく」 to indicate an atmosphere of a state"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "is usually not used in normal everyday conversations. I have seen it several times in books and novels but have yet to hear this grammar in a conversation."
+  },
+  {
+   "type": "text",
+   "text": "For the regular non-past, non-negative verb, you must first conjugate the verb to the negative ending with 「ん」, which was covered here. Then, you just attach 「ばかり」 to the end of the verb. For all other conjugations, nothing else is necessary except to just add 「ばかり」 to the verb. The most common verb used with this grammar is 「言う」 . It is also usually used with the 「に」 target particle attached to the end of 「ばかり」."
+  },
+  {
+   "type": "text",
+   "text": "This grammar is completely different from the 「ばかり」 used to express amounts and the 「ばかり」 used to express the proximity of an action."
+  },
+  {
+   "type": "text",
+   "text": "Using 「ばかり」to indicate that one seems to want to do something"
+  },
+  {
+   "type": "text",
+   "text": "For present, non-negative: Conjugate the verb to the 「ん」 negative form and attach 「ばかり」"
+  },
+  {
+   "type": "text",
+   "text": "Example: 言う → 言わない → 言わん → 言わんばかり"
+  },
+  {
+   "type": "text",
+   "text": "For all other tenses: Attach 「ばかり」 to the end of the verb"
+  },
+  {
+   "type": "text",
+   "text": "Example: 言わなかった → 言わなかったばかり"
+  },
+  {
+   "type": "text",
+   "text": "Summary of basic conjugations Positive Negative Non-Past 言わんばかり 言わないばかり as if to say as if [she] doesn't say Past 言ったばかり 言わなかったばかり as if [she] said as if [she] didn't say"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. ボールは爆発せんばかりに、膨らんでいた。\nThe ball was expanding as if it was going to explode."
+  },
+  {
+   "type": "text",
+   "text": "2. 「あんたとは関係ない」と言わんばかりに彼女は彼を無視していた。\nShe ignored him as if to say, \"You have nothing to do with this.\""
+  },
+  {
+   "type": "text",
+   "text": "3. 昨日の喧嘩で何も言わなかったばかりに、平気な顔をしている。\nHas a calm face as if [he] didn't say anything during the fight yesterday."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「めく」 to indicate an atmosphere of a state"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 謎【なぞ】- puzzle"
+  }
+ ]
+}

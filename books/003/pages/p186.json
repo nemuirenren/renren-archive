@@ -1,0 +1,92 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 186,
+ "page_label": "186",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Numbers and Counting"
+  },
+  {
+   "level": 3,
+   "title": "The Number System"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Numerals     漢字      ひらがな\n300       三百      さんびゃく\n600       六百      ろっぴゃく\n800       八百      はっぴゃく\n3000       三千      さんぜん\n8000       八千      はっせん\n101̂2      一兆      いっちょう"
+  },
+  {
+   "type": "text",
+   "text": "1. 四万三千七十六 (よんまんさんぜんななじゅうろく)\n43,076"
+  },
+  {
+   "type": "text",
+   "text": "2. 七億六百二十四万九千二百二十二 (ななおくろっぴゃくにじゅうよんまんきゅうせんにひゃくに\nじゅうに)\n706,249,222"
+  },
+  {
+   "type": "text",
+   "text": "3. 五百兆二万一 (ごひゃくちょうにまんいち)\n500,000,000,020,001"
+  },
+  {
+   "type": "text",
+   "text": "Notice that it is customary to write large numbers only in numerals as even kanji can become difficult to decipher."
+  },
+  {
+   "type": "text",
+   "text": "Numbers smaller or less than 1"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 零【れい】- zero"
+  },
+  {
+   "type": "text",
+   "text": "2. ゼロ - zero"
+  },
+  {
+   "type": "text",
+   "text": "3. マル - circle; zero"
+  },
+  {
+   "type": "text",
+   "text": "4. 点【てん】- period; point"
+  },
+  {
+   "type": "text",
+   "text": "5. マイナス - minus"
+  },
+  {
+   "type": "text",
+   "text": "Zero in Japanese is 「零」 but 「ゼロ」 or 「マル」 is more common in modern Japanese. There is no special method for reading decimals, you simply say 「点」 for the dot and read each individual number after the decimal point. Here's an example:"
+  },
+  {
+   "type": "text",
+   "text": "• 0.0021 = ゼロ、点、ゼロ、ゼロ、二、一。"
+  },
+  {
+   "type": "text",
+   "text": "For negative numbers, everything is the same as positive numbers except that you say「マイナス」first."
+  },
+  {
+   "type": "text",
+   "text": "• マイナス二十九 = -29"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 125,
+ "page_label": "125",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Potential Form"
+  },
+  {
+   "level": 3,
+   "title": "Potential forms do not have direct objects"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Sample ru-verbs                 Sample u-verbs            Exception Verbs\nPlain   Potential               Plain Potential            Plain Potential\n食べる 食べられる                        話す     話せる                 する     できる\n着る      着られる                   書く      書ける                くる こられる\n信じる 信じられる                       遊ぶ      遊べる\n寝る      寝られる                   待つ      待てる\n起きる 起きられる                       飲む      飲める\n出る      出られる                   取る      取れる\n掛ける 掛けられる                       死ぬ      死ねる\n調べる 調べられる                       買う      買える"
+  },
+  {
+   "type": "text",
+   "text": "It is also possible to just add 「れる」 instead of the full 「られる」 for ru-verbs. For example, 「食 べる」 becomes 「食べれる」 instead of 「食べられる」 . I suggest learning the official 「られる」 conjugation first because laziness can be a hard habit to break and the shorter version, though common, is considered to be slang."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 漢字は書けますか？\nCan you write kanji?"
+  },
+  {
+   "type": "text",
+   "text": "2. 残念だが、今週末は行けない。\nIt's unfortunate, but can't go this weekend."
+  },
+  {
+   "type": "text",
+   "text": "3. もう信じられない。\nI can't believe it already."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Potential forms do not have direct objects"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 富士山【ふ・じ・さん】- Mt. Fuji"
+  },
+  {
+   "type": "text",
+   "text": "2. 登る【のぼ・る】(u-verb) - to climb"
+  },
+  {
+   "type": "text",
+   "text": "3. 重い【おも・い】(i-adj) - heavy"
+  },
+  {
+   "type": "text",
+   "text": "4. 荷物【に・もつ】- baggage"
+  },
+  {
+   "type": "text",
+   "text": "5. 持つ【も・つ】(u-verb) - to hold"
+  },
+  {
+   "type": "text",
+   "text": "The potential form indicates that something is possible but no actual action is actually taken. While the potential form remains a verb, since it is describing the state of something you must not use the direct object 「を」 as you have done with regular verbs. For example the following sentences are incorrect."
+  },
+  {
+   "type": "text",
+   "text": "1. 富士山を登れた。"
+  }
+ ]
+}

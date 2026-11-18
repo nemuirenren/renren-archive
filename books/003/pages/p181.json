@@ -1,0 +1,111 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 181,
+ "page_label": "181",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Making requests 「〜ください、〜ちょうだい、〜なさい、command form」"
+  },
+  {
+   "level": 3,
+   "title": "The Command Form"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Using 「なさい」to make firm but polite requests"
+  },
+  {
+   "type": "text",
+   "text": "Conjugate the verb to its stem and attach 「なさい」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 食べる → 食べなさい 2. 飲む → 飲み → 飲みなさい 3. する → し → しなさい"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. よく聞きなさい。\nListen well!"
+  },
+  {
+   "type": "text",
+   "text": "2. ここに座りなさい。\nSit here."
+  },
+  {
+   "type": "text",
+   "text": "You can also drop 「さい」 portion of the 「なさい」 to make a casual version of this grammar."
+  },
+  {
+   "type": "text",
+   "text": "1. まだいっぱいあるから、たくさん食べな。\nThere's still a lot, so eat a lot."
+  },
+  {
+   "type": "text",
+   "text": "2. それでいいと思うなら、そうしなよ。\nIf you think that's fine, then go ahead and do it."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The Command Form"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. くれる (ru-verb) - to give"
+  },
+  {
+   "type": "text",
+   "text": "2. 死ぬ【し・ぬ】(u-verb) - to die"
+  },
+  {
+   "type": "text",
+   "text": "3. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "4. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "5. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "6. 着る【き・る】(ru-verb) - to wear"
+  },
+  {
+   "type": "text",
+   "text": "7. 信じる【しん・じる】(ru-verb) - to believe"
+  },
+  {
+   "type": "text",
+   "text": "8. 寝る【ね・る】(ru-verb) - to sleep"
+  }
+ ]
+}

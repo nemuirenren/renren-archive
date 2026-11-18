@@ -1,0 +1,73 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 18,
+ "page_label": "18",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "The Writing System"
+  },
+  {
+   "level": 2,
+   "title": "Hiragana"
+  },
+  {
+   "level": 3,
+   "title": "The Muddied Sounds"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Notes"
+  },
+  {
+   "type": "text",
+   "text": "1. Except for 「し」、「ち」、「つ」、and 「ん」、you can get a sense of how each letter is\npronounced by matching the consonant on the top row to the vowel. For example, 「き」\nwould become / ki / and 「ゆ」 would become / yu / and so on."
+  },
+  {
+   "type": "text",
+   "text": "2. As you can see, not all sounds match the way our consonant system works. As written in\nthe table, 「ち」 is pronounced \"chi\" and 「つ」 is pronounced \"tsu\"."
+  },
+  {
+   "type": "text",
+   "text": "3. The / r / or / l / sound in Japanese is quite different from any sound in English. It involves\nmore of a roll and a clip by hitting the roof of your mouth with your tongue. Pay careful\nattention to that whole column."
+  },
+  {
+   "type": "text",
+   "text": "4. Pay careful attention to the difference between / tsu / and / su /."
+  },
+  {
+   "type": "text",
+   "text": "5. The 「ん」 character is a special character because it is rarely used by itself and does not\nhave a vowel sound. It is attached to another character to add a / n / sound. For example,\n「かん」 becomes 'kan' instead of 'ka', 「まん」 becomes 'man' instead of 'ma', and so on\nand so forth."
+  },
+  {
+   "type": "text",
+   "text": "6. You must learn the correct stroke order and direction! Use either of the following pdf\npractice sheets."
+  },
+  {
+   "type": "text",
+   "text": "• Hiragana trace sheets\n• japanese-lesson.com\n• Hiroshi & Sakura"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "The Muddied Sounds"
+  },
+  {
+   "type": "text",
+   "text": "Once you memorize all the characters in Hiragana, there are still some additional sounds left to be learned. There are five more consonant sounds that are written by either affixing two tiny lines similar to a double quotation mark called dakuten (濁点) or a tiny circle called handakuten (半濁点). This essentially creates a \"muddy\" or less clipped version of the consonant (technically called a voiced consonant or 「濁り」, which literally means to become muddy)."
+  },
+  {
+   "type": "text",
+   "text": "All the voiced consonant sounds are shown in the table below."
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 336,
+ "page_label": "336",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Advanced Volitional 「まい、であろう、かろう」"
+  },
+  {
+   "level": 3,
+   "title": "Negative Volitional"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "しょう」 and 「だろう」. While this form is practically never used in daily conversations, you might still hear it in movies, etc."
+  },
+  {
+   "type": "text",
+   "text": "Verbs are conjugated to the negative volitional by simply attaching「まい」to the verb. Another alternative is to attach 「まい」 to the stem. The conjugation for the negative volitional is quite different from those we are used to because it is always the last conjugation to apply even for the masu-form. There is no way to conjugate 「まい」 to the masu-form, you simply attach 「まい」 to the masu-form conjugation."
+  },
+  {
+   "type": "text",
+   "text": "Using 「まい」to express a will to not do something"
+  },
+  {
+   "type": "text",
+   "text": "• For ru-verbs: Attach「まい」 to the stem.\nExample: 見 る → 見まい"
+  },
+  {
+   "type": "text",
+   "text": "• For u-verbs: Attach 「まい」 to the end of the verb\nExample: 行くまい"
+  },
+  {
+   "type": "text",
+   "text": "• Exceptions:"
+  },
+  {
+   "type": "text",
+   "text": "1. する → するまい or しまい 2. くる → くるまい"
+  },
+  {
+   "type": "text",
+   "text": "• This conjugation must always come last. For masu-form, attach 「まい」 to the masu-form verb.\nExample: なる → なり → なります → なりますまい"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 相手は剣の達人だ。そう簡単には勝てまい。\nYour opponent is a master of the sword. I doubt you can win so easily."
+  },
+  {
+   "type": "text",
+   "text": "2. そんな無茶な手段は認めますまい。\nI won't approve of such an unreasonable method。"
+  },
+  {
+   "type": "text",
+   "text": "We already learned that you could use the volitional form to say \"let's\" and to express an attempt do something. But that doesn't mean you can use the negative volitional to say \"let's not\" or \"try not to\". The tone of this grammar is one of very strong determination to not do something, as you can see in the following examples."
+  },
+  {
+   "type": "text",
+   "text": "1. その時までは決して彼に会うまいと心に決めていた。\nUntil that time, I had decided in my heart to not meet him by any means."
+  },
+  {
+   "type": "text",
+   "text": "2. あの人は、二度と嘘をつくまいと誓ったのです。\nThat person had sworn to never lie again."
+  },
+  {
+   "type": "text",
+   "text": "In order to express \"let's not\", you can use the verb, 「やめる」 with the regular volitional. In order to express an effort to not do something, you can use 「ようにする」 with the negative verb."
+  }
+ ]
+}

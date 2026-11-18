@@ -1,0 +1,103 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 330,
+ "page_label": "330",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Tendencies 「〜がち、〜つつ、きらいがある」"
+  },
+  {
+   "level": 3,
+   "title": "Describing an ongoing occurrence using 「〜つつ」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Using 「〜がち」as a description of an action prone to occur"
+  },
+  {
+   "type": "text",
+   "text": "• For verbs: Attach 「がち」 to the stem of the verb."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 見る → 見がち 2. なる → なり → なりがち"
+  },
+  {
+   "type": "text",
+   "text": "• For nouns: Attach 「がち」 to the appropriate noun\nExample: 病気 → 病気がち"
+  },
+  {
+   "type": "text",
+   "text": "All adjectives that are conjugated with 「〜がち」 become a noun/na-adjective\nPositive                       Negative\nNon-Past             なりがち                      なりがちじゃない\nprone to become             is not prone to become\nPast          なりがちだった                    なりがちじゃなかった\nwas prone to become           was not prone to become"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 確定申告は忘れがちな手続のひとつだ。\nFiling income taxes is one of those processes that one is prone to forget."
+  },
+  {
+   "type": "text",
+   "text": "2. 留守がちなご家庭には、犬よりも、猫の方がおすすめです。\nFor families that tend to be away from home, cats are recommended over dogs."
+  },
+  {
+   "type": "text",
+   "text": "3. 父親は病気がちで、みんなが心配している。\nFather is prone to illness and everybody is worried."
+  },
+  {
+   "type": "text",
+   "text": "For more examples, check out the WWWJDIC examples."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Describing an ongoing occurrence using 「〜つつ」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. テレビ - TV, television"
+  },
+  {
+   "type": "text",
+   "text": "2. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "3. 寝る【ね・る】(ru-verb) - to sleep"
+  },
+  {
+   "type": "text",
+   "text": "4. 思う【おも・う】(u-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "5. なる (u-verb) - to become"
+  }
+ ]
+}

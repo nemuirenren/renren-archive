@@ -1,0 +1,80 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 78,
+ "page_label": "78",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Adverbs and Sentence-ending particles"
+  },
+  {
+   "level": 3,
+   "title": "Properties of Adverbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "How to change an adjective to an adverb"
+  },
+  {
+   "type": "text",
+   "text": "• For i-adjectives: Substitute the 「い」 with 「く」.\nExample: 早い → 早く"
+  },
+  {
+   "type": "text",
+   "text": "• For na-adjectives: Attach the target particle 「に」.\nExample: きれい → きれいに"
+  },
+  {
+   "type": "text",
+   "text": "• ボブは朝ご飯を早く食べた。\nBob quickly ate breakfast."
+  },
+  {
+   "type": "text",
+   "text": "The adverb 「早く」 is a little different from the English word 'fast' in that it can mean quickly in terms of speed or time. In other words, Bob may have eaten his breakfast early or he may have eaten it quickly depending on the context. In other types of sentences such as 「早く走った」, it is quite obvious that it probably means quickly and not early. (Of course this also depends on the context.)"
+  },
+  {
+   "type": "text",
+   "text": "• アリスは自分の部屋をきれいにした。\nAlice did her own room toward clean."
+  },
+  {
+   "type": "text",
+   "text": "The literal translation kind of gives you a sense of why the target particle is used. There is some argument against calling this an adverb at all but it is convenient for us to do so because of the grouping of iadjectives and na-adjectives. Thinking of it as an adverb, we can interpret the sentence to mean: \"Alice did her room cleanly.\" or less literally: \"Alice cleaned her room.\" (「きれい」 literally means \"pretty\" but if it helps, you can think of it as, \"Alice prettied up her own room.\")"
+  },
+  {
+   "type": "text",
+   "text": "Note: Not all adverbs are derived from adjectives. Some words like 「全然」 and 「たくさん」 are adverbs in themselves without any conjugation. These words can be used without particles just like regular adverbs."
+  },
+  {
+   "type": "text",
+   "text": "1. 映画をたくさん見た。\nSaw a lot of movies."
+  },
+  {
+   "type": "text",
+   "text": "2. 最近、全然食べない。\nLately, don't eat at all."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "Here are some more examples of using adverbs."
+  },
+  {
+   "type": "text",
+   "text": "1. ボブの声は、結構大きい。\nBob's voice is fairly large."
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 60,
+ "page_label": "60",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Basic Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Particles used with verbs 「を、に、へ、で」"
+  },
+  {
+   "level": 3,
+   "title": "When location is the topic"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Here's the confusing part. There is a colloquial version of the word \"why\" that is used much more often than the less colloquial version 「どうして」 or the more forceful 「なぜ」. It is also written as 「何で」 but it is read as 「なんで」 . This is a completely separate word and has nothing to do with the 「で」 particle."
+  },
+  {
+   "type": "text",
+   "text": "1. 何できた？\nWhy did you come?"
+  },
+  {
+   "type": "text",
+   "text": "2. 暇だから。\nBecause I am free (as in have nothing to do)."
+  },
+  {
+   "type": "text",
+   "text": "The 「から」 here meaning \"because\" is different from the 「から」 we just learned and will be covered later in the compound sentence section. Basically the point is that the two sentences, while written the same way, are read differently and mean completely different things. Don't worry. This causes less confusion than you think because 95% of the time, the latter is used rather than the former. And even when 「なにで」 is intended, the context will leave no mistake on which one is being used. Even in this short example snippet, you can tell which it is by looking at the answer to the question."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "When location is the topic"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 学校【がっ・こう】- school"
+  },
+  {
+   "type": "text",
+   "text": "2. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "3. 図書館【と・しょ・かん】- library"
+  },
+  {
+   "type": "text",
+   "text": "4. どこ - where"
+  },
+  {
+   "type": "text",
+   "text": "5. イタリア - Italy"
+  },
+  {
+   "type": "text",
+   "text": "6. レストラン - restaurant"
+  },
+  {
+   "type": "text",
+   "text": "7. どう - how"
+  },
+  {
+   "type": "text",
+   "text": "There are times when the location of an action is also the topic of a sentence. You can attach the topic particle (「は」 and 「も」) to the three particles that indicate location (「に」、「へ」、「で」) when the location is the topic. We'll see how location might become the topic in the following examples."
+  },
+  {
+   "type": "text",
+   "text": "Example 1"
+  },
+  {
+   "type": "text",
+   "text": "ボブ：学校に行った？ Bob: (Did you) go to school?"
+  }
+ ]
+}

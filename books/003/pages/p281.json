@@ -1,0 +1,110 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 281,
+ "page_label": "281",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "More negative verbs 「ないで、ず、〜ん、ぬ」"
+  },
+  {
+   "level": 3,
+   "title": "A casual masculine type of negative that ends in 「ん」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 彼は何も言わず、帰ってしまった。\nHe went home without saying anything."
+  },
+  {
+   "type": "text",
+   "text": "2. 何も食べずにそんなにお酒を飲むと当然酔っ払いますよ。\nObviously, you're going to get drunk if you drink that much without eating anything."
+  },
+  {
+   "type": "text",
+   "text": "3. 勉強せずに東大に入れると思わないな。\nI don't think you can get in Tokyo University without studying."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "A casual masculine type of negative that ends in 「ん」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "2. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "3. すまん - sorry (masculine)"
+  },
+  {
+   "type": "text",
+   "text": "4. すみません - sorry (polite)"
+  },
+  {
+   "type": "text",
+   "text": "5. 知る【し・る】(u-verb) - to know"
+  },
+  {
+   "type": "text",
+   "text": "6. 韓国人【かん・こく・じん】- Korean person"
+  },
+  {
+   "type": "text",
+   "text": "7. 結婚【けっ・こん】- marriage"
+  },
+  {
+   "type": "text",
+   "text": "8. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "9. そんな - that sort of"
+  },
+  {
+   "type": "text",
+   "text": "10. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "11. 皆【みんな】- everybody"
+  },
+  {
+   "type": "text",
+   "text": "12. 今日【きょう】- today"
+  },
+  {
+   "type": "text",
+   "text": "13. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "Finally, we cover another type of negative that is used mostly by older men. Since 「ない」 is so long and difficult to say (sarcasm), you can shorten it to just 「ん」. However, you can't directly modify other words in this form; in other words, you can't make it a modifying relative clause. In the same manner as before, 「する」 becomes 「せん」 and 「くる」 becomes 「こん」 though I've never heard or seen 「こ ん」 actually being used. If you have ever heard 「すまん」 and wondered what that meant, it's actually an example of this grammar. Notice that 「すみません」 is actually in polite negative form. Well, the plain form would be 「すまない」, right? That further transforms to just 「すまん」. The word brings up an image of おじさん but that may be just me. Anyway, it's a male expression."
+  }
+ ]
+}

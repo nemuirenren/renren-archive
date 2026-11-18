@@ -1,0 +1,99 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 263,
+ "page_label": "263",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Various ways to express similarity and hearsay 「よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい」"
+  },
+  {
+   "level": 3,
+   "title": "Guessing at an outcome using 「〜そう」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Rules for conjugation"
+  },
+  {
+   "type": "text",
+   "text": "1. Verbs must be changed to the stem."
+  },
+  {
+   "type": "text",
+   "text": "2. The 「い」 in i-adjectives must be dropped except for 「いい」."
+  },
+  {
+   "type": "text",
+   "text": "3. 「いい」 must first be conjugated to 「よさ」."
+  },
+  {
+   "type": "text",
+   "text": "4. For all negatives, the 「い」 must be replaced with 「さ」."
+  },
+  {
+   "type": "text",
+   "text": "5. This grammar does not work with plain nouns."
+  },
+  {
+   "type": "text",
+   "text": "1. Verb must be changed to the stem."
+  },
+  {
+   "type": "text",
+   "text": "For ru-verbs, remove the 「る」"
+  },
+  {
+   "type": "text",
+   "text": "• バランスが崩れて、一瞬倒れそうだった。\nLosing my balance, I seemed likely to fall for a moment."
+  },
+  {
+   "type": "text",
+   "text": "For u-verbs, change the / u / vowel sound to an / i / vowel sound"
+  },
+  {
+   "type": "text",
+   "text": "• この辺りにありそうだけどな。\nIt seems likely that it would be around here but..."
+  },
+  {
+   "type": "text",
+   "text": "2. The 「い」 in i-adjectives must be dropped."
+  },
+  {
+   "type": "text",
+   "text": "In the next example, the 「い」 has been dropped from 「おいしい」."
+  },
+  {
+   "type": "text",
+   "text": "• この漬物はおいしそう。\nI bet this pickled vegetable is tasty! (This pickled vegetable looks good!)"
+  },
+  {
+   "type": "text",
+   "text": "Exception: The only exception to this rule is the adjective 「いい」. When using this grammar with 「いい」, you must first change it to 「よさ」."
+  },
+  {
+   "type": "text",
+   "text": "• これも結構よさそうだけど、やっぱり高いよね。\nThis one also seems to be good but, as expected, it's expensive, huh?"
+  },
+  {
+   "type": "text",
+   "text": "Nothing needs to be done for na-adjectives."
+  },
+  {
+   "type": "text",
+   "text": "• お前なら、金髪の女が好きそうだな。\nKnowing you, I bet you like blond-haired girls."
+  }
+ ]
+}

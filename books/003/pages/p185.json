@@ -1,0 +1,79 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 185,
+ "page_label": "185",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Numbers and Counting"
+  },
+  {
+   "level": 3,
+   "title": "The Number System"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Kanji and readings for numbers 1 to 10\n1     2     3         4        5    6         7          8         9        10\n一     二    三         四        五     六         七          八         九        十\nいち     に    さん      し〜よん ご ろく しち〜なな はち                             きゅう      じゅう"
+  },
+  {
+   "type": "text",
+   "text": "As the chart indicates, 4 can either be 「し」 or 「よん」 and 7 can either be 「しち」 or 「なな」. Basically, both are acceptable up to 10. However, past ten, the reading is almost always 「よん」 and 「なな」. In general, 「よん」 and 「なな」 are preferred over 「し」 and 「しち」 in most circumstances."
+  },
+  {
+   "type": "text",
+   "text": "You can simply count from 1 to 99 with just these ten numbers. Japanese is easier than English in this respect because you do not have to memorize separate words such as \"twenty\" or \"fifty\". In Japanese, it's simply just \"two ten\" and \"five ten\"."
+  },
+  {
+   "type": "text",
+   "text": "1. 三十一 (さんじゅういち) = 31"
+  },
+  {
+   "type": "text",
+   "text": "2. 五十四 (ごじゅうよん)= 54"
+  },
+  {
+   "type": "text",
+   "text": "3. 七十七 (ななじゅうなな)= 77"
+  },
+  {
+   "type": "text",
+   "text": "4. 二十 (にじゅう) = 20"
+  },
+  {
+   "type": "text",
+   "text": "Notice that numbers are either always written in kanji or numerals because hiragana can get rather long and hard to decipher."
+  },
+  {
+   "type": "text",
+   "text": "Numbers past 99"
+  },
+  {
+   "type": "text",
+   "text": "Here are the higher numbers:"
+  },
+  {
+   "type": "text",
+   "text": "Numerals      100      1,000    10,000   108̂    101̂2\n漢字           百         千        万       億       兆\nひらがな         ひゃく       せん        まん      おく      ちょう"
+  },
+  {
+   "type": "text",
+   "text": "Notice how the numbers jumped four digits from 104̂ to 108̂ between 万 and 億? That's because Japanese is divided into units of four. Once you get past 1 万 (10,000), you start all over until you reach 9,999 万, then it rotates to 1 億 (100,000,000). By the way, 百 is 100 and 千 is 1,000, but anything past that, and you need to attach a 1 so the rest of the units become 一万 (104̂)、一億 (108̂)、一兆 (101̂2)."
+  },
+  {
+   "type": "text",
+   "text": "Now you can count up to 9,999,999,999,999,999 just by chaining the numbers same as before. This is where the problems start, however. Try saying 「いちちょう」 、 「ろくひゃく」 、 or 「さんせん」 really quickly, you'll notice it's difficult because of the repetition of similar consonant sounds. Therefore, Japanese people have decided to make it easier on themselves by pronouncing them as 「いっちょう」 、 「ろっぴゃく」、and 「さんぜん」. Unfortunately, it makes it all the harder for you to remember how to pronounce everything. Here are all the slight sound changes."
+  }
+ ]
+}

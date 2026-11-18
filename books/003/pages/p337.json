@@ -1,0 +1,129 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 337,
+ "page_label": "337",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Advanced Volitional 「まい、であろう、かろう」"
+  },
+  {
+   "level": 3,
+   "title": "Using the volitional to express a lack of relation"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "1. 明日に行くのをやめよう。\nLet's not go tomorrow. (lit: Let's quit going tomorrow.)"
+  },
+  {
+   "type": "text",
+   "text": "2. 肉を食べないようにしている。\nTrying not to eat meat."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using the volitional to express a lack of relation"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "2. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "3. あいつ - that guy (derogatory)"
+  },
+  {
+   "type": "text",
+   "text": "4. 大学【だい・がく】- college"
+  },
+  {
+   "type": "text",
+   "text": "5. 入る【はい・る】(u-verb) - to enter"
+  },
+  {
+   "type": "text",
+   "text": "6. 俺【おれ】- me; myself; I (masculine)"
+  },
+  {
+   "type": "text",
+   "text": "7. 関係【かん・けい】- relation, relationship"
+  },
+  {
+   "type": "text",
+   "text": "8. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "9. 時間【じ・かん】- time"
+  },
+  {
+   "type": "text",
+   "text": "10. 合う【あ・う】(u-verb) - to match"
+  },
+  {
+   "type": "text",
+   "text": "11. 間に合う【ま・に・あ・う】- to be in time"
+  },
+  {
+   "type": "text",
+   "text": "12. 最近【さい・きん】- recent; lately"
+  },
+  {
+   "type": "text",
+   "text": "13. ウィルス - virus"
+  },
+  {
+   "type": "text",
+   "text": "14. 強力【きょう・りょく】(na-adj) - powerful, strong"
+  },
+  {
+   "type": "text",
+   "text": "15. プログラム - program"
+  },
+  {
+   "type": "text",
+   "text": "16. 実行【じっ・こう】- execute"
+  },
+  {
+   "type": "text",
+   "text": "17. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "18. ページ - page"
+  },
+  {
+   "type": "text",
+   "text": "19. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "20. 感染【かん・せん】- infection"
+  },
+  {
+   "type": "text",
+   "text": "We will now learn a grammar that's actually practical for everyday use using the negative volitional grammar. Basically, we can use both volitional and negative volitional forms to say it doesn't matter whether something is going to happen or not. This is done by attaching 「が」 to both the volitional and the negative volitional form of the verb that doesn't matter."
+  }
+ ]
+}

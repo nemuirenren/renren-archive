@@ -1,0 +1,68 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 299,
+ "page_label": "299",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Formal Expressions 「である、ではない」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「である」 for formal state-of-being"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 1,
+   "text": "Advanced Topics"
+  },
+  {
+   "type": "text",
+   "text": "Whew! We've come a long way from learning the basic phonetic alphabet to covering almost all the grammar you're going to need for daily conversations. But wait, we're not finished yet! In fact, things are going to get even more challenging and interesting because, especially toward the latter part of this section, we are going to learn grammar that only might come in handy. In my experience, the most useful things are easiest to learn as they come up again and again. However, in order to completely master a language, we also must work hard to conquer the bigger area of things that don't come up very often and yet every native Japanese speaker instinctively understands. Believe it or not, even the more obscure grammar will come up eventually leaving you wondering what it's supposed to mean. That's why I bothered to learn them at least."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Formal Expressions 「である、ではない」"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "What do you mean by formal expressions?"
+  },
+  {
+   "type": "text",
+   "text": "So far we have learned casual, polite, and honorific/humble types of languages. So what do I mean by formal expressions? I think we are all aware of the type of language I am talking about. We hear it in speeches, read it in reports, and see it on documentaries. While discussing good writing style is beyond the scope of this guide, we will go over some of the grammar that you will commonly find in this type of language. Which is not to say that it won't appear in regular everyday speech. (Because it does.)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「である」 for formal state-of-being"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 我輩【わが・はい】- I; we"
+  },
+  {
+   "type": "text",
+   "text": "2. 猫【ねこ】- cat"
+  }
+ ]
+}

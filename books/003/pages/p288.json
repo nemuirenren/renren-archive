@@ -1,0 +1,94 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 288,
+ "page_label": "288",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Special Expressions"
+  },
+  {
+   "level": 2,
+   "title": "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing what just happened with 「〜ばかり」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "• 今から行くとしたら、９時に着くと思います。\nIf we suppose that we go from now, I think we will arrive at 9:00."
+  },
+  {
+   "type": "text",
+   "text": "As you can see, the verb 「する」 has been conjugated to the 「たら」 conditional form to consider what would happen if you assume a certain case. You can also change 「する」 to the te-form (して) and use it as a sequence of actions like so:"
+  },
+  {
+   "type": "text",
+   "text": "1. 観客として参加させてもらった。\nReceived favor of allowing to participate as spectator."
+  },
+  {
+   "type": "text",
+   "text": "2. 被害者としては、非常に幸いだった。\nAs a victim, was extremely fortunate."
+  },
+  {
+   "type": "text",
+   "text": "3. 朝ご飯を食べたとしても、もう昼だからお腹が空いたでしょう。\nEven assuming that you ate breakfast, because it's already noon, you're probably hungry, right?"
+  },
+  {
+   "type": "text",
+   "text": "The same idea applies here as well. In example 1, you are doing like a \"spectator\" and doing like a \"victim\" in example 2 and finally, doing like you ate breakfast in example 3. So you can see why the same grammar applies for all these types of sentences because they all mean the same thing in Japanese (minus the use of additional particles and various conjugations of 「する」)."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Expressing time-specific actions「ばかり、とたんに、ながら、まくる」"
+  },
+  {
+   "type": "text",
+   "text": "In this lesson, we will go over various ways to express actions that take place in a certain time-frame. In particular, we will learn how to say: 1) an action has just been completed, 2) an action is taken immediately after another action took place, 3) an action occurs while another action is ongoing, and 4) one continuously repeats an action."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing what just happened with 「〜ばかり」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 食べる【たべ・る】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "2. すみません - sorry (polite)"
+  },
+  {
+   "type": "text",
+   "text": "3. 今【いま】- now"
+  },
+  {
+   "type": "text",
+   "text": "4. お腹【お・なか】- stomach"
+  },
+  {
+   "type": "text",
+   "text": "5. いっぱい - full"
+  },
+  {
+   "type": "text",
+   "text": "6. キロ - kilo"
+  }
+ ]
+}

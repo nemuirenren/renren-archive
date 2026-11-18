@@ -1,0 +1,49 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 16,
+ "page_label": "16",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "The Writing System"
+  },
+  {
+   "level": 2,
+   "title": "Hiragana"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Intonation"
+  },
+  {
+   "type": "text",
+   "text": "As you will find out in the next section, every character in Hiragana (and the Katakana equivalent) corresponds to a [vowel] or [consonant + vowel] syllable sound with the single exception of the 「ん」 and 「ン」 characters (more on this later). This system of letter for each syllable sound makes pronunciation absolutely clear with no ambiguities. However, the simplicity of this system does not mean that pronunciation in Japanese is simple. In fact, the rigid structure of the fixed syllable sound in Japanese creates the challenge of learning proper intonation."
+  },
+  {
+   "type": "text",
+   "text": "Intonation of high and low pitches is a crucial aspect of the spoken language. For example, homophones can have different pitches of low and high tones resulting in a slightly different sound despite sharing the same pronunciation. The biggest obstacle for obtaining proper and natural sounding speech is incorrect intonation. Many students often speak without paying attention to the correct enunciation of pitches making speech sound unnatural (the classic foreigner's accent). It is not practical to memorize or attempt to logically create rules for pitches, especially since it can change depending on the context or the dialect. The only practical approach is to get the general sense of pitches by mimicking native Japanese speakers with careful listening and practice."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Hiragana"
+  },
+  {
+   "type": "text",
+   "text": "Hiragana is the basic Japanese phonetic script. It represents every sound in the Japanese language. Therefore, you can theoretically write everything in Hiragana. However, because Japanese is written with no spaces, this will create nearly indecipherable text."
+  },
+  {
+   "type": "text",
+   "text": "Here is a table of Hiragana and similar-sounding English consonant-vowel pronunciations. It is read up to down and right to left, which is how most Japanese books are written. In Japanese, writing the strokes in the correct order and direction is important, especially for Kanji. Because handwritten letters look slightly different from typed letters (just like how 'a' looks totally different when typed), you will want to use a resource that uses handwritten style fonts to show you how to write the characters (see below for links). I must also stress the importance of correctly learning how to pronounce each sound. Since every word in Japanese is composed of these sounds, learning an incorrect pronunciation for a letter can severely damage the very foundation on which your pronunciation lies."
+  }
+ ]
+}

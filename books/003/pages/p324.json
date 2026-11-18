@@ -1,0 +1,129 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 324,
+ "page_label": "324",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Advanced Topics"
+  },
+  {
+   "level": 2,
+   "title": "Formal expressions of non-feasibility 「〜ざるを得ない、やむを得ない、〜かねる」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing the inability to not do using 「〜ざるを得ない」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing the inability to not do using 「〜ざるを得ない」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 得る【え・る】(ru-verb) - to obtain"
+  },
+  {
+   "type": "text",
+   "text": "2. 意図【い・と】- intention; aim; design"
+  },
+  {
+   "type": "text",
+   "text": "3. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "4. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "5. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "6. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "7. この - this (abbr. of これの)"
+  },
+  {
+   "type": "text",
+   "text": "8. テレビ - TV, television"
+  },
+  {
+   "type": "text",
+   "text": "9. これ - this"
+  },
+  {
+   "type": "text",
+   "text": "10. 以上【い・じょう】- greater or equal"
+  },
+  {
+   "type": "text",
+   "text": "11. 壊れる【こわ・れる】(ru-verb) - to break"
+  },
+  {
+   "type": "text",
+   "text": "12. 新しい【あたら・しい】(i-adj) - new"
+  },
+  {
+   "type": "text",
+   "text": "13. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "14. ずっと - the whole time, all along"
+  },
+  {
+   "type": "text",
+   "text": "15. 我慢【が・まん】- tolerance; self-control"
+  },
+  {
+   "type": "text",
+   "text": "16. 状態【じょう・たい】- situation"
+  },
+  {
+   "type": "text",
+   "text": "17. 歯医者【は・い・しゃ】- dentist"
+  },
+  {
+   "type": "text",
+   "text": "18. 上司【じょう・し】- superior; boss"
+  },
+  {
+   "type": "text",
+   "text": "19. 話【はなし】- story"
+  },
+  {
+   "type": "text",
+   "text": "20. 聞く【き・く】(u-verb) - to ask; to listen"
+  },
+  {
+   "type": "text",
+   "text": "21. どうしても - by any means, no matter what"
+  },
+  {
+   "type": "text",
+   "text": "22. 海外【かい・がい】- overseas"
+  },
+  {
+   "type": "text",
+   "text": "This grammar is used when there's something that just can't be helped and must be done. It is the negative version of the grammar we previously covered for something that has to be done. It uses the negative of the verb 「得る」 or \"obtain\", to roughly mean that \"one cannot obtain not doing of an action\". This means that you can't not do something even if you wanted to. As a result of the use of double negatives, this grammar carries a slight suggestion that you really don't want to do it, but you have to because it can't be helped. Really, the negative connotation is the only difference between this grammar and the grammar we covered in this \"have to\" section. That, and the fact that this grammar is fancier and more advanced."
+  }
+ ]
+}

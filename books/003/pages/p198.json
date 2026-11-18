@@ -1,0 +1,108 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 198,
+ "page_label": "198",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Casual Patterns and Slang"
+  },
+  {
+   "level": 3,
+   "title": "Using 「つ」 for 「という」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "2. 何で【なん・で】- why; how"
+  },
+  {
+   "type": "text",
+   "text": "3. お前【お・まえ】- you (casual)"
+  },
+  {
+   "type": "text",
+   "text": "4. ここ - here"
+  },
+  {
+   "type": "text",
+   "text": "5. いる (ru-verb) - to exist (animate)"
+  },
+  {
+   "type": "text",
+   "text": "6. 宿題【しゅく・だい】- homework"
+  },
+  {
+   "type": "text",
+   "text": "7. 時間【じ・かん】- time"
+  },
+  {
+   "type": "text",
+   "text": "8. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "9. デート - date"
+  },
+  {
+   "type": "text",
+   "text": "10. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "11. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "12. 明日【あした】- tomorrow"
+  },
+  {
+   "type": "text",
+   "text": "13. 試験【し・けん】- exam"
+  },
+  {
+   "type": "text",
+   "text": "14. 勉強【べん・きょう】- study"
+  },
+  {
+   "type": "text",
+   "text": "15. 違う【ちが・う】(u-verb) - to be different"
+  },
+  {
+   "type": "text",
+   "text": "As we learned in the defining and describing section, 「いう」 serves many more functions than the equivalent English verb, \"to say\". It is used all the time and therefore, it's not too surprising that a number of variations and slang have developed. Here's one more that I felt was too \"slangy\" to cover so early at that point of the guide."
+  },
+  {
+   "type": "text",
+   "text": "This may sound hard to believe but if you really slur「という」together, it becomes something resembling 「つ」. Or least, that's what somebody thought when he or she began replacing 「という」 with 「つ」 or in some case 「つう」."
+  },
+  {
+   "type": "text",
+   "text": "Now, in my opinion, 「つ」 is a lot harder to say than 「という」 so using it like a native might take a bit of practice. Rather than making things easier to say, as is usually the case, the real purpose of this substitution is to sound rougher because 「つ」 has a harder, hissing sound. This is ideal for when you're pissed or for that young and rough image you've always wanted. As you might expect, this type of speech is usually used by males or very tough females."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. つうか、なんでお前がここにいんのよ。\nOr rather, why are you here?!"
+  },
+  {
+   "type": "text",
+   "text": "2. 宿題で時間がないつってんのに、みきちゃんとデートしにいったらしい。\nAlthough he's saying he doesn't have time due to homework, I hear he went on a date with Mikichan."
+  }
+ ]
+}

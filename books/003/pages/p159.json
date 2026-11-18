@@ -1,0 +1,114 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 159,
+ "page_label": "159",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Defining and Describing 「という」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「いう」 to describe anything"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "This sentence pattern is probably one of the first things beginner Japanese students learn in the classroom. In this case, the verb 「いう」 doesn't mean that somebody actually said something. Rather, Alice is saying that people in general say \"Alice\" when referring to her. While using kanji for 「いう」 is perfectly acceptable, in this case, since nothing is actually being said, using hiragana is also common."
+  },
+  {
+   "type": "text",
+   "text": "This idea of describing what a person is known or referred to as can also be extended to objects and places. We can essentially define and identify anything we want by using 「という」 in this manner. As you can imagine, this is particularly useful for us because it allows us to ask what things are called in Japanese and for the definition of words we don't know yet."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. これは、なんという魚ですか。\nWhat is this fish referred to as?"
+  },
+  {
+   "type": "text",
+   "text": "2. この魚は、鯛といいます。\nThis fish is known as \"Tai\"."
+  },
+  {
+   "type": "text",
+   "text": "3. ルミネというデパートはどこにあるか、知っていますか？\nDo you know where the department store called \"Lumine\" is?"
+  },
+  {
+   "type": "text",
+   "text": "4. 「友達」は、英語で「friend」という意味です。\nThe meaning of \"tomodachi\" in English is \"friend\"."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「いう」 to describe anything"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 主人公【しゅ・じん・こう】- main character"
+  },
+  {
+   "type": "text",
+   "text": "2. 犯人【はん・にん】- criminal"
+  },
+  {
+   "type": "text",
+   "text": "3. 一番【いち・ばん】- best; first"
+  },
+  {
+   "type": "text",
+   "text": "4. 面白い【おも・しろ・い】(i-adj) - interesting"
+  },
+  {
+   "type": "text",
+   "text": "5. 日本人【に・ほん・じん】- Japanese person"
+  },
+  {
+   "type": "text",
+   "text": "6. お酒【お・さけ】- alcohol"
+  },
+  {
+   "type": "text",
+   "text": "7. 弱い【よわ・い】(i-adj) - weak"
+  },
+  {
+   "type": "text",
+   "text": "8. 言う【い・う】(u-verb) - to say"
+  },
+  {
+   "type": "text",
+   "text": "9. 本当【ほん・とう】- real"
+  },
+  {
+   "type": "text",
+   "text": "10. 独身【どく・しん】- single; unmarried"
+  },
+  {
+   "type": "text",
+   "text": "11. 嘘【うそ】- lie"
+  },
+  {
+   "type": "text",
+   "text": "12. リブート - reboot"
+  }
+ ]
+}

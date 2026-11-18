@@ -39,6 +39,10 @@ peta: https://nemuirenren.github.io/renren-archive/books/001/index.html
 id · 204 halaman
 peta: https://nemuirenren.github.io/renren-archive/books/002/index.html
 
+### 003 — Tae Kim's Japanese Grammar Guide
+en · 353 halaman
+peta: https://nemuirenren.github.io/renren-archive/books/003/index.html
+
 ## Data mentah (untuk program, bukan untuk browsing)
 
 - Katalog: https://raw.githubusercontent.com/nemuirenren/renren-archive/main/index.json

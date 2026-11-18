@@ -1,0 +1,101 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 109,
+ "page_label": "109",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「のに」 to mean \"despite\""
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "1. 私は学生なので、お金がないんです。\nBecause I'm a student, I have no money (lit: there is no money)."
+  },
+  {
+   "type": "text",
+   "text": "2. ここは静かなので、とても穏やかです。\nIt is very calm here because it is quiet."
+  },
+  {
+   "type": "text",
+   "text": "3. なので、友達に会う時間がない。\nThat's why there's no time to meet friend."
+  },
+  {
+   "type": "text",
+   "text": "Just like how the explanatory 「の」 can be shortened to 「ん」 , in speech, the 「ので」 can be changed to 「んで」 simply because it's easier to slur the sounds together rather than pronouncing the / o / syllable."
+  },
+  {
+   "type": "text",
+   "text": "1. 時間がなかったんでパーティーに行かなかった。\nDidn't go to the party because there was no time."
+  },
+  {
+   "type": "text",
+   "text": "2. ここは静かなんで、とても穏やかです。\nIt is very calm here because it is quiet."
+  },
+  {
+   "type": "text",
+   "text": "3. なんで、友達に会う時間がない。\nThat's why there's no time to meet friend."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Using 「のに」 to mean \"despite\""
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 毎日【まい・にち】- everyday"
+  },
+  {
+   "type": "text",
+   "text": "2. 運動【うん・どう】- exercise"
+  },
+  {
+   "type": "text",
+   "text": "3. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "4. 全然【ぜん・ぜん】- not at all (when used with negative)"
+  },
+  {
+   "type": "text",
+   "text": "5. 痩せる【や・せる】(ru-verb) - to become thin"
+  },
+  {
+   "type": "text",
+   "text": "6. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "7. 彼女【かの・じょ】- she; girlfriend"
+  },
+  {
+   "type": "text",
+   "text": "8. 勉強【べん・きょう】- study"
+  },
+  {
+   "type": "text",
+   "text": "Grammatically, 「のに」 is used exactly the same way as 「ので」. When used to combine two simple sentences together, it means \"[Sentence 1] despite the fact that [Sentence 2].\" However the order is reversed: [Sentence 2]のに [Sentence 1]."
+  }
+ ]
+}

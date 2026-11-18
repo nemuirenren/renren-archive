@@ -1,0 +1,124 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 160,
+ "page_label": "160",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Defining and Describing 「という」"
+  },
+  {
+   "level": 3,
+   "title": "Using 「いう」 to describe anything"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "13. パソコン - computer, PC"
+  },
+  {
+   "type": "text",
+   "text": "14. こう - (things are) this way"
+  },
+  {
+   "type": "text",
+   "text": "15. そう - (things are) that way"
+  },
+  {
+   "type": "text",
+   "text": "16. ああ - (things are) that way"
+  },
+  {
+   "type": "text",
+   "text": "17. どう - how"
+  },
+  {
+   "type": "text",
+   "text": "18. 再起動【さい・き・どう】- reboot"
+  },
+  {
+   "type": "text",
+   "text": "19. あんた - you (slang)"
+  },
+  {
+   "type": "text",
+   "text": "20. いつも - always"
+  },
+  {
+   "type": "text",
+   "text": "21. 時【とき】- time"
+  },
+  {
+   "type": "text",
+   "text": "22. 来る【く・る】(exception) - to come"
+  },
+  {
+   "type": "text",
+   "text": "23. 困る【こま・る】(u-verb) - to be bothered, troubled"
+  },
+  {
+   "type": "text",
+   "text": "24. 人【ひと】- person"
+  },
+  {
+   "type": "text",
+   "text": "25. 結婚【けっ・こん】- marriage"
+  },
+  {
+   "type": "text",
+   "text": "26. 出来る【で・き・る】(ru-verb) - to be able to do"
+  },
+  {
+   "type": "text",
+   "text": "27. 幸せ【しあわ・せ】- happiness"
+  },
+  {
+   "type": "text",
+   "text": "28. なる (u-verb) - to become"
+  },
+  {
+   "type": "text",
+   "text": "29. 思う【おも・う】(u-verb) - to think"
+  },
+  {
+   "type": "text",
+   "text": "30. 大学【だい・がく】- college"
+  },
+  {
+   "type": "text",
+   "text": "31. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "32. 意味 【い・み】- meaning"
+  },
+  {
+   "type": "text",
+   "text": "We learned how to use 「という」 to describe what something is known or referred to as. However, we can take this idea even further by attaching two relative clauses. At this point, 「いう」 is so abstract that it doesn't even really have a meaning. When a relative clause is encapsulated with 「と」 , you must have a verb to go along with it and 「いう」 is simply being used as a generic verb to enable us to talk about any relative clause. This allows us to describe and explain just about anything ranging from a single word to complete sentences. As you can imagine, this construction is quite useful and employed quite often in Japanese."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 主人公が犯人だったというのが一番面白かった。\nThe most interesting thing was that the main character was the criminal."
+  },
+  {
+   "type": "text",
+   "text": "2. 日本人はお酒に弱いというのは本当？\nIs it true that Japanese people are weak to alcohol?"
+  }
+ ]
+}

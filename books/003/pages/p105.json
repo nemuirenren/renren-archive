@@ -1,0 +1,118 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 105,
+ "page_label": "105",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Compound Sentences 「て -form、から、ので、のに、が、けど、し、〜たりする」"
+  },
+  {
+   "level": 3,
+   "title": "Expressing a sequence of verbs with the te-form"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Expressing a sequence of verbs with the te-form"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. 学生【がく・せい】- student"
+  },
+  {
+   "type": "text",
+   "text": "2. 買う【か・う】(u-verb) - to buy"
+  },
+  {
+   "type": "text",
+   "text": "3. 食べる【た・べる】(ru-verb) - to eat"
+  },
+  {
+   "type": "text",
+   "text": "4. 行く【い・く】(u-verb) - to go"
+  },
+  {
+   "type": "text",
+   "text": "5. する (exception) - to do"
+  },
+  {
+   "type": "text",
+   "text": "6. 遊ぶ【あそ・ぶ】(u-verb) - to play"
+  },
+  {
+   "type": "text",
+   "text": "7. 飲む【の・む】(u-verb) - to drink"
+  },
+  {
+   "type": "text",
+   "text": "8. 食堂【しょく・どう】- cafeteria"
+  },
+  {
+   "type": "text",
+   "text": "9. 昼ご飯【ひる・ご・はん】- lunch"
+  },
+  {
+   "type": "text",
+   "text": "10. 昼寝【ひる・ね】- afternoon nap"
+  },
+  {
+   "type": "text",
+   "text": "11. 時間【じ・かん】- time"
+  },
+  {
+   "type": "text",
+   "text": "12. ある (u-verb) - to exist (inanimate)"
+  },
+  {
+   "type": "text",
+   "text": "13. 映画【えい・が】- movie"
+  },
+  {
+   "type": "text",
+   "text": "14. 見る【み・る】(ru-verb) - to see"
+  },
+  {
+   "type": "text",
+   "text": "In a similar fashion, you can express multiple actions. It is usually interpreted as a sequence of event. (I did [X], then I did [Y], then I finally did [Z].) There are two forms: positive and negative. The tense of all the actions is determined by the tense of the last verb."
+  },
+  {
+   "type": "text",
+   "text": "How to chain verbs together"
+  },
+  {
+   "type": "text",
+   "text": "• Positive: Conjugate the verb to its past tense and replace 「た」 with 「て」 or 「だ」 with 「で」\n. This is often called the te-form even though it could sometimes be 'de'."
+  },
+  {
+   "type": "text",
+   "text": "• Negative: Same as i-adjectives, replace 「い」 with 「くて」.\nThis rule also works for the polite 「です」 and 「ます」 endings."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. 学生です → 学生でした → 学生でして 2. 買います → 買いました → 買いまして"
+  }
+ ]
+}

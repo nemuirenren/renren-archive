@@ -1,0 +1,83 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 86,
+ "page_label": "86",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Polite Form and Verb Stems 「〜です、〜ます」"
+  },
+  {
+   "level": 3,
+   "title": "The stem of verbs"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Rules for extracting the stem of verbs"
+  },
+  {
+   "type": "text",
+   "text": "• For ru-verbs: Remove the 「る」\nExample: 食べる → 食べ"
+  },
+  {
+   "type": "text",
+   "text": "• For u-verbs: The last vowel sound changes from an / u / vowel sound to an / i / vowel sound.\nExample: 泳ぐ → 泳ぎ"
+  },
+  {
+   "type": "text",
+   "text": "• Exceptions:"
+  },
+  {
+   "type": "text",
+   "text": "1. 「する」 becomes 「し」 2. 「くる」 becomes 「き」"
+  },
+  {
+   "type": "text",
+   "text": "The stem when used by itself can be a very specialized and limited way of creating nouns from verbs. While the「の」particle allows you to talk about verbs as if they were nouns, the stem actually turns verbs into nouns. In fact, in very rare cases, the stem is used more often than the verb itself. For example, the stem of 「怒る」(いかる) is used more often than the verb itself. The movie, \"Fists of Fury\" is translated as 「怒りの鉄拳」 and not 「怒る鉄拳」. In fact, 「怒る」 will most likely be read as 「おこる」, a completely different verb with the same meaning and kanji! There are a number of specific nouns (such as 「休み」) that are really verb stems that are used like regular nouns. However, in general we cannot take any verb and make it into a noun. For example, the following sentence is wrong."
+  },
+  {
+   "type": "text",
+   "text": "• 飲みをする。\n(This sentence makes sense but no one talks like this)"
+  },
+  {
+   "type": "text",
+   "text": "However, a useful grammar that works in general for stems of all verbs is using the stem as a target with a motion verb (almost always 「行く」 and 「来る」 in this case). This grammar means, \"to go or to come to do [some verb]\". Here's an example."
+  },
+  {
+   "type": "text",
+   "text": "1. 明日、映画を見に行く。- Tomorrow, go to see movie."
+  },
+  {
+   "type": "text",
+   "text": "「見に」 is the stem of 「見る」 combined with the target particle 「に」."
+  },
+  {
+   "type": "text",
+   "text": "The motion target particle 「へ」 sounds like you're literally going or coming to something while the 「に」 particle implies that you are going or coming for the purpose of doing something."
+  },
+  {
+   "type": "text",
+   "text": "1. 昨日、友達が遊びへきた。\nYesterday, friend came to a playing activity. (Sounds a bit strange)"
+  },
+  {
+   "type": "text",
+   "text": "2. 昨日、友達が遊びにきた。\nYesterday, friend came to play."
+  },
+  {
+   "type": "text",
+   "text": "The expression 「楽しみにする」 meaning \"to look forward to\" is formed from grammar similar to this but is a special case and should be considered a set expression."
+  }
+ ]
+}

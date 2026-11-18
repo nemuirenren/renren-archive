@@ -1,0 +1,198 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 8,
+ "page_label": "8",
+ "kind": "toc",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "5.8 Using 方 and よる for comparisons, etc . . . . . . . . . . . . . . . . . . . . . . .          268"
+  },
+  {
+   "type": "text",
+   "text": "5.8.1 Using 「方」 for comparisons . . . . . . . . . . . . . . . . . . . . . . . .           268"
+  },
+  {
+   "type": "text",
+   "text": "5.8.2 Using 「より」 for comparisons . . . . . . . . . . . . . . . . . . . . . . .            270"
+  },
+  {
+   "type": "text",
+   "text": "5.8.3 Using 「方」 to express a way to do something . . . . . . . . . . . . . .              272"
+  },
+  {
+   "type": "text",
+   "text": "5.8.4 Using 「によって」 to express dependency . . . . . . . . . . . . . . . .                  273"
+  },
+  {
+   "type": "text",
+   "text": "5.8.5 Indicating a source of information using 「によると」 . . . . . . . . . . .               274"
+  },
+  {
+   "type": "text",
+   "text": "5.9 Saying something is easy or difficult to do . . . . . . . . . . . . . . . . . . . . . .    275"
+  },
+  {
+   "type": "text",
+   "text": "5.9.1 Variations of 「〜にくい」 with 「〜がたい」 and 「〜づらい」 . . . . .                               277"
+  },
+  {
+   "type": "text",
+   "text": "5.10 More negative verbs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   278"
+  },
+  {
+   "type": "text",
+   "text": "5.10.1 Doing something without doing something else . . . . . . . . . . . . . . .         278"
+  },
+  {
+   "type": "text",
+   "text": "5.10.2 A casual masculine type of negative that ends in 「ん」 . . . . . . . . . .           281"
+  },
+  {
+   "type": "text",
+   "text": "5.10.3 A classical negative verb that ends in 「ぬ」 . . . . . . . . . . . . . . . .         282"
+  },
+  {
+   "type": "text",
+   "text": "5.11 Hypothesizing and Concluding . . . . . . . . . . . . . . . . . . . . . . . . . . . .      284"
+  },
+  {
+   "type": "text",
+   "text": "5.11.1 Coming to a conclusion with 「わけ」 . . . . . . . . . . . . . . . . . . . .           284"
+  },
+  {
+   "type": "text",
+   "text": "5.11.2 Making hypotheses with 「とする」 . . . . . . . . . . . . . . . . . . . . .             286"
+  },
+  {
+   "type": "text",
+   "text": "5.12 Expressing time-specific actions . . . . . . . . . . . . . . . . . . . . . . . . . . .    288"
+  },
+  {
+   "type": "text",
+   "text": "5.12.1 Expressing what just happened with 「〜ばかり」 . . . . . . . . . . . . .                288"
+  },
+  {
+   "type": "text",
+   "text": "5.12.2 Express what occurred immediately after with 「とたん」 . . . . . . . . .               290"
+  },
+  {
+   "type": "text",
+   "text": "5.12.3 Using 「ながら」 for two concurrent actions . . . . . . . . . . . . . . . .             291"
+  },
+  {
+   "type": "text",
+   "text": "5.12.4 Using 「ながら」 with state-of-being . . . . . . . . . . . . . . . . . . . . .          293"
+  },
+  {
+   "type": "text",
+   "text": "5.12.5 To repeat something with reckless abandon using 「まくる」 . . . . . . .                295"
+  },
+  {
+   "type": "text",
+   "text": "5.13 Leaving something the way it is . . . . . . . . . . . . . . . . . . . . . . . . . . . .   296"
+  },
+  {
+   "type": "text",
+   "text": "5.13.1 Using 「まま」 to express a lack of change . . . . . . . . . . . . . . . . .           296"
+  },
+  {
+   "type": "text",
+   "text": "5.13.2 Using 「っぱなし」 to leave something the way it is . . . . . . . . . . . .              297"
+  },
+  {
+   "type": "text",
+   "text": "6 Advanced Topics                                                                             299"
+  },
+  {
+   "type": "text",
+   "text": "6.1 Formal Expressions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 299"
+  },
+  {
+   "type": "text",
+   "text": "6.1.1 What do you mean by formal expressions? . . . . . . . . . . . . . . . . . 299"
+  },
+  {
+   "type": "text",
+   "text": "6.1.2 Using 「である」 for formal state-of-being . . . . . . . . . . . . . . . . . 299"
+  },
+  {
+   "type": "text",
+   "text": "6.1.3 Negative of 「である」 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 301"
+  },
+  {
+   "type": "text",
+   "text": "6.1.4 Sequential relative clauses in formal language . . . . . . . . . . . . . . . 302"
+  },
+  {
+   "type": "text",
+   "text": "6.2 Things that should be a certain way . . . . . . . . . . . . . . . . . . . . . . . . . 304"
+  },
+  {
+   "type": "text",
+   "text": "6.2.1 Using 「はず」 to describe an expectation . . . . . . . . . . . . . . . . . 304"
+  },
+  {
+   "type": "text",
+   "text": "6.2.2 Using 「べき」 to describe actions one should do . . . . . . . . . . . . . 306"
+  },
+  {
+   "type": "text",
+   "text": "6.2.3 Using 「べく」 to describe what one tries to do . . . . . . . . . . . . . . 309"
+  },
+  {
+   "type": "text",
+   "text": "6.2.4 Using 「べからず」 to describe things one must not do . . . . . . . . . . 311"
+  },
+  {
+   "type": "text",
+   "text": "6.3 Expressing the minimum expectation . . . . . . . . . . . . . . . . . . . . . . . . . 312"
+  },
+  {
+   "type": "text",
+   "text": "6.3.1 Using 「(で)さえ」 to describe the minimum requirement . . . . . . . . . 312"
+  },
+  {
+   "type": "text",
+   "text": "6.3.2 「(で)すら」 - Older version of 「(で)さえ」 . . . . . . . . . . . . . . . . 314"
+  },
+  {
+   "type": "text",
+   "text": "6.3.3 「おろか」 - It's not even worth considering . . . . . . . . . . . . . . . . . 316"
+  },
+  {
+   "type": "text",
+   "text": "6.4 Showing signs of something . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 317"
+  },
+  {
+   "type": "text",
+   "text": "6.4.1 Showing outward signs of an emotion using 「〜がる」 . . . . . . . . . . 317"
+  },
+  {
+   "type": "text",
+   "text": "6.4.2 Using 「ばかり」 to act as if one might do something . . . . . . . . . . . 320"
+  },
+  {
+   "type": "text",
+   "text": "6.4.3 Using 「めく」 to indicate an atmosphere of a state . . . . . . . . . . . . 321"
+  },
+  {
+   "type": "text",
+   "text": "6.5 Formal expressions of non-feasibility . . . . . . . . . . . . . . . . . . . . . . . . . 323"
+  },
+  {
+   "type": "text",
+   "text": "6.5.1 Expressing the inability to not do using 「〜ざるを得ない」 . . . . . . . . 324"
+  },
+  {
+   "type": "text",
+   "text": "6.5.2 Expressing the inability to stop doing something using 「やむを得ない」 325"
+  }
+ ]
+}

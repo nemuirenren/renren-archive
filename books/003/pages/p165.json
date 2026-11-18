@@ -1,0 +1,94 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "tae-kim-grammar",
+  "title": "Tae Kim's Japanese Grammar Guide",
+  "lang": "en"
+ },
+ "page": 165,
+ "page_label": "165",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Essential Grammar"
+  },
+  {
+   "level": 2,
+   "title": "Defining and Describing 「という」"
+  },
+  {
+   "level": 3,
+   "title": "Saying 「ゆう」 instead of 「いう」"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "1. てことは、みきちゃんは、今彼氏がいないてこと？\nDoes that mean Miki-chan doesn't have a boyfriend now?"
+  },
+  {
+   "type": "text",
+   "text": "2. ていうか、もう帰らないとだめですけど。\nRather than that, I have to go home already."
+  },
+  {
+   "type": "text",
+   "text": "Since slang tends to be used in whichever way the person feels like, there are no definite rules defining whether you should use 「って」 or 「て」 . However, 「て」 is generally not used to express what people have actually said or heard, which is why it wasn't covered in the last lesson."
+  },
+  {
+   "type": "text",
+   "text": "• みきちゃんが、明日こないて。\n(Can't use 「て」 for something actually said)"
+  },
+  {
+   "type": "text",
+   "text": "• みきちゃんが、明日こないって。\nMiki-chan says she isn't coming tomorrow."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "Saying 「ゆう」 instead of 「いう」"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Vocabulary"
+  },
+  {
+   "type": "text",
+   "text": "1. もう - already"
+  },
+  {
+   "type": "text",
+   "text": "2. 帰る【かえ・る】(u-verb) - to go home"
+  },
+  {
+   "type": "text",
+   "text": "3. そう - (things are) that way"
+  },
+  {
+   "type": "text",
+   "text": "4. こと - event, matter"
+  },
+  {
+   "type": "text",
+   "text": "Because the 「という」 construction is used so often, there are a lot of different variations and slang based on it. While I do not plan on covering all of them here, you can check out casual patterns and slang in the miscellaneous section for yet even more slang derived from 「という」."
+  },
+  {
+   "type": "text",
+   "text": "The last thing I'm am going to briefly mention here is the use of 「ゆう」 instead of 「いう」 . In conversations, it is quite normal to say 「ゆう」 instead of 「いう」. 「ゆう」 is easier to say because it is simply one letter with a long vowel sound instead of the two different vowel sounds of 「いう」."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "Examples"
+  },
+  {
+   "type": "text",
+   "text": "1. てゆうか、もう帰らないとだめですけど。\nRather than that, I have to go home already."
+  },
+  {
+   "type": "text",
+   "text": "2. そうゆうことじゃないって。\nI said it's not like that (lit: it's not that type of thing)!"
+  }
+ ]
+}
