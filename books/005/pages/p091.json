@@ -1,0 +1,17 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 91,
+  "page_label": "137",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 48"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 3, "text": "〈会話〉"},
+    {"type": "table", "text": "| 日本語 | Indonesia |\n|---|---|\n| お忙しいですか。 | Apakah Anda sibuk? (dipakai ketika bertanya kepada seseorang yang lebih senior atau tua) |\n| 久しぶり | sudah lama tidak bertemu |\n| 営業 | bisnis, pemasaran |\n| それまでに | sampai pada waktu itu |\n| かまいません。 | Tidak apa-apa./Boleh. |\n| 楽しみます I | menikmati, bersenang-senang |"},
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Indonesia |\n|---|---|\n| もともと | dasarnya |\n| 一世紀 | abad -- |\n| 代わりをします III | menggantikan |\n| スピード | kecepatan |\n| 競走します III | berlomba lari |\n| サーカス | sirkus |\n| 芸 | keahlian |\n| 美しい | indah |\n| 姿 | penampilan |\n| 心 | hati |\n| とらえます II | berkesan |\n| ～にとって | bagi |"}
+  ]
+}

@@ -1,0 +1,114 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 20,
+ "page_label": "32",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 30"
+  },
+  {
+   "level": 2,
+   "title": "IV. Keterangan Tatabahasa"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "1. K. Kerja Bentuk て あります"
+  },
+  {
+   "type": "text",
+   "text": "K. Kerja Bentuk て あります menunjukkan suatu keadaan yang merupakan akibat perbuatan dari keinginan seseorang. K. Kerja yang digunakan dalam pola kalimat ini adalah K. Kerja transitif."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "1) K. Benda 1 に K. Benda 2 が K. Kerja Bentuk て あります"
+  },
+  {
+   "type": "text",
+   "text": "① 机の 上に メモが 置いて あります。\nDi atas meja terletak memo."
+  },
+  {
+   "type": "text",
+   "text": "② カレンダーに 今月の 予定が 書いて あります。\nPada kalender tertulis rencana bulan ini."
+  },
+  {
+   "type": "text",
+   "text": "Pada ①, menunjukkan adanya memo di atas meja, karena seseorang telah meletakkannya di sana sebelumnya (untuk melihatnya kembali). Pada ②, menunjukkan adanya rencana bulan ini yang tertulis di kalender, karena seseorang telah menuliskannya (agar tidak lupa)."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "2) K. Benda 2 は K. Benda 1 に K. Kerja Bentuk て あります"
+  },
+  {
+   "type": "text",
+   "text": "Pola kalimat ini digunakan bila K. Benda 2 pada 1) menjadi topik pembicaraan."
+  },
+  {
+   "type": "text",
+   "text": "③ メモは どこですか。　Memonya ada di mana?\n… [メモは] 机の 上に 置いて あります。　… [memonya] terletak di atas meja."
+  },
+  {
+   "type": "text",
+   "text": "④ 今月の 予定は カレンダーに 書いて あります。\nRencana bulan ini tertulis pada kalender."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "3)"
+  },
+  {
+   "type": "text",
+   "text": "Karena pola kalimat K. Kerja Bentuk て あります menunjukkan keadaan yang merupakan akibat dari perbuatan seseorang untuk tujuan tertentu, sehingga dapat digunakan juga untuk menyatakan persiapan yang telah selesai, seperti pada ⑤ dan ⑥. Seringkali digunakan bersama もう."
+  },
+  {
+   "type": "text",
+   "text": "⑤ 誕生日の プレゼントは もう 買って あります。\nHadiah ulang tahunnya sudah saya beli."
+  },
+  {
+   "type": "text",
+   "text": "⑥ ホテルは もう 予約して あります。　Hotelnya sudah saya pesan."
+  },
+  {
+   "type": "text",
+   "text": "[Catatan] Perbedaan antara pola kalimat K. Kerja Bentuk て います dan K. Kerja Bentuk て あります seperti di bawah ini:"
+  },
+  {
+   "type": "text",
+   "text": "⑦ 窓が 閉まって います。　Jendela tertutup.\n⑧ 窓が 閉めて あります。　Jendela tertutup (karena seseorang telah menutupnya)."
+  },
+  {
+   "type": "text",
+   "text": "Contoh ⑦ menyatakan arti bahwa jendela itu tertutup saja, sedangkan ⑧ mengandung arti seseorang (mungkin juga pembicara sendiri) menutup jendela untuk tujuan atau keinginan tertentu. K. Kerja yang digunakan dalam pola kalimat K. Kerja Bentuk て います, umumnya adalah K. Kerja intransitif. Tetapi pada pola kalimat K. Kerja Bentuk て あります digunakan K. Kerja transitif. Banyak K. Kerja intransitif dan transitif yang satu bagian awalnya sama dan saling berpasangan. (Lih. 自動詞と他動詞 di Buku Pelajaran Utama, Hal. 228)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "2. K. Kerja Bentuk て おきます"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "1)"
+  },
+  {
+   "type": "text",
+   "text": "Menunjukkan arti telah diselesaikannya suatu perbuatan, yang diperlukan sebelum waktu tertentu."
+  }
+ ]
+}

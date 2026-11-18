@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 58,
+  "page_label": "88",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 40"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 40"},
+    {"type": "heading", "level": 3, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| かぞえます II | 数えます | menghitung |\n| はかります I | 測ります、量ります | mengukur, menimbang |\n| たしかめます II | 確かめます | memastikan |\n| あいます I | 合います | [ukurannya] tepat, cocok |\n| [サイズが～] |  |  |\n| しゅっぱつします III | 出発します | berangkat |\n| とうちゃくします III | 到着します | tiba |\n| よいます I | 酔います | mabuk |\n| きけん[な] | 危険[な] | berbahaya |\n| ひつよう[な] | 必要[な] | perlu |\n| うちゅう | 宇宙 | luar angkasa |\n| ちきゅう | 地球 | bumi |\n| ぼうねんかい | 忘年会 | pesta akhir tahun |\n| しんねんかい | 新年会 | pesta tahun baru |\n| にじかい | 二次会 | pertemuan berikutnya (setelah pesta) |\n| たいかい | 大会 | perlombaan |\n| マラソン |  | lari maraton |\n| コンテスト |  | lomba, kontes |\n| おもて | 表 | bagian muka |\n| うら | 裏 | bagian belakang |\n| へんじ | 返事 | balasan, jawaban |\n| もうしこみ | 申し込み | lamaran, pendaftaran |\n| ほんとう |  | kebenaran, fakta |\n| まちがい |  | kesalahan |\n| きず | 傷 | luka |\n| ズボン |  | celana panjang |\n| ながさ | 長さ | panjangnya (kata benda yang berasal dari ながい) |\n| おもさ | 重さ | beratnya (kata benda yang berasal dari おもい) |\n| たかさ | 高さ | tingginya (kata benda yang berasal dari たかい) |\n| おおきさ | 大きさ | besarnya (kata benda yang berasal dari おおきい) |\n| [一]びん | [一]便 | nomor pesawat terbang |\n| 一ごう | 一号 | nomor kereta api, nomor topan |\n| 一こ | 一個 | (kata bantu bilangan untuk benda kecil) |"}
+  ]
+}

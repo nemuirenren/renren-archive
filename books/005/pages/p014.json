@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 14,
+  "page_label": "22",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 29"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 1, "text": "Pelajaran 29"},
+    {"type": "heading", "level": 2, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| あきます I [ドアが〜] | 開きます | [pintu] terbuka |\n| しまります I [ドアが〜] | 閉まります | [pintu] tertutup |\n| つきます I [でんきが〜] | [電気が〜] | [lampu] menyala |\n| きえます II [でんきが〜] | 消えます [電気が〜] | [lampu] mati, padam |\n| こみます I [みちが〜] | 込みます [道が〜] | [jalannya] ramai, macet |\n| すきます I [みちが〜] | [道が〜] | [jalannya] sepi |\n| こわれます II [いすが〜] | 壊れます | [kursi] rusak |\n| われます II [コップが〜] | 割れます | [gelas] pecah |\n| おれます II [きが〜] | 折れます [木が〜] | [pohon] patah |\n| やぶれます II [かみが〜] | 破れます [紙が〜] | [kertas] sobek |\n| よごれます II [ふくが〜] | 汚れます [服が〜] | [baju] menjadi kotor |\n| つきます I [ポケットが〜] | 付きます | [saku] ada |\n| はずれます II [ボタンが〜] | 外れます | [kancing] terbuka |\n| とまります I [エレベーターが〜] | 止まります | [lift] berhenti |\n| まちがえます II |  | berbuat salah, keliru |\n| おとします I | 落とします | menjatuhkan, kehilangan |\n| かかります I [かぎが〜] | 掛かります | terkunci |\n| [お]さら | [お]皿 | piring |\n| [お]ちゃわん |  | mangkuk |\n| コップ |  | gelas |"}
+  ]
+}

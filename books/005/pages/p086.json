@@ -1,0 +1,15 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 86,
+  "page_label": "130",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 47"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| あつまります I | 集まります | [orang] berkumpul |\n| [ひとが～] | [人が～] | |\n| わかれます II | 別れます | [orang] berpisah |\n| [ひとが～] | [人が～] | |\n| ながいきします III | 長生きします | berumur panjang |\n| します III | | |\n| [おと/こえが～] | [音/声が～] | terdengar [bunyi/suara] |\n| [あじが～] | [味が～] | terasa |\n| [においが～] | | tercium, berbau |\n| さします I | | membuka [payung] |\n| [かさを～] | [傘を～] | |\n| ひどい | | luar biasa |\n| こわい | 怖い | takut |\n| てんきよほう | 天気予報 | prakiraan cuaca |\n| はっぴょう | 発表 | pengumuman, presentasi |\n| じっけん | 実験 | percobaan |\n| じんこう | 人口 | jumlah penduduk |\n| におい | | bau |\n| かがく | 科学 | ilmu pengetahuan |\n| いがく | 医学 | ilmu kedokteran |\n| ぶんがく | 文学 | kesusastraan |\n| パトカー | | mobil patroli |\n| きゅうきゅうしゃ | 救急車 | mobil ambulans |\n| さんせい | 賛成 | setuju |\n| はんたい | 反対 | tidak setuju |\n| だんせい | 男性 | pria |\n| じょせい | 女性 | wanita |"}
+  ]
+}

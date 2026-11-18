@@ -1,0 +1,24 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 51,
+  "page_label": "77",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 38"},
+    {"level": 2, "title": "I. Kosa kata"},
+    {"level": 3, "title": "〈会話〉"},
+    {"level": 3, "title": "読み物"}
+  ],
+  "blocks": [
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| [あ、]いけない。 |  | Aduh, celaka. (dipakai waktu keliru atau gagal) |\n| おさきに [しつれいします]。 | お先に [失礼します]。 | Saya permisi duluan. |\n| げんばくドーム | 原爆ドーム | monumen peringatan jatuhnya bom atom di Hiroshima |"},
+    {"type": "heading", "level": 3, "text": "〈会話〉"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| かいらん | 回覧 | edaran |\n| けんきゅうしつ | 研究室 | ruang penelitian |\n| きちんと |  | dengan rapi |\n| せいりします III | 整理します | merapikan |\n| ～という ほん | ～という 本 | buku yang berjudul ～ |\n| いっさつ | 一冊 | (kata bantu bilangan untuk buku dll.) |\n| はんこ |  | cap |\n| おします I [はんこを～] | 押します [はんこを～] | mencap |"},
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ふたご | 双子 | kembar |\n| しまい | 姉妹 | saudara perempuan |\n| 5ねんせい | 5年生 | kelas lima |\n| にています II | 似ています | mirip, menyerupai |\n| せいかく | 性格 | tabiat, sifat |\n| おとなしい |  | pendiam, patuh |\n| せわをします III | 世話をします | mengurus |\n| じかんが たちます I | 時間がたちます | waktu berlalu |\n| だいすき[な] | 大好き[な] | suka sekali |\n| いってん | 一点 | angka -, skor - |\n| クラス |  | kelas |\n| けんかします III |  | bertengkar, berkelahi |\n| ふしぎ[な] | 不思議[な] | luar biasa, aneh |"}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 32,
+  "page_label": "50",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 33"},
+    {"level": 2, "title": "IV. Keterangan Tatabahasa"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "IV. Keterangan Tatabahasa"},
+    {"type": "heading", "level": 3, "text": "1. Bentuk perintah dan larangan"},
+    {"type": "heading", "level": 4, "text": "1) Cara pembentukan Bentuk perintah (Lih. Buku Pelajaran Utama, Pel. 33, 練習A1.)"},
+    {"type": "text", "text": "K. Kerja kelompok I : Ganti suku kata sebelum ます dengan bunyi pada kolom え.\nK. Kerja kelompok II : Ganti ます dengan ろ.\nK. Kerja kelompok III : きます menjadi こい dan します menjadi しろ."},
+    {"type": "text", "text": "[Catatan] K. Kerja yang tidak mengandung keinginan seperti わかる, できる, dan ある tidak memiliki Bentuk perintah."},
+    {"type": "heading", "level": 4, "text": "2) Cara pembentukan Bentuk larangan (Lih. Buku Pelajaran Utama, Hal. 62, Pel.33, 練習A1.)"},
+    {"type": "text", "text": "K. Kerja menjadi Bentuk larangan dengan menambahkan な pada Bentuk kamus."},
+    {"type": "heading", "level": 3, "text": "2. Penggunaan Bentuk perintah dan larangan"},
+    {"type": "text", "text": "1) Bentuk perintah digunakan untuk mendesak lawan bicara melakukan sesuatu, sedangkan Bentuk larangan digunakan untuk memerintah seseorang agar tidak melakukan sesuatu. Karena bentuk ini memiliki kesan desakan dan sangat kuat, maka penggunaannya di akhir kalimat terbatas sekali. Penggunaannya dalam percakapan umumnya oleh kaum pria saja."},
+    {"type": "text", "text": "2) Bentuk perintah dan larangan yang digunakan sendiri atau digunakan di akhir kalimat seperti contoh di bawah ini:"},
+    {"type": "text", "text": "(1) Bila digunakan oleh pria yang statusnya lebih tinggi atau usianya lebih tua kepada yang lebih rendah atau muda seperti seorang ayah kepada anaknya:\n① 早く 寝ろ。 — Cepat tidur!\n② 遅れるな。 — Jangan terlambat!"},
+    {"type": "text", "text": "(2) Antar teman pria. Untuk melembutkan nada percakapan digunakan K. Bantu よ di akhir kalimat.\n③ あした うちへ 来い[よ]。 — Besok, datanglah ke rumah!\n④ あまり 飲むな[よ]。 — Jangan terlalu banyak minum!"},
+    {"type": "text", "text": "(3) Saat tidak ada waktu untuk berbasa-basi, misalnya saat memberi perintah di pabrik, saat keadaan darurat seperti kebakaran, gempa bumi dan lainnya. Pada saat itu pun banyak digunakan oleh pria yang lebih tinggi statusnya atau lebih tua.\n⑤ 逃げろ。 — Selamatkan dirimu!\n⑥ エレベーターを 使うな。 — Jangan gunakan lift!"},
+    {"type": "text", "text": "(4) Saat memberi perintah waktu latihan berkelompok atau berolahraga di sekolah atau klub.\n⑦ 休め。 — Istirahat!\n⑧ 休むな。 — Jangan beristirahat!"},
+    {"type": "text", "text": "(5) Saat memberi dukungan pada pertandingan olahraga. Pada waktu ini wanita pun kadang-kadang menggunakannya.\n⑨ 頑張れ。 — Berusahalah!\n⑩ 負けるな。 — Jangan sampai kalah!"},
+    {"type": "text", "text": "(6) Pada tanda-tanda lalu lintas atau slogan yang mengharapkan efek yang kuat atau untuk meringkas ucapan.\n⑪ 止まれ。 — Dilarang berhenti!\n⑫ 入るな。 — Dilarang masuk!"}
+  ]
+}

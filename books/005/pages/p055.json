@@ -1,0 +1,24 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 55,
+  "page_label": "83",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 39"},
+    {"level": 2, "title": "I. Kosa kata"},
+    {"level": 3, "title": "〈会話〉"},
+    {"level": 3, "title": "読み物"}
+  ],
+  "blocks": [
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| でんわだい | 電話代 | rekening telepon |\n| ～だい | ～代 | rekening, ongkos, biaya, tarif, sewa |\n| フロント |  | bagian resepsionis (front office) di hotel |\n| －ごうしつ | －号室 | nomor kamar－ |\n| あせ | 汗 | keringat (～を かきます: berkeringat) |\n| タオル |  | handuk |\n| せっけん |  | sabun |\n| おおぜい | 大勢 | banyak orang |\n| おつかれさまでした。 | お疲れさまでした。 | Terima kasih atas kerja Anda. (ucapan penghargaan atas suatu pekerjaan atau kegiatan yang telah dilakukan kepada teman-sejawat atau bawahan) |\n| うかがいます。 | 伺います。 | Saya akan datang. (kata merendahkan diri untuk いきます) |"},
+    {"type": "heading", "level": 3, "text": "〈会話〉"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| とちゅうで | 途中で | di tengah perjalanan |\n| トラック |  | truk |\n| ぶつかります I |  | bertubrukan |\n| ならびます I | 並びます | antre |"},
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| おとな | 大人 | orang dewasa |\n| ようふく | 洋服 | pakaian cara barat |\n| せいようかします III | 西洋化します | westernisasi |\n| あいます I | 合います | cocok, sesuai |\n| いまでは | 今では | sekarang |\n| せいじんしき | 成人式 | upacara pada Hari Menjadi Dewasa |"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 2,
+  "page_label": "4",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 26"}, {"level": 2, "title": "I. Kosa kata"}],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 26"},
+    {"type": "heading", "level": 3, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| みます II | 見ます、診ます | melihat, memeriksa |\n| さがします I | 探します、捜します | mencari |\n| おくれます II [じかんに～] | 遅れます [時間に～] | terlambat |\n| まに あいます I [じかんに～] | 間に 合います [時間に～] | tepat waktu |\n| やります I |  | melakukan, mengerjakan |\n| さんかします III [パーティーに～] | 参加します | turut serta, ikut [dalam pesta] |\n| もうしこみます I | 申し込みます | mendaftar |\n| つごうが いい | 都合が いい | tidak ada halangan (waktu) |\n| つごうが わるい | 都合が 悪い | ada halangan (waktu) |\n| きぶんが いい | 気分が いい | kondisi badan/perasaan baik |\n| きぶんが わるい | 気分が 悪い | tidak enak badan (waktu sakit) |\n| しんぶんしゃ | 新聞社 | perusahaan surat kabar |\n| じゅうどう | 柔道 | Judo (olahraga tradisional Jepang) |\n| うんどうかい | 運動会 | pesta olahraga |\n| ばしょ | 場所 | tempat (lebih luas) |\n| ボランティア |  | volunteer, sukarelawan |\n| ～べん | ～弁 | logat ～, dialek ～ |\n| こんど | 今度 | berikutnya, lain kali |\n| ずいぶん |  | cukup (lebih dari perkiraan) |\n| ちょくせつ | 直接 | langsung |\n| いつでも |  | kapan pun |\n| どこでも |  | di mana pun |\n| だれでも |  | siapa pun |\n| なんでも | 何でも | apa pun |\n| こんな ～ |  | ～ seperti ini |\n| そんな ～ |  | ～ seperti itu |\n| あんな ～ |  | ～ seperti yang di sana |"}
+  ]
+}

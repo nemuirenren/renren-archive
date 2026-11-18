@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 15,
+  "page_label": "23",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 29"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ガラス |  | kaca |\n| ふくろ | 袋 | kantong |\n| さいふ | 財布 | dompet |\n| えだ | 枝 | cabang/ranting pohon |\n| えきいん | 駅員 | pegawai stasiun |\n| この へん | この 辺 | sekitar sini |\n| ～へん | ～辺 | sekitar ～ |\n| このくらい |  | kira-kira sebesar ini |\n| おさきに どうぞ。 | お先に どうぞ。 | Silahkan duluan. |\n| [おお、] よかった。 |  | Syukurlah. (dipakai pada waktu merasa lega) |"
+    },
+    {"type": "heading", "level": 3, "text": "◁会話▷"},
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| 今の 電車 |  | kereta api yang barusan |\n| 忘れ物 |  | barang yang ketinggalan |\n| ～側 |  | sebelah ～ |\n| ポケット |  | saku |\n| 覚えて いません。 |  | Saya tidak ingat. |\n| 網棚 |  | rak (dalam kereta api) |\n| 確か |  | kalau tidak salah, pasti |\n| ※四ツ谷 |  | nama stasiun di Tokyo |"
+    },
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| 地震 |  | gempa bumi |\n| 壁 |  | dinding |\n| 針 |  | jarum |\n| 指します I |  | menunjukkan |\n| 駅前 |  | depan stasiun |\n| 倒れます II |  | jatuh, roboh |\n| 西 |  | barat |\n| 方 |  | arah |\n| ※三宮 |  | nama tempat di Kobe |"
+    }
+  ]
+}

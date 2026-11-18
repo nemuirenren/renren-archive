@@ -1,0 +1,26 @@
+{
+ "schema_version": "2.0",
+ "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+ "page": 36,
+ "page_label": "56",
+ "kind": "content",
+ "outline": [{"level": 1, "title": "Pelajaran 34"}, {"level": 2, "title": "IV. Keterangan Tatabahasa"}],
+ "blocks": [
+  {"type": "heading", "level": 2, "text": "IV. Keterangan Tatabahasa"},
+  {"type": "text", "text": "1. K. Kerja 1 Bentuk kamus\nK. Kerja 1 Bentuk た\nK. Benda の　とおりに、K. Kerja 2"},
+  {"type": "heading", "level": 3, "text": "1) K. Kerja 1 とおりに、K. Kerja 2"},
+  {"type": "text", "text": "Digunakan untuk menyatakan suatu perbuatan (K. Kerja 2) yang harus dilakukan sesuai dengan apa yang telah didengar, dilihat, dibaca dan dipelajari (K. Kerja 1). Apabila perbuatan pada K. Kerja 1 baru akan dilakukan, maka digunakan Bentuk kamus, sedangkan jika telah dilakukan digunakan Bentuk た。"},
+  {"type": "text", "text": "① わたしが やる とおりに、やってください。\nLakukanlah sesuai dengan apa yang saya lakukan."},
+  {"type": "text", "text": "② わたしが 言う とおりに、書いてください。\nTulislah sesuai dengan apa yang saya ucapkan."},
+  {"type": "text", "text": "③ 見た とおりに、話してください。\nCeritakanlah sesuai dengan apa yang Anda lihat."},
+  {"type": "heading", "level": 3, "text": "2) K. Benda の とおりに、K. Kerja"},
+  {"type": "text", "text": "Pola kalimat ini menyatakan pelaksanaan suatu kegiatan yang tidak menyimpang dari kriteria yang ditunjukkan oleh K. Benda."},
+  {"type": "text", "text": "④ 線の とおりに、紙を 切って ください。\nGuntinglah kertas sesuai dengan garis."},
+  {"type": "text", "text": "⑤ 説明書の とおりに、組み立てました。\nSaya telah merakit sesuai dengan buku petunjuk."},
+  {"type": "text", "text": "2. K. Kerja 1 Bentuk た\nK. Benda の　あとで、K. Kerja 2"},
+  {"type": "text", "text": "Pola kalimat ini menunjukkan bahwa hal yang disebutkan pada K. Kerja 1 atau K. Benda telah dilaksanakan (terjadi) lebih dahulu, kemudian hal yang disebutkan pada K. Kerja 2 dilaksanakan (terjadi)."},
+  {"type": "text", "text": "⑥ 新しいのを 買った あとで、なくした 時計が 見つかりました。\nSetelah membeli jam yang baru, jam yang hilang ditemukan lagi."},
+  {"type": "text", "text": "⑦ 仕事の あとで、飲みに 行きませんか。\nMaukah Anda pergi minum sake setelah bekerja?"},
+  {"type": "text", "text": "Pola kalimat ini lebih menekankan pada urutan waktu dilaksanakannya suatu perbuatan dibanding K. Kerja Bentuk て から yang menunjukkan arti yang serupa."}
+ ]
+}

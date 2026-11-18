@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 34,
+  "page_label": "52",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 34"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 34"},
+    {"type": "heading", "level": 3, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| みがきます I | 磨きます | menggosok [gigi] |\n| [はを～] | [歯を～] |  |\n| くみたてます II | 組み立てます | merakit |\n| おります I | 折ります | melipat, mematahkan |\n| きが つきます I | 気が つきます | menyadari [barang yang tertinggal] |\n| [わすれものに～] | [忘れ物に～] |  |\n| つけます II |  | membubuhi [kecap asin Jepang] |\n| [しょうゆを～] |  |  |\n| みつかります I | 見つかります | [kunci] ketemu, ditemukan |\n| [かぎが～] |  |  |\n| します III |  | memakai [dasi] |\n| [ネクタイを～] |  |  |\n| しつもんします III | 質問します | bertanya |\n| ほそい | 細い | tipis |\n| ふとい | 太い | tebal |\n| ぼんおどり | 盆踊り | tari-tarian pada festival Bon |\n| スポーツクラブ |  | perkumpulan/klub olahraga |\n| かぐ | 家具 | perabot rumah tangga |\n| キー |  | tombol jari, tuts |\n| シートベルト |  | sabuk pengaman |\n| せつめいしょ | 説明書 | lembaran/buku petunjuk |\n| ず | 図 | gambar |\n| せん | 線 | garis |\n| やじるし | 矢印 | tanda panah |\n| くろ | 黒 | hitam (kata benda) |\n| しろ | 白 | putih (kata benda) |\n| あか | 赤 | merah (kata benda) |\n| あお | 青 | biru (kata benda) |\n| こん | 紺 | biru tua (kata benda) |\n| きいろ | 黄色 | kuning (kata benda) |\n| ちゃいろ | 茶色 | coklat (kata benda) |"}
+  ]
+}

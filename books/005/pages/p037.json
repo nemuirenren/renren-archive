@@ -1,0 +1,17 @@
+{
+ "schema_version": "2.0",
+ "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+ "page": 37,
+ "page_label": "57",
+ "kind": "content",
+ "outline": [{"level": 1, "title": "Pelajaran 34"}, {"level": 2, "title": "IV. Keterangan Tatabahasa"}],
+ "blocks": [
+  {"type": "text", "text": "3. K. Kerja 1 Bentuk て\nK. Kerja 1 (Bentuk ない) ないで　→　K. Kerja 2"},
+  {"type": "text", "text": "K. Kerja 1 merupakan keterangan dari perbuatan atau keadaan pada K. Kerja 2. Misalnya pada ⑧ dan ⑨ diungkapkan bahwa \"dibubuhkan tidaknya kecap asin Jepang\" pada saat \"makan\". Pokok perbuatan dari K. Kerja 1 dan K. Kerja 2 sama."},
+  {"type": "text", "text": "⑧ しょうゆを つけて 食べます。\nSaya makan ini bersama dengan kecap asin Jepang."},
+  {"type": "text", "text": "⑨ しょうゆを つけないで 食べます。\nSaya makan ini tanpa kecap asin Jepang."},
+  {"type": "text", "text": "4. K. Kerja 1 (Bentuk ない) ないで、K. Kerja 2"},
+  {"type": "text", "text": "Pola kalimat ini menunjukkan ada dua aktivitas yang tidak dapat dilakukan pada saat yang sama (K. Kerja 1 dan K. Kerja 2), lalu pembicara memilih salah satu aktivitas itu untuk dilakukan (K. Kerja 2)."},
+  {"type": "text", "text": "⑩ 日曜日は どこも 行かないで、うちで ゆっくり 休みます。\nPada hari Minggu saya bersantai di rumah dan tidak pergi ke mana-mana."}
+ ]
+}

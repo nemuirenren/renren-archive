@@ -1,0 +1,20 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 26,
+  "page_label": "40",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 32"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 32"},
+    {"type": "heading", "level": 3, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| うんどうします III | 運動します | berolahraga |\n| せいこうします III | 成功します | berhasil |\n| しっぱいします III [しけんに～] | 失敗します [試験に～] | mengalami kegagalan [dalam ujian] |\n| ごうかくします III [しけんに～] | 合格します [試験に～] | lulus [ujian] |\n| もどります I | 戻ります | kembali |\n| やみます I [あめが～] |  [雨が～] | [hujan] berhenti |\n| はれます II | 晴れます | menjadi cerah |\n| くもります I | 曇ります | menjadi mendung |\n| ふきます I [かぜが～] | 吹きます [風が～] | [angin] bertiup |\n| なおります I [びょうきが～] | 治ります、直ります [病気が～] | sembuh [dari penyakit] |\n| なおります I [こしょうが～] | 直ります [故障が～] | [mesin] diperbaiki |\n| つづきます I [ねつが～] | 続きます [熱が～] | [demam yang tinggi] berlanjut |\n| ひきます I [かぜを～] |  | masuk angin |\n| ひやします I | 冷やします | mendinginkan |\n| しんぱい[な] | 心配[な] | khawatir |\n| じゅうぶん[な] | 十分[な] | cukup |\n| おかしい |  | lucu, aneh |\n| うるさい |  | berisik, cerewet |\n| やけど |  | luka bakar (～を します : terbakar) |\n| けが |  | luka, cedera (～を します : luka) |\n| せき |  | batuk (～が でます : batuk) |\n| インフルエンザ |  | influenza |\n| そら | 空 | langit |\n| たいよう | 太陽 | matahari |\n| ほし | 星 | bintang |\n| つき | 月 | bulan |\n| かぜ | 風 | angin |"}
+  ]
+}

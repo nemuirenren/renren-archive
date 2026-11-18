@@ -1,0 +1,18 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 87,
+  "page_label": "131",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 47"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| どうも | | kelihatannya (digunakan ketika menyatakan prakiraan) |\n| ～に よると | | menurut (menyatakan sumber informasi) |\n| ※バリ[島] | | Pulau Bali (di Indonesia) |\n| ※イラン | | Iran |\n| ※カリフォルニア | | California (di Amerika Serikat) |\n| ※グアム | | Guam |"},
+    {"type": "heading", "level": 3, "text": "〈会話〉"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| 恋人 | | pacar |\n| 婚約します III | 婚約します | bertunangan |\n| 相手 | | jodoh, pasangan |\n| 知り合います I | 知り合います | saling mengenal |"},
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| 平均寿命 | 平均寿命 | rata-rata usia lanjut |\n| 比べます [男性と～] II | 比べます | dibandingkan dengan [pria] |\n| 博士 | 博士 | doktor |\n| 脳 | 脳 | otak |\n| ホルモン | | hormon |\n| 化粧品 | 化粧品 | kosmetik |\n| 調べ | 調べ | penelitian, pemeriksaan |\n| 化粧 | 化粧 | dandanan (～を します: berdandan) |"}
+  ]
+}

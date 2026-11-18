@@ -1,0 +1,13 @@
+{
+ "schema_version": "2.0",
+ "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+ "page": 38,
+ "page_label": "58",
+ "kind": "content",
+ "outline": [{"level": 1, "title": "Pelajaran 35"}, {"level": 2, "title": "I. Kosa kata"}],
+ "blocks": [
+  {"type": "heading", "level": 1, "text": "Pelajaran 35"},
+  {"type": "heading", "level": 2, "text": "I. Kosa kata"},
+  {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| さきます I<br>[はなが〜] | 咲きます<br>[花が〜] | [bunga] mekar |\n| かわります I<br>[いろが〜] | 変わります<br>[色が〜] | [warna] berubah |\n| こまります I | 困ります | mengalami kesulitan, mendapat kesulitan |\n| つけます II<br>[まるを〜] | 付けます<br>[丸を〜] | memberi tanda [lingkaran] |\n| ひろいます I | 拾います | memungut, mengambil |\n| かかります I<br>[でんわが〜] | <br>[電話が〜] | ada [telepon] |\n| らく[な] | 楽[な] | mudah, ringan |\n| ただしい | 正しい | betul, benar |\n| めずらしい | 珍しい | aneh, langka |\n| かた | 方 | orang (kata hormat untuk ひと) |\n| むこう | 向こう | di sebelah sana |\n| しま | 島 | pulau |\n| むら | 村 | kampung, desa |\n| みなと | 港 | pelabuhan |\n| きんじょ | 近所 | tetangga |\n| おくじょう | 屋上 | atap, lantai puncak |\n| かいがい | 海外 | luar negri |\n| やまのぼり | 山登り | pendakian gunung |\n| ハイキング |  | hiking, piknik |\n| きかい | 機会 | kesempatan |\n| きょか | 許可 | ijin |\n| まる | 丸 | lingkaran ○ |\n| そうさ | 操作 | pengoperasian (mesin) |\n| ほうほう | 方法 | cara |"}
+ ]
+}

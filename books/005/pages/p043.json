@@ -1,0 +1,53 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 43,
+ "page_label": "65",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 36"
+  },
+  {
+   "level": 2,
+   "title": "I. Kosa kata"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "table",
+   "text": "| 日本語 | Indonesia |\n|---|---|\n| ～ずつ | ～ demi ～ |\n| その ほうが～ | Yang itu lebih ～ |"
+  },
+  {
+   "type": "text",
+   "text": "※ショパン　Chopin, pemusik Polandia"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "◁会話▷"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Indonesia |\n|---|---|\n| お客様 | langganan, tamu |\n| 特別[な] | istimewa, khusus |\n| して いらっしゃいます | sedang melakukan (kata hormat untuk して います) |\n| 水泳 | renang |\n| 〜とか、〜とか | ～, ～, dll. |\n| タンゴ | tango (jenis tarian dari Argentina) |\n| チャレンジします III | menantang |\n| 気持ち | keinginan, perasaan |"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "読み物"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Indonesia |\n|---|---|\n| 乗り物 | kendaraan |\n| 歴史 | sejarah |\n| 一世紀 | abad - |\n| 遠く | jauh, tempat yang jauh |\n| 汽車 | kereta api |\n| 汽船 | kapal api |\n| 大勢の～ | banyak (orang) |\n| 運びます I | membawa, mengangkut |\n| 飛びます I | terbang |\n| 安全[な] | aman |\n| 宇宙 | luar angkasa |\n| 地球 | bumi |"
+  },
+  {
+   "type": "text",
+   "text": "※ライト兄弟　Wright bersaudara, pelopor dalam aviasi\nWilbur Wright (1867-1912)\nOrville Wright (1871-1948)"
+  }
+ ]
+}

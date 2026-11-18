@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 81,
+  "page_label": "123",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 45"}, {"level": 2, "title": "IV. Keterangan Tatabahasa"}],
+  "blocks": [
+    {"type": "heading", "level": 3, "text": "[Catatan] Perbedaan antara ～のに dengan ～が／～ても"},
+    {"type": "text", "text": "⑧ わたしの 部屋は 狭いですが、きれいです。\n（×狭いのに）\nKamar saya sempit, tetapi bersih."},
+    {"type": "text", "text": "⑨ あした 雨が 降っても、出かけます。\n（×雨が 降るのに）\nWalaupun besok hujan, saya akan berangkat."},
+    {"type": "text", "text": "Pada ⑧ dan ⑨, が maupun ても tidak dapat digantikan oleh のに. Karena ⑧ hanya menghubungkan dua penilaian yang berbeda, sehingga bagian kalimat akhir tidak berlawanan dengan asumsi yang terdapat dari bagian kalimat awal. Sedangkan pada ⑨ のに tidak digunakan karena kalimat ini merupakan suatu hal yang dihipotesa pada awal kalimat. のに hanya menunjukkan hal yang sudah terjadi."},
+    {"type": "text", "text": "⑩ 約束をしたのに、どうして 来なかったんですか。\n（×約束をしましたが）\n（×約束をしても）\nWalaupun sudah berjanji, mengapa Anda tidak datang?"},
+    {"type": "text", "text": "Sebaliknya, のに pada ⑩ tidak dapat digantikan oleh が atau ても, karena akhir kalimat merupakan ungkapan celaan yang kuat."}
+  ]
+}

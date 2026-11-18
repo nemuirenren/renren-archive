@@ -1,0 +1,53 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 47,
+ "page_label": "71",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 37"
+  },
+  {
+   "level": 2,
+   "title": "I. Kosa kata"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "table",
+   "text": "| 日本語 | Indonesia |\n|---|---|\n| ※ライト兄弟 | Wright bersaudara, pelopor dalam aviasi\nWilbur Wright (1867-1912)\nOrville Wright (1871-1948) |\n| ※源氏物語 | “Hikayat Genji” (cerita roman Jepang) |\n| ※紫式部 | pengarang cerita roman Zaman Heian (abad 9) yang membuat “Hikayat Genji” (973?-1014?) |\n| ※グラハム・ベル | Alexander Graham Bell, penemu Amerika’ (1847-1922) |\n| ※東照宮 | kuil Shinto dipersembahkan kepada Tokugawa Ieyasu, yang ada di Nikko, prefektur Tochigi |\n| ※江戸時代 | Zaman Edo (1603-1868) |\n| ※サウジアラビア | Saudi Arabia |"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "◁会話▷"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Indonesia |\n|---|---|\n| 埋め立てます II | menimbun, menimbuni |\n| 技術 | teknik, teknologi |\n| 土地 | tanah |\n| 騒音 | suara bising |\n| 利用します III | memakai, memanfaatkan |\n| アクセス | jalan masuk, akses |"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "読み物"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Indonesia |\n|---|---|\n| 一世紀 | abad - |\n| 豪華[な] | megah |\n| 彫刻 | seni ukir, seni pahat |\n| 眠ります I | tidur |\n| 彫ります I | memahat |\n| 仲間 | teman, kawan |\n| そのあと | sesudah itu |\n| 一生懸命 | dengan sekuat tenaga |\n| ねずみ | tikus |\n| 一匹も いません。 | Seekor (tikus) pun tidak ada. |"
+  },
+  {
+   "type": "text",
+   "text": "※眠り猫　kucing tidur"
+  },
+  {
+   "type": "text",
+   "text": "※左 甚五郎　ahli ukir Jepang terkenal pada Zaman Edo (1594-1651)"
+  }
+ ]
+}

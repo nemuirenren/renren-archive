@@ -1,0 +1,13 @@
+{
+ "schema_version": "2.0",
+ "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+ "page": 42,
+ "page_label": "64",
+ "kind": "content",
+ "outline": [{"level": 1, "title": "Pelajaran 36"}, {"level": 2, "title": "I. Kosa kata"}],
+ "blocks": [
+  {"type": "heading", "level": 1, "text": "Pelajaran 36"},
+  {"type": "heading", "level": 2, "text": "I. Kosa kata"},
+  {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| とどきます I<br>[にもつが～] | 届きます<br>[荷物が～] | [barang] sampai |\n| でます II<br>[しあいに～] | 出ます<br>[試合に～] | ikut [bertanding] |\n| うちます I<br>[ワープロを～] | 打ちます | mengetik [word processor] |\n| ちょきんします III | 貯金します | menabung |\n| ふとります I | 太ります | menjadi gemuk |\n| やせます II |  | menjadi kurus |\n| すぎます II<br>[7じを～] | 過ぎます<br>[7時を～] | berlalu, melewati [pukul 7] |\n| なれます II<br>[しゅうかんに～] | 慣れます<br>[習慣に～] | menjadi biasa [dengan kebiasaan] |\n| かたい | 硬い | keras |\n| やわらかい | 軟らかい | lunak |\n| でんし～ | 電子～ | ~ elektronik |\n| けいたい～ | 携帯～ | ~ yang mudah dibawa |\n| こうじょう | 工場 | pabrik |\n| けんこう | 健康 | kesehatan |\n| けんどう | 剣道 | Kendo (olahraga tradisional Jepang) |\n| まいしゅう | 毎週 | setiap minggu |\n| まいつき | 毎月 | setiap bulan |\n| まいとし(まいねん) | 毎年 | setiap tahun |\n| やっと |  | akhirnya |\n| かなり |  | lumayan, agak |\n| かならず | 必ず | selalu, pasti |\n| ぜったいに | 絶対に | sama sekali, bagaimanapun (diikuti dengan bentuk negatif) |\n| じょうずに | 上手に | dengan pandai |\n| できるだけ |  | sedapat mungkin |\n| このごろ |  | akhir-akhir ini |"}
+ ]
+}

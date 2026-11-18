@@ -1,0 +1,20 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 50,
+  "page_label": "76",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 38"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 38"},
+    {"type": "heading", "level": 2, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| そだてます II | 育てます | memelihara, membesarkan |\n| はこびます I | 運びます | membawa, mengangkut |\n| なくなります I | 亡くなります | meninggal (dipakai untuk menyatakan しにます (L.39) secara halus) |\n| にゅういんします III | 入院します | masuk rumah sakit |\n| たいいんします III | 退院します | keluar dari rumah sakit |\n| いれます II [でんげんを～] | 入れます [電源を～] | menghidupkan [aliran listrik] |\n| きります I [でんげんを～] | 切ります [電源を～] | mematikan [aliran listrik] |\n| かけます II [かぎを～] | 掛けます | mengunci |\n| きもちが いい | 気持ちが いい | senang, merasa enak |\n| きもちが わるい | 気持ちが 悪い | jijik, merasa tidak enak |\n| おおきな ～ | 大きな ～ | besar |\n| ちいさな ～ | 小さな ～ | kecil |\n| あかちゃん | 赤ちゃん | bayi |\n| しょうがっこう | 小学校 | SD |\n| ちゅうがっこう | 中学校 | SMP |\n| えきまえ | 駅前 | depan stasiun |\n| かいがん | 海岸 | pantai |\n| うそ |  | bohong, kebohongan |\n| しょるい | 書類 | dokumen, surat |\n| でんげん | 電源 | aliran listrik |\n| ～せい | ～製 | buatan ～ |"}
+  ]
+}

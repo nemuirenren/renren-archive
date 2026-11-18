@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 3,
+  "page_label": "5",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 26"}, {"level": 2, "title": "I. Kosa kata"}],
+  "blocks": [
+    {"type": "text", "text": "※NHK　Nippon Hoso Kyokai (perusahaan penyiaran)\n※こどもの 日　Hari Anak-anak\n※エドヤストア　nama supermarket (hanya perumpamaan)"},
+    {"type": "heading", "level": 3, "text": "会話"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| 片づきます I [荷物が～] | 片づきます | [barang-barang] dibereskan, dirapikan |\n| ごみ |  | sampah |\n| 出します I [ごみを～] | 出します | membuang [sampah] |\n| 燃えます II [ごみが～] | 燃えます | [sampah] dapat dibakar |\n| 月・水・金 | 月・水・金 | hari Senin, hari Rabu, hari Jumat |\n| 置き場 | 置き場 | tempat pembuangan |\n| 横 | 横 | sebelah |\n| 瓶 | 瓶 | botol |\n| 缶 | 缶 | kaleng |\n| [お]湯 | [お]湯 | air panas |\n| ガス |  | gas |\n| ～会社 | ～会社 | perusahaan ～ |\n| 連絡します III | 連絡します | menghubungi |\n| 困ったなあ。 |  | Payah ya. Gawat. |"},
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| 電子メール | 電子メール | e-mail |\n| 宇宙 | 宇宙 | luar angkasa |\n| 怖い | 怖い | takut |\n| 宇宙船 | 宇宙船 | pesawat ruang angkasa |\n| 別の | 別の | yang lain |\n| 宇宙飛行士 | 宇宙飛行士 | astronot |"},
+    {"type": "text", "text": "※土井 隆雄　Takao Doi (astronot Jepang)"}
+  ]
+}

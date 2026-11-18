@@ -1,0 +1,25 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 89,
+  "page_label": "135",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 47"},
+    {"level": 2, "title": "IV. Keterangan Tatabahasa"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 3, "text": "2. ようです sepertinya ~"},
+    {"type": "table", "text": "| | Bentuk biasa | ようです sepertinya～ |\n|---|---|---|\n| K. Kerja | | |\n| K. Sifat-i | | |\n| K. Sifat-na | ～だ→～な | |\n| K. Benda | ～だ→～の | |"},
+    {"type": "text", "text": "～ようです digunakan bila pembicara bermaksud menyatakan suatu perkiraan subjektif berdasarkan informasi yang ia terima melalui panca inderanya.\nDalam pola kalimat ini kadang-kadang ditambahkan kata keterangan どうも yang digunakan untuk menyatakan \"saya belum memastikan apakah yang saya katakan benar\"."},
+    {"type": "text", "text": "⑩ 人が 大勢 集まっていますね。\n…事故のようですね。パトカーと 救急車が 来て いますよ。\nBanyak orang berkumpul, ya.\n…Sepertinya ada kecelakaan ya. Mobil polisi dan ambulans sudah datang."},
+    {"type": "text", "text": "⑪ せきも 出るし、頭も 痛い。どうも かぜを ひいたようだ。\nDi samping batuk, kepala pun sakit. Sepertinya saya masuk angin."},
+    {"type": "text", "text": "[Catatan] Perbedaan antara ～そうです (Pel. 43 kelihatannya) dan ～ようです"},
+    {"type": "text", "text": "⑫ ミラーさんは 忙しそうです。 Sdr. Miller kelihatannya sibuk. (Pel. 43)"},
+    {"type": "text", "text": "⑬ ミラーさんは 忙しいようです。 Sdr. Miller sepertinya sibuk."},
+    {"type": "text", "text": "Pada ⑫ menyatakan pertimbangan intuisi yang berdasarkan pengamatan pada keadaan atau perilaku Sdr. Miller. Sedangkan pada ⑬ menyatakan pertimbangan yang didasari oleh apa yang telah dilihat atau didengar oleh pembicara sendiri."},
+    {"type": "heading", "level": 3, "text": "3. 声/音/におい/味が します"},
+    {"type": "text", "text": "⑭ 変な 音が しますね。 Terdengar bunyi yang aneh ya."},
+    {"type": "text", "text": "Untuk menunjukkan gejala yang ditangkap panca indera, digunakan ～が します. Contohnya, こえが します, においが します dan あじが します. Ungkapan ini semua menyatakan arti apa pun yang dapat terdengar, tercium dan terasa oleh panca indera dan tidak ada hubungannya dengan keinginan pembicara."}
+  ]
+}

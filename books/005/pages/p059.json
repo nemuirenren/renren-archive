@@ -1,0 +1,18 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 59,
+  "page_label": "89",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 40"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| －ほん（－ぼん、－ぽん） | －本 | (kata bantu bilangan untuk benda panjang) |\n| －はい（－ばい、－ぱい） | －杯 | (kata bantu bilangan untuk cangkir, gelas dll.) |\n| －キロ |  | kg, km |\n| －グラム |  | gram |\n| －センチ |  | cm |\n| －ミリ |  | mm |\n| ～いじょう | ～以上 | lebih dari ～ |\n| ～いか | ～以下 | kurang dari ～ |\n| さあ |  | bagaimana ya? (dipakai ketika jawabannya tak pasti) |\n| ※ゴッホ |  | Vincent van Gogh, pelukis Belanda (1853-1890) |\n| ※ゆきまつり | 雪祭り | Festival Salju di Sapporo |\n| ※のぞみ |  | nama kereta api Shinkansen |\n| ※J L |  | Perusahaan Penerbangan Jepang |"},
+    {"type": "heading", "level": 3, "text": "◁会話▷"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| どうでしょうか。 |  | Bagaimana～? (kata hormat untuk どうですか) |\n| クラス |  | kelas |\n| テスト |  | ujian |\n| せいせき | 成績 | hasil, tanda prestasi |\n| ところで |  | ngomong-ngomong (untuk mengganti topik pembicaraan) |\n| いらっしゃいます I |  | datang (kata hormat untuk きます) |\n| ようす | 様子 | keadaan, sikap, tingkah-laku |"},
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| じけん | 事件 | peristiwa, perkara |\n| オートバイ |  | sepeda motor |\n| ばくだん | 爆弾 | bom |\n| つみます I | 積みます | memuat |\n| うんてんしゅ | 運転手 | supir |\n| はなれた | 離れた | terpencil, jauh |\n| が |  | tetapi |\n| きゅうに | 急に | tiba-tiba |\n| うごかします I | 動かします | menjalankan |\n| いっしょうけんめい | 一生懸命 | dengan sungguh-sungguh |\n| はんにん | 犯人 | pelaku kejahatan |\n| てにいれます II | 手に入れます | mendapat, memperoleh |\n| いまでも | 今でも | sekarang pun |\n| うわさします I |  | menggunjing, menggosip |"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 6,
+  "page_label": "10",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 27"}, {"level": 2, "title": "I. Kosa kata"}],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 27"},
+    {"type": "heading", "level": 3, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| かいます I | 飼います | memelihara (binatang) |\n| たてます II | 建てます | membangun, mendirikan |\n| はしります I [みちを～] | 走ります [道を～] | berlari, berjalan [di jalan] |\n| とります I [やすみを～] | 取ります [休みを～] | mengambil [libur], cuti |\n| みえます II [やまが～] | 見えます [山が～] | kelihatan [gunung] |\n| きこえます II [おとが～] | 聞こえます [音が～] | terdengar [suara] |\n| できます II [くうこうが～] | できます [空港が～] | [bandara] rampung, sudah jadi |\n| ひらきます I [きょうしつを～] | 開きます [教室を～] | membuka [kursus] |\n| ペット |  | binatang peliharaan |\n| とり | 鳥 | burung |\n| こえ | 声 | suara |\n| なみ | 波 | ombak |\n| はなび | 花火 | kembang api |\n| けしき | 景色 | pemandangan |\n| ひるま | 昼間 | waktu siang |\n| むかし | 昔 | masa lampau, dahulu kala |\n| どうぐ | 道具 | perkakas, alat |\n| じどうはんばいき | 自動販売機 | mesin penjual otomatis |\n| つうしんはんばい | 通信販売 | penjualan melalui pos |\n| クリーニング |  | pembersihan, pencucian |\n| マンション |  | kondominium, apartemen |\n| だいどころ | 台所 | dapur |\n| ～きょうしつ | ～教室 | kursus ～ |\n| パーティールーム |  | tempat/ruang untuk pesta |\n| ～ご | ～後 | sesudah/setelah (waktu, jangka waktu) ～ |\n| ～しか |  | tidak ～ lain selain (diikuti dengan bentuk negatif) |\n| ほかの |  | lain |"}
+  ]
+}

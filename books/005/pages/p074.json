@@ -1,0 +1,13 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 74,
+  "page_label": "112",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 44"}, {"level": 2, "title": "I. Kosa kata"}],
+  "blocks": [
+    {"type": "heading", "level": 1, "text": "Pelajaran 44"},
+    {"type": "heading", "level": 2, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| なきます I | 泣きます | menangis |\n| わらいます I | 笑います | tertawa |\n| かわきます I | 乾きます | kering |\n| ぬれます II |  | basah |\n| すべります I | 滑ります | terpeleset |\n| おきます II | 起きます | [kecelakaan] terjadi |\n| [じこが～] | [事故が～] |  |\n| ちょうせつします III | 調節します | mencocokkan |\n| あんぜん[な] | 安全[な] | tidak berbahaya, aman |\n| ていねい[な] | 丁寧[な] | sopan, hati-hati, rapi |\n| こまかい | 細かい | kecil |\n| こい | 濃い | kental (rasa), tua (warna) |\n| うすい | 薄い | encer (rasa), muda (warna) |\n| くうき | 空気 | udara |\n| なみだ | 涙 | air mata |\n| わしょく | 和食 | makanan Jepang |\n| ようしょく | 洋食 | makanan Barat |\n| おかず |  | lauk-pauk |\n| りょう | 量 | jumlah |\n| －ばい | －倍 | － kali |\n| はんぶん | 半分 | setengah |\n| シングル |  | kamar untuk seorang (di hotel) |\n| ツイン |  | kamar untuk dua orang (di hotel) |\n| たんす |  | lemari |\n| せんたくもの | 洗濯物 | cucian |\n| りゆう | 理由 | alasan |"}
+  ]
+}

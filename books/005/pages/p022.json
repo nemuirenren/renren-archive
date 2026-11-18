@@ -1,0 +1,20 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 22,
+  "page_label": "34",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 31"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 31"},
+    {"type": "heading", "level": 3, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| はじまります I [しきが～] | 始まります [式が～] | [upacara] mulai, dimulai |\n| つづけます II | 続けます | meneruskan, melanjutkan |\n| みつけます II | 見つけます | menemukan |\n| うけます II [しけんを～] | 受けます [試験を～] | menempuh [ujian] |\n| にゅうがくします III [だいがくに～] | 入学します [大学に～] | masuk [universitas] |\n| そつぎょうします III [だいがくを～] | 卒業します [大学を～] | lulus [dari universitas] |\n| しゅっせきします III [かいぎに～] | 出席します [会議に～] | menghadiri [rapat] |\n| きゅうけいします III | 休憩します | beristirahat |\n| れんきゅう | 連休 | hari-hari libur yang berurutan |\n| さくぶん | 作文 | karangan |\n| てんらんかい | 展覧会 | pameran |\n| けっこんしき | 結婚式 | upacara perkawinan |\n| [お]そうしき | [お]葬式 | upacara kematian |\n| しき | 式 | upacara |\n| ほんしゃ | 本社 | kantor pusat |\n| してん | 支店 | kantor cabang |\n| きょうかい | 教会 | gereja |\n| だいがくいん | 大学院 | pasca sarjana |\n| どうぶつえん | 動物園 | kebun binatang |\n| おんせん | 温泉 | sumber air panas |\n| おきゃく[さん] | お客[さん] | tamu, langganan |\n| だれか |  | seseorang |\n| ～の ほう | ～の 方 | (tempat duduk) bagian |"}
+  ]
+}

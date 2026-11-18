@@ -1,0 +1,46 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 99,
+ "page_label": "149",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 50"
+  },
+  {
+   "level": 2,
+   "title": "I. Kosa kata"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "I. Kosa kata"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "〈会話〉"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Indonesia |\n|---|---|\n| 緊張します III | grogi, gugup |\n| 放送します III | menyiarkan |\n| 撮ります [ビデオに～] I | merekam [di video], membuat [video] |\n| 賞金 | hadiah uang |\n| 自然 | alam |\n| きりん | jerapah |\n| 象 | gajah |\n| ころ | masa |\n| かないます [夢が～] I | [khayalan] menjadi kenyataan, terkabul |\n| ひとこと よろしいでしょうか。 | Bolehkah saya menyampaikan sesuatu? |\n| 協力します III | bekerja sama |\n| 心から | setulusnya |\n| 感謝します III | mengucapkan terima kasih |"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "〈読み物〉"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Indonesia |\n|---|---|\n| [お]礼 | ucapan terima kasih |\n| 拝啓 | dengan hormat |\n| 美しい | indah |\n| お元気でいらっしゃいますか。 | Apa kabar? (kata hormat untuk おげんきですか) |\n| 迷惑を かけます II | merepotkan |\n| 生かします I | memanfaatkan |\n| [お]城 | kastil, istana |\n| 敬具 | hormat saya |\n| ※ミュンヘン | München (di Jerman) |"
+  }
+ ]
+}

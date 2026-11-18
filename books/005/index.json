@@ -1,0 +1,1223 @@
+{
+ "id": "005",
+ "title": "Minna no Nihongo II (edisi Indonesia)",
+ "lang": "id",
+ "pages": 101,
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 26",
+   "pages": [
+    2,
+    5
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 27",
+   "pages": [
+    6,
+    9
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 28",
+   "pages": [
+    10,
+    13
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 29",
+   "pages": [
+    14,
+    17
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 30",
+   "pages": [
+    18,
+    21
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 31",
+   "pages": [
+    22,
+    25
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 32",
+   "pages": [
+    26,
+    29
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 33",
+   "pages": [
+    30,
+    33
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 34",
+   "pages": [
+    34,
+    37
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 35",
+   "pages": [
+    38,
+    41
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 36",
+   "pages": [
+    42,
+    45
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 37",
+   "pages": [
+    46,
+    49
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 38",
+   "pages": [
+    50,
+    53
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 39",
+   "pages": [
+    54,
+    57
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 40",
+   "pages": [
+    58,
+    61
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 41",
+   "pages": [
+    62,
+    65
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 42",
+   "pages": [
+    66,
+    69
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 43",
+   "pages": [
+    70,
+    73
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 44",
+   "pages": [
+    74,
+    77
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 45",
+   "pages": [
+    78,
+    81
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 46",
+   "pages": [
+    82,
+    85
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 47",
+   "pages": [
+    86,
+    89
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 48",
+   "pages": [
+    90,
+    93
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 49",
+   "pages": [
+    94,
+    97
+   ]
+  },
+  {
+   "level": 1,
+   "title": "Pelajaran 50",
+   "pages": [
+    98,
+    101
+   ]
+  }
+ ],
+ "items": [
+  {
+   "page": 1,
+   "page_label": "",
+   "kind": "cover",
+   "outline": [],
+   "first_heading": "Minna no Nihongo II"
+  },
+  {
+   "page": 2,
+   "page_label": "4",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 26",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 26"
+  },
+  {
+   "page": 3,
+   "page_label": "5",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 26",
+    "I. Kosa kata"
+   ],
+   "first_heading": "会話"
+  },
+  {
+   "page": 4,
+   "page_label": "8",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 26",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 5,
+   "page_label": "9",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 26",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "3) ～んですが、～"
+  },
+  {
+   "page": 6,
+   "page_label": "10",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 27",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 27"
+  },
+  {
+   "page": 7,
+   "page_label": "11",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 27",
+    "I. Kosa kata"
+   ],
+   "first_heading": "会話"
+  },
+  {
+   "page": 8,
+   "page_label": "14",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 27",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 9,
+   "page_label": "15",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 27",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "4. できます"
+  },
+  {
+   "page": 10,
+   "page_label": "16",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 28",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 28"
+  },
+  {
+   "page": 11,
+   "page_label": "17",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 28",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 12,
+   "page_label": "20",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 28",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 13,
+   "page_label": "21",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 28",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "4. それに"
+  },
+  {
+   "page": 14,
+   "page_label": "22",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 29",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 29"
+  },
+  {
+   "page": 15,
+   "page_label": "23",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 29",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 16,
+   "page_label": "26",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 29",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 17,
+   "page_label": "27",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 29",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "3. K. Kerja Bentuk て しまいました"
+  },
+  {
+   "page": 18,
+   "page_label": "28",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 30",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 30"
+  },
+  {
+   "page": 19,
+   "page_label": "29",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 30",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◀会話▶"
+  },
+  {
+   "page": 20,
+   "page_label": "32",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 30",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 21,
+   "page_label": "33",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 30",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "2)"
+  },
+  {
+   "page": 22,
+   "page_label": "34",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 31",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 31"
+  },
+  {
+   "page": 23,
+   "page_label": "35",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 31",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 24,
+   "page_label": "38",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 31",
+    "IV. Keterangan Tata Bahasa"
+   ],
+   "first_heading": "IV. Keterangan Tata Bahasa"
+  },
+  {
+   "page": 25,
+   "page_label": "39",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 31",
+    "IV. Keterangan Tata Bahasa"
+   ],
+   "first_heading": "4. K. Kerja Bentuk kamus／K. Benda の 予定です"
+  },
+  {
+   "page": 26,
+   "page_label": "40",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 32",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 32"
+  },
+  {
+   "page": 27,
+   "page_label": "41",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 32",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 28,
+   "page_label": "44",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 32",
+    "IV. Keterangan Tata Bahasa"
+   ],
+   "first_heading": "IV. Keterangan Tata Bahasa"
+  },
+  {
+   "page": 29,
+   "page_label": "45",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 32",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "4. きっと／たぶん／もしかしたら"
+  },
+  {
+   "page": 30,
+   "page_label": "46",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 33",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 33"
+  },
+  {
+   "page": 31,
+   "page_label": "47",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 33",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 32,
+   "page_label": "50",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 33",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 33,
+   "page_label": "51",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 33",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "3. 〜と読みます dan 〜と書いてあります"
+  },
+  {
+   "page": 34,
+   "page_label": "52",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 34",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 34"
+  },
+  {
+   "page": 35,
+   "page_label": "53",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 34",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 36,
+   "page_label": "56",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 34",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 37,
+   "page_label": "57",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 34",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": ""
+  },
+  {
+   "page": 38,
+   "page_label": "58",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 35",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 35"
+  },
+  {
+   "page": 39,
+   "page_label": "59",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 35",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 40,
+   "page_label": "62",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 35",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 41,
+   "page_label": "63",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 35",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "3. K. Benda なら、~"
+  },
+  {
+   "page": 42,
+   "page_label": "64",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 36",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 36"
+  },
+  {
+   "page": 43,
+   "page_label": "65",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 36",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 44,
+   "page_label": "68",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 36",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 45,
+   "page_label": "69",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 36",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "3."
+  },
+  {
+   "page": 46,
+   "page_label": "70",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 37",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 37"
+  },
+  {
+   "page": 47,
+   "page_label": "71",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 37",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 48,
+   "page_label": "74",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 37",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 49,
+   "page_label": "75",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 37",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "4. K. Benda (barang／hal) が／は K. Kerja pasif"
+  },
+  {
+   "page": 50,
+   "page_label": "76",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 38",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 38"
+  },
+  {
+   "page": 51,
+   "page_label": "77",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 38",
+    "I. Kosa kata",
+    "〈会話〉",
+    "読み物"
+   ],
+   "first_heading": "〈会話〉"
+  },
+  {
+   "page": 52,
+   "page_label": "80",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 38",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 53,
+   "page_label": "81",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 38",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "6. のは K. Benda です"
+  },
+  {
+   "page": 54,
+   "page_label": "82",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 39",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 39"
+  },
+  {
+   "page": 55,
+   "page_label": "83",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 39",
+    "I. Kosa kata",
+    "〈会話〉",
+    "読み物"
+   ],
+   "first_heading": "〈会話〉"
+  },
+  {
+   "page": 56,
+   "page_label": "86",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 39",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 57,
+   "page_label": "87",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 39",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "2. K. Benda で"
+  },
+  {
+   "page": 58,
+   "page_label": "88",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 40",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 40"
+  },
+  {
+   "page": 59,
+   "page_label": "89",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 40",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 60,
+   "page_label": "92",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 40",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 61,
+   "page_label": "93",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 40",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "4. K. Sifat i (~i) → ~sa"
+  },
+  {
+   "page": 62,
+   "page_label": "94",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 41",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 41"
+  },
+  {
+   "page": 63,
+   "page_label": "95",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 41",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 64,
+   "page_label": "98",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 41",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 65,
+   "page_label": "99",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 41",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "3. K. Kerja Bentukて くださいませんか"
+  },
+  {
+   "page": 66,
+   "page_label": "100",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 42",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 42"
+  },
+  {
+   "page": 67,
+   "page_label": "101",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 42",
+    "I. Kosa kata"
+   ],
+   "first_heading": "〈会話〉"
+  },
+  {
+   "page": 68,
+   "page_label": "104",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 42",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 69,
+   "page_label": "105",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 42",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "[Catatan] Berbagai ungkapan yang menyatakan tujuan"
+  },
+  {
+   "page": 70,
+   "page_label": "106",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 43",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 43"
+  },
+  {
+   "page": 71,
+   "page_label": "107",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 43",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 72,
+   "page_label": "110",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 43",
+    "IV. Keterangan Tata Bahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 73,
+   "page_label": "111",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 43",
+    "IV. Keterangan Tata Bahasa"
+   ],
+   "first_heading": "2) K. Benda(tempat)へ 行って 来ます"
+  },
+  {
+   "page": 74,
+   "page_label": "112",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 44",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 44"
+  },
+  {
+   "page": 75,
+   "page_label": "113",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 44",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 76,
+   "page_label": "116",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 44",
+    "IV. Keterangan Tata Bahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 77,
+   "page_label": "117",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 44",
+    "IV. Keterangan Tata Bahasa"
+   ],
+   "first_heading": "3. K. Sifat i (～い) → ～く／K. Sifat na [な] → に／K. Benda に ＋ します"
+  },
+  {
+   "page": 78,
+   "page_label": "118",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 45",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 45"
+  },
+  {
+   "page": 79,
+   "page_label": "119",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 45",
+    "会話",
+    "読み物"
+   ],
+   "first_heading": "会話"
+  },
+  {
+   "page": 80,
+   "page_label": "122",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 45",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 81,
+   "page_label": "123",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 45",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "[Catatan] Perbedaan antara ～のに dengan ～が／～ても"
+  },
+  {
+   "page": 82,
+   "page_label": "124",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 46",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 46"
+  },
+  {
+   "page": 83,
+   "page_label": "125",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 46",
+    "会話",
+    "読み物"
+   ],
+   "first_heading": "会話"
+  },
+  {
+   "page": 84,
+   "page_label": "128",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 46",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 85,
+   "page_label": "129",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 46",
+    "IV. Keterangan Tata Bahasa"
+   ],
+   "first_heading": "2. K. Kerja Bentukた ばかりです"
+  },
+  {
+   "page": 86,
+   "page_label": "130",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 47",
+    "I. Kosa kata"
+   ],
+   "first_heading": "I. Kosa kata"
+  },
+  {
+   "page": 87,
+   "page_label": "131",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 47",
+    "I. Kosa kata"
+   ],
+   "first_heading": "〈会話〉"
+  },
+  {
+   "page": 88,
+   "page_label": "134",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 47",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 89,
+   "page_label": "135",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 47",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "2. ようです sepertinya ~"
+  },
+  {
+   "page": 90,
+   "page_label": "136",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 48",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 48"
+  },
+  {
+   "page": 91,
+   "page_label": "137",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 48",
+    "I. Kosa kata"
+   ],
+   "first_heading": "〈会話〉"
+  },
+  {
+   "page": 92,
+   "page_label": "140",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 48",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 93,
+   "page_label": "141",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 48",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "4. K. Kerja kausatif Bentukて いただけませんか Dapatkan Anda mengizinkan saya ~"
+  },
+  {
+   "page": 94,
+   "page_label": "142",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 49",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 49"
+  },
+  {
+   "page": 95,
+   "page_label": "143",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 49",
+    "I. Kosa kata"
+   ],
+   "first_heading": "◁会話▷"
+  },
+  {
+   "page": 96,
+   "page_label": "146",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 49",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "page": 97,
+   "page_label": "147",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 49",
+    "IV. Keterangan Tatabahasa"
+   ],
+   "first_heading": "(4) お K. Kerja (Bentukます) ください"
+  },
+  {
+   "page": 98,
+   "page_label": "148",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 50",
+    "I. Kosa kata"
+   ],
+   "first_heading": "Pelajaran 50"
+  },
+  {
+   "page": 99,
+   "page_label": "149",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 50",
+    "I. Kosa kata"
+   ],
+   "first_heading": "I. Kosa kata"
+  },
+  {
+   "page": 100,
+   "page_label": "152",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 50",
+    "IV. Keterangan Tata Bahasa"
+   ],
+   "first_heading": "IV. Keterangan Tata Bahasa"
+  },
+  {
+   "page": 101,
+   "page_label": "153",
+   "kind": "content",
+   "outline": [
+    "Pelajaran 50",
+    "IV. Keterangan Tata Bahasa"
+   ],
+   "first_heading": "2) K. Kerja merendahkan diri istimewa"
+  }
+ ]
+}

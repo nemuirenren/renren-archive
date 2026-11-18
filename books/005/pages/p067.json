@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 67,
+ "page_label": "101",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 42"
+  },
+  {
+   "level": 2,
+   "title": "I. Kosa kata"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "table",
+   "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ざいりょう | 材料 | bahan-bahan |\n| いし | 石 | batu |\n| ピラミッド |  | piramida |\n| データ |  | data |\n| ファイル |  | file |\n| ある～ |  | sesuatu～ |\n| いっしょうけんめい | 一生懸命 | dengan sungguh-sungguh |\n| なぜ |  | mengapa |\n| ※国連 |  | PBB |\n| ※エリーゼの ために |  | Untuk Elize |\n| ※ベートーベン |  | Ludwig van Beethoven, komposer Jerman (1770-1827) |\n| ※ポーランド |  | Polandia |"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "〈会話〉"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ローン |  | kredit |\n| セット |  | set |\n| あと |  | sisa |"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "読み物"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| カップラーメン |  | mie instan gelas |\n| インスタントラーメン |  | mie instan |\n| なべ |  | panci |\n| どんぶり |  | mangkok besar |\n| しょくひん | 食品 | makanan |\n| ちょうさ | 調査 | penyelidikan, research |\n| カップ |  | gelas |\n| また |  | dan |\n| ～の かわりに | ～の 代わりに | pengganti ～ |\n| どこででも |  | di mana pun |\n| いま | 今では | sekarang |"
+  }
+ ]
+}

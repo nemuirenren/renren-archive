@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 28,
+  "page_label": "44",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 32"},
+    {"level": 2, "title": "IV. Keterangan Tata Bahasa"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "IV. Keterangan Tata Bahasa"},
+    {"type": "heading", "level": 3, "text": "1. K. Kerja Bentukた ほうがいいです／K. Kerja (Bentukない) ない ほうがいいです"},
+    {"type": "table", "text": "| Bentuk | Pola |\n|---|---|\n| K. Kerja Bentukた | ほうがいいです |\n| K. Kerja (Bentukない) ない | ほうがいいです |"},
+    {"type": "text", "text": "① 毎日 運動した ほうが いいです。\nSebaiknya setiap hari kita berolahraga."},
+    {"type": "text", "text": "② 熱が あるんです。\n…じゃ、おふろに 入らない ほうがいいですよ。\nSaya demam.\n…Kalau begitu lebih baik Anda tidak masuk Ofuro."},
+    {"type": "text", "text": "Pola kalimat ini digunakan untuk menyatakan anjuran atau nasihat. Karena dapat menimbulkan kesan memaksakan pendapat pada lawan bicara, sehingga perhatikanlah situasinya terlebih dahulu sebelum menggunakan pola kalimat ini."},
+    {"type": "text", "text": "[Catatan] Perbedaan antara ～た ほうが いい dan ～たら いい:"},
+    {"type": "text", "text": "③ 日本の お寺が 見たいんですが……。\n…じゃ、京都へ 行ったら いいですよ。\nSaya ingin melihat kuil Jepang.\n…Kalau begitu, sebaiknya kamu pergi ke Kyoto saja."},
+    {"type": "text", "text": "Contoh (③) merupakan suatu anjuran sederhana (bukan pilihan), sehingga pola kalimat ～たら いい dapat digunakan, sedangkan pola kalimat ～た ほうが いい menunjukkan pilihan antara dua pilihan, meskipun salah satu pilihannya tidak diungkapkan dalam kalimat."},
+    {"type": "heading", "level": 3, "text": "2. K. Kerja／K. Sifatい／K. Sifatな／K. Benda の でしょう"},
+    {"type": "table", "text": "| Jenis kata | Bentuk | Pola |\n|---|---|---|\n| K. Kerja | Bentuk biasa | でしょう |\n| K. Sifatい | Bentuk biasa | でしょう |\n| K. Sifatな | Bentuk biasa | でしょう |\n| K. Benda | ～だ | でしょう |"},
+    {"type": "text", "text": "Pola kalimat ini digunakan bila pembicara menduga berdasarkan suatu informasi yang dimilikinya. Jika digunakan di dalam kalimat tanya seperti pada ⑤, maka kalimat itu menanyakan dugaan lawan bicara."},
+    {"type": "text", "text": "④ あしたは 雨が 降るでしょう。\nBesok mungkin turun hujan."},
+    {"type": "text", "text": "⑤ タワポンさんは 合格するでしょうか。\nApakah Anda berpikir bahwa Sdr. Thawaphon lulus?"},
+    {"type": "heading", "level": 3, "text": "3. K. Kerja／K. Sifatい／K. Sifatな／K. Benda の かも しれません"},
+    {"type": "table", "text": "| Jenis kata | Bentuk | Pola |\n|---|---|---|\n| K. Kerja | Bentuk biasa | かも しれません |\n| K. Sifatい | Bentuk biasa | かも しれません |\n| K. Sifatな | Bentuk biasa | かも しれません |\n| K. Benda | ～だ | かも しれません |"},
+    {"type": "text", "text": "～かも しれません juga menyatakan dugaan pembicara terhadap kemungkinan terjadinya suatu kejadian (sekarang, lampau dan yang akan datang). Tetapi, tingkat kepastiannya lebih rendah daripada ～でしょう。"},
+    {"type": "text", "text": "⑥ 約束の 時間に 間に 合わないかも しれません。\nMungkin saya tidak dapat datang sesuai dengan waktu yang disepakati."}
+  ]
+}

@@ -1,0 +1,41 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 95,
+ "page_label": "143",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 49"
+  },
+  {
+   "level": 2,
+   "title": "I. Kosa kata"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "◁会話▷"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| 一年一組 |  | kelas 1-1 |\n| では |  | kalau begitu (kata hormat untuk じゃ) |\n| 出します I [熱を～] | 出します | demam |\n| よろしくお伝えください。 |  | Tolong sampaikan salam saya. |\n| 失礼いたします。 | 失礼いたします。 | Permisi. (kata merendahkan diri untuk しつれいします) |\n| ※ひまわり小学校 | ひまわり小学校 | nama SD (hanya perumpamaan) |"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "読み物"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| 講師 |  | pembicara |\n| 多くの～ |  | banyak ～ |\n| 作品 |  | karya |\n| 受賞します III |  | menerima hadiah |\n| 世界的に |  | seluruh dunia |\n| 作家 |  | pengarang |\n| ～でいらっしゃいます I |  | adalah (kata hormat untuk です) |\n| 長男 |  | anak laki-laki tertua |\n| 障害 |  | cacat |\n| お持ちです |  | mempunyai (kata hormat untuk もっています) |\n| 作曲 |  | gubahan lagu, komposisi lagu |\n| 活動 |  | kegiatan |\n| それでは |  | baiklah (menunjukkan akhir atau awal) |\n| ※大江 健三郎 | 大江 健三郎 | pengarang novel Jepang (1935- ) |\n| ※東京大学 | 東京大学 | Universitas Tokyo |\n| ※ノーベル文学賞 | ノーベル文学賞 | Hadiah Nobel untuk Kesusastraan |"
+  }
+ ]
+}

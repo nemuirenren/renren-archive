@@ -1,0 +1,94 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 44,
+ "page_label": "68",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 36"
+  },
+  {
+   "level": 2,
+   "title": "IV. Keterangan Tatabahasa"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "1."
+  },
+  {
+   "type": "text",
+   "text": "K. Kerja1 Bentuk kamus\nK. Kerja1 (Bentukない) ない ように, K. Kerja2"
+  },
+  {
+   "type": "text",
+   "text": "K. Kerja1 adalah suatu keadaan yang dilihat sebagai suatu tujuan atau sasaran, sedangkan K. Kerja2 menunjukkan perbuatan yang disengaja untuk mendekati tujuan tersebut."
+  },
+  {
+   "type": "text",
+   "text": "① 速く 泳げるように, 毎日 練習しています。\nsasaran / perbuatan yang menunjukkan keinginan\nSupaya dapat berenang dengan cepat, setiap hari saya berlatih."
+  },
+  {
+   "type": "text",
+   "text": "② 忘れないように, メモして ください。\ntujuan / perbuatan yang menunjukkan keinginan\nSupaya tidak lupa, tulislah memo."
+  },
+  {
+   "type": "text",
+   "text": "Di depan ように digunakan K. Kerja yang tidak mengandung arti keinginan (contoh: K. Kerja potensial, わかります, みえます, きこえます, なります dll) dalam Bentuk kamus (①) atau K. Kerja Bentuk negatif (②)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "2."
+  },
+  {
+   "type": "text",
+   "text": "K. Kerja Bentuk kamus ように\nK. Kerja (Bentukない) なく なります"
+  },
+  {
+   "type": "text",
+   "text": "1) なります menunjukkan perubahan dari suatu keadaan menjadi keadaan lain. K. Kerja potensial atau K. Kerja yang menunjukkan kemampuan atau kesanggupan seperti K. Kerja わかります dan みえます dapat digunakan. K. Kerja Bentuk kamus ように なります menunjukkan perubahan dari keadaan tidak dapat menjadi dapat. Tetapi K. Kerja (Bentukない) なく なります menyatakan sebaliknya, yaitu suatu keadaan berubah, dan keadaan sebelumnya menghilang."
+  },
+  {
+   "type": "text",
+   "text": "③ 毎日 練習すれば, 泳げるように なります。\nKalau berlatih tiap hari, pasti akan dapat berenang."
+  },
+  {
+   "type": "text",
+   "text": "④ やっと 自転車に 乗れるように なりました。\nAkhirnya saya sudah dapat naik sepeda."
+  },
+  {
+   "type": "text",
+   "text": "⑤ 年を 取ると, 小さい 字が 読めなく なります。\nKalau sudah tua, tidak akan dapat membaca huruf kecil."
+  },
+  {
+   "type": "text",
+   "text": "⑥ 太りましたから, 好きな 服が 着られなく なりました。\nKarena sudah menjadi gemuk, saya tidak dapat memakai baju yang saya sukai."
+  },
+  {
+   "type": "text",
+   "text": "2) Jawaban menyangkal dari kalimat tanya ～ように なりましたか adalah seperti berikut;"
+  },
+  {
+   "type": "text",
+   "text": "⑦ ショパンが 弾けるように なりましたか。\n…いいえ, まだ 弾けません。\nSudahkah Anda dapat memainkan karya Chopin?\n…Belum, saya belum dapat memainkannya."
+  },
+  {
+   "type": "text",
+   "text": "[Catatan] Meskipun tidak dipelajari dalam Buku Pelajaran Utama ini, jika menggunakan K. Kerja yang tidak menunjukkan kemampuan di dalam pola kalimat2, artinya akan menjadi “kebiasaan yang sebelumnya tidak ada menjadi terbiasa” (⑧), atau “kebiasaan yang sebelumnya ada menjadi tidak ada” (⑨)."
+  }
+ ]
+}

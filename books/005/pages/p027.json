@@ -1,0 +1,22 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 27,
+  "page_label": "41",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 32"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| きた | 北 | utara |\n| みなみ | 南 | selatan |\n| にし | 西 | barat |\n| ひがし | 東 | timur |\n| すいどう | 水道 | air ledeng |\n| エンジン |  | mesin, motor |\n| チーム |  | regu |\n| こんや | 今夜 | malam ini |\n| ゆうがた | 夕方 | sore |\n| まえ | 前 | depan, sebelumnya |\n| おそく | 遅く | (malam) sekali |\n| こんなに |  | seperti ini |\n| そんなに |  | seperti itu (tentang sesuatu hal/barang yang berhubungan dengan lawan bicara) |\n| あんなに |  | seperti itu (tentang sesuatu hal/barang yang tidak berhubungan baik dengan si pembicara maupun dengan lawan bicara) |\n| もしかしたら |  | kemungkinannya |\n| それは いけませんね。 |  | Kashian, ya. (pada saat mengucapkan rasa simpati) |\n| ※オリンピック |  | Pertandingan Olympiade |"},
+    {"type": "heading", "level": 4, "text": "◁会話▷"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| げんき | 元気 | sehat |\n| い | 胃 | lambung |\n| はたらきすぎ | 働きすぎ | terlalu banyak bekerja |\n| ストレス |  | stress, tegang |\n| むりを します III | 無理を します | dipaksakan |\n| ゆっくり します III |  | beristirahat |"},
+    {"type": "heading", "level": 4, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ほしうらない | 星占い | primbon, ramalan zodiak |\n| おうしざ | 牡牛座 | bintang Taurus |\n| こまります I | 困ります | mengalami kesulitan |\n| たからくじ | 宝くじ | lotre |\n| あたります I [たからくじが～] | 当たります [宝くじが～] | menang [lotre] |\n| けんこう | 健康 | kesehatan |\n| れんあい | 恋愛 | percintaan |\n| こいびと | 恋人 | pacar |\n| [お]かねもち | [お]金持ち | orang kaya |"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 35,
+  "page_label": "53",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 34"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| しょうゆ |  | kecap asin Jepang |\n| ソース |  | saus |\n| ～か ～ |  | ～ atau ～ |\n| ゆうべ |  | tadi malam |\n| さっき |  | tadi |"},
+    {"type": "heading", "level": 4, "text": "◁会話▷"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| さどう | 茶道 | upacara minum teh |\n| おちゃを たてます II | お茶を たてます | membuat teh Jepang |\n| さきに | 先に | terlebih dahulu, duluan (dipakai untuk mengatakan urutan perbuatan) |\n| のせます II | 載せます | menaruh |\n| これで いいですか。 |  | Ini sudah benarkan? (pada saat minta pertimbangan) |\n| にがい | 苦い | pahit |"},
+    {"type": "heading", "level": 4, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| おやこどんぶり | 親子どんぶり | nasi yang di atasnya daging ayam dan telur |\n| ざいりょう | 材料 | bahan, material |\n| いちぶん | 一分 | bagian, jatah (untuk kwantitas) |\n| とりにく | 鳥肉 | daging ayam |\n| ーグラム |  | gram |\n| いっこ | 一個 | (kata bantu bilangan untuk benda kecil) |\n| たまねぎ |  | bawang bombai |\n| 4分の1 (1/4) |  | seperempat, satu perempat |\n| ちょうみりょう | 調味料 | bumbu masak |\n| なべ |  | panci |\n| ひ | 火 | api |\n| ひに かけます II | 火に かけます | meletakkan di atas api |\n| にます II | 煮ます | merebus |\n| にえます II | 煮えます | menjadi masak |\n| どんぶり |  | mangkok besar |"}
+  ]
+}

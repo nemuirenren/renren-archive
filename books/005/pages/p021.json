@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 21,
+  "page_label": "33",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 30"},
+    {"level": 2, "title": "IV. Keterangan Tatabahasa"}
+  ],
+  "blocks": [
+    {"type": "text", "text": "⑨ 旅行の まえに、切符を 買って おきます。\nSebelum melakukan perjalanan, saya akan membeli karcisnya terlebih dahulu."},
+    {"type": "text", "text": "⑩ 次の 会議までに 何を して おいたら いいですか。\n… この 資料を 読んで おいて ください。\nSebelum rapat berikutnya, apa yang sebaiknya saya lakukan terlebih dahulu?\n… Bacalah materi ini terlebih dahulu."},
+    {"type": "heading", "level": 4, "text": "2)"},
+    {"type": "text", "text": "Menunjukkan arti menyelesaikan suatu perbuatan yang diperlukan sebagai persiapan, atau tindakan sementara untuk memberikan kemudahan bagi pembicara."},
+    {"type": "text", "text": "⑪ はさみを 使ったら、元の 所に 戻して おいて ください。\nSetelah memakai gunting, simpanlah kembali pada tempat semula."},
+    {"type": "heading", "level": 4, "text": "3)"},
+    {"type": "text", "text": "Menunjukkan sesuatu hasil perbuatan yang dibiarkan."},
+    {"type": "text", "text": "⑫ あした 会議が ありますから、いすは この ままに して おいて ください。\nKarena besok ada rapat, biarkanlah kursi dalam keadaan seperti sekarang."},
+    {"type": "text", "text": "[Catatan] Dalam percakapan, 〜て おきます seringkali diucapkan menjadi 〜ときます."},
+    {"type": "text", "text": "⑬ そこに 置いといて (置いて おいて) ください。\nLetakkanlah di situ."},
+    {"type": "heading", "level": 3, "text": "3. まだ K. Kerja (Bentuk positif)"},
+    {"type": "text", "text": "⑭ まだ 雨が 降って います。\nHujan masih turun."},
+    {"type": "text", "text": "⑮ 道具を 片づけましょうか。\n… まだ 使って いますから、その ままに して おいて ください。\nBagaimanakah kalau saya bereskan perkakasnya?\n… Karena masih saya pakai, biarkan saja begitu."},
+    {"type": "text", "text": "まだ pada contoh di atas menunjukkan arti “masih” dan menyatakan bahwa suatu kegiatan atau keadaan masih berlangsung."},
+    {"type": "heading", "level": 3, "text": "4. それは ～"},
+    {"type": "text", "text": "⑯ ブロードウェイで ミュージカルを 見たいと 思うんですが……。\n… それは いいですね。\nSaya bermaksud ingin melihat drama musik di Broadway.\n… Ide yang baik, ya."},
+    {"type": "text", "text": "⑰ 来月から 大阪の 本社に 転勤なんです。\n… それは おめでとう ございます。\nMulai bulan depan, saya akan pindah bekerja ke kantor pusat di Osaka.\n… Selamat! (Pel. 31)"},
+    {"type": "text", "text": "⑱ 時々 頭や 胃が 痛く なるんです。\n… それは いけませんね。\nKadang-kadang saya sakit kepala atau perut.\n… Kasihan ya! (Pel. 32)"},
+    {"type": "text", "text": "それ pada ⑯, ⑰ dan ⑱ menunjukkan hal yang baru saja diungkapkan oleh lawan bicara."}
+  ]
+}

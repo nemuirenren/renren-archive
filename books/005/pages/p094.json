@@ -1,0 +1,37 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 94,
+ "page_label": "142",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 49"
+  },
+  {
+   "level": 2,
+   "title": "I. Kosa kata"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Pelajaran 49"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "I. Kosa kata"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| つとめます II [かいしゃに～] | 勤めます [会社に～] | bekerja [untuk perusahaan] |\n| やすみます I | 休みます | beristirahat |\n| かけます II [いすに～] | 掛けます | duduk [di kursi] |\n| すごします I | 過ごします | menghabiskan (waktu) |\n| よります I [ぎんこうに～] | 寄ります | mampir [ke bank] |\n| いらっしゃいます I |  | ada, pergi, datang (kata hormat untuk います, いきます dan きます) |\n| めしあがります I | 召し上がります | makan, minum (kata hormat untuk たべます dan のみます) |\n| おっしゃいます I |  | mengatakan (kata hormat untuk いいます) |\n| なさいます I |  | melakukan (kata hormat untuk します) |\n| ごらんに なります I | ご覧に なります | melihat (kata hormat untuk みます) |\n| ごぞんじです | ご存じです | mengetahui (kata hormat untuk しって います) |\n| あいさつ |  | salam (～を します : mengucapkan salam) |\n| はいざら | 灰皿 | asbak |\n| りょかん | 旅館 | penginapan ala Jepang |\n| かいじょう | 会場 | tempat pertemuan |\n| バスてい | バス停 | halte bis |\n| ぼうえき | 貿易 | perdagangan |\n| ～さま | ～様 | (kata hormat untuk ～さん) |\n| かえりに | 帰りに | pada waktu pulang |\n| たまに |  | sesekali |\n| ちっとも |  | sama sekali (diikuti dengan bentuk negatif) |\n| えんりょなく | 遠慮なく | tanpa malu-malu |"
+  }
+ ]
+}

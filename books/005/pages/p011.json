@@ -1,0 +1,19 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 11,
+  "page_label": "17",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 28"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| しょうせつか | 小説家 | pengarang cerita roman |\n| かしゅ | 歌手 | penyanyi |\n| かんりにん | 管理人 | pengawas, penjaga |\n| むすこ | 息子 | putra (sendiri) |\n| むすこさん | 息子さん | putra (orang lain) |\n| むすめ | 娘 | putri (sendiri) |\n| むすめさん | 娘さん | putri (orang lain) |\n| じぶん | 自分 | sendiri |\n| しょうらい | 将来 | masa depan, hari depan |\n| しばらく |  | sementara, sementara waktu, sebentar |\n| たいてい |  | biasanya, kebanyakan |\n| それに |  | dan lagi |\n| それで |  | jadi, lalu |"},
+    {"type": "heading", "level": 3, "text": "◁会話▷"},
+    {"type": "text", "text": "[ちょっと] お願いが あるんですが。\nSaya ada [sedikit] permintaan. / Saya mengharapkan bantuan anda."},
+    {"type": "table", "text": "| 日本語 | Indonesia |\n|---|---|\n| ホームステイ | homestay |\n| 会話 | percakapan |\n| おしゃべりします III | ngobrol |"},
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Indonesia |\n|---|---|\n| お知らせ | pengumuman, pemberitahuan |\n| 日にち | tanggal |\n| 土 | hari Sabtu |\n| 体育館 | ruang/gedung olahraga |\n| 無料 | gratis |"}
+  ]
+}

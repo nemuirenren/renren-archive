@@ -1,0 +1,37 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 46,
+ "page_label": "70",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 37"
+  },
+  {
+   "level": 2,
+   "title": "I. Kosa kata"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Pelajaran 37"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "I. Kosa kata"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ほめます II | 褒めます | memuji |\n| しかります I |  | memarahi |\n| さそいます I | 誘います | mengajak |\n| おこします I | 起こします | membangunkan (orang) |\n| しょうたいします III | 招待します | mengundang |\n| たのみます I | 頼みます | meminta |\n| ちゅういします III | 注意します | memberi peringatan, memperingatkan |\n| とります I |  | mencuri |\n| ふみます I | 踏みます | menginjak |\n| こわします I | 壊します | memecahkan, merusakkan |\n| よごします I | 汚します | mengotori |\n| おこないます I | 行います | mengadakan, melangsungkan |\n| ゆしゅつします III | 輸出します | mengekspor |\n| ゆにゅうします III | 輸入します | mengimpor |\n| ほんやくします III | 翻訳します | menerjemahkan |\n| はつめいします III | 発明します | menciptakan |\n| はっけんします III | 発見します | menemukan |\n| せっけいします III | 設計します | merancang, mendesain |\n| こめ | 米 | beras |\n| むぎ | 麦 | gandum |\n| せきゆ | 石油 | minyak tanah |\n| げんりょう | 原料 | bahan mentah |\n| デート |  | kencan, pacaran |\n| どろぼう | 泥棒 | pencuri |\n| けいかん | 警官 | polisi |\n| けんちくか | 建築家 | arsitek |\n| かがくしゃ | 科学者 | ahli ilmu pengetahuan |\n| まんが | 漫画 | komik, kartun |\n| せかいじゅう | 世界中 | seluruh dunia |\n| ～じゅう | ～中 | seluruh ～ |\n| ～によって |  | oleh ～ |\n| よかったですね。 |  | Bagus, ya. |\n| ※ドミニカ |  | Dominika |"
+  }
+ ]
+}

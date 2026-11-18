@@ -1,0 +1,18 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 63,
+  "page_label": "95",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 41"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| そふ | 祖父 | kakek (sendiri) |\n| そぼ | 祖母 | nenek (sendiri) |\n| まご | 孫 | cucu |\n| おじ |  | paman (sendiri) |\n| おじさん |  | paman (orang lain) |\n| おば |  | bibi (sendiri) |\n| おばさん |  | bibi (orang lain) |\n| おととし |  | dua tahun yang lalu |"},
+    {"type": "heading", "level": 3, "text": "◁会話▷"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| はあ |  | ya, ya? |\n| もうしわけありません。 | 申し訳ありません。 | Minta maaf./Maafkan saya. |\n| あずかります I | 預かります | menjagakan sesuatu (titipan orang) |\n| せんじつ | 先日 | beberapa hari yang lalu |\n| たすかります I | 助かります | tertolong |"},
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| むかしばなし | 昔話 | cerita zaman dahulu |\n| ある ～ |  | sesuatu ～ |\n| おとこ | 男 | laki-laki |\n| こどもたち | 子どもたち | anak-anak |\n| いじめます II |  | menyakiti, menyiksa |\n| かめ |  | kura-kura |\n| たすけます II | 助けます | menolong |\n| [お]しろ | [お]城 | kastil, istana |\n| おひめさま | お姫様 | putri raja |\n| たのしく | 楽しく | dengan gembira |\n| くらします I | 暮らします | hidup |\n| りく | 陸 | daratan |\n| すると |  | kemudian, lalu |\n| けむり | 煙 | asap |\n| まっしろ[な] | 真っ白[な] | putih sekali |\n| なかみ | 中身 | isi |"}
+  ]
+}

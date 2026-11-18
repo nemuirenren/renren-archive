@@ -1,0 +1,15 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 71,
+  "page_label": "107",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 43"}, {"level": 2, "title": "I. Kosa kata"}],
+  "blocks": [
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| いまにも | 今にも | sekarangpun (dipakai untuk menjelaskan situasi sebelum bertukar) |\n| わあ |  | Oh!/Wow!/Wah! |"},
+    {"type": "heading", "level": 3, "text": "◁会話▷"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| かいいん | 会員 | anggota |\n| てきとう[な] | 適当[な] | cocok |\n| ねんれい | 年齢 | umur |\n| しゅうにゅう | 収入 | pendapatan, penghasilan |\n| ぴったり |  | pas sekali |\n| そのうえ |  | lagi pula |\n| 〜といいます |  | bernama 〜 |"},
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ばら |  | bunga mawar |\n| ドライブ |  | bepergian naik mobil |"}
+  ]
+}

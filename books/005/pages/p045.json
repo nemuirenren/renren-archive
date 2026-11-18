@@ -1,0 +1,105 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 45,
+ "page_label": "69",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 36"
+  },
+  {
+   "level": 2,
+   "title": "IV. Keterangan Tatabahasa"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "⑧ 日本人は 100年ぐらいまえから 牛肉や 豚肉を 食べるように なりました。\nSejak kira-kira 100 tahun yang lalu, orang Jepang mulai makan daging sapi dan daging babi."
+  },
+  {
+   "type": "text",
+   "text": "⑨ 車を 買ってから、わたしは あまり 歩かなく なりました。\nSetelah membeli mobil, saya jarang berjalan kaki."
+  },
+  {
+   "type": "text",
+   "text": "K. Kerja yang mempunyai arti perubahan tersendiri seperti なれる, ふとる dan やせる tidak dapat digunakan dalam pola kalimat ini."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "3."
+  },
+  {
+   "type": "text",
+   "text": "K. Kerja Bentuk kamus\nK. Kerja (Bentukない) ない ように します"
+  },
+  {
+   "type": "text",
+   "text": "Pola kalimat ini menunjukkan dilakukan atau tidaknya suatu perbuatan sebagai suatu kebiasaan atau usaha yang berkelanjutan."
+  },
+  {
+   "type": "text",
+   "text": "1) ～ように して います\nMenunjukkan seseorang berusaha melakukan suatu perbuatan dengan kesungguhan hati sebagai kebiasaan atau secara berkelanjutan."
+  },
+  {
+   "type": "text",
+   "text": "⑩ 毎日 運動して、何でも 食べるように して います。\nSetiap hari saya berusaha untuk berolahraga dan tidak memilih-milih makanan."
+  },
+  {
+   "type": "text",
+   "text": "⑪ 歯に 悪いですから、甘い 物を 食べないように して います。\nKarena tidak baik bagi kesehatan gigi, saya berusaha untuk tidak makan makanan yang manis."
+  },
+  {
+   "type": "text",
+   "text": "2) ～ように して ください\n～て/～ないで ください adalah ungkapan permintaan langsung, sedangkan ～ように して ください adalah ungkapan permintaan tidak langsung, yang lebih sopan daripada ～て/ないで ください。\nDigunakan sebagai berikut:"
+  },
+  {
+   "type": "text",
+   "text": "(1) Permintaan untuk selalu berusaha sebagai kebiasaan."
+  },
+  {
+   "type": "text",
+   "text": "⑫ もっと 野菜を 食べるように して ください。\nBerusahalah untuk banyak makan sayur-sayuran."
+  },
+  {
+   "type": "text",
+   "text": "(2) Permohonan sopan untuk hal yang hanya akan dilakukan satu kali saja."
+  },
+  {
+   "type": "text",
+   "text": "⑬ あしたは 絶対に 時間に 遅れないように して ください。\nSaya harap besok Anda sama sekali tidak terlambat."
+  },
+  {
+   "type": "text",
+   "text": "[Catatan] ～ように して ください tidak dapat digunakan untuk permintaan pada saat itu."
+  },
+  {
+   "type": "text",
+   "text": "⑭ すみませんが、塩を 取って ください。\nMaaf, Tolong ambilkan garam."
+  },
+  {
+   "type": "text",
+   "text": "× すみませんが、塩を 取るように して ください。"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "4. とか"
+  },
+  {
+   "type": "text",
+   "text": "～とか serupa dengan ～や digunakan untuk memberi “contoh”, tetapi ～とか biasa digunakan dalam bahasa lisan. Dan berbeda dengan ～や, ～とか dapat diletakkan di belakang kata benda yang terakhir."
+  },
+  {
+   "type": "text",
+   "text": "⑮ どんな スポーツを して いますか。\n…そうですね。テニスとか 水泳とか……。\nAnda melakukan olahraga apa?\n…Ehm, tenis, berenang dan lain-lain."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 73,
+  "page_label": "111",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 43"}, {"level": 2, "title": "IV. Keterangan Tata Bahasa"}],
+  "blocks": [
+    {"type": "text", "text": "Pada ⑨ menunjukkan tiga aktivitas, yaitu: (1) Pergi ke tempat yang menjual rokok, (2) Membeli rokok di sana, (3) Kembali ke tempat semula."},
+    {"type": "figure", "text": "Ilustrasi tiga tahap: (1) orang berjalan pergi, (2) orang membeli rokok di depan mesin たばこの自動販売機 (CIGARETTE), (3) orang berjalan kembali sambil membawa rokok."},
+    {"type": "text", "text": "Untuk menyatakan tempat berlangsungnya kegiatan, biasanya digunakan で, tetapi apabila K. Kerjanya memiliki fokus perpindahan benda, maka ungkapan “tempat から” pun dapat digunakan seperti pada ⑪."},
+    {"type": "text", "text": "⑩ スーパーで 牛乳を 買って 来ます。\nSaya akan membeli susu di supermarket (dan kembali lagi)."},
+    {"type": "text", "text": "⑪ 台所から コップを 取って 来ます。\nSaya akan mengambil gelas dari dapur."},
+    {"type": "heading", "level": 4, "text": "2) K. Benda(tempat)へ 行って 来ます"},
+    {"type": "text", "text": "Bentuk て dari いきます di depan きます digunakan untuk menunjukkan arti “pergi ke suatu tempat dan kembali lagi”. Digunakan pada waktu perbuatan yang dilakukannya tidak disebutkan."},
+    {"type": "text", "text": "⑫ 郵便局へ 行って 来ます。\nSaya akan pergi ke kantor pos (dan akan kembali lagi)."},
+    {"type": "heading", "level": 4, "text": "3) 出かけて 来ます"},
+    {"type": "text", "text": "Bentuk て dari でかけます di depan きます digunakan untuk menunjukkan arti pergi ke suatu tempat dan kembali lagi. Digunakan pada waktu perbuatan yang dilakukan dan tempat yang ditujunya tidak disebutkan."},
+    {"type": "text", "text": "⑬ ちょっと 出かけて 来ます。\nSaya akan keluar sebentar (dan akan kembali lagi)."}
+  ]
+}

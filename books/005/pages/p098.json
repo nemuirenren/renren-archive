@@ -1,0 +1,37 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 98,
+ "page_label": "148",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 50"
+  },
+  {
+   "level": 2,
+   "title": "I. Kosa kata"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Pelajaran 50"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "I. Kosa kata"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| まいります I | 参ります | pergi, datang (kata merendahkan diri untuk いきます dan きます) |\n| おります I |  | ada (kata merendahkan diri untuk います) |\n| いただきます I |  | makan, minum, menerima (kata merendahkan diri untuk たべます, のみます dan もらいます) |\n| もうします I | 申します | mengatakan (kata merendahkan diri untuk いいます) |\n| いたします I |  | melakukan (kata merendahkan diri untuk します) |\n| はいけんします III | 拝見します | melihat (kata merendahkan diri untuk みます) |\n| ぞんじます II | 存じます | mengetahui (kata merendahkan diri untuk しります) |\n| うかがいます I | 伺います | bertanya, mendengar, mengunjungi (kata merendahkan diri untuk ききます dan いきます) |\n| おめに かかります I | お目に かかります | bertemu (kata merendahkan diri untuk あいます) |\n| ございます I |  | ada (kata hormat untuk あります) |\n| ～で ございます |  | adalah (kata hormat untuk です) |\n| わたくし | 私 | saya (kata merendahkan diri untuk わたし) |\n| ガイド |  | pemandu, guide |\n| おたく | お宅 | rumah (orang lain) |\n| こうがい | 郊外 | pinggiran kota, luar kota |\n| アルバム |  | album |\n| さらいしゅう | さ来週 | dua minggu lagi |\n| さらいげつ | さ来月 | dua bulan lagi |\n| さらいねん | さ来年 | dua tahun lagi |\n| はんとし | 半年 | setengah tahun |\n| さいしょに | 最初に | pertama, mula-mula |\n| さいごに | 最後に | terakhir |\n| ただいま | ただ今 | sekarang (kata hormat untuk いま) |\n| ※江戸東京博物館 | 江戸東京博物館 | Museum Edo-Tokyo |"
+  }
+ ]
+}

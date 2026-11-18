@@ -1,0 +1,37 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 66,
+ "page_label": "100",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 42"
+  },
+  {
+   "level": 2,
+   "title": "I. Kosa kata"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Pelajaran 42"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "I. Kosa kata"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ゆでます II | 茹でます | merebus |\n| つつみます I | 包みます | membungkus |\n| わかします I | 沸かします | merebus |\n| まぜます II | 混ぜます | mencampur |\n| けいさんします III | 計算します | menghitung |\n| あつい | 厚い | tebal |\n| うすい | 薄い | tipis |\n| べんごし | 弁護士 | pengacara |\n| おんがくか | 音楽家 | ahli musik, pemusik |\n| こどもたち | 子どもたち | anak-anak |\n| ふたり | 二人 | dua orang |\n| きょういく | 教育 | pendidikan |\n| れきし | 歴史 | sejarah |\n| ぶんか | 文化 | kebudayaan |\n| しゃかい | 社会 | masyarakat |\n| ほうりつ | 法律 | hukum |\n| せんそう | 戦争 | perang |\n| へいわ | 平和 | damai |\n| もくてき | 目的 | tujuan, maksud |\n| あんぜん | 安全 | keselamatan, keamanan |\n| ろんぶん | 論文 | tesis, skripsi |\n| かんけい | 関係 | hubungan |\n| ミキサー |  | blender |\n| やかん |  | ceret, teko |\n| せんぬき | 栓抜き | pembuka tutup botol |\n| かんきり | 缶切り | pembuka kaleng |\n| かんづめ | 缶詰 | makanan kaleng |\n| ふろしき |  | kain pembungkus untuk membawa barang |\n| そろばん |  | alat hitung Cina, sipoa |\n| たいおんけい | 体温計 | termometer |"
+  }
+ ]
+}

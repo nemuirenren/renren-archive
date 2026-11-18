@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 77,
+  "page_label": "117",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 44"}, {"level": 2, "title": "IV. Keterangan Tata Bahasa"}],
+  "blocks": [
+    {"type": "heading", "level": 3, "text": "3. K. Sifat i (～い) → ～く／K. Sifat na [な] → に／K. Benda に ＋ します"},
+    {"type": "text", "text": "～く／～に なります yang telah dipelajari pada Pel. 19 menunjukkan sesuatu yang \"berubah\" menjadi suatu keadaan. Sedangkan ～く／～に します pada ⑪, ⑫ dan ⑬ adalah ungkapan yang menunjukkan seseorang \"mengubah\" sesuatu menjadi suatu keadaan."},
+    {"type": "text", "text": "⑪ 音を 大きく します。\nSaya akan mengeraskan bunyinya."},
+    {"type": "text", "text": "⑫ 部屋を きれいに します。\nSaya akan membersihkan ruangan."},
+    {"type": "text", "text": "⑬ 塩の 量を 半分に しました。\nSaya membagi garamnya menjadi separuh."},
+    {"type": "heading", "level": 3, "text": "4. K. Benda に します"},
+    {"type": "text", "text": "Pola kalimat ini menyatakan pilihan atau keputusan."},
+    {"type": "text", "text": "⑭ 部屋は シングルに しますか、ツインに しますか。\nApakah Anda pilih kamar single atau twin?"},
+    {"type": "text", "text": "⑮ 会議は あしたに します。\nSaya memutuskan akan mengadakan rapat besok."},
+    {"type": "heading", "level": 3, "text": "5. K. Sifat i (～い) → ～く／K. Sifat na [な] → に ＋ K. Kerja"},
+    {"type": "text", "text": "Dengan mengubah bentuk K. Sifat seperti di atas, K. Sifat berfungsi sebagai K. Keterangan."},
+    {"type": "text", "text": "⑯ 野菜を 細かく 切って ください。\nPotonglah sayur kecil-kecil."},
+    {"type": "text", "text": "⑰ 電気や 水は 大切に 使いましょう。\nMari kita gunakan listrik dan air seperlunya."}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 61,
+  "page_label": "93",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 40"},
+    {"level": 2, "title": "IV. Keterangan Tatabahasa"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 3, "text": "4. K. Sifat i (~i) → ~sa"},
+    {"type": "text", "text": "Kata sifat i dapat berubah menjadi K. Benda dengan cara mengganti akhiran ‘i’ menjadi sa."},
+    {"type": "text", "text": "Contoh: 高い→高さ　長い→長さ　速い→速さ"},
+    {"type": "text", "text": "⑩ 山の高さは どうやって 測るか、知って いますか。\nTahukah kamu bagaimana cara mengukur tingginya gunung?"},
+    {"type": "text", "text": "⑪ 新しい 橋の 長さは 3,911メートルです。\nJembatan baru itu panjangnya 3.911 meter."},
+    {"type": "heading", "level": 3, "text": "5. ハンスは 学校で どうでしょうか"},
+    {"type": "text", "text": "～でしょうか digunakan untuk menanyakan hal yang mungkin tidak diketahui lawan bicara. Tetapi apabila pembicara mengira lawan bicara sudah tahu jawabannya, maka でしょう akan menjadi pertanyaan yang tidak langsung, yaitu lebih sopan."}
+  ]
+}

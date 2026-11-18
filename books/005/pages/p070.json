@@ -1,0 +1,37 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 70,
+ "page_label": "106",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 43"
+  },
+  {
+   "level": 2,
+   "title": "I. Kosa kata"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "Pelajaran 43"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "I. Kosa kata"
+  },
+  {
+   "type": "table",
+   "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ふえます II［ゆしゅつが～］ | 増えます［輸出が～］ | [ekspor] meningkat |\n| へります I［ゆしゅつが～］ | 減ります［輸出が～］ | [ekspor] menurun |\n| あがります I［ねだんが～］ | 上がります［値段が～］ | [harga] naik |\n| さがります I［ねだんが～］ | 下がります［値段が～］ | [harga] turun |\n| きれます II［ひもが～］ | 切れます | [tali] putus |\n| とれます II［ボタンが～］ |  | [kancing] lepas |\n| おちます II［にもつが～］ | 落ちます［荷物が～］ | [barang] jatuh |\n| なくなります I［ガソリンが～］ |  | [bensin, bahan bakar] habis |\n| じょうぶ[な] | 丈夫[な] | kuat, sehat |\n| へん[な] | 変[な] | aneh |\n| しあわせ[な] | 幸せ[な] | bahagia |\n| うまい |  | enak, ahli dalam |\n| まずい |  | tidak enak |\n| つまらない |  | bosan, tidak menarik |\n| ガソリン |  | bensin |\n| ひ | 火 | api |\n| だんぼう | 暖房 | pemanas |\n| れいぼう | 冷房 | AC |\n| センス |  | selera（[ふくの] ～が あります: mempunyai selera yang baik [dalam pakaian]） |"
+  }
+ ]
+}

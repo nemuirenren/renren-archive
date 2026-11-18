@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 62,
+  "page_label": "94",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 41"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 41"},
+    {"type": "heading", "level": 3, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| いただきます I |  | menerima (kata merendahkan diri untuk もらいます) |\n| くださいます I |  | memberi (kata hormat untuk くれます) |\n| やります I |  | memberikan (kepada bawahan, binatang atau tanaman) |\n| よびます I | 呼びます | memanggil |\n| とりかえます II | 取り替えます | mengganti, menukar |\n| しんせつに します III | 親切に します | bersikap ramah |\n| かわいい |  | manis (untuk paras), cantik |\n| おいわい | お祝い | perayaan, hadiah (～を します： merayakan) |\n| おとしだま | お年玉 | hadiah uang di tahun baru |\n| [お]みまい | [お]見舞い | besuk, menengok orang sakit |\n| きょうみ | 興味 | minat ([コンピューターに] ～が あります： berminat pada [komputer]) |\n| じょうほう | 情報 | penerangan, informasi |\n| ぶんぽう | 文法 | tata bahasa |\n| はつおん | 発音 | ucapan |\n| さる | 猿 | monyet |\n| えさ |  | makanan hewan |\n| おもちゃ |  | mainan |\n| えほん | 絵本 | buku bergambar |\n| えはがき | 絵はがき | kartu pos bergambar |\n| ドライバー |  | obeng |\n| ハンカチ |  | sapu tangan |\n| くつした | 靴下 | kaus kaki |\n| てぶくろ | 手袋 | sarung tangan |\n| ゆびわ | 指輪 | cincin |\n| バッグ |  | tas |"}
+  ]
+}

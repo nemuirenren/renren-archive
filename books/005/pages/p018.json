@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 18,
+  "page_label": "28",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 30"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 1, "text": "Pelajaran 30"},
+    {"type": "heading", "level": 2, "text": "I. Kosa kata"},
+    {
+      "type": "table",
+      "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| はります I |  | menempelkan |\n| かけます II | 掛けます | menggantungkan |\n| かざります I | 飾ります | menghias, mendekor |\n| ならべます II | 並べます | menjajarkan, meletakkan (secara teratur) |\n| うえます II | 植えます | menanam |\n| もどします I | 戻します | mengembalikan |\n| まとめます II |  | menyusun |\n| かたづけます II | 片づけます | membereskan |\n| しまいます I |  | memasukkan, menyimpan |\n| きめます II | 決めます | menentukan |\n| しらせます II | 知らせます | memberitahukan |\n| そうだんします III | 相談します | berunding, membicarakan |\n| よしゅうします III | 予習します | mempersiapkan pelajaran |\n| ふくしゅうします III | 復習します | mengulang pelajaran kembali |\n| そのままに します III |  | membiarkan begitu saja |\n| おこさん | お子さん | anak (orang lain) |\n| じゅぎょう | 授業 | pelajaran di sekolah |\n| こうぎ | 講義 | kuliah |\n| ミーティング |  | rapat, pertemuan |\n| よてい | 予定 | acara, rencana |\n| おしらせ | お知らせ | pemberitahuan, berita |\n| あんないしょ | 案内書 | buku/lembaran panduan |\n| カレンダー |  | kalender |\n| ポスター |  | poster |\n| ごみばこ | ごみ箱 | tempat sampah |\n| にんぎょう | 人形 | boneka |\n| かびん | 花瓶 | jambangan, vas bunga |\n| かがみ | 鏡 | cermin, kaca |\n| ひきだし | 引き出し | laci |\n| げんかん | 玄関 | pintu masuk, ruang muka |\n| ろうか | 廊下 | lorong, koridor, gang |\n| かべ | 壁 | dinding |"
+    }
+  ]
+}

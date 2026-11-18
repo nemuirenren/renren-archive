@@ -1,0 +1,14 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 82,
+  "page_label": "124",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 46"}, {"level": 2, "title": "I. Kosa kata"}],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 46"},
+    {"type": "heading", "level": 3, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| やきます I | 焼きます | membakar |\n| わたします I | 渡します | menyerahkan |\n| かえってきます III | 帰って来ます | kembali lagi |\n| でます II | 出ます | [bis] berangkat |\n| [バスが〜] |  |  |\n| るす | 留守 | tidak ada di rumah |\n| たくはいびん | 宅配便 | jasa pengantaran barang |\n| げんいん | 原因 | penyebab |\n| ちゅうしゃ | 注射 | suntikan |\n| しょくよく | 食欲 | nafsu makan |\n| パンフレット |  | pamflet, brosur |\n| ステレオ |  | stereo |\n| こちら |  | sebelah sini |\n| 〜の ところ | 〜の 所 | sekitar 〜 |\n| ちょうど |  | pas, tepat |\n| たったいま | たった今 | baru saja (digunakan untuk waktu lampau; menunjukkan hal yang baru saja terjadi) |"},
+    {"type": "text", "text": "いまいいでしょうか。\n今いいでしょうか。\nBolehkah saya berbicara sekarang?"}
+  ]
+}

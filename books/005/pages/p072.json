@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 72,
+  "page_label": "110",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 43"}, {"level": 2, "title": "IV. Keterangan Tata Bahasa"}],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "IV. Keterangan Tatabahasa"},
+    {"type": "heading", "level": 3, "text": "1. K. Kerja (Bentuk ます)／K. Sifat い (～い)／K. Sifat な [な] ＋ そうです"},
+    {"type": "text", "text": "そうです  kelihatannya akan～"},
+    {"type": "text", "text": "Pola kalimat ini pada dasarnya menunjukkan perkiraan yang berasal dari informasi visual."},
+    {"type": "heading", "level": 4, "text": "1) K. Kerja (Bentuk ます) そうです"},
+    {"type": "text", "text": "Pola kalimat ini digunakan waktu pembicara memperkirakan suatu gejala berdasarkan pada keadaan yang sedang dilihatnya sekarang. Apabila ditambahkan kata-kata seperti いまにも, もうすぐ dan これから maka pembicara dapat menyatakan perkiraan kapan timbulnya gejala itu."},
+    {"type": "text", "text": "① 今にも 雨が 降りそうです。\nSebentar lagi kelihatannya akan turun hujan."},
+    {"type": "text", "text": "② シャンプーが なくなりそうです。\nKelihatannya shampoo akan habis."},
+    {"type": "text", "text": "③ もうすぐ 桜が 咲きそうです。\nKelihatannya sebentar lagi bunga Sakura akan mekar."},
+    {"type": "text", "text": "④ これから 寒く なりそうです。\nKelihatannya mulai sekarang cuaca akan menjadi dingin."},
+    {"type": "heading", "level": 4, "text": "2) K. Sifat い (～い)／K. Sifat な [な] そうです"},
+    {"type": "text", "text": "Meskipun pada kenyataannya, kebenarannya belum pasti, tetapi anggapan penglihatan dari luar menunjukkan arti seperti itu."},
+    {"type": "text", "text": "⑤ この 料理は 辛そうです。\nMasakan ini kelihatannya pedas."},
+    {"type": "text", "text": "⑥ 彼女は 頭が よさそうです。\nWanita itu kelihatannya pintar."},
+    {"type": "text", "text": "⑦ この 机は 丈夫そうです。\nMeja ini kelihatannya kuat."},
+    {"type": "text", "text": "[Catatan] K. Sifat yang menunjukkan perasaan seperti うれしい, かなしい dan さびしい tidak dapat digunakan begitu saja pada waktu ingin menunjukkan perasaan orang lain. Kita menduga perasaan orang lain dari penampilan luarnya, dan menyatakan dugaan itu dengan cara menambahkan そうです pada kata sifat."},
+    {"type": "text", "text": "⑧ ミラーさんは うれしそうです。\nSdr. Miller kelihatannya gembira."},
+    {"type": "heading", "level": 3, "text": "2. K. Kerja Bentuk て 来ます"},
+    {"type": "text", "text": "1) K. Kerja Bentuk て きます menunjukkan arti \"pergi ke suatu tempat, melakukan suatu kegiatan, kemudian kembali lagi\"."},
+    {"type": "text", "text": "⑨ ちょっと たばこを 買って 来ます。\nSaya pergi sebentar membeli rokok."}
+  ]
+}

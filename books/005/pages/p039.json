@@ -1,0 +1,15 @@
+{
+ "schema_version": "2.0",
+ "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+ "page": 39,
+ "page_label": "59",
+ "kind": "content",
+ "outline": [{"level": 1, "title": "Pelajaran 35"}, {"level": 2, "title": "I. Kosa kata"}],
+ "blocks": [
+  {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| せつび | 設備 | peralatan, fasilitas |\n| カーテン |  | korden |\n| ひも |  | tali |\n| ふた |  | penutup |\n| は | 葉 | daun |\n| きょく | 曲 | lagu, musik |\n| たのしみ | 楽しみ | kesenangan |\n| もっと |  | lebih |\n| はじめに | 初めに | awal, pertama-tama |\n| これで おわります。 | これで 終わります。 | Kita akhiri sampai di sini./Sekian dulu. |\n| ※箱根 |  | tempat untuk beristirahat di prefektur Kanagawa |\n| ※日光 |  | tempat wisata di prefektur Tochigi |\n| ※白馬 |  | tempat untuk beristirahat di prefektur Nagano |\n| ※アフリカ |  | Afrika |"},
+  {"type": "heading", "level": 3, "text": "◁会話▷"},
+  {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| それなら |  | kalau begitu |\n| 夜行バス |  | bis malam |\n| 旅行社 |  | agen perjalanan |\n| 詳しい |  | terperinci |\n| スキー場 |  | tempat bermain ski |\n| ※草津 |  | tempat untuk beristirahat di prefektur Gunma |\n| ※志賀高原 |  | taman nasional |"},
+  {"type": "heading", "level": 3, "text": "読み物"},
+  {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| 朱 |  | warna merah terang |\n| 交わります I |  | bergaul |\n| ことわざ |  | peribahasa |\n| 仲よく します III |  | hidup rukun (hubungannya akrab) |\n| 必要[な] |  | perlu |"}
+ ]
+}

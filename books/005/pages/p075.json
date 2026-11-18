@@ -1,0 +1,14 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 75,
+  "page_label": "113",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 44"}, {"level": 2, "title": "I. Kosa kata"}],
+  "blocks": [
+    {"type": "heading", "level": 3, "text": "◁会話▷"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| どう なさいますか。 |  | Anda mau bagaimana? |\n| カット |  | potong |\n| シャンプー |  | shampoo |\n| どういうふうに なさいますか。 |  | Bagaimana modelnya?/Mau model apa? |\n| ショート |  | potong pendek |\n| 〜みたいに して ください。 |  | Tolong buat seperti 〜. |\n| これで よろしいでしょうか。 |  | Begini cocok? |\n| [どうも] お疲れさまでした。 |  | Maaf, lama ya. |"},
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| いやがります I | 嫌がります | merasa keberatan |\n| また |  | dan |\n| じゅんじょ | 順序 | urutan |\n| ひょうげん | 表現 | ungkapan |\n| たとえば | 例えば | misalnya, contohnya |\n| わかれます II | 別れます | berpisah |\n| これら |  | kata-kata ini |\n| えんぎが わるい | 縁起が 悪い | (membawa) sial |"}
+  ]
+}

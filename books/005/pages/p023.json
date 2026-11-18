@@ -1,0 +1,22 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 23,
+  "page_label": "35",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 31"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ずっと |  | terus-menerus |\n| ※ピカソ |  | Pablo Picasso, pelukis Spanyol (1881-1973) |\n| ※上野公園 | 上野公園 | Taman Ueno (di Tokyo) |"},
+    {"type": "heading", "level": 4, "text": "◁会話▷"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| 残ります I | 残ります | tinggal |\n| 月に | 月に | sebulan |\n| 普通の | 普通の | umum, biasa |\n| インターネット |  | Internet |"},
+    {"type": "heading", "level": 4, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| 村 | 村 | kampung, desa |\n| 映画館 | 映画館 | gedung bioskop |\n| 嫌[な] | 嫌[な] | tidak suka |\n| 空 | 空 | langit |\n| 閉じます II | 閉じます | menutup, memejamkan |\n| 都会 | 都会 | kota |\n| 子どもたち | 子どもたち | anak-anak |\n| 自由に | 自由に | dengan bebas |\n| 世界中 | 世界中 | seluruh dunia |\n| 集まります I | 集まります | berkumpul |\n| 美しい | 美しい | indah |\n| 自然 | 自然 | alam |\n| すばらしさ |  | kebaikan, kebajikan |\n| 気がつきます I | 気がつきます | menyadari |"}
+  ]
+}

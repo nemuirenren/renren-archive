@@ -1,0 +1,89 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 65,
+ "page_label": "99",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 41"
+  },
+  {
+   "level": 2,
+   "title": "IV. Keterangan Tatabahasa"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "⑧ わたしは 娘の 宿題を 見て やりました（あげました）。\nSaya memeriksa pekerjaan rumah anak perempuan saya."
+  },
+  {
+   "type": "text",
+   "text": "[Catatan] Sama dengan ～て あげます yang telah dipelajari pada Pel. 24, ～て さしあげます pun memberi kesan “angkuh” kepada lawan bicara. Oleh karena itu lebih baik tidak digunakan langsung kepada orang yang lebih tinggi kedudukannya."
+  },
+  {
+   "type": "text",
+   "text": "2) K. Kerja Bentukて いただきます"
+  },
+  {
+   "type": "text",
+   "text": "⑨ わたしは 課長に 手紙の まちがいを 直して いただきました。\nKesalahan surat saya diperbaiki oleh kepala seksi."
+  },
+  {
+   "type": "text",
+   "text": "3) K. Kerja Bentukて くださいます"
+  },
+  {
+   "type": "text",
+   "text": "⑩ 部長の 奥さんは [わたしに] お茶を 教えて くださいました。\nIstri kepala bagian mengajari saya tatacara upacara minum teh."
+  },
+  {
+   "type": "text",
+   "text": "⑪ 部長は [わたしを] 駅まで 送って くださいました。\nKepala bagian mengantarkan saya sampai stasiun."
+  },
+  {
+   "type": "text",
+   "text": "⑫ 部長は [わたしの] レポートを 直して くださいました。\nKepala bagian memperbaiki laporan saya."
+  },
+  {
+   "type": "heading",
+   "text": "3. K. Kerja Bentukて くださいませんか",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "text": "Pola kalimat ini merupakan ungkapan permintaan yang sangat sopan. Tetapi tingkat kesopannya di bawah ～て いただけませんか yang ada pada Pel. 26."
+  },
+  {
+   "type": "text",
+   "text": "⑬ コピー機の 使い方を 教えて くださいませんか。\nTolonglah ajari saya cara penggunaan mesin photo copy."
+  },
+  {
+   "type": "text",
+   "text": "⑭ コピー機の 使い方を 教えて いただけませんか。\nDapatkah Anda mengajari saya cara penggunaan mesin photo copy. (Pel. 26)"
+  },
+  {
+   "type": "heading",
+   "text": "4. K. Benda に K. Kerja",
+   "level": 3
+  },
+  {
+   "type": "text",
+   "text": "K. Bantu に ini menunjukkan arti “sebagai tanda” atau “sebagai kenangan”."
+  },
+  {
+   "type": "text",
+   "text": "⑮ 田中さんが 結婚の お祝いに この お皿を くださいました。\nSdr. Tanaka memberi piring ini sebagai hadiah pernikahan saya."
+  },
+  {
+   "type": "text",
+   "text": "⑯ わたしは 北海道旅行の お土産に 人形を 買いました。\nSaya telah membeli boneka sebagai oleh-oleh perjalanan ke Hokkaido."
+  }
+ ]
+}

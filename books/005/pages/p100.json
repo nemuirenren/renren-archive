@@ -1,0 +1,86 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 100,
+ "page_label": "152",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 50"
+  },
+  {
+   "level": 2,
+   "title": "IV. Keterangan Tata Bahasa"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "IV. Keterangan Tata Bahasa"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "1. 謙譲語 (Kata Merendahkan Diri)"
+  },
+  {
+   "type": "text",
+   "text": "謙譲語 adalah suatu ungkapan untuk menunjukkan rasa hormat pembicara kepada lawan bicara maupun orang yang menjadi topik pembicaraan dengan cara merendahkan perilakunya sendiri. Orang yang dihormati adalah “atasan” atau ソトの ひと. 謙譲語 digunakan juga bila pembicara hendak berbicara tentang ウチの ひと kepada ソトの ひと."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "1) お/ご～します"
+  },
+  {
+   "type": "text",
+   "text": "(1) お K. Kerja (kelompok I, II) (Bentuk ます) します"
+  },
+  {
+   "type": "text",
+   "text": "① 重そうですね。お持ちしましょうか。\nKelihatannya berat ya. Mari saya bantu bawa."
+  },
+  {
+   "type": "text",
+   "text": "② 私が 社長に スケジュールを お知らせします。\nSaya memberitahukan jadwal kepada kepala perusahaan."
+  },
+  {
+   "type": "text",
+   "text": "③ 兄が 車で お送りします。\nKakak laki-laki saya akan mengantarkan Anda dengan mobil."
+  },
+  {
+   "type": "text",
+   "text": "Contoh di atas menunjukkan bahwa pembicara merendahkan perilaku sendiri, ketika berhadapan dengan lawan bicara (①) dan orang yang dibicarakan (②). Contoh ③ menunjukkan bahwa pelakunya bukan pembicara itu sendiri, tetapi “ウチの ひと”. Bentuk ini tidak dapat digunakan pada K. Kerja, seperti みます dan います, yang hanya memiliki satu suku kata pada Bentuk ます."
+  },
+  {
+   "type": "text",
+   "text": "(2) ご K. Kerja (kelompok III)"
+  },
+  {
+   "type": "text",
+   "text": "④ 江戸東京博物館へ ご案内します。\nSaya akan memandu ke Museum Edo Tokyo."
+  },
+  {
+   "type": "text",
+   "text": "⑤ きょうの 予定を ご説明します。\nSaya akan menjelaskan rencana hari ini."
+  },
+  {
+   "type": "text",
+   "text": "Bentuk ini digunakan pada kata kerja kelompok III. Selain K. Kerja pada contoh di atas, terdapat K. Kerja seperti しょうかいします, しょうたいします, そうだんします, れんらくします, でんわします, やくそくします dll. Tetapi, sebagai kekecualian, untuk kata-kata seperti でんわします, やくそくします tidak digunakan ご tetapi digunakan お."
+  },
+  {
+   "type": "text",
+   "text": "[Catatan] Pada pola kalimat (1) dan (2), ada juga orang yang dikenai perbuatan selain pelakunya. Pola kalimat ini digunakan untuk menunjukkan rasa hormat kepada orang yang dikenai perbuatan. Apabila orang yang dikenai perbuatan itu tidak ada, maka pola kalimat ini tidak dapat digunakan."
+  },
+  {
+   "type": "text",
+   "text": "× 私は 来月 国へ お帰りします。"
+  }
+ ]
+}

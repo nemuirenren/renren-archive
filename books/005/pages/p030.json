@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 30,
+  "page_label": "46",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 33"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 33"},
+    {"type": "heading", "level": 3, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| にげます II | 逃げます | melarikan diri |\n| さわぎます I | 騒ぎます | berbuat gaduh, ribut-ribut |\n| あきらめます II |  | menerima nasib, putus asa |\n| なげます II | 投げます | melempar |\n| まもります I | 守ります | mematuhi |\n| あげます II | 上げます | menaikkan |\n| さげます II | 下げます | menurunkan |\n| つたえます II | 伝えます | menyampaikan |\n| ちゅういします III | 注意します | memperhatikan [mobil] |\n| [くるまに～] | [車に～] |  |\n| はずします I | 外します | tidak ada [di tempat] |\n| [せきを～] | [席を～] |  |\n| だめ[な] |  | jangan, tak boleh, tidak bisa |\n| せき | 席 | tempat duduk |\n| ファイト |  | berjuang |\n| マーク |  | tanda |\n| ボール |  | bola |\n| せんたくき | 洗濯機 | mesin cuci |\n| ～き | ～機 | mesin ～ |\n| きそく | 規則 | peraturan |\n| しようきんし | 使用禁止 | Dilarang pakai. |\n| たちいりきんし | 立入禁止 | Dilarang masuk. |\n| いりぐち | 入口 | pintu masuk |\n| でぐち | 出口 | pintu keluar |\n| ひじょうぐち | 非常口 | pintu darurat |\n| むりょう | 無料 | gratis |\n| ほんじつきゅうぎょう | 本日休業 | hari ini tutup |\n| えいぎょうちゅう | 営業中 | buka |\n| しようちゅう | 使用中 | sedang dipakai |\n| ～ちゅう | ～中 | sedang/dalam ～ |"}
+  ]
+}

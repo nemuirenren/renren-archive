@@ -1,0 +1,110 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 69,
+ "page_label": "105",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 42"
+  },
+  {
+   "level": 2,
+   "title": "IV. Keterangan Tatabahasa"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "[Catatan] Berbagai ungkapan yang menyatakan tujuan"
+  },
+  {
+   "type": "text",
+   "text": "Ungkapan yang menyatakan tujuan yang telah dipelajari hingga sekarang ini sebagai berikut:"
+  },
+  {
+   "type": "text",
+   "text": "[1] K. Kerja Bentukます に 行きます／来ます／帰ります（Pel. 13）\nK. Benda"
+  },
+  {
+   "type": "text",
+   "text": "⑪ 神戸へ 船を 見に 行きます。\nSaya pergi ke Kobe untuk melihat kapal laut."
+  },
+  {
+   "type": "text",
+   "text": "⑫ 日本へ 経済の 勉強に 来ました。\nSaya datang di Jepang untuk belajar Ekonomi."
+  },
+  {
+   "type": "text",
+   "text": "[2] K. Kerja Bentuk kamus（ungkapan yang tidak menunjukkan keinginan）ように、～（ungkapan yang menunjukkan keinginan）\nK. Kerja（Bentukない）（Pel. 36）"
+  },
+  {
+   "type": "text",
+   "text": "⑬ 早く 着くように、速達で 出します。\nSupaya cepat sampai tujuan, dikirim lewat pos kilat."
+  },
+  {
+   "type": "text",
+   "text": "⑭ 忘れないように、メモします。\nSupaya tidak lupa, saya menulis memo."
+  },
+  {
+   "type": "text",
+   "text": "[3] K. Kerja Bentuk kamus（ungkapan yang menunjukkan keinginan）ために、～（ungkapan yang menunjukkan keinginan）\nK. Benda の（Pel. 42）"
+  },
+  {
+   "type": "text",
+   "text": "⑮ 大学に 入る ために、一生懸命 勉強します。\nUntuk masuk ke Perguruan Tinggi, saya belajar sungguh-sungguh."
+  },
+  {
+   "type": "text",
+   "text": "⑯ 健康の ために、野菜を たくさん 食べます。\nUntuk kesehatan, saya banyak makan sayur."
+  },
+  {
+   "type": "text",
+   "text": "[4] K. Kerja Bentuk kamus の に 使います／役に 立ちます／[時間が] かかります\nK. Benda いいです／便利です／必要です（Pel. 42）"
+  },
+  {
+   "type": "text",
+   "text": "⑰ ファイルは 書類を 整理するのに 使います。\nMap arsip digunakan untuk membereskan dokumen."
+  },
+  {
+   "type": "text",
+   "text": "⑱ 近くに 店が なくて、買い物に 不便です。\nKarena tidak ada toko di dekat rumah, maka untuk berbelanja tidak praktis."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "3. K. Keterangan Bilangan は"
+  },
+  {
+   "type": "text",
+   "text": "K. Bantu は jika diletakkan di belakang K. Keterangan Bilangan, maka pembicara menunjukkan perkiraan jumlah minimum."
+  },
+  {
+   "type": "text",
+   "text": "⑲ 日本では 結婚式を するのに 200万円は 要ります。\nDi Jepang, untuk melangsungkan pesta pernikahan diperlukan uang sebanyak 2 juta yen."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "4. K. Keterangan Bilangan も"
+  },
+  {
+   "type": "text",
+   "text": "K. Bantu も jika digabungkan dengan K. Keterangan Bilangan, maka menunjukkan perasaan pembicara bahwa jumlahnya banyak."
+  },
+  {
+   "type": "text",
+   "text": "⑳ 駅まで 行くのに 2時間も かかりました。\nUntuk pergi sampai stasiun memerlukan waktu dua jam."
+  },
+  {
+   "type": "text",
+   "text": "㉑ うちを 建てるのに 3,000万円も 必要なんですか。\nPerlukah uang sebanyak 30 juta yen untuk membangun rumah?"
+  }
+ ]
+}

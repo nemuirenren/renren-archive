@@ -1,0 +1,13 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 78,
+  "page_label": "118",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 45"}, {"level": 2, "title": "I. Kosa kata"}],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 45"},
+    {"type": "heading", "level": 3, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| あやまります I | 謝ります | meminta maaf |\n| あいます I |  | mendapat [kecelakaan] |\n| [じこに～] | [事故に～] |  |\n| しんじます II | 信じます | percaya |\n| よういします III | 用意します | mempersiapkan |\n| キャンセルします III |  | membatalkan |\n| うまく いきます I |  | berhasil dengan baik |\n| ほしょうしょ | 保証書 | garansi |\n| りょうしゅうしょ | 領収書 | kuitansi |\n| おくりもの | 贈り物 | hadiah (～をします : memberikan hadiah) |\n| まちがいでんわ | まちがい電話 | salah sambung |\n| キャンプ |  | kemping, berkemah |\n| かかり | 係 | tugas, petugas |\n| ちゅうし | 中止 | membatalkan |\n| てん | 点 | angka, skor |\n| レバー |  | pengungkit, tuas |\n| [一えん]さつ | [一円]札 | lembaran [一 yen] |\n| ちゃんと |  | secara teratur |\n| きゅうに | 急に | tiba-tiba |\n| たのしみに して います | 楽しみに して います | mengharapkan dengan gembira, akan senang sekali |\n| いじょうです。 | 以上です。 | Sekian./Selesai. |"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 4,
+  "page_label": "8",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 26"}, {"level": 2, "title": "IV. Keterangan Tatabahasa"}],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "IV. Keterangan Tatabahasa"},
+    {"type": "heading", "level": 3, "text": "1."},
+    {"type": "text", "text": "K. Kerja　Bentuk biasa　んです\nK. Sifat-i　Bentuk biasa　んです\nK. Sifat-na　Bentuk biasa　んです\nK. Benda　～だ→～な　んです"},
+    {"type": "text", "text": "～んです adalah ungkapan untuk menjelaskan dengan kuat sebab, alasan, dasar pemikiran dll. Dalam bahasa lisan diucapkan sebagai ～んです, sedangkan dalam bahasa tulisan diucapkan sebagai ～のです. ～んです digunakan sebagai berikut:"},
+    {"type": "heading", "level": 3, "text": "1) ～んですか"},
+    {"type": "text", "text": "Ungkapan ini digunakan pada saat seperti di bawah ini:"},
+    {"type": "text", "text": "(1) Waktu pembicara memastikan dugaan alasan atau dugaan sebab tentang hal yang dia lihat atau dengar."},
+    {"type": "text", "text": "① 渡辺さんは 時々 大阪弁を 使いますね。大阪に 住んでいたんですか。\n…ええ、15歳まで 大阪に 住んでいました。\nSdri. Watanabe kadang-kadang memakai logat Osaka. Apakah Anda dulu tinggal di Osaka?\n…Ya, saya tinggal di Osaka sampai umur 15 tahun."},
+    {"type": "text", "text": "(2) Waktu pembicara ingin mendapatkan informasi yang lebih jelas mengenai apa yang telah dia lihat atau dengar."},
+    {"type": "text", "text": "② おもしろい デザインの 靴ですね。どこで 買ったんですか。\n…エドヤストアで 買いました。\nSepatu Anda desainnya menarik, ya. Di mana Anda membelinya?\n…Saya membelinya di Toko Edoya."},
+    {"type": "text", "text": "(3) Waktu pembicara memohon kepada lawan bicara untuk penjelasan alasan atau sebab tentang hal yang dia lihat atau dengar."},
+    {"type": "text", "text": "③ どうして 遅れたんですか。　Mengapa Anda terlambat?"},
+    {"type": "text", "text": "(4) Waktu memohon penjelasan tentang suatu keadaan."},
+    {"type": "text", "text": "④ どう したんですか。　Apa yang telah terjadi?"},
+    {"type": "text", "text": "[Catatan] Dalam kalimat “～んですか” kadang-kadang terkandung pula perasaan terkejut, kecurigaan dan rasa ingin tahu pembicara. Apabila penggunaannya salah, dapat menimbulkan perasaan tidak senang pada lawan bicara. Oleh karena itu, berhati-hatilah pada saat menggunakannya."},
+    {"type": "heading", "level": 3, "text": "2) ～んです"},
+    {"type": "text", "text": "Ungkapan ini digunakan pada saat seperti di bawah ini:"},
+    {"type": "text", "text": "(1) Waktu menyebutkan alasan atau sebab sebagai jawaban pada kalimat tanya seperti ③ dan ④ di dalam 1) tersebut di atas."},
+    {"type": "text", "text": "⑤ どうして 遅れたんですか。　Mengapa Anda terlambat?\n…バスが 来なかったんです。　…Karena bisnya tidak datang."},
+    {"type": "text", "text": "⑥ どう したんですか。　Apa yang telah terjadi?\n…ちょっと 気分が 悪いんです。　…Saya agak kurang enak badan."}
+  ]
+}

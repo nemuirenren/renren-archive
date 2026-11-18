@@ -1,0 +1,104 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 97,
+ "page_label": "147",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 49"
+  },
+  {
+   "level": 2,
+   "title": "IV. Keterangan Tatabahasa"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "[Catatan] いらっしゃいます, なさいます, くださいます, おっしゃいます adalah kata kerja kelompok I. Oleh karena itu, konjugasinya mengikuti baris ら kecuali Bentuk ます."
+  },
+  {
+   "type": "text",
+   "text": "⑥ ワット先生は テニスを なさいますか。\n…いいえ, なさらないと 思います。\nApakah Bapak Watt bermain tenis?\n…Tidak, saya kira tidak."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "(4) お K. Kerja (Bentukます) ください"
+  },
+  {
+   "type": "text",
+   "text": "Pola kalimat ini digunakan untuk menunjukkan rasa hormat pada waktu memohon dan mempersilakan kepada lawan bicara."
+  },
+  {
+   "type": "text",
+   "text": "⑦ あちらから お入り ください。\nSilahkan masuk dari sebelah sana."
+  },
+  {
+   "type": "text",
+   "text": "[Catatan] K. Kerja istimewa pada (3) tidak dapat digunakan pada pola kalimat ini. Tetapi sebagai kekecualian, めしあがります dapat menjadi おめしあがり ください dan ごらんに なります dapat menjadi ごらん ください."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "2) K. Benda, K. Sifat, K. Keterangan"
+  },
+  {
+   "type": "text",
+   "text": "Selain K. Kerja, terdapat そんけいご yang dibentuk dengan cara menambahkan お atau ご di depan sebagian K. Benda, K. Sifat dan K. Keterangan. Penggunaan お dan ご tergantung dari kata itu sendiri. Umumnya お digunakan pada kata yang berasal dari bahasa Jepang, sedangkan ご banyak digunakan pada kata yang berasal dari bahasa Cina."
+  },
+  {
+   "type": "table",
+   "text": "| Contoh kata yang berawalan お | Contoh kata yang berawalan ご |\n|---|---|\n| Contoh kata yang berawalan お | Contoh kata yang berawalan ご |\n| (K. Benda) お国, お名前, お仕事 | (K. Benda) ご家族, ご意見, ご旅行 |\n| (K. Sifatな) お元気, お上手, お暇 | (K. Sifatな) ご熱心, ご親切 |\n| (K. Sifatい) おだいじ, お若い | (K. Keterangan) ご自由に |"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "4. 敬語 dan Gaya Bahasa"
+  },
+  {
+   "type": "text",
+   "text": "けいご tidak hanya digunakan dalam Bentuk sopan, tetapi juga dalam Bentuk biasa. Kalau Bentuk biasa itu ditempatkan di akhir kalimat, maka kalimatnya akan berubah menjadi kalimat biasa. Gaya bahasa ini dapat digunakan saat membicarakan orang yang seharusnya dihormati antar teman akrab."
+  },
+  {
+   "type": "text",
+   "text": "⑧ 部長は 何時に いらっしゃる?\nKepala bagian akan datang jam berapa?"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "5. Penyeragaman tingkatan dalam kalimat"
+  },
+  {
+   "type": "text",
+   "text": "Pada waktu menggunakan けいご, kata-kata di dalam kalimat itu harus memiliki tingkatan kesopanan yang sejajar."
+  },
+  {
+   "type": "text",
+   "text": "⑨ 部長の 奥様も ごいっしょに ゴルフに 行かれます。\nIstri kepala bagian pun ikut pergi bermain golf bersama-sama."
+  },
+  {
+   "type": "text",
+   "text": "Pada ⑨, untuk menjaga kesejajaran level kesopanan, kata おくさん, いっしょに, dan いきます diganti dengan おくさま, ごいっしょに dan いかれます."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "6. ~まして"
+  },
+  {
+   "type": "text",
+   "text": "Pada waktu ingin berbicara dengan sopan, K. Kerja Bentukて dapat diubah menjadi K. Kerja (Bentukます)まして. ~まして sering digunakan di dalam kalimat yang mengandung けいご untuk mensejajarkan tingkat kesopanan."
+  },
+  {
+   "type": "text",
+   "text": "⑩ ハンスが ゆうべ 熱を 出しまして、けさも まだ 下がらないんです。\nHans tadi malam demam, dan sampai tadi pagi pun panasnya belum turun juga."
+  }
+ ]
+}

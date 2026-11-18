@@ -1,0 +1,112 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 101,
+ "page_label": "153",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 50"
+  },
+  {
+   "level": 2,
+   "title": "IV. Keterangan Tata Bahasa"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "2) K. Kerja merendahkan diri istimewa"
+  },
+  {
+   "type": "text",
+   "text": "(Lih. Buku Pelajaran Utama, Hal. 204, Pel. 50, 練習 A3.)"
+  },
+  {
+   "type": "text",
+   "text": "Ada K. Kerja yang sejak awal sudah mengandung arti merendahkan diri. Digunakan sebagai berikut:"
+  },
+  {
+   "type": "text",
+   "text": "(1) Apabila kegiatan pembicara ada hubungan dengan lawan bicara atau orang yang dibicarakan."
+  },
+  {
+   "type": "text",
+   "text": "⑤ 社長の 奥様に お目に かかりました。\nSaya bertemu dengan istri Kepala perusahaan."
+  },
+  {
+   "type": "text",
+   "text": "⑦ あしたは だれが 手伝いに 来て くれますか。\n…私が 伺います。\nSiapa besok yang mau datang membantu saya?\n…Saya akan datang."
+  },
+  {
+   "type": "text",
+   "text": "(2) Apabila kegiatan pembicara tidak ada hubungan dengan lawan bicara atau orang yang dibicarakan."
+  },
+  {
+   "type": "text",
+   "text": "⑧ ミラーと 申します。\nSaya bernama Miller."
+  },
+  {
+   "type": "text",
+   "text": "⑨ アメリカから 参りました。\nSaya datang dari Amerika."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "2. 丁寧語 (Kata Sopan)"
+  },
+  {
+   "type": "text",
+   "text": "丁寧語 adalah ungkapan sopan yang digunakan untuk menunjukkan rasa hormat pembicara kepada lawan bicara."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "1) ございます"
+  },
+  {
+   "type": "text",
+   "text": "ございます adalah kata sopan dari あります."
+  },
+  {
+   "type": "text",
+   "text": "⑩ 電話は 階段の 隣に ございます。\nTelepon ada di samping tangga."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "2) ～でございます"
+  },
+  {
+   "type": "text",
+   "text": "～でございます adalah kata sopan dari ～です."
+  },
+  {
+   "type": "text",
+   "text": "⑪ はい、IMCでございます。\n…パワー電気の シュミットですが、ミラーさん、お願いします。\nYa, ini IMC.\n…Saya adalah Smith dari Power Elektrik, dapatkah saya bicara dengan Bapak Miller?"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "3) よろしいでしょうか"
+  },
+  {
+   "type": "text",
+   "text": "よろしいでしょうか adalah ungkapan sopan dari いいですか."
+  },
+  {
+   "type": "text",
+   "text": "⑫ お飲み物は 何が よろしいでしょうか。\n…コーヒーを お願いします。\nBapak/Ibu mau minum apa?\n…Tolong, minta kopi."
+  },
+  {
+   "type": "text",
+   "text": "⑬ この パンフレットを いただいても よろしいでしょうか。\nBolehkah saya meminta pamflet ini?"
+  }
+ ]
+}

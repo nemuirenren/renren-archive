@@ -1,0 +1,82 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 17,
+ "page_label": "27",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 29"
+  },
+  {
+   "level": 2,
+   "title": "IV. Keterangan Tatabahasa"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "Untuk menyatakan “selesai” dapat juga menggunakan K. Kerja ました. Tetapi dengan menggunakan K. Kerja Bentuk て しまいました, kita dapat menekankan arti telah selesai. Oleh karena itu, seringkali kata keterangan もう atau ぜんぶ yang menekankan penyelesaian diletakkan sebelum K. Kerja Bentuk て しまいました. Ini merupakan keistimewaan dari pola kalimat ini, seperti terlihat dalam ⑤ yang menyatakan keadaan sebagai hasil suatu perbuatan, yaitu tidak ada anggur yang tersisa sama sekali, dan ⑥ menunjukkan perasaan lega pembicara. Untuk menyatakan suatu perbuatan yang akan selesai pada waktu yang akan datang, dipergunakan K. Kerja Bentuk て しまいます."
+  },
+  {
+   "type": "text",
+   "text": "⑦ 昼ごはんまでに レポートを 書いて しまいます。\nSaya akan menulis laporan ini sampai saat makan siang."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "3. K. Kerja Bentuk て しまいました"
+  },
+  {
+   "type": "text",
+   "text": "Ini adalah ungkapan untuk menyatakan suatu kebingungan atau penyesalan pembicara dalam situasi yang sulit."
+  },
+  {
+   "type": "text",
+   "text": "⑧ パスポートを なくして しまいました。　Saya telah kehilangan paspor."
+  },
+  {
+   "type": "text",
+   "text": "⑨ パソコンが 故障して しまいました。　Komputer saya rusak."
+  },
+  {
+   "type": "text",
+   "text": "Meskipun kejadian hilangnya paspor maupun rusaknya komputer dapat pula dinyatakan dalam bentuk lampau なくしました dan こしょうしました. Tetapi kalau digunakan ungkapan ～て しまいました seperti pada ⑧ dan ⑨, penyesalan dan kebingungan pembicara dapat lebih tergambarkan."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "4. ありました"
+  },
+  {
+   "type": "text",
+   "text": "⑩ [かばんが] ありましたよ。　Saya telah menemukan [tasnya], lho."
+  },
+  {
+   "type": "text",
+   "text": "ありました di sini mempunyai arti pembicara telah menemukan tas, bukan arti “di situ sebelumnya telah ada tas”."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "5. どこかで／どこかに"
+  },
+  {
+   "type": "text",
+   "text": "Seperti dalam penjelasan pada Pel. 13, kita dapat menghilangkan へ pada どこかへ dan を pada なに かを. Tetapi, で pada どこかで (⑪) atau に pada どこかに (⑫) tidak dapat dihilangkan."
+  },
+  {
+   "type": "text",
+   "text": "⑪ どこかで 財布を なくして しまいました。\nEntah di mana saya kehilangan dompet."
+  },
+  {
+   "type": "text",
+   "text": "⑫ どこかに 電話が ありませんか。\nApakah di sekitar sini ada telepon?"
+  }
+ ]
+}

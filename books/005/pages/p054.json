@@ -1,0 +1,20 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 54,
+  "page_label": "82",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 39"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Pelajaran 39"},
+    {"type": "heading", "level": 2, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| こたえます II [しつもんに～] | 答えます [質問に～] | menjawab [pertanyaan] |\n| たおれます II [ビルが～] | 倒れます | [gedung] roboh, tumbang |\n| やけます II [うちが～／パンが～／にくが～] | 焼けます [肉が～] | [rumah] terbakar; [roti] dipanggang; [daging] dipanggang |\n| とおります I [みちを～] | 通ります [道を～] | lewat [jalan] |\n| しにます I | 死にます | meninggal, mati |\n| びっくりします III |  | terkejut |\n| がっかりします III |  | kecewa |\n| あんしんします III | 安心します | bersenang hati, merasa lega |\n| ちこくします III | 遅刻します | masuk/datang terlambat |\n| そうたいします III | 早退します | pulang sebelum waktunya |\n| けんかします III |  | bertengkar, berkelahi |\n| りこんします III | 離婚します | bercerai |\n| ふくざつ[な] | 複雑[な] | rumit |\n| じゃま[な] | 邪魔[な] | gangguan |\n| きたない | 汚い | kotor |\n| うれしい |  | senang |\n| かなしい | 悲しい | sedih |\n| はずかしい | 恥ずかしい | malu |\n| じしん | 地震 | gempa bumi |\n| たいふう | 台風 | topan, taifun |\n| かじ | 火事 | kebakaran |\n| じこ | 事故 | kecelakaan |\n| [お]みあい | [お]見合い | pertemuan pertama perjodohan |"}
+  ]
+}

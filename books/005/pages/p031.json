@@ -1,0 +1,18 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 31,
+  "page_label": "47",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 33"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| どういう ～ |  | apa ～, bagaimana ～ |\n| もう |  | (tidak) ～ lagi (diikuti dengan bentuk negatif) |\n| あと ～ |  | tinggal ～ lagi |"},
+    {"type": "heading", "level": 4, "text": "◁会話▷"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| ちゅうしゃいはん | 駐車違反 | pelanggaran parkir |\n| そりゃあ |  | hai itu |\n| いない | ～以内 | dalam ～ |\n| けいさつ | 警察 | polisi |\n| ばっきん | 罰金 | denda |"},
+    {"type": "heading", "level": 4, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| でんぽう | 電報 | telegram |\n| ひとびと | 人々 | orang-orang |\n| きゅうよう | 急用 | urusan/tugas mendadak |\n| うちます [電報を～] I | 打ちます | mengirim [telegram] |\n| でんぽうだい | 電報代 | biaya telegram |\n| できるだけ |  | sedapat mungkin |\n| みじかく | 短く | dengan pendek/singkat |\n| また |  | dan |\n| たとえば | 例えば | misalnya, contohnya |\n| キトク | (危篤) | yang gawat, koma |\n| おもい びょうき | 重い 病気 | sakit keras/parah |\n| あす | 明日 | besok |\n| るす | 留守 | tidak ada di rumah |\n| るすばん | 留守番 | penjaga rumah (ketika pemilik rumah bepergian) |\n| [お]いわい | [お]祝い | perayaan |\n| なくなります I | 亡くなります | meninggal |\n| かなしみ | 悲しみ | kesedihan, rasa sedih |\n| りようします III | 利用します | memakai |"}
+  ]
+}

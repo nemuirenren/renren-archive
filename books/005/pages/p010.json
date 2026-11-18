@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 10,
+  "page_label": "16",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 28"},
+    {"level": 2, "title": "I. Kosa kata"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 1, "text": "Pelajaran 28"},
+    {"type": "heading", "level": 2, "text": "I. Kosa kata"},
+    {"type": "table", "text": "| 日本語 | Kanji | Indonesia |\n|---|---|---|\n| うれます II [パンが〜] | 売れます | [roti] terjual |\n| おどります I | 踊ります | menari |\n| かみます I |  | mengunyah, menggigit |\n| えらびます I | 選びます | memilih |\n| ちがいます I | 違います | berbeda |\n| かよいます I [だいがくに〜] | 通います [大学に〜] | pulang pergi [(setiap hari) ke universitas] |\n| メモします III |  | membuat catatan |\n| まじめ[な] |  | rajin, sungguh-sungguh |\n| ねっしん[な] | 熱心[な] | tekun |\n| やさしい | 優しい | lemah-lembut, baik hati |\n| えらい | 偉い | hebat |\n| ちょうど いい |  | pas benar, cocok betul |\n| しゅうかん | 習慣 | kebiasaan |\n| けいけん | 経験 | pengalaman |\n| ちから | 力 | kekuatan, tenaga |\n| にんき | 人気 | popularitas ([がくせいに] 〜が あります : popular [di antara mahasiswa]) |\n| かたち | 形 | bentuk |\n| いろ | 色 | warna |\n| あじ | 味 | rasa |\n| ガム |  | permen karet |\n| しなもの | 品物 | barang |\n| ねだん | 値段 | harga |\n| きゅうりょう | 給料 | gaji |\n| ボーナス |  | bonus |\n| ばんぐみ | 番組 | acara, program |\n| ドラマ |  | drama |\n| しょうせつ | 小説 | roman, novel |"}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "book": {
+    "id": "minna-no-nihongo-2-indo",
+    "title": "Minna no Nihongo II (edisi Indonesia)",
+    "lang": "id"
+  },
+  "page": 24,
+  "page_label": "38",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 31"},
+    {"level": 2, "title": "IV. Keterangan Tata Bahasa"}
+  ],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "IV. Keterangan Tata Bahasa"},
+    {"type": "heading", "level": 3, "text": "1. Bentuk maksud"},
+    {"type": "text", "text": "Cara pembentukan Bentuk maksud, seperti di bawah ini: (Lih. Buku Pelajaran Utama, Hal. 46, Pel. 31, 練習A1.)"},
+    {"type": "text", "text": "Kelompok I : Ganti suku kata sebelum ます dengan bunyi pada kolom お dan tambahkan う di belakangnya.\nKelompok II : Ganti ます dengan よう.\nKelompok III : きます menjadi こよう, dan します menjadi しょう."},
+    {"type": "heading", "level": 3, "text": "2. Cara menggunakan Bentuk maksud"},
+    {"type": "text", "text": "1) Digunakan dalam kalimat biasa.\nBentuk maksud digunakan dalam kalimat biasa, sebagai Bentuk biasa dari “ましょう”."},
+    {"type": "text", "text": "① ちょっと 休まない?\nMarilah kita beristirahat sebentar.\n…うん、休もう。\n…Ehm, ya, mari kita beristirahat."},
+    {"type": "text", "text": "② 少し 休もうか。\nBagaimanakah kalau beristirahat sebentar?"},
+    {"type": "text", "text": "③ 手伝おうか。\nBagaimanakah kalau saya bantu?"},
+    {"type": "text", "text": "[Catatan] Dalam kalimat tanya Bentuk biasa, biasanya か tidak tampak pada akhir kalimat, tetapi pada ② dan ③, walaupun kalimat tanya biasa, か tidak dihilangkan."},
+    {"type": "text", "text": "2) K. Kerja Bentuk maksud と 思っています\nPola kalimat ini digunakan saat pembicara menyatakan keinginannya pada lawan bicara. Maknanya kira-kira sama dengan K. Kerja Bentuk maksud とおもいます. Tetapi K. Kerja Bentuk maksud とおもっています mengandung arti bahwa pembicara telah menetapkan maksudnya sebelum berbicara dan sekarangpun maksud itu masih berlanjut."},
+    {"type": "text", "text": "④ 週末は 海に 行こうと 思っています。\nAkhir minggu saya bermaksud pergi ke pantai."},
+    {"type": "text", "text": "⑤ 今から 銀行へ 行こうと 思います。\nSekarang saya bermaksud pergi ke bank."},
+    {"type": "text", "text": "[Catatan] K. Kerja Bentuk maksud とおもっています dapat juga digunakan untuk menyatakan maksud orang ketiga."},
+    {"type": "text", "text": "⑥ 彼は 外国で 働こうと 思っています。\nDia bermaksud bekerja di luar negeri."},
+    {"type": "heading", "level": 3, "text": "3. K. Kerja Bentuk kamus つもりです / K. Kerja (Bentukない) ないつもりです"},
+    {"type": "text", "text": "K. Kerja Bentuk kamus つもりです digunakan untuk menyatakan keinginan pembicara untuk melakukan suatu perbuatan, sedangkan K. Kerja (Bentukない) ないつもりです digunakan untuk menyatakan bahwa pembicara tidak bermaksud melakukan sesuatu perbuatan."},
+    {"type": "text", "text": "⑦ 国へ 帰っても、柔道を 続ける つもりです。\nWalaupun saya pulang ke tanah air, saya bermaksud akan meneruskan latihan Judo."},
+    {"type": "text", "text": "⑧ あしたからは たばこを 吸わないつもりです。\nMulai besok saya bermaksud tidak merokok."}
+  ]
+}

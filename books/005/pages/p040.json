@@ -1,0 +1,30 @@
+{
+ "schema_version": "2.0",
+ "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+ "page": 40,
+ "page_label": "62",
+ "kind": "content",
+ "outline": [{"level": 1, "title": "Pelajaran 35"}, {"level": 2, "title": "IV. Keterangan Tatabahasa"}],
+ "blocks": [
+  {"type": "heading", "level": 2, "text": "IV. Keterangan Tatabahasa"},
+  {"type": "heading", "level": 3, "text": "1. Cara pembentukan Bentuk persyaratan (Lih. Buku Pelajaran Utama, Hal. 78, Pel. 35 練習A1.)"},
+  {"type": "text", "text": "K. Kerja Kelompok I : Ganti suku kata ます dengan bunyi pada kolom え lalu tambah dengan ば\nK. Kerja Kelompok II : Hilangkan ます dan tambah dengan れば\nK. Kerja Kelompok III : きます menjadi くれば, します menjadi すれば\nK. Sifat-i : Ganti い diakhir kata dengan ければ\nK. Sifat-na : Ganti な diakhir kata dengan なら\nK. Benda : Tambahkan なら"},
+  {"type": "heading", "level": 3, "text": "2. Bentuk persyaratan, ~"},
+  {"type": "text", "text": "Penggunaan Bentuk persyaratan pada awal kalimat menunjukkan suatu persyaratan yang diperlukan agar suatu kejadian dapat berlangsung. Apabila subjek pada kalimat awal dan akhir sama, maka K. Kerja yang menunjukkan keinginan tidak dapat digunakan secara bersamaan pada kalimat awal dan akhir."},
+  {"type": "heading", "level": 4, "text": "1) Pada waktu menyatakan syarat yang diperlukan agar suatu kejadian dapat tercapai."},
+  {"type": "text", "text": "① ボタンを押せば、窓が開きます。\nKalau tombol itu ditekan, jendelanya terbuka."},
+  {"type": "text", "text": "② 彼が行けば、わたしも行きます。\nKalau dia pergi, saya pun akan pergi."},
+  {"type": "text", "text": "③ いい天気なら、向こうに島が見えます。\nKalau cuaca bagus terlihat pulau di sana."},
+  {"type": "heading", "level": 4, "text": "2) Pada waktu menunjukkan pertimbangan pembicara atas perkataan lawan bicara atau keadaan pada saat itu."},
+  {"type": "text", "text": "④ ほかに意見がなければ、これで終わりましょう。\nKalau tidak ada pendapat yang lain, kita akhiri sampai di sini."},
+  {"type": "text", "text": "⑤ あしたまでにレポートを出さなければなりませんか。\n…無理なら、金曜日までに出して ください。\nHaruskah saya menyerahkan laporan sampai besok?\n…Kalau tidak bisa, silahkan menyerahkannya sampai hari Jumat."},
+  {"type": "heading", "level": 3, "text": "[Catatan] Ungkapan yang mirip yang telah dipelajari sampai pelajaran ini"},
+  {"type": "heading", "level": 4, "text": "[1] ~と (Pel. 23)"},
+  {"type": "text", "text": "~と digunakan untuk menunjukkan hasil yang tercapai secara wajar, kejadian yang dapat diduga atau kenyataan yang tidak dapat dihindari, yang muncul sebagai akibat dari perbuatan atau kejadian yang ditunjukkan di depan ~と. Tidak dapat digunakan pada pernyataan keinginan, pertimbangan, izin, kemauan atau permintaan dari pembicara."},
+  {"type": "text", "text": "⑥ ここを押すと、ドアが開きます。\nKalau ditekan di sini, pintunya akan terbuka."},
+  {"type": "text", "text": "Bentuk persyaratan ~ば pun dapat digunakan dalam situasi pada ⑥."},
+  {"type": "text", "text": "⑦ ここを押せば、ドアが開きます。\nKalau ditekan di sini, pintunya akan terbuka."},
+  {"type": "heading", "level": 4, "text": "[2] ~たら (Pel. 25)"},
+  {"type": "text", "text": "Sebagaimana telah dipelajari pada Pel. 25, pola kalimat ~たら memiliki dua cara penggunaan yaitu: 1) Menyatakan persyaratan, 2) Menyatakan suatu perbuatan atau keadaan yang terjadi di masa mendatang, jika suatu persyaratan telah terpenuhi."}
+ ]
+}

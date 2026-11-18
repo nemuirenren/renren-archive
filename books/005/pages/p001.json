@@ -1,0 +1,15 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 1,
+  "page_label": "",
+  "kind": "cover",
+  "outline": [],
+  "blocks": [
+    {"type": "heading", "level": 2, "text": "Minna no Nihongo II"},
+    {"type": "text", "text": "みんなの\n日本語"},
+    {"type": "text", "text": "初級II翻訳・文法解説インドネシア語版"},
+    {"type": "text", "text": "Terjemahan dan Keterangan Tatabahasa"},
+    {"type": "text", "text": "スリーエーネットワーク"}
+  ]
+}

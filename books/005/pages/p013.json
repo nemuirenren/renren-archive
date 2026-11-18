@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 13,
+  "page_label": "21",
+  "kind": "content",
+  "outline": [
+    {"level": 1, "title": "Pelajaran 28"},
+    {"level": 2, "title": "IV. Keterangan Tatabahasa"}
+  ],
+  "blocks": [
+    {"type": "text", "text": "⑧ 色も きれいだし、この 靴を 買います。\nSaya membeli sepatu ini, antara lain karena warnanya bagus."},
+    {"type": "text", "text": "Seperti terlihat pada ③, ⑥, ⑦ dan ⑧, K. Bantu も pun sering kali digunakan di dalam pola kalimat ini.\nIni merupakan ungkapan perasaan pembicara yang ingin menekankan adanya beberapa penilaian atau alasan yang lain."},
+    {"type": "heading", "level": 3, "text": "4. それに"},
+    {"type": "text", "text": "それに digunakan untuk menambahkan fakta atau kejadian pada fakta atau keadaan yang telah disebutkan."},
+    {"type": "text", "text": "⑨ どうして さくら大学を 選んだんですか。\n…さくら大学は、父が 出た 大学だし、いい 先生も 多いし、それに 家から 近いですから。\nMengapa Anda memilih Universitas Sakura?\n…Karena ayah saya adalah alumnus Universitas Sakura, ada banyak dosen yang bagus, dan lagi dekat dari rumah saya."},
+    {"type": "heading", "level": 3, "text": "5. それで"},
+    {"type": "text", "text": "それで adalah K. Sambung yang menunjukkan kalimat awal merupakan alasan atau penyebab dari kalimat akhir."},
+    {"type": "text", "text": "⑩ この レストランは 値段も 安いし、おいしいんです。\n…それで 人が 多いんですね。\nRestoran ini selain harganya murah, makanannya pun enak.\n…Oleh karena itu langganannya banyak, ya."},
+    {"type": "heading", "level": 3, "text": "6. よく この 喫茶店に 来るんですか"},
+    {"type": "text", "text": "Dalam kalimat ini (Lih. 練習 C2), K. Bantu へ yang menunjukkan tujuan digantikan oleh K. Bantu に yang menunjukkan titik tiba. Kata kerja seperti いきます, きます, かえります dan しゅっちょうします dapat digunakan dengan “tempatへ” maupun “tempatに”."}
+  ]
+}

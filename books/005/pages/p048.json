@@ -1,0 +1,103 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 48,
+ "page_label": "74",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 37"
+  },
+  {
+   "level": 2,
+   "title": "IV. Keterangan Tatabahasa"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "IV. Keterangan Tatabahasa"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "1. K. Kerja pasif"
+  },
+  {
+   "type": "text",
+   "text": "Cara pembentukan K. Kerja pasif (Lih. Buku Pelajaran Utama, Hal. 96, Pel. 37 練習A1.)"
+  },
+  {
+   "type": "table",
+   "text": "| | | K. Kerja pasif | K. Kerja pasif |\n|---|---|---|---|\n| | | Bentuk sopan | Bentuk biasa |\n| I | かきます | かかれます | かかれる |\n| II | ほめます | ほめられます | ほめられる |\n| III | きます | こられます | こられる |\n| | します | されます | される |"
+  },
+  {
+   "type": "text",
+   "text": "Seluruh K. Kerja pasif merupakan K. Kerja kelompok II, dan dapat berkonjugasi menjadi Bentuk kamus, Bentuk ない, Bentuk て dll.\nContoh: かかれる, かかれ(ない), かかれて"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "2. K. Benda1(orang ke1) は K. Benda2(orang ke2) に K. Kerja pasif"
+  },
+  {
+   "type": "text",
+   "text": "Pola kalimat ini digunakan untuk menyatakan aktivitas yang dilakukan oleh orang ke2 kepada orang ke1, yang dilihat dari sudut pandang orang ke1. Pokok kalimat yang menggunakan K. Kerja pasif ini adalah orang ke1, dan pelaku (orang ke2) ditunjukkan dengan K. Bantu に。"
+  },
+  {
+   "type": "text",
+   "text": "先生は わたしを 褒めました。　Guru memuji saya."
+  },
+  {
+   "type": "text",
+   "text": "① わたしは 先生に 褒められました。　Saya dipuji guru."
+  },
+  {
+   "type": "text",
+   "text": "母は わたしに 買い物を 頼みました。　Ibu meminta saya untuk berbelanja."
+  },
+  {
+   "type": "text",
+   "text": "② わたしは 母に 買い物を 頼まれました。　Saya diminta ibu untuk berbelanja."
+  },
+  {
+   "type": "text",
+   "text": "Di dalam kalimat ini, benda bergerak (binatang, mobil dll) juga dapat digunakan sebagai pengganti orang ke2."
+  },
+  {
+   "type": "text",
+   "text": "③ わたしは 犬に かまれました。　Saya digigit anjing."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "3. K. Benda1(orang ke1) は K. Benda2(orang ke2) に K. Benda3 を K. Kerja pasif"
+  },
+  {
+   "type": "text",
+   "text": "Pola kalimat ini menunjukkan bahwa orang ke2 melakukan sesuatu perbuatan terhadap K. Benda3 milik orang ke1. Pada kebanyakan kasus orang ke1 merasa terganggu oleh perbuatan tersebut."
+  },
+  {
+   "type": "text",
+   "text": "弟が わたしの パソコンを 壊しました。　Adik merusak komputer saya."
+  },
+  {
+   "type": "text",
+   "text": "④ わたしは 弟に パソコンを 壊されました。　Saya, komputernya dirusak oleh adik."
+  },
+  {
+   "type": "text",
+   "text": "Serupa dengan pola kalimat 2, ada juga pelaku pada pola kalimat ini bukan manusia melainkan benda bergerak."
+  },
+  {
+   "type": "text",
+   "text": "⑤ わたしは 犬に 手を かまれました。　Saya (merasa terganggu) karena tangan saya digigit anjing."
+  }
+ ]
+}

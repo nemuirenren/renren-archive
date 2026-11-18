@@ -1,0 +1,109 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "minna-no-nihongo-2-indo",
+  "title": "Minna no Nihongo II (edisi Indonesia)",
+  "lang": "id"
+ },
+ "page": 29,
+ "page_label": "45",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "Pelajaran 32"
+  },
+  {
+   "level": 2,
+   "title": "IV. Keterangan Tatabahasa"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "4. きっと／たぶん／もしかしたら"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "1) きっと"
+  },
+  {
+   "type": "text",
+   "text": "K. Keterangan ini digunakan jika pembicara merasa yakin dengan dugaannya. Ruang lingkup kepastiannya dari tingkat yang sangat tinggi (hampir pasti) sampai dengan setara dengan ～でしょう。"
+  },
+  {
+   "type": "text",
+   "text": "⑦ ミラーさんは きっと 来ます。\nSaya yakin Sdr. Miller pasti akan datang."
+  },
+  {
+   "type": "text",
+   "text": "⑧ あしたは きっと 雨でしょう。\nSaya yakin besok pasti akan hujan."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "2) たぶん"
+  },
+  {
+   "type": "text",
+   "text": "K. Keterangan ini merupakan pernyataan dugaan yang kepastiannya lebih rendah daripada きっと。Sering digunakan bersama ～でしょう dan juga ～と おもいます, seperti pada ⑩ (Pel. 21)."
+  },
+  {
+   "type": "text",
+   "text": "⑨ ミラーさんは 来るでしょうか。\nSdr. Miller, akan datang, bukan?\n…たぶん 来るでしょう。\n…Mungkin dia akan datang."
+  },
+  {
+   "type": "text",
+   "text": "⑩ 山田さんは この ニュースを たぶん 知らないと 思います。\nSaya kira Sdr. Yamada mungkin belum tahu berita ini."
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "3) もしかしたら"
+  },
+  {
+   "type": "text",
+   "text": "Biasa digunakan bersama ～かもしれません. Kalimat dengan もしかしたら menyatakan dugaan pembicara (pada ⑪ “tidak lulus”) bahwa kemungkinan terjadinya suatu hal lebih rendah."
+  },
+  {
+   "type": "text",
+   "text": "⑪ もしかしたら 3月に 卒業できないかも しれません。\nKemungkinannya saya tidak dapat lulus bulan Maret."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "5. 何か 心配な こと"
+  },
+  {
+   "type": "text",
+   "text": "⑫ 何か 心配な ことが あるんですか。\nAdakah hal yang membuat Anda merasa khawatir?"
+  },
+  {
+   "type": "text",
+   "text": "Seperti pada ⑫, yang digunakan adalah なにか しんぱいな こと, bukannya しんぱいな なにか. Contoh lainnya, なにか～もの, どこか～ところ, だれか～ひと, いつか～とき dll."
+  },
+  {
+   "type": "text",
+   "text": "⑬ スキーに 行きたいんですが, どこか いい 所 ありませんか。\n…Saya ingin pergi bermain ski, adakah tempat yang bagus?"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "6. K. Keterangan Bilangan で"
+  },
+  {
+   "type": "text",
+   "text": "で pada K. Keterangan Bilangan menyatakan batas uang, waktu, dan kuantitas yang diperlukan untuk suatu keadaan, perbuatan atau peristiwa yang terjadi."
+  },
+  {
+   "type": "text",
+   "text": "⑭ 駅まで 30分で 行けますか。\nDapatkah sampai di stasiun dalam waktu 30 menit?"
+  },
+  {
+   "type": "text",
+   "text": "⑮ 3万円で ビデオが 買えますか。\nDengan 30.000 yen, dapatkah membeli Video?"
+  }
+ ]
+}

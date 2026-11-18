@@ -1,0 +1,14 @@
+{
+  "schema_version": "2.0",
+  "book": {"id": "minna-no-nihongo-2-indo", "title": "Minna no Nihongo II (edisi Indonesia)", "lang": "id"},
+  "page": 79,
+  "page_label": "119",
+  "kind": "content",
+  "outline": [{"level": 1, "title": "Pelajaran 45"}, {"level": 2, "title": "会話"}, {"level": 2, "title": "読み物"}],
+  "blocks": [
+    {"type": "heading", "level": 3, "text": "会話"},
+    {"type": "table", "text": "| 日本語 | Indonesia |\n|---|---|\n| 係員（かかりいん） | petugas |\n| コース | lintasan |\n| スタート | start |\n| 一位 | ke – (urutan) |\n| 優勝します III（ゆうしょう） | menjadi juara |"},
+    {"type": "heading", "level": 3, "text": "読み物"},
+    {"type": "table", "text": "| 日本語 | Indonesia |\n|---|---|\n| 悩み（なやみ） | kesusahan, kesulitan |\n| 目覚まし[時計]（めざまし とけい） | jam beker |\n| 眠ります I（ねむります） | tidur |\n| 目が覚めます II（めがさめます） | terbangun |\n| 大学生（だいがくせい） | mahasiswa |\n| 回答（かいとう） | jawaban |\n| 鳴ります I（なります） | berbunyi |\n| セットします III | menyetel |\n| それでも | meskipun demikian |"}
+  ]
+}
