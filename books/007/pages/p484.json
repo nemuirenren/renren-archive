@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 484,
+ "page_label": "92",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "1番"
+  },
+  {
+   "type": "text",
+   "text": "1　家族で入れるおふろがあるから\n2　外に子どもが遊べる場所があるから\n3　料理がごうかでおいしいから\n4　大きな窓から見える景色がきれいだから"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "2番"
+  },
+  {
+   "type": "text",
+   "text": "1　子ども向けだったから\n2　大人と子どもに好かれる内容だったから\n3　テレビで人気だったから\n4　子どもが関心を持った映画だったから"
+  }
+ ]
+}

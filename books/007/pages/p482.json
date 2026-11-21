@@ -1,0 +1,36 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 482,
+ "page_label": "90",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "5番"
+  },
+  {
+   "type": "text",
+   "text": "1　新入生の交流会に参加する\n2　たいいくかんに机をならべる\n3　たいいくかんをそうじする\n4　ごみをたいいくかんの前に置く"
+  }
+ ]
+}

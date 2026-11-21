@@ -1,0 +1,43 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 3,
+ "page_label": "2",
+ "kind": "front_matter",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "JLPT N2について"
+  },
+  {
+   "type": "text",
+   "text": "◦JLPT N2とは\nJLPTはJapanese-Language Proﬁ ciency Testの略です。意味は「日本語能力試験」です。「日本語能力試験」は\n日本語を母語としない人の日本語能力を測定し、認定する試験です。N2のNは「Nihongo（日本語）」を表しま\nす。N2の2はレベルを表します。N5からN1まで5段階あり、N1が最も高いレベルです。"
+  },
+  {
+   "type": "text",
+   "text": "レベル 科目 時間\n言語知識（文字・語彙・文法）読解 105分\nN2 聴解 50分\n合計 155分"
+  },
+  {
+   "type": "text",
+   "text": "必要な能力\n読む能力\n一般的な話題について書かれた新聞や雑誌の記事、または論説文の内容を理解し、筆者の意図を理解する能力。\n聞く能力\n日常会話やニュースなどを聞いて、全体的な内容と大事なポイントを理解する能力。"
+  },
+  {
+   "type": "text",
+   "text": "参考：日本語能力試験公式ウェブサイト『N1〜N5：認定の目安』\n<https://www.jlpt.jp/about/levelsummary.html> （最終アクセス 2021年12月22日）\n◦JLPT N2の得点区分"
+  },
+  {
+   "type": "text",
+   "text": "レベル 得点区分 得点範囲"
+  },
+  {
+   "type": "text",
+   "text": "言語知識（文字・語彙・文法） 0〜60点\n読解 0〜60点\nN2\n聴解 0〜60点\n合計 0〜180点"
+  }
+ ]
+}

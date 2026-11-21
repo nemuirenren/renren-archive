@@ -1,0 +1,54 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 442,
+ "page_label": "50",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "3番"
+  },
+  {
+   "type": "text",
+   "text": "まず話を聞いてください。それから、二つの質問を聞いて、それぞれ問題用紙の1から4\nの中から、最もよいものを一つ選んでください。"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "質問1"
+  },
+  {
+   "type": "text",
+   "text": "1　川上公園\n2　岩谷公園\n3　ハート池公園\n4　アスパラ公園"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "質問2"
+  },
+  {
+   "type": "text",
+   "text": "1　川上公園\n2　岩谷公園\n3　ハート池公園\n4　アスパラ公園"
+  }
+ ]
+}

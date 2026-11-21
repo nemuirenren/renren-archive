@@ -1,0 +1,57 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 477,
+ "page_label": "85",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "問題用紙"
+  },
+  {
+   "type": "text",
+   "text": "Listening　N2　聴解　(50分)　02-00"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "注 意"
+  },
+  {
+   "type": "text",
+   "text": "Notes"
+  },
+  {
+   "type": "text",
+   "text": "1.　試験が始まるまで、この問題用紙を開けないでください。\nDo not open this question booklet until the test begins.\n2.　この問題用紙を持って帰ることはできません。\nDo not take this question booklet with you after the test.\n3.　受験番号と名前を下の欄に、受験票と同じように書いてください。\nWrite your examinee registration number and name clearly in each box below as\nwritten on your test voucher.\n4.　この問題用紙は、全部で12ページあります。\nThis question booklet has 12 pages.\n5.　この問題用紙にメモをとってもかまいません。\nYou may make notes in this question booklet."
+  },
+  {
+   "type": "text",
+   "text": "受験番号Examinee Registration Number"
+  },
+  {
+   "type": "text",
+   "text": "名前Name"
+  }
+ ]
+}

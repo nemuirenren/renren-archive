@@ -1,0 +1,44 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 356,
+ "page_label": "355",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "2 ポイント理解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "ばん 00-13"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "6番"
+  },
+  {
+   "type": "text",
+   "text": "1　大きい方のたいいくかんの建て直し\n2　ぜんぶの教室の工事\n3　一年生のにもつのいどう\n4　小さい方のたいいくかんの建て直し"
+  },
+  {
+   "type": "text",
+   "text": "①　②　③　④"
+  }
+ ]
+}

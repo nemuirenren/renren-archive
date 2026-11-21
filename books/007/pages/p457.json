@@ -1,0 +1,67 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 457,
+ "page_label": "65",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "言語知識（文字・語彙・文法）・読解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "48\n1　あるべきです\n3　あるからです"
+  },
+  {
+   "type": "text",
+   "text": "49\n1　では　 2　よって"
+  },
+  {
+   "type": "text",
+   "text": "50\n1　しまうものです\n3　しまうところです"
+  },
+  {
+   "type": "text",
+   "text": "51\n1　あんなような\n3　このようにして"
+  },
+  {
+   "type": "text",
+   "text": "52\n1　思わせてあげます\n3　思わせました"
+  },
+  {
+   "type": "text",
+   "text": "2　あったとします\n4　あるそうです\n2\n回"
+  },
+  {
+   "type": "text",
+   "text": "3　つまり　 4　したがって"
+  },
+  {
+   "type": "text",
+   "text": "2　しまうというわけです\n4　しまうわけにもいきません"
+  },
+  {
+   "type": "text",
+   "text": "2　どのように\n4　あのように"
+  },
+  {
+   "type": "text",
+   "text": "2　思わされました\n4　思わせてほしいです"
+  }
+ ]
+}

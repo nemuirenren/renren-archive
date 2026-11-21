@@ -1,0 +1,48 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 234,
+ "page_label": "233",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第2章 文法"
+  },
+  {
+   "level": 2,
+   "title": "2 N2文法135"
+  },
+  {
+   "level": 3,
+   "title": "10 状況・伝聞"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "伝聞"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "97 ～とか"
+  },
+  {
+   "type": "text",
+   "text": "意味 〜らしい\n接続 普通形＋とか\n普通形（ナAだ → な / Nだ → な）＋んだとか\n買ったとか / かわいいとか / 有名なんだとか"
+  },
+  {
+   "type": "text",
+   "text": "お隣の村上さん、宝くじが当たったとか。うらやましいなあ。\n1\n2 天気予報によると、関東は大雨だとか。"
+  },
+  {
+   "type": "text",
+   "text": "3 今年のオリンピックは、感染症の影響で中止だとか。"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 486,
+ "page_label": "94",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "5番"
+  },
+  {
+   "type": "text",
+   "text": "1　今日の午前中\n2　今日の午後\n3　あさっての午前中\n4　あさっての午後"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "6番"
+  },
+  {
+   "type": "text",
+   "text": "1　11時出発の普通席\n2　11時出発のリラックス席\n3　8時出発の普通席\n4　8時出発のリラックス席"
+  }
+ ]
+}

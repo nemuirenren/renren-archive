@@ -1,0 +1,53 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 129,
+ "page_label": "128",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第1章 文字語彙"
+  },
+  {
+   "level": 2,
+   "title": "2 練習問題"
+  },
+  {
+   "level": 3,
+   "title": "5 言い換え類義"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "5 言い換え類義"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "問題5 (例)　〇"
+  },
+  {
+   "type": "text",
+   "text": "問題5　 の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。"
+  },
+  {
+   "type": "text",
+   "text": "1 毎日のようにカップラーメンを食べているので飽きてしまった。\n1　いやになって 2　好きになって 3　やせて 4　太って"
+  },
+  {
+   "type": "text",
+   "text": "正答　1"
+  },
+  {
+   "type": "text",
+   "text": "問題5では、下線の言葉と最も意味が近い言葉を選ぶ問題が5問出題されます。つまり、日本語で語彙\nの意味を説明する問題です。"
+  }
+ ]
+}

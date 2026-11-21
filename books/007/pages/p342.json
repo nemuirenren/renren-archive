@@ -1,0 +1,44 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 342,
+ "page_label": "341",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "1 課題理解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "ばん 00-06"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "5番"
+  },
+  {
+   "type": "text",
+   "text": "1　入会費をはらう\n2　身分しょうめいしょをコピーする\n3　もうしこみしょに名前と住所を記入する\n4　がくせいしょうをていしゅつする"
+  },
+  {
+   "type": "text",
+   "text": "①　②　③　④"
+  }
+ ]
+}

@@ -60,6 +60,16 @@
       "source": "日本語の森N3.pdf",
       "path": "books/006/",
       "index": "books/006/index.json"
+    },
+    {
+      "id": "007",
+      "slug": "nihongo-no-mori-n2",
+      "title": "JLPT N2 この一冊で合格する 日本語の森",
+      "lang": "ja",
+      "pages": 519,
+      "source": "日本語の森N2.pdf",
+      "path": "books/007/",
+      "index": "books/007/index.json"
     }
   ]
 }

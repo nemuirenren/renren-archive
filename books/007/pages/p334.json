@@ -1,0 +1,54 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 334,
+ "page_label": "333",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "1 課題理解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "もんだい　00-01"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "問題1"
+  },
+  {
+   "type": "text",
+   "text": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、\n最もよいものを一つ選んでください。"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "1番 00-02"
+  },
+  {
+   "type": "text",
+   "text": "1　中古の自転車をもらう\n2　新しい自転車をお店で買う\n3　自転車をしゅうりしてもらう\n4　リサイクルショップに電話する"
+  },
+  {
+   "type": "text",
+   "text": "①　②　③　④"
+  }
+ ]
+}

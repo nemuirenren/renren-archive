@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 102,
+ "page_label": "101",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第1章 文字語彙"
+  },
+  {
+   "level": 2,
+   "title": "2 練習問題"
+  },
+  {
+   "level": 3,
+   "title": "2 表記"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "2 表記"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "問題2 (例)　〇"
+  },
+  {
+   "type": "text",
+   "text": "問題2　　　　の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。\n1 新しいきかくを考えた。\n1　企画 2　止画 3　企各 4　止各"
+  },
+  {
+   "type": "text",
+   "text": "正答　1\n問題2では、漢字の形を答える問題が5問出題されます。選択肢の中には、似ている形の漢字や読み方が\n同じで意味が違う漢字がよく出されます。きちんと漢字の形と意味を覚えましょう。"
+  }
+ ]
+}

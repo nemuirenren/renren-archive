@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 483,
+ "page_label": "91",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "問題2"
+  },
+  {
+   "type": "text",
+   "text": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでくだ\nさい。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよい\nものを一つ選んでください。\n2\n回"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "例"
+  },
+  {
+   "type": "text",
+   "text": "1　課題が多くて寝ていないから\n2　アルバイトがいそがしいから\n3　かれしに会えないから\n4　気分が悪いから"
+  }
+ ]
+}

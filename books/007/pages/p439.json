@@ -1,0 +1,40 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 439,
+ "page_label": "47",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "問題3"
+  },
+  {
+   "type": "text",
+   "text": "1\n問題3では、問題用紙に何もいんさつされていません。この問題は、全体としてどんな内 回\n容かを聞く問題です。話の前に質問はありません。まず話を聞いてください。それから、\n質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。"
+  },
+  {
+   "type": "text",
+   "text": "―メモ―"
+  }
+ ]
+}

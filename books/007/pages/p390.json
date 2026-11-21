@@ -1,0 +1,39 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 390,
+ "page_label": "389",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "5 統合理解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "質問1　女の人は、どこに行きたいですか。\n1　北海道\n2　長野県\n3　東京都\n4　京都府"
+  },
+  {
+   "type": "text",
+   "text": "質問2　男の人は、どこに行きたいですか。\n1　北海道\n2　長野県\n3　東京都\n4　京都府"
+  },
+  {
+   "type": "text",
+   "text": "正答 (質問1) 2 (質問2) 4"
+  }
+ ]
+}

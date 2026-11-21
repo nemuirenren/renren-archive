@@ -1,0 +1,49 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 360,
+ "page_label": "359",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "3 概要理解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "もんだい　00-14"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "問題3"
+  },
+  {
+   "type": "text",
+   "text": "問題3では、問題用紙に何もいんさつされていません。この問題は、全体としてどんな内容か\nを聞く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせ\nんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。"
+  },
+  {
+   "type": "text",
+   "text": "ーメモー"
+  },
+  {
+   "type": "text",
+   "text": "1 　①　②　③　④\n2 　①　②　③　④\n3 　①　②　③　④\n4 　①　②　③　④\n5 　①　②　③　④"
+  }
+ ]
+}

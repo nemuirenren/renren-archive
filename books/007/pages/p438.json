@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 438,
+ "page_label": "46",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "5番"
+  },
+  {
+   "type": "text",
+   "text": "1　こうぎをデジタル化する\n2　こくさいてきなきょういくをする\n3　ビジネスの授業を取り入れる\n4　様々な分野について勉強させる"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "6番"
+  },
+  {
+   "type": "text",
+   "text": "1　自転車が信号をむししたこと\n2　自動車が信号をむししたこと\n3　自転車が早いスピードで走っていたこと\n4　自動車がスピードをゆるめたこと"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n2",
+  "title": "JLPT N2 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 346,
+ "page_label": "345",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "2 ポイント理解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "もんだい　00-07"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "問題2"
+  },
+  {
+   "type": "text",
+   "text": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでくださ\nい。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを\n一つ選んでください。"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "1番 00-08"
+  },
+  {
+   "type": "text",
+   "text": "1　朝は個人練習で　昼から練習試合\n2　朝は個人練習だが　昼の練習試合は休み\n3　朝は練習試合だが　昼の練習試合は休み\n4　練習は無く　夜は3位を決める試合に出る"
+  },
+  {
+   "type": "text",
+   "text": "①　②　③　④"
+  }
+ ]
+}
