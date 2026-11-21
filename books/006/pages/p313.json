@@ -1,0 +1,66 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 313,
+ "page_label": "310",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "5 即時応答"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "1ばん"
+  },
+  {
+   "type": "text",
+   "text": "音声\n女：山田さん、今どこ？もうすぐ着きそう？"
+  },
+  {
+   "type": "text",
+   "text": "男：1　もう着くの？待ってて。\n2　そろそろ着くよ。\n3　着くらしいよ。"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "2ばん"
+  },
+  {
+   "type": "text",
+   "text": "音声\n女：あ、ダニエルさん、先週調子が悪くて学校を休んだんだって？"
+  },
+  {
+   "type": "text",
+   "text": "男：1　そうなの？大丈夫かな。\n2　ええ、悪いことはしてないよ。\n3　うん、でも普通のかぜだったよ。"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "3ばん"
+  },
+  {
+   "type": "text",
+   "text": "音声\n男：明日の10時に、山田さんの自宅に伺いたいのですが、よろしいでしょうか。"
+  },
+  {
+   "type": "text",
+   "text": "女：1　そちらに行くということですね。\n2　はい、お待ちしております。\n3　いいですよ、見てみますね。"
+  }
+ ]
+}

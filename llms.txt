@@ -51,6 +51,10 @@ peta: https://nemuirenren.github.io/renren-archive/books/004/index.html
 id · 101 halaman
 peta: https://nemuirenren.github.io/renren-archive/books/005/index.html
 
+### 006 — JLPT N3 この一冊で合格する 日本語の森
+ja · 441 halaman
+peta: https://nemuirenren.github.io/renren-archive/books/006/index.html
+
 ## Data mentah (untuk program, bukan untuk browsing)
 
 - Katalog: https://raw.githubusercontent.com/nemuirenren/renren-archive/main/index.json

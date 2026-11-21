@@ -1,0 +1,36 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 132,
+ "page_label": "129",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第2章 文法"
+  },
+  {
+   "level": 2,
+   "title": "2 N3文法110"
+  },
+  {
+   "level": 3,
+   "title": "1 理由・原因"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "09 ～によって①"
+  },
+  {
+   "type": "text",
+   "text": "意味 ～が理由で\n接続 N＋によって / により\n地震によって / 交通事故によって / 値上げにより\n1 病気の流行によって、生活や仕事の仕方が大きく変わった。\n2 この本と出会ったことによって、本を読む楽しさがわかった。\n3 大雪により、いくつかの道が通れなくなっている。"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 358,
+ "page_label": "41",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "3ばん"
+  },
+  {
+   "type": "text",
+   "text": "1　わりびきけんをくばったから\n2　食べものを外ではんばいしたから\n3　安くしたおかしをレジの前においたから\n4　子どもが好きなおもちゃをふやしたから"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "4ばん"
+  },
+  {
+   "type": "text",
+   "text": "1　かんきょうについてのニュースをよく見るから\n2　紙で作られたようきが売っているから\n3　持ってきたようきに　せんざいを入れられるから\n4　着なくなった服であたらしいしょうひんを作ったから"
+  }
+ ]
+}

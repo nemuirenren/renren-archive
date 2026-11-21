@@ -1,0 +1,31 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 7,
+ "page_label": "4",
+ "kind": "front_matter",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "本書の内容と活用方法"
+  },
+  {
+   "type": "text",
+   "text": "1.本書の内容"
+  },
+  {
+   "type": "text",
+   "text": "第1章 文字語彙\n「第1章 文字語彙」では、約2200個の単語を勉強します。その後、JLPT N3に出る5種類の問題を381問練習\nします。"
+  },
+  {
+   "type": "text",
+   "text": "第2章 文法\n「第2章 文法」では、JLPT N3に出る文法110個の意味・接続・例文を勉強します。\nここでは、意味が似ている文法同士がまとめられています。全部で13章あり、1章ごとにその章で学習した文\n法の練習問題があります。"
+  }
+ ]
+}

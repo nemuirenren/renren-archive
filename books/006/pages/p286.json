@@ -1,0 +1,49 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 286,
+ "page_label": "283",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "2 ポイント理解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "問題2"
+  },
+  {
+   "type": "text",
+   "text": "問題2では、まず質問を聞いてください。そのあと、問題用紙を見てください。読む時間があ\nります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つえらんでくだ\nさい。"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "1ばん"
+  },
+  {
+   "type": "text",
+   "text": "1　けがをしたこと\n2　眠れていないこと\n3　進学できなかったこと\n4　成績が悪くなったこと"
+  },
+  {
+   "type": "text",
+   "text": "①　②　③　④"
+  }
+ ]
+}

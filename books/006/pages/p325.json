@@ -1,0 +1,39 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 325,
+ "page_label": "8",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "言語知識（文字・語彙）"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "23 大雨が降っていたのに、（　　　）晴れて道が乾いた。\n1　早速 2　今にも　 3　突然 4　先に"
+  },
+  {
+   "type": "text",
+   "text": "24 高校時代の野球の（　　　）と一緒に、旅行に行く約束をした。\n1　個人 2　仲間 3　市民 4　若者"
+  },
+  {
+   "type": "text",
+   "text": "25 久しぶりに運動したので、体が（　　　）する。\n1　うろうろ　 2　いらいら　 3　きらきら　 4　ふらふら"
+  }
+ ]
+}

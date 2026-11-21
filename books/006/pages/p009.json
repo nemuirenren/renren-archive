@@ -1,0 +1,41 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 9,
+ "page_label": "6",
+ "kind": "toc",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "JLPTについて 2\n本書の内容と活用方法 4"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "第1章 文字語彙"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "語彙リスト"
+  },
+  {
+   "type": "text",
+   "text": "名詞（1文字） 10\n名詞（2文字） 12\n名詞（3文字） 26\n名詞（その他） 28\n動詞（一般） 31\n動詞（複合） 38\nい形容詞 39\nな形容詞 41\n副詞（一般） 43\n副詞（オノマトペ） 45\nカタカナ 46\n接続詞 49\n接頭語 50\n接尾語 51\n慣用表現 / その他 56\n敬語表現 56\n数え方 59"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "練習問題"
+  },
+  {
+   "type": "text",
+   "text": "漢字読み 61\n表記 71\n文脈規定 79\n言い換え類義 93\n用法 105"
+  }
+ ]
+}

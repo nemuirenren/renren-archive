@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 400,
+ "page_label": "83",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "2ばん"
+  },
+  {
+   "type": "text",
+   "text": "1　写真を大きくする\n2　わりびきけんをつける\n3　名前の色をかえる\n4　地図をくわえる"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "3ばん"
+  },
+  {
+   "type": "text",
+   "text": "1　はいたつをする\n2　レジをする\n3　ピザを作るじゅんばんを考える\n4　リストをせいりする"
+  }
+ ]
+}

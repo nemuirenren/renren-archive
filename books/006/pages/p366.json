@@ -1,0 +1,57 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 366,
+ "page_label": "49",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "言語知識（文字・語彙）"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "問題用紙"
+  },
+  {
+   "type": "text",
+   "text": "Language Knowledge (Vocabulary)　N3　げんごちしき　（もじ・ごい）　(30ぷん)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "ち ゅ う い"
+  },
+  {
+   "type": "text",
+   "text": "Notes"
+  },
+  {
+   "type": "text",
+   "text": "1.　しけんが　はじまるまで、この　もんだいようしを　あけないで\nください。\nDo not open this question booklet until the test begins.\n2.　この　もんだいようしを　もって　かえる　ことは　できません。\nDo not take this question booklet with you after the test.\n3.　じゅけんばんごうと　なまえを　したの　らんに、じゅけんひょうと\nおなじように　かいて　ください。\nWrite your examinee registration number and name clearly in each box below as\nwritten on your test voucher.\n4.　この　もんだいようしは、ぜんぶで　7ページ　あります。\nThis question booklet has 7 pages.\n5.　もんだいには　かいとうばんごうの 1 、 2 、 3 …が\nついて　います。 かいとうは、かいとうようしに　ある　おなじ\nばんごうの　ところに　マークして　ください。\nOne of the row numbers 1 , 2 , 3 … is given for each question. Mark your\nanswer in the same row of the answer sheet."
+  },
+  {
+   "type": "text",
+   "text": "じゅけんばんごうExaminee Registration Number"
+  },
+  {
+   "type": "text",
+   "text": "なまえName"
+  }
+ ]
+}

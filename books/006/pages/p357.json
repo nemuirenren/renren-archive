@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 357,
+ "page_label": "40",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "1ばん"
+  },
+  {
+   "type": "text",
+   "text": "1　ウイルスがりゅうこうしたため\n2　大きな仕事をさせてもらえるため\n3　英語の勉強をするため\n4　友達のけっこんしきに行くため"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "2ばん"
+  },
+  {
+   "type": "text",
+   "text": "1　けんこうでいるため\n2　体力をつけるため\n3　むかしより太ったため\n4　休みの日の楽しみを作るため"
+  }
+ ]
+}

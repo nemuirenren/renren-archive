@@ -1,0 +1,55 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 158,
+ "page_label": "155",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第2章 文法"
+  },
+  {
+   "level": 2,
+   "title": "2 N3文法110"
+  },
+  {
+   "level": 3,
+   "title": "4 逆接・否定"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "16\n1　ですが 2　つまり\n17\n1　直されていました\n3　直させてもらいました\n18\n1　できたら 2　できてから\n19\n1　使っていません\n3　使っているかもしれません\n20\n1　あの 2　この"
+  },
+  {
+   "type": "text",
+   "text": "正答 ⑯ 1　⑰ 1　⑱ 4　⑲ 3　⑳ 2"
+  },
+  {
+   "type": "text",
+   "text": "3　そのうえ　 4　そこで"
+  },
+  {
+   "type": "text",
+   "text": "2　直してみました\n4　直させてくれました"
+  },
+  {
+   "type": "text",
+   "text": "3　できるように 4　できていて"
+  },
+  {
+   "type": "text",
+   "text": "2　使ってみたいと思いません\n4　使えません"
+  },
+  {
+   "type": "text",
+   "text": "3　それらの　　 4　あれらの"
+  }
+ ]
+}

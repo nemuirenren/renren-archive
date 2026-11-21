@@ -1,0 +1,57 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 10,
+ "page_label": "7",
+ "kind": "toc",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "第2章 文法"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "解き方の説明 120"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "N3 文法 110"
+  },
+  {
+   "type": "text",
+   "text": "品詞と活用形の記号 123\n普通形と丁寧形 124\n接続の表し方の例 125\n1 理由・原因 126\n2 状況・変化 133\n3 立場・基準 140\n4 逆接・否定 147\n5 程度・強調・比較 156\n6 想像・予想 164\n7 とき・あいだ 170\n8 仮定・条件 178\n9 目的・方法・動作 186\n10 ルール・アドバイス 192\n11 並列 198\n12 その他 204\n13 敬語 212"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "文法索引 222"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "第3章 読解"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "読解を解くコツ 228"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "練習問題"
+  },
+  {
+   "type": "text",
+   "text": "内容理解（短文） 241\n内容理解（中文） 250\n内容理解（長文） 258\n情報検索 262"
+  }
+ ]
+}

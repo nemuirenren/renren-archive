@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 359,
+ "page_label": "42",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "5ばん"
+  },
+  {
+   "type": "text",
+   "text": "1　近所のお客さんが　りようしてくれない\n2　おとしよりの方にサービスを使ってもらえない\n3　休日の　はいたつが　おくれてしまう\n4　バイクで商品を　はいたつすることができない"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "6ばん"
+  },
+  {
+   "type": "text",
+   "text": "1　しゅうりやに　そうじきを持って行く\n2　そうじきを自分たちで直す\n3　ちゅうこの　そうじきを見に行く\n4　でんきやの　あたらしい　そうじきを買う"
+  }
+ ]
+}

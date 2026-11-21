@@ -1,0 +1,41 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 410,
+ "page_label": "93",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "3ばん"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "4ばん"
+  },
+  {
+   "type": "figure",
+   "text": "【図】3ばん：店で接客する女性店員（矢印）。4ばん：インタビューする女性（矢印）。"
+  }
+ ]
+}

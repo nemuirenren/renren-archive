@@ -50,6 +50,16 @@
       "source": "Minna no Nihongo 2 (Indonesia).pdf",
       "path": "books/005/",
       "index": "books/005/index.json"
+    },
+    {
+      "id": "006",
+      "slug": "nihongo-no-mori-n3",
+      "title": "JLPT N3 この一冊で合格する 日本語の森",
+      "lang": "ja",
+      "pages": 441,
+      "source": "日本語の森N3.pdf",
+      "path": "books/006/",
+      "index": "books/006/index.json"
     }
   ]
 }

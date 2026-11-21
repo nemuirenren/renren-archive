@@ -1,0 +1,67 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 382,
+ "page_label": "65",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "言語知識（文法）・読解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "19\n1　そんなに　 2　あちらの"
+  },
+  {
+   "type": "text",
+   "text": "20\n1　そこで　 2　しかし"
+  },
+  {
+   "type": "text",
+   "text": "21\n1　うちに　 2　ところ"
+  },
+  {
+   "type": "text",
+   "text": "22\n1　優勝することができたと思います\n3　優勝することになりました"
+  },
+  {
+   "type": "text",
+   "text": "23\n1　気付かされます\n3　気付きました"
+  },
+  {
+   "type": "text",
+   "text": "3　こんなに　 4　どちらの"
+  },
+  {
+   "type": "text",
+   "text": "3　すると　 4　だから"
+  },
+  {
+   "type": "text",
+   "text": "3　ばかり　 4　おきに"
+  },
+  {
+   "type": "text",
+   "text": "2　優勝するしかありませんでした\n4　優勝することができませんでした"
+  },
+  {
+   "type": "text",
+   "text": "2　気付かれます\n4　気付かれました"
+  }
+ ]
+}

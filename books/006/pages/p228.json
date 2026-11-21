@@ -1,0 +1,31 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 228,
+ "page_label": "225",
+ "kind": "index",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第2章 文法"
+  },
+  {
+   "level": 2,
+   "title": "2 N3文法110"
+  },
+  {
+   "level": 3,
+   "title": "13 敬語"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "ら\n〜られる 205p\nわ\n〜わけがない 150p\n〜わけじゃない → 〜わけではない 147p\n〜わけだ 128p\n〜わけではない 147p\nを\n〜をきっかけに 128p\n〜を中心として → 〜を中心に 141p\n〜を中心に 141p\nん\n〜んだから → 〜のだから 127p\n〜んですから → 〜のだから 127p"
+  }
+ ]
+}

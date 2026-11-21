@@ -1,0 +1,66 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 314,
+ "page_label": "311",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "5 即時応答"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "4ばん"
+  },
+  {
+   "type": "text",
+   "text": "音声\n男：ミンさん、無くしてた免許証、結局見つかったの？"
+  },
+  {
+   "type": "text",
+   "text": "女：1　いいえ、まだです。\n2　ええ、見つかったんですか。\n3　はい、免許を取りました。"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "5ばん"
+  },
+  {
+   "type": "text",
+   "text": "音声\n男：お客様、お預かりする荷物はありますでしょうか。"
+  },
+  {
+   "type": "text",
+   "text": "女：1　はい、持ちました。\n2　いえ、預けていません。\n3　これをお願いします。"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "6ばん"
+  },
+  {
+   "type": "text",
+   "text": "音声\n女：お客様、美術館で写真を撮るのはご遠慮ください。"
+  },
+  {
+   "type": "text",
+   "text": "男：1　はい、この写真が気に入りました。\n2　ぜひ、撮らせてください。\n3　すみません、気を付けます。"
+  }
+ ]
+}

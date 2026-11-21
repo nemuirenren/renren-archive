@@ -1,0 +1,43 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 100,
+ "page_label": "97",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第1章 文字語彙"
+  },
+  {
+   "level": 2,
+   "title": "2 練習問題"
+  },
+  {
+   "level": 3,
+   "title": "4 言い換え類義"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "8 会議をしんこうする。\n1　見学する　 2　準備する　 3　すすめる　 4　おわらせる"
+  },
+  {
+   "type": "text",
+   "text": "9 50メートルの橋を往復する。\n1　最後まで渡る　 2　行って戻る　 3　走る　 4　歩く"
+  },
+  {
+   "type": "text",
+   "text": "10 かんそうさせた食べ物には、栄養がある。\n1　やいた　 2　にた　 3　かわかした　 4　あたためた"
+  },
+  {
+   "type": "text",
+   "text": "正答 ① 2　② 1　③ 2　④ 3　⑤ 1　⑥ 4　⑦ 4　⑧ 3　⑨ 2　⑩ 3"
+  }
+ ]
+}

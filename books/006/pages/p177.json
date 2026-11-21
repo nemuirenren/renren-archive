@@ -1,0 +1,36 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 177,
+ "page_label": "174",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第2章 文法"
+  },
+  {
+   "level": 2,
+   "title": "2 N3文法110"
+  },
+  {
+   "level": 3,
+   "title": "7 とき・あいだ"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "64 ～うちに"
+  },
+  {
+   "type": "text",
+   "text": "意味 ～あいだに\n接続 普通形（ナAだ → な / Nだ → の）＋ うちに\nあたたかいうちに / 学生のうちに / 降らないうちに\n※Vたは使えない\n1 妻が帰ってこないうちに、家の掃除をして夜ご飯も作っておこう。\n2 学生のうちに、たくさんのことを経験してみたい。\n3 新鮮なうちに魚を食べよう。"
+  }
+ ]
+}

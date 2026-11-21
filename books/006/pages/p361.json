@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 361,
+ "page_label": "44",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "問題4"
+  },
+  {
+   "type": "text",
+   "text": "問題4では、えを見ながら質問を聞いてください。やじるし（➡︎）の人は何と言いますか。\n1から3の中から最もよいものを一つえらんでください。"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "れい"
+  },
+  {
+   "type": "figure",
+   "text": "【図】れい：花屋の店先で、長髪の女性客（矢印）が花を指さす。店員の女性が接客している。"
+  }
+ ]
+}

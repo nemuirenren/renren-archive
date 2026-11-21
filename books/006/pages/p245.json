@@ -1,0 +1,43 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 245,
+ "page_label": "242",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第3章 読解"
+  },
+  {
+   "level": 2,
+   "title": "2 練習問題"
+  },
+  {
+   "level": 3,
+   "title": "4 内容理解（短文）"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "解説"
+  },
+  {
+   "type": "text",
+   "text": "1 「私」は田中さんの何がおもしろいと言っていますか。"
+  },
+  {
+   "type": "text",
+   "text": "1　英語の単語の覚え方\n2　単語の意味の調べ方\n「調べ方」については言っていない\n3　英語で会話する方法\n「会話する方法」については言っていない\n4　単語テストの受け方\n「受け方」については言っていない"
+  },
+  {
+   "type": "text",
+   "text": "正答 1"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 63,
+ "page_label": "60",
+ "kind": "content",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第1章 文字語彙"
+  },
+  {
+   "level": 2,
+   "title": "2 練習問題"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "2 練習問題"
+  },
+  {
+   "type": "text",
+   "text": "問題の形式は、全部で5種類あります。（問題数は変動する可能性があります。）"
+  },
+  {
+   "type": "text",
+   "text": "問題1 漢字読み 8問\n問題2 表記 6問\n問題3 文脈規定 11問\n問題4 言い換え類義 5問\n問題5 用法 5問"
+  }
+ ]
+}

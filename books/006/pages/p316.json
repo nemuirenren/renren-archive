@@ -1,0 +1,36 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 316,
+ "page_label": "",
+ "kind": "colophon",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "JLPT N3この一冊で合格する"
+  },
+  {
+   "type": "text",
+   "text": "2021年8月1日　初版第一冊発行"
+  },
+  {
+   "type": "text",
+   "text": "著者 日本語の森　日本語研究所\n発行所 日本語の森　株式会社\nhttps://nihongonomori.com/"
+  },
+  {
+   "type": "text",
+   "text": "©Nihongonomori 2022 Printed in Japan\nISBN： 978-4-910337-12-8　C0081\n落丁・乱丁はお取替えいたします。許可なしに転載・複製することを禁じます。"
+  }
+ ]
+}

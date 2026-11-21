@@ -1,0 +1,76 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n3",
+  "title": "JLPT N3 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 333,
+ "page_label": "16",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "言語知識（文法）・読解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "問題2　つぎの文の　★　に入る最もよいものを、1・2・3・4から一つ"
+  },
+  {
+   "type": "text",
+   "text": "えらびなさい。"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "(問題例)"
+  },
+  {
+   "type": "text",
+   "text": "あそこで 　　　 　★　 　　　 　　　 は村本さんです。\n1　ラーメン 2　食べている 3　を 4　人"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "(解答のしかた)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "1. 正しい答えはこうなります。"
+  },
+  {
+   "type": "text",
+   "text": "あそこで 　　　　　 　　★　　 　　　　　 　　　　　 は村本さんです。\n1　ラーメン 3　を 2　食べている 4　人"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "2. 　★　に入る番号を解答用紙にマークします。"
+  },
+  {
+   "type": "text",
+   "text": "(解答用紙) 例 　①　②　❸　④"
+  },
+  {
+   "type": "text",
+   "text": "14 　　　 　　　 　★　 　　　 、テストでいい点数が取れた。\n1　兄が　 2　おかげで　 3　勉強を　 4　教えてくれた"
+  },
+  {
+   "type": "text",
+   "text": "15 （結婚式場で）\n矢野「木村さんの結婚式、素晴らしかったね。」\n北野「うん。彼が 　　　 　★　 　　　 　　　 なんて見たことがないよ。」\n1　幸せそうに　 2　あんなに 　 3　笑っている　 4　顔"
+  }
+ ]
+}
