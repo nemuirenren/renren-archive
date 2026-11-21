@@ -1,0 +1,40 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 341,
+ "page_label": "339",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "1 課題理解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "2番"
+  },
+  {
+   "type": "text",
+   "text": "1　保険に申し込む\n2　道具をレンタルする\n3　家にある道具を確認する\n4　健康診断書を持ってくる"
+  },
+  {
+   "type": "text",
+   "text": "①　②　③　④"
+  }
+ ]
+}

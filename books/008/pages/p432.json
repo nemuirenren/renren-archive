@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 432,
+ "page_label": "46",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "1番"
+  },
+  {
+   "type": "text",
+   "text": "1　現地でキャンプ用品を調達すること\n2　自然の中で読書をすること\n3　スーパーでその土地の食材を買うこと\n4　普段の生活から離れて一人で星を見ること"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "2番"
+  },
+  {
+   "type": "text",
+   "text": "1　レコードは聴ける音楽の量が少ないから\n2　曲名を忘れたときにすぐに検索できるから\n3　カラオケに行ったときに本当に便利だから\n4　いい曲に出会う機会が増えたから"
+  }
+ ]
+}

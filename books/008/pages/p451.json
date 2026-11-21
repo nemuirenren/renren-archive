@@ -1,0 +1,71 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 451,
+ "page_label": "65",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "言語知識（文字・語彙・文法）・読解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "（注３）後ろ指を指される：非難される"
+  },
+  {
+   "type": "text",
+   "text": "41\n1　受からないまでも\n3　受かるまでもなく"
+  },
+  {
+   "type": "text",
+   "text": "42\n1　すなわち　 2　それゆえ"
+  },
+  {
+   "type": "text",
+   "text": "43\n1　驚くにあたらない\n3　驚きを余儀なくされた"
+  },
+  {
+   "type": "text",
+   "text": "44\n1　とか　 2　だに"
+  },
+  {
+   "type": "text",
+   "text": "45\n1　ならいざ知らず\n3　にとどまらず"
+  },
+  {
+   "type": "text",
+   "text": "2　受からんがため\n4　受かるべからず"
+  },
+  {
+   "type": "text",
+   "text": "3　もはや　 4　しかしながら"
+  },
+  {
+   "type": "text",
+   "text": "2　驚くにすぎなかった\n4　驚きを禁じ得なかった"
+  },
+  {
+   "type": "text",
+   "text": "3　ながら　 4　すら"
+  },
+  {
+   "type": "text",
+   "text": "2　にかかわらず\n4　にあたらず"
+  }
+ ]
+}

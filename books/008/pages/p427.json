@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 427,
+ "page_label": "41",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "問題1"
+  },
+  {
+   "type": "text",
+   "text": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中か\nら、最もよいものを一つ選んでください。"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "例"
+  },
+  {
+   "type": "text",
+   "text": "1　デザイン案を見せる\n2　文字の色を変える\n3　発売日を書く\n4　打ち合わせの日を決める"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 5,
+ "page_label": "3",
+ "kind": "front_matter",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "◦JLPT N1に合格するために必要な点数\nレベル 得点区分 得点範囲"
+  },
+  {
+   "type": "text",
+   "text": "言語知識（文字・語彙・文法） 19点以上\n読解 19点以上\nN1\n聴解 19点以上\n合計 100点以上"
+  },
+  {
+   "type": "text",
+   "text": "※一つの科目でも点数が19点未満だと、不合格"
+  },
+  {
+   "type": "text",
+   "text": "◦JLPT N1に合格するために必要な点数の例\nレベル 得点区分 得点範囲"
+  },
+  {
+   "type": "text",
+   "text": "言語知識（文字・語彙・文法） 50 / 60（19点以上）\n読解 20 / 60（19点以上）\nN1\n聴解 40 / 60（19点以上）\n合計 110 / 180（100点以上）\n参考：日本語能力試験公式ウェブサイト『得点区分・合否判定・結果通知』\n<https://www.jlpt.jp/guideline/results.html> （最終アクセス 2021年7月15日）"
+  }
+ ]
+}

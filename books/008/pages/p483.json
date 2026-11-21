@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 483,
+ "page_label": "97",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "3番"
+  },
+  {
+   "type": "text",
+   "text": "1　妻が海外転勤に反対していること\n2　妻を残して海外に行くこと\n3　妻と両親の関係が良くないこと\n4　妻がベトナムに住むこと"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "4番"
+  },
+  {
+   "type": "text",
+   "text": "1　自分で学費を稼ぐべきだった\n2　もっと書いたり話したりする訓練をするべきだった\n3　オンラインコースを受講するべきだった\n4　単語や文型をもっと覚えるべきだった"
+  }
+ ]
+}

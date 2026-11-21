@@ -1,0 +1,43 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 4,
+ "page_label": "2",
+ "kind": "front_matter",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "JLPT N1について"
+  },
+  {
+   "type": "text",
+   "text": "◦JLPT N1とは\nJLPTはJapanese-Language Proficiency Testの略です。意味は「日本語能力試験」です。「日本語能力試験」は\n日本語を母語としない人の日本語能力を測定し、認定する試験です。N1のNは「Nihongo（日本語）」を表しま\nす。N1の1はレベルを表します。N5からN1まで5段階あり、N1が最も高いレベルです。"
+  },
+  {
+   "type": "text",
+   "text": "レベル 科目 時間\n言語知識（文字・語彙・文法）読解 110分\nN1 聴解 60分\n合計 170分"
+  },
+  {
+   "type": "text",
+   "text": "必要な能力\n読む能力\n約10分で1000文字のN1以下の語彙を使った論理的な文章の内容を理解し、筆者の意図を把握する能力。\n聞く能力\nN1以下の語彙を使った会話、ニュース、講義などを聞いて全体的な内容と大事なポイントを理解する能力。"
+  },
+  {
+   "type": "text",
+   "text": "参考：日本語能力試験公式ウェブサイト『N1〜N5：認定の目安』\n<https://www.jlpt.jp/about/levelsummary.html> （最終アクセス 2021年7月15日）\n◦JLPT N1の得点区分"
+  },
+  {
+   "type": "text",
+   "text": "レベル 得点区分 得点範囲"
+  },
+  {
+   "type": "text",
+   "text": "言語知識（文字・語彙・文法） 0〜60点\n読解 0〜60点\nN1\n聴解 0〜60点\n合計 0〜180点"
+  }
+ ]
+}

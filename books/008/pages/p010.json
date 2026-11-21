@@ -1,0 +1,75 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 10,
+ "page_label": "8",
+ "kind": "toc",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "第3章 読解"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "読解を解くコツ 282"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "練習問題"
+  },
+  {
+   "type": "text",
+   "text": "内容理解（短文） 295\n内容理解（中文） 304\n内容理解（長文） 316\n統合理解（AB問題） 322\n主張理解（長文） 325\n情報検索 330"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "第4章 聴解"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "解き方の説明と練習問題 334"
+  },
+  {
+   "type": "text",
+   "text": "課題理解 334\nポイント理解 345\n概要理解 355\n即時応答 362\n統合理解 366"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "付録1 模擬試験"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "模擬試験第1回"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "模擬試験第2回"
+  },
+  {
+   "type": "text",
+   "text": "正答表 / 採点表 / 聴解スクリプト / マークシート"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "text": "付録2 聴解音声"
+  },
+  {
+   "type": "text",
+   "text": "QRコードから練習問題と模擬試験の音声をダウンロードできます。"
+  }
+ ]
+}

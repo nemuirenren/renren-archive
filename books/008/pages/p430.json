@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 430,
+ "page_label": "44",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "5番"
+  },
+  {
+   "type": "text",
+   "text": "1　進路別でクラスを分ける\n2　勉強法について助言をもらう\n3　大学の情報を集める\n4　現在の授業に意見する"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "6番"
+  },
+  {
+   "type": "text",
+   "text": "1　参加者の人数を確定する\n2　会場の予約をキャンセルする\n3　新しい会場を予約する\n4　余興に必要な設備を確認する"
+  }
+ ]
+}

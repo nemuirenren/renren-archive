@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 428,
+ "page_label": "42",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "1番"
+  },
+  {
+   "type": "text",
+   "text": "1　身分証明書を持ってくる\n2　健康保険証を提示する\n3　本カード発行料金を払う\n4　仮カードのデータを取り消す"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "2番"
+  },
+  {
+   "type": "text",
+   "text": "1　撮影場所の相談を広告会社とする\n2　広告会社にタレントの変更を依頼する\n3　新商品の販売を延期する\n4　出演者の人数を減らす"
+  }
+ ]
+}

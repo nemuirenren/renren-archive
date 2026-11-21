@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 434,
+ "page_label": "48",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "5番"
+  },
+  {
+   "type": "text",
+   "text": "1　主人公が家族のために 戦う物語\n2　仲間と一緒に旅をする物語\n3　正義の味方が地球を救う物語\n4　謎の生命体が地球を侵略する物語"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "6番"
+  },
+  {
+   "type": "text",
+   "text": "1　支社にデータを共有する\n2　インターネット上に データを保管する\n3　データ流出の対策をする\n4　様々な視点からデータ管理について 考える"
+  }
+ ]
+}

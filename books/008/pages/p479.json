@@ -1,0 +1,45 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 479,
+ "page_label": "93",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第2回"
+  },
+  {
+   "level": 3,
+   "title": "聴解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "3番"
+  },
+  {
+   "type": "text",
+   "text": "1　ゼミ生と先生とビデオ会議を始める\n2　メールで進行役の台本を確認する\n3　会計士資格試験の勉強にもどる\n4　模擬授業の進行の練習をする"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "4番"
+  },
+  {
+   "type": "text",
+   "text": "1　タブレットでお客様の電話番号を探す\n2　お客様に電話する\n3　配送伝票を書き直す\n4　お客様の家に直接配達する"
+  }
+ ]
+}

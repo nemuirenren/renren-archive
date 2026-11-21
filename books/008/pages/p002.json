@@ -1,0 +1,29 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 2,
+ "page_label": "",
+ "kind": "front_matter",
+ "outline": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "日本語の森LINE登録でプレゼント！"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "*"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "text": "*nihongonomori.comでもLINEの友達登録ができます。"
+  }
+ ]
+}

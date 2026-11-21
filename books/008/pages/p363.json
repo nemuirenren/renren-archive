@@ -1,0 +1,31 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 363,
+ "page_label": "",
+ "kind": "blank",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "3 概要理解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "(blank page)"
+  }
+ ]
+}

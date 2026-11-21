@@ -1,0 +1,67 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 401,
+ "page_label": "15",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "付録 模擬試験"
+  },
+  {
+   "level": 2,
+   "title": "模擬試験 第1回"
+  },
+  {
+   "level": 3,
+   "title": "言語知識（文字・語彙・文法）・読解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "text",
+   "text": "41\n1　はともかく\n3　にひきかえ"
+  },
+  {
+   "type": "text",
+   "text": "42\n1　が最後　 2　手前"
+  },
+  {
+   "type": "text",
+   "text": "43\n1　しまいが\n3　しようものなら"
+  },
+  {
+   "type": "text",
+   "text": "44\n1　しまえばそれまでだ\n3　しまうほどではない"
+  },
+  {
+   "type": "text",
+   "text": "45\n1　につけ　 2　とあっては"
+  },
+  {
+   "type": "text",
+   "text": "2　といえども\n4　もさることながら"
+  },
+  {
+   "type": "text",
+   "text": "3　や否や　 4　に先立ち"
+  },
+  {
+   "type": "text",
+   "text": "2　しようが\n4　しようにも"
+  },
+  {
+   "type": "text",
+   "text": "2　しまってはいられない\n4　しまってはかなわない"
+  },
+  {
+   "type": "text",
+   "text": "3　こととて　 4　がゆえに"
+  }
+ ]
+}

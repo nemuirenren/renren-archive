@@ -1,0 +1,49 @@
+{
+ "schema_version": "2.0",
+ "book": {
+  "id": "nihongo-no-mori-n1",
+  "title": "JLPT N1 この一冊で合格する 日本語の森",
+  "lang": "ja"
+ },
+ "page": 349,
+ "page_label": "347",
+ "kind": "exercise",
+ "outline": [
+  {
+   "level": 1,
+   "title": "第4章 聴解"
+  },
+  {
+   "level": 2,
+   "title": "1 解き方の説明と練習問題"
+  },
+  {
+   "level": 3,
+   "title": "2 ポイント理解"
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "問題2"
+  },
+  {
+   "type": "text",
+   "text": "問題2では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでくださ\nい。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを\n一つ選んでください。"
+  },
+  {
+   "type": "heading",
+   "level": 4,
+   "text": "1番"
+  },
+  {
+   "type": "text",
+   "text": "1　見た目が美しいから\n2　緑茶に合うから\n3　紅茶に合うから\n4　値段が安いから"
+  },
+  {
+   "type": "text",
+   "text": "①　②　③　④"
+  }
+ ]
+}
